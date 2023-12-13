@@ -1,0 +1,32 @@
+# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[KOW]
+BackSprite = -4,0
+FrontSprite = -1,26
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[AUROCHS]
+BackSprite = -9,0
+FrontSprite = 2,22
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[BODIVINE]
+BackSprite = 1,0
+FrontSprite = 2,11
+ShadowX = 0
+ShadowSize = 3
+#-------------------------------
+[PHILSOPHER]
+BackSprite = -6,0
+FrontSprite = 4,19
+ShadowX = 0
+ShadowSize = 1
+#-------------------------------
+[CRITTER]
+BackSprite = -3,0
+FrontSprite = 2,20
+ShadowX = 0
+ShadowSize = 1
+#-------------------------------

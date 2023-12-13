@@ -1,0 +1,143 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[BEAUTY,1Liam]
+LoseText = ...
+Pokemon = KOW,1
+Pokemon = KOW,1
+#-------------------------------
+[CAMPER,2Liam]
+LoseText = ...
+Pokemon = CRITTER,1
+Pokemon = CRITTER,2
+Pokemon = CRITTER,3
+#-------------------------------
+[LEADER_Brock,Brock]
+LoseText = ...
+Pokemon = DRAGONE,10
+Pokemon = BIRSON,10
+Pokemon = ORLIHEPERH,10
+#-------------------------------
+[CAMPER,3Liam]
+LoseText = ...
+Pokemon = POOKOOCHUE,5
+#-------------------------------
+[BOSSBOY,4Liam]
+LoseText = ...
+Pokemon = BIRBABY,4
+Pokemon = CRITTER,4
+Pokemon = SEVLE,6
+#-------------------------------
+[BOXMAN,box man 1]
+LoseText = ...
+Pokemon = PHILSOPHER,1
+Pokemon = KOW,1
+Pokemon = KOKCROACH,1
+#-------------------------------
+[CAMPER,FAN 1]
+LoseText = ...
+Pokemon = LOSTFACES,5
+Pokemon = CROOKEDMAN,7
+#-------------------------------
+[CAMPER,FAN 2]
+LoseText = ...
+Pokemon = LOSTFACES,5
+Pokemon = LOSTFACES,5
+Pokemon = LOSTFACES,5
+Pokemon = LOSTFACES,5
+#-------------------------------
+[CAMPER,FAN 3]
+LoseText = ...
+Pokemon = DUK,12
+#-------------------------------
+[CAMPER,FAN 4]
+LoseText = ...
+Pokemon = BRAINWORM,9
+#-------------------------------
+[CAMPER,GAS BOSS]
+LoseText = ...
+Pokemon = LOSTFACES,12
+Pokemon = GYRO,13
+#-------------------------------
+[CAMPER,FAN R2]
+LoseText = ...
+Pokemon = DUK,10
+Pokemon = DUK,10
+Pokemon = DUK,10
+Pokemon = DUK,10
+Pokemon = DUK,10
+Pokemon = DUK,10
+#-------------------------------
+[BEAUTY,1Lim]
+LoseText = ...
+Pokemon = CHUMCHUM,1
+#-------------------------------
+[BEAUTY,lam]
+LoseText = ...
+Pokemon = THELAMB,14
+#-------------------------------
+[BEAUTY,lalm]
+LoseText = ...
+Pokemon = SMUNKY,11
+Pokemon = SMUNKY,11
+Pokemon = LITTELPONE,11
+#-------------------------------
+[BEAUTY,lallm]
+LoseText = ...
+Pokemon = CHUTE,15
+#-------------------------------
+[BEAUTY,lalllm]
+LoseText = ...
+Pokemon = POOKOOCHUE,20
+#-------------------------------
+[BEAUTY,lallllm]
+LoseText = ...
+Pokemon = PARALLAXPEPR,20
+#-------------------------------
+[BEAUTY,lallllm]
+LoseText = ...
+Pokemon = CROOKEDMAN,20
+#-------------------------------
+[BEAUTY,lallllllllm]
+LoseText = ...
+Pokemon = DRAG,15
+Pokemon = BIRSON,15
+#-------------------------------
+[BEAUTY,maw]
+LoseText = ...
+Pokemon = MAW,9
+Pokemon = MAW,10
+Pokemon = MAW,11
+Pokemon = MAW,12
+Pokemon = MAW,13
+Pokemon = MAW,14
+#-------------------------------
+[BEAUTY,ID]
+LoseText = ...
+Pokemon = THELAMB,13
+Pokemon = THELAMB,13
+Pokemon = DRAG,15
+#-------------------------------
+[BEAUTY,BBBBBB]
+LoseText = ...
+Pokemon = BATY,14
+Pokemon = BARY,14
+Pokemon = BIRBABY,14
+#-------------------------------
+[BEAUTY,grave]
+LoseText = ...
+Pokemon = LOSTFACES,15
+Pokemon = GRAVENIMAGE,19
+#-------------------------------
+[BEAUTY,ggrave]
+LoseText = ...
+Pokemon = TEEHEE,21
+#-------------------------------
+[BEAUTY,gggrave]
+LoseText = ...
+Pokemon = CHUTE,19
+Pokemon = SPRIG,19
+#-------------------------------
+[BEAUTY,gggggrave]
+LoseText = ...
+Pokemon = CHUTE,19
+Pokemon = SPRIG,19

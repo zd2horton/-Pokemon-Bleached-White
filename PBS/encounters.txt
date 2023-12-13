@@ -1,0 +1,269 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[001] # Lappet Town
+Water,2
+    60,CRITTER,14,19
+    30,CRITTER,15,16
+    10,CRITTER,14,16
+OldRod
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+GoodRod
+    60,CRITTER,17,18
+    20,CRITTER,15,16
+    20,CRITTER,16,19
+SuperRod
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+#-------------------------------
+[007] # Route 7
+Land,21
+     30,DUK,9,11
+     20,SMUNKY,9,11
+     20,THELAMB,9,11
+     30,LITTELPONE,9,11
+LandNight,21
+   40,DEATH,100,100
+PokeRadar,20
+   40,DEATH,100,100
+#-------------------------------
+[005] # Route 1
+Land,21
+     40,BIRBABY,1,4
+     40,CRITTER,1,4
+     20,LOSTFACES,4,
+LandNight,21
+      40,DEATH,100,100
+#-------------------------------
+[021] # Rock Cave 1F
+Land,21
+     30,BATY,12,15
+    20,LOSTFACES,12,15
+    20,GRAVENIMAGE,12,15
+    15,BARY,12,15
+    10,MAW,12,15
+    5,BOBYS,17
+Water,2
+     40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+OldRod
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+GoodRod
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+SuperRod
+     40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+HeadbuttLow
+     40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+PokeRadar,10
+     40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+#-------------------------------
+[028] # Natural Park
+Land,21
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+LandNight,21
+     40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+LandMorning,21
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+BugContest,21
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+PokeRadar,40
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+#-------------------------------
+[031] # Route 3
+Land,21
+     40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+Water,2
+     40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+OldRod
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+GoodRod
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+SuperRod
+     40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+#-------------------------------
+[034] # Ice Cave
+Cave,5
+   40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+#-------------------------------
+[039] # Route 4
+Land,21
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+#-------------------------------
+[041] # Route 5
+Land,21
+     40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+#-------------------------------
+[044] # Route 6
+Land,21
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+#-------------------------------
+[047] # Route 7
+Land,21
+     40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+RockSmash,50
+     40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+#-------------------------------
+[049] # Rock Cave 1F
+Cave,5
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+#-------------------------------
+[050] # Rock Cave B1F
+Cave,5
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+#-------------------------------
+[051] # Dungeon
+Cave,5
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+#-------------------------------
+[066] # Safari Zone outside
+Land,21
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+#-------------------------------
+[068] # Safari Zone
+Land,21
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+Water,2
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+OldRod
+     40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+GoodRod
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+SuperRod
+     40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+#-------------------------------
+[069] # Route 8
+Land,21
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+Water,2
+     40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+OldRod
+     40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+GoodRod
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+SuperRod
+     40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+#-------------------------------
+[070] # Route 8 underwater
+Land,21
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+#-------------------------------
+[075] # Tiall Region
+Land,21
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
