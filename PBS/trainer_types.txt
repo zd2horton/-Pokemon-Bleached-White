@@ -160,6 +160,7 @@ BaseMoney = 48
 Name = Super Nerd
 Gender = Male
 BaseMoney = 48
+BattleBGM = more battel kick back og
 #-------------------------------
 [TAMER]
 Name = Tamer
@@ -180,6 +181,7 @@ BaseMoney = 24
 Name = Camper
 Gender = Male
 BaseMoney = 16
+BattleBGM = more battel kick back og
 #-------------------------------
 [PICNICKER]
 Name = Picnicker
