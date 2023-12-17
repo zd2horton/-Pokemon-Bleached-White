@@ -1855,7 +1855,118 @@ Habitat = Forest
 Category = Worm
 Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
 Generation = 1
-
-
-
-
+#-------------------------------
+[THEWORD]
+Name = THE WORD
+Types = FANTASY,FANTASY
+BaseStats = 150,10,150,10,150,80
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 39
+EVs = HP,1
+CatchRate = 350
+Happiness = 50
+Abilities = MAGICBOUNCE
+Moves = 1,DRACONICBREATH,1,ICARUS,1,CORAGE,9,FATE,13,DREAM,18,INVULNERABLE,23,PHOENIX,28,DRACONICBREATH
+EggGroups = Bug
+HatchSteps = 3840
+Height = 0.3
+Weight = 2.9
+Color = Green
+Shape = Insectoid
+Habitat = Forest
+Category = Worm
+Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Generation = 1
+#-------------------------------
+[KART]
+Name = KART
+Types = TRUCK
+BaseStats = 210,50,50,50,50,50
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 39
+EVs = HP,1
+CatchRate = 255
+Happiness = 50
+Abilities = ANALYTIC
+Moves = 1,SELFWORTH,1,CORAGE,1,TRAPPED,9,BATONPASS,13,SHEDFLESH,18,EMPATHY,23,OPTIMIST,28,MINDLESS,31,BATONPASS,39,BURNINGRUBBER,45,ITSCOMING,50,CRASHTIME
+EggGroups = Bug
+HatchSteps = 3840
+Height = 0.3
+Weight = 2.9
+Color = Green
+Shape = Insectoid
+Habitat = Forest
+Category = Worm
+Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Generation = 1
+#-------------------------------
+[ALADY]
+Name = A LADY
+Types = EMPTY,TERROR
+BaseStats = 90,60,100,50,40,80
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 39
+EVs = HP,1
+CatchRate = 255
+Happiness = 50
+Abilities = SHADOWTAG
+Moves = 1,RAGE,1,HAUNTING,1,PHOBIA,9,FALLING,13,NEST,18,SILENT,23,HALFLIFE,28,MINDLESS,31,CREEPING,39,DARKTHOUGHTS,45,BLOODSUCKER,50,TRUEFEAR
+EggGroups = Bug
+HatchSteps = 3840
+Height = 0.3
+Weight = 2.9
+Color = Green
+Shape = Insectoid
+Habitat = Forest
+Category = Worm
+Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Generation = 1
+#-------------------------------
+[AAARRR]
+Name = AAARRR
+Types = BEAST,EMPTY
+BaseStats =40,140,100,130,10,80
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 39
+EVs = HP,1
+CatchRate = 255
+Happiness = 50
+Abilities = GLUTTONY
+Moves = 1,CHASE,1,HAUNTING,1,CHASE,9,LOSS,13,VACUUM,18,CORAGE,23,RAGE,28,MINDLESS,31,DEVOUR,39,PEAKPREDATOR,45,JAWS,50,HOLLOWOUT
+EggGroups = Bug
+HatchSteps = 3840
+Height = 0.3
+Weight = 2.9
+Color = Green
+Shape = Insectoid
+Habitat = Forest
+Category = Worm
+Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Generation = 1
+#-------------------------------
+[OJABOBO:D]
+Name = OJABOBO:D
+Types = FANTASY,CLOWN
+BaseStats =120,60,80,120,60,40
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 39
+EVs = HP,1
+CatchRate = 255
+Happiness = 50
+Abilities = SIMPLE
+Moves = 1,FATE,1,MAGICNUMBER,1,BATONPASS,9,MIMIC
+EggGroups = Bug
+HatchSteps = 3840
+Height = 0.3
+Weight = 2.9
+Color = Green
+Shape = Insectoid
+Habitat = Forest
+Category = Worm
+Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Generation = 1

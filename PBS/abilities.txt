@@ -32,7 +32,7 @@ Name = Prankster
 Description = Gives priority to a status move.
 #-------------------------------
 [MAGICBOUNCE]
-Name = Magic Bounce
+Name = Magic 
 Description = Reflects status-changing moves.
 #-------------------------------
 [MOXIE]
@@ -116,7 +116,7 @@ Name = Color Change
 Description = Changes the Pokémon's type to the foe's move.
 #-------------------------------
 [SHADOWTAG]
-Name = Shadow Tag
+Name = Paralysing fear
 Description = Prevents the foe from escaping.
 #-------------------------------
 [TRACE]
