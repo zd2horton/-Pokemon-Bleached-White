@@ -409,8 +409,8 @@ Flags = PokeBall
 Description = A good, high-performance Ball that provides a higher Pokémon catch rate than a standard Poké Ball.
 #-------------------------------
 [POKEBALL]
-Name = Poké Ball
-NamePlural = Poké Balls
+Name = Kreature Kube
+NamePlural = Kreature Kubes
 Pocket = 3
 Price = 200
 BattleUse = OnFoe
