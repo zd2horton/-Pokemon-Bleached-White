@@ -455,7 +455,7 @@ Type = EMPTY
 Category = Physical
 Power = 250
 Accuracy = 100
-TotalPP = 5
+TotalPP = 1
 Target = AllNearOthers
 FunctionCode = UserFaintsExplosive
 Flags = CanProtect,CanMirrorMove
@@ -1017,3 +1017,47 @@ TotalPP = 1
 Target = User
 Description = 
 #-------------------------------
+[COOLSTICK]
+Name = COOLSTICK
+Type = FANTASY
+Category = Physical
+Power = 200
+Accuracy = 100
+TotalPP = 1
+Target = NearOther
+Flags = Contact,CanProtect,CanMirrorMove
+Description = 
+#-------------------------------
+[SCARYSTICK]
+Name = SCARYSTICK
+Type = TERROR
+Category = Physical
+Power = 200
+Accuracy = 100
+TotalPP = 1
+Target = NearOther
+Flags = Contact,CanProtect,CanMirrorMove
+Description = 
+#-------------------------------
+[SMARTSTICK]
+Name = SMARTSTICK
+Type = REASON
+Category = Physical
+Power = 200
+Accuracy = 100
+TotalPP = 1
+Target = NearOther
+Flags = Contact,CanProtect,CanMirrorMove
+Description = A
+#-------------------------------
+[LEAVEAWHOLE]
+Name = Leave a whole
+Type = EMPTY
+Category = Physical
+Power = 300
+Accuracy = 100
+TotalPP = 1
+Target = AllNearOthers
+FunctionCode = UserFaintsExplosive
+Flags = CanProtect,CanMirrorMove
+Description = T
