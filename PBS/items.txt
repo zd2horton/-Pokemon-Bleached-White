@@ -589,3 +589,12 @@ Price = 10000
 FieldUse = OnPokemon
 Flags = Fling_30
 Description = A nutritious drink for Pokémon. It raises the base Speed stat of a single Pokémon.
+#-------------------------------
+[BLUESHARD]
+Name = TRASH
+NamePlural = TRASHYS 
+Pocket = 1
+Price = 10
+Flags = Fling_30
+Description = A small blue shard. It appears to be from some sort of implement made long ago.
+#-------------------------------
