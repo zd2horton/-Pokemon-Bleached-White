@@ -1,7 +1,0 @@
-Name       = In-Battle Type & Stat Icons
-Version    = 1.0.0
-Essentials = 20, 21, 20.1, 21.1
-Website    = https://www.youtube.com/watch?v=dQw4w9WgXcQ
-Conflicts  = Elite Battle: DX
-Conflicts  = Focus Meter System
-Credits    = Golisopod User
