@@ -267,3 +267,11 @@ Land,21
     40,CRITTER,16,19
     15,CRITTER,15,18
     5,CRITTER,15,17
+#-------------------------------
+[102] # Oak's Room
+Land,15
+    40,FLATMAN,1,4
+    5,TEEHEE,4,25
+RockSmash,50
+    80,KOKCROACH,5
+    50,TOMUCHFACES,5
