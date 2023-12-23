@@ -2111,7 +2111,30 @@ Category = Worm
 Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
 Generation = 1
 Evolutions = ROSEPOSEY,Level,35
-
+#-------------------------------
+[LLABOTOMY]
+Name = llabotomy
+Types = BEAST,EMPTY
+BaseStats =100,200,200,50,10,80
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 39
+EVs = HP,1
+CatchRate = 255
+Happiness = 50
+Abilities = SLOWSTART
+Moves = 1,MINDLESS
+EggGroups = Bug
+HatchSteps = 3840
+Height = 0.3
+Weight = 2.9
+Color = Green
+Shape = Insectoid
+Habitat = Forest
+Category = Worm
+Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Generation = 1
+Evolutions = BIGSTAR,Level,25
 
 
 
