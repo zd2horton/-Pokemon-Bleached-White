@@ -483,7 +483,6 @@ FunctionCode = StartSlowerBattlersActFirst
 Flags = CanMirrorMove
 Description = The user creates a bizarre area in which slower Pokémon get to move first for five turns.
 #-------------------------------
-[WONDERROOM]
 [ENTROPY]
 Name = Entropy
 Type = EMPTY
