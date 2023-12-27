@@ -522,9 +522,9 @@ Price = 20
 Flags = Berry,Fling_10,NaturalGift_GRASS_80
 Description = Weakens a supereffective Grass-type attack against the holding Pokémon.
 #-------------------------------
-[TERRORBERRY]
-Name = TERROR Berry
-NamePlural = Yache Berries
+[CHRISTMASCAKE]
+Name = Christmas Cake
+NamePlural = Christmas Cakes
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_ICE_80
@@ -540,20 +540,22 @@ Flags = Berry,Fling_10,NaturalGift_GRASS_100
 Description = If held by a Pokémon, it raises its Attack stat in a pinch.
 #-------------------------------
 [GANLONBERRY]
-Name = Ganlon Berry
-NamePlural = Ganlon Berries
+Name = Let’s Get This Bread
+NamePlural = Let’s Get This Breads
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_ICE_100
-Description = If held by a Pokémon, it raises its Defense stat in a pinch.
+Description = uup defensebelow a certain HP threshold. 
+Why does it do this? Fuck you, I don’t need to explain myself to you.
 #-------------------------------
 [SALACBERRY]
-Name = Salac Berry
-NamePlural = Salac Berries
+Name = Sparkle Cake
+NamePlural = Sparkle Cakes
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_FIGHTING_100
-Description = If held by a Pokémon, it raises its Speed stat in a pinch.
+Description = up speed when below  HP threshold. All glitter, all diabetes, all fun.
+
 #-------------------------------
 [PETAYABERRY]
 Name = Petaya Berry
@@ -570,6 +572,14 @@ Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_GROUND_100
 Description = If held by a Pokémon, it raises its Sp. Def stat in a pinch.
+#-------------------------------
+[STARFBERRY]
+Name = Starf Berry
+NamePlural = Starf Berries
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_PSYCHIC_100
+Description = If held by a Pokémon, it sharply raises one of its stats in a pinch.
 #-------------------------------
 [SHINYCHARM]
 Name = Shiny Charm
