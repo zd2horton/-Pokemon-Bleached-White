@@ -545,8 +545,7 @@ NamePlural = Let’s Get This Breads
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_ICE_100
-Description = uup defensebelow a certain HP threshold. 
-Why does it do this? Fuck you, I don’t need to explain myself to you.
+Description = uup defensebelow a certain HP threshold. Why does it do this? Fuck you, I don’t need to explain myself to you.
 #-------------------------------
 [SALACBERRY]
 Name = Sparkle Cake

@@ -2158,32 +2158,3 @@ Category = Worm
 Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
 Generation = 1
 Evolutions = BIGSTAR,Level,25
-#-------------------------------
-[LOJA]
-Name = LOJA
-Types = TERROR,REASON
-BaseStats =10,150,30,150,150,30
-GenderRatio = Female50Percent
-GrowthRate = Medium
-BaseExp = 39
-EVs = HP,1
-CatchRate = 255
-Happiness = 50
-Abilities = ILLUSION
-Moves = 1,TENSION,1,BLINDSIDE,1,BRAINBREAK,9,UNDERTHEBED,13,DARKTHOUGHTS,18,LIEINWAIT,23,CRUELREMARK,28,PERFECTPLAN,31,MIMIC,39,DECOY,45,WORRYSEED,50,BODYHORROR
-EggGroups = Bug
-HatchSteps = 3840
-Height = 0.3
-Weight = 2.9
-Color = Green
-Shape = Insectoid
-Habitat = Forest
-Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
-Generation = 1
-Evolutions = BIGSTAR,Level,25
-
-
-
-
-
