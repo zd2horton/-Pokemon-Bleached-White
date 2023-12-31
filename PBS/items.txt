@@ -194,7 +194,7 @@ SellPrice = 2000
 BPPrice = 25
 Flags = Fling_30
 Description = A Pokémon held item that boosts a move used consecutively. Its effect is reset if another move is used.
-
+#-------------------------------
 [FOCUSBAND]
 Name = Focus Band
 NamePlural = Focus Bands
@@ -225,40 +225,6 @@ Pocket = 1
 Price = 11000
 Flags = Fling_10
 Description = An item to be held by a Pokémon. It doubles a battle's prize money if the holding Pokémon joins in.
-
-#-------------------------------
-[BEASTGEM]
-Name = BEASTGem
-NamePlural = BEASTGem
-Pocket = 1
-Price = 4000
-Flags = TypeGem
-Description = A gem with an essence of water. When held, it strengthens the power of a Water-type move only once.
-#-------------------------------
-[EMPTYGEM]
-Name = EMPTYGem
-NamePlural = EMPTYGem
-Pocket = 1
-Price = 4000
-Flags = TypeGem
-Description = A gem with an essence of electricity. When held, it strengthens the power of an Electric-type move only once.
-#-------------------------------
-[FANTASYGEM]
-Name = FANTASYGem
-NamePlural = FANTASYGem
-Pocket = 1
-Price = 4000
-Flags = TypeGem
-Description = A gem with an essence of nature. When held, it strengthens the power of a Grass-type move only once.
-#-------------------------------
-[TERRORGEM]
-Name = TERRORGem
-NamePlural = TERRORGem
-Pocket = 1
-Price = 4000
-Flags = TypeGem
-Description = A gem with an essence of ice. When held, it strengthens the power of an Ice-type move only once.
-
 #-------------------------------
 [HPUP]
 Name = HP Up
@@ -490,96 +456,6 @@ BattleUse = OnFoe
 Flags = PokeBall
 Description = A Poké Ball for catching Pokémon that are a lower level than your own
 #-------------------------------
-[REASONBERRY]
-Name = REASON Berry
-NamePlural = Occa Berries
-Pocket = 5
-Price = 20
-Flags = Berry,Fling_10,NaturalGift_FIRE_80
-Description = Weakens a supereffective Fire-type attack against the holding Pokémon.
-#-------------------------------
-[BEASTBERRY]
-Name = BEAST Berry
-NamePlural = Passho Berries
-Pocket = 5
-Price = 20
-Flags = Berry,Fling_10,NaturalGift_WATER_80
-Description = Weakens a supereffective Water-type attack against the holding Pokémon.
-#-------------------------------
-[EMPTYBERRY]
-Name = EMPTY Berry
-NamePlural = Wacan Berries
-Pocket = 5
-Price = 20
-Flags = Berry,Fling_10,NaturalGift_ELECTRIC_80
-Description = Weakens a supereffective Electric-type attack against the holding Pokémon.
-#-------------------------------
-[FANTASYBERRY]
-Name = FANTASY Berry
-NamePlural = Rindo Berries
-Pocket = 5
-Price = 20
-Flags = Berry,Fling_10,NaturalGift_GRASS_80
-Description = Weakens a supereffective Grass-type attack against the holding Pokémon.
-#-------------------------------
-[CHRISTMASCAKE]
-Name = Christmas Cake
-NamePlural = Christmas Cakes
-Pocket = 5
-Price = 20
-Flags = Berry,Fling_10,NaturalGift_ICE_80
-Description = Weakens a supereffective Ice-type attack against the holding Pokémon
-
-#-------------------------------
-[LIECHIBERRY]
-Name = Liechi Berry
-NamePlural = Liechi Berries
-Pocket = 5
-Price = 20
-Flags = Berry,Fling_10,NaturalGift_GRASS_100
-Description = If held by a Pokémon, it raises its Attack stat in a pinch.
-#-------------------------------
-[GANLONBERRY]
-Name = Let’s Get This Bread
-NamePlural = Let’s Get This Breads
-Pocket = 5
-Price = 20
-Flags = Berry,Fling_10,NaturalGift_ICE_100
-Description = uup defensebelow a certain HP threshold. Why does it do this? Fuck you, I don’t need to explain myself to you.
-#-------------------------------
-[SALACBERRY]
-Name = Sparkle Cake
-NamePlural = Sparkle Cakes
-Pocket = 5
-Price = 20
-Flags = Berry,Fling_10,NaturalGift_FIGHTING_100
-Description = up speed when below  HP threshold. All glitter, all diabetes, all fun.
-
-#-------------------------------
-[PETAYABERRY]
-Name = Petaya Berry
-NamePlural = Petaya Berries
-Pocket = 5
-Price = 20
-Flags = Berry,Fling_10,NaturalGift_POISON_100
-Description = If held by a Pokémon, it raises its Sp. Atk stat in a pinch.
-#-------------------------------
-[APICOTBERRY]
-Name = Apicot Berry
-NamePlural = Apicot Berries
-Pocket = 5
-Price = 20
-Flags = Berry,Fling_10,NaturalGift_GROUND_100
-Description = If held by a Pokémon, it raises its Sp. Def stat in a pinch.
-#-------------------------------
-[STARFBERRY]
-Name = Starf Berry
-NamePlural = Starf Berries
-Pocket = 5
-Price = 20
-Flags = Berry,Fling_10,NaturalGift_PSYCHIC_100
-Description = If held by a Pokémon, it sharply raises one of its stats in a pinch.
-#-------------------------------
 [SHINYCHARM]
 Name = Shiny Charm
 NamePlural = Shiny Charms
@@ -607,3 +483,142 @@ Price = 10
 Flags = Fling_30
 Description = A small blue shard. It appears to be from some sort of implement made long ago.
 #-------------------------------
+[REDRUMPROAST]
+Name = Red Rump Roast
+NamePlural = Red Rump Roasts
+Pocket = 5
+Price = 20
+Flags = Fling_20,Berry,NaturalGift_BEAST_100
+Description = Increases attack when below a certain HP threshold. There’s nothing like sinking your teeth into a freshly cooked ass to get the blood pumping.
+#-------------------------------
+[GETBREAD]
+Name = Let’s Get This Bread
+NamePlural = Let's Get These Breads
+Pocket = 5
+Price = 20
+Flags = Fling_5,Berry,NaturalGift_REASON_100
+Description = Increases defense when below a certain HP threshold. Why does it do this? Fuck you, I don’t need to explain myself to you.
+#-------------------------------
+[SPARKLECAKE]
+Name = Sparkle Cake
+NamePlural = Sparkle Cakes
+PortionName = Sparkle Cake Slice
+PortionNamePlural = Sparkle Cake Slices
+Pocket = 5
+Price = 20
+Flags = Fling_10,Berry,NaturalGift_FANTASY_100
+Description = Increases speed when below a certain HP threshold. All glitter, all diabetes, all fun.
+#-------------------------------
+[SWEETCREPE]
+Name = Sweetly Sweetened Crepe (NOT A PANCAKE. FUCK YOU, IT’S A CREPE.)
+NamePlural = Sweetly Sweetened Crepes (NOT PANCAKES. FUCK YOU, THEY'RE CREPES.)
+Pocket = 5
+Price = 20
+Flags = Fling_5,Berry,NaturalGift_TERROR_100
+Description = Increases special attack when below a certain HP threshold. My wife divorced me over this. It was worth it. Fuck you Jennifer, go eat pancakes with Steve.
+#-------------------------------
+[BOXOFDELIGHT]
+Name = Box of Delight
+NamePlural = Boxes of Delight
+Pocket = 5
+Price = 20
+Flags = Fling_10,Berry,NaturalGift_EMPTY_100
+Description = Increases special defense when below a certain HP threshold. I don’t know what it is, but it tastes good. So just eat it, okay?
+#-------------------------------
+[CUPOFRED]
+Name = A Cup of Red
+NamePlural = Cups of Red
+Pocket = 1
+Price = 50
+Flags = Fling_20,TypeGem
+Description = Increases the damage of one Terror attack. To sip on the life fluids of a living thing can give one great strength. God, I love grape juice.
+#-------------------------------
+[CHRISTMASCAKE]
+Name = Christmas Cake
+NamePlural = Christmas Cake Slices
+PortionName = Christmas Cake Slice
+PortionNamePlural = Christmas Cake Slices
+Pocket = 5
+Price = 40
+Flags = Fling_10,Berry,NaturalGift_TERROR_80
+Description = Decreases the damage of one Terror attack. The memories of winters gone soothes your soul.
+#-------------------------------
+[DELISHFISHDISH]
+Name = Delish Fish Dish
+NamePlural = Delish Fish Dishes
+Pocket = 1
+Price = 50
+Flags = Fling_30,TypeGem
+Description = Increases the damage of one Beast attack. Being able to look into its helpless dead eyes makes it all the sweeter.
+#-------------------------------
+[FISHDISH]
+Name = “Fish” Dish?
+NamePlural = “Fish” Dishes?
+Pocket = 5
+Price = 40
+Flags = Fling_15,Berry,NaturalGift_BEAST_80
+Description = Decreases the damage of one Beast attack. The smell of this revolts you on a primal level.
+#-------------------------------
+[MYSTERYJUICE]
+Name = Mystery Juice
+NamePlural = Mystery Juice Bottles
+Pocket = 1
+Price = 50
+Flags = Fling_20,TypeGem
+Description = Increases the damage of one Fantasy attack. What’s in it? Who knows! All that matters is that it sparkles.
+#-------------------------------
+[CUTELILBISCUIT]
+Name = Cute Lil’ Biscuit
+NamePlural = Cute Lil’ Biscuits
+Pocket = 5
+Price = 40
+Flags = Fling_0,Berry,NaturalGift_FANTASY_80
+Description = Decreases the damage of one Fantasy attack. There are plenty of wondrous fantasies in this world, but a cup of tea and cute lil’ biscuits is one of the strongest.
+#-------------------------------
+[BRAINFOOD]
+Name = Brain Food
+NamePlural = Brain Foods
+Pocket = 1
+Price = 50
+Flags = Fling_5,TypeGem
+Description = Increases the damage of one Reason attack. It’s a birthday cake made of liquified brains. What do you want from me.
+#-------------------------------
+[ANTIDEPRESSANT]
+Name = Antidepressant
+NamePlural = Antidepressants
+Pocket = 5
+Price = 40
+Flags = Fling_0,Berry,NaturalGift_REASON_80
+Description = Decreases the damage of one Reason attack. Ketamine counts as an antidepressant, right?
+#-------------------------------
+[JOHN DOE]
+Name = John Doe
+NamePlural = Many John Does
+Pocket = 1
+Price = 50
+Flags = Fling_40,TypeGem
+Description = Increases the damage of one Empty attack. I’m sorry John.
+#-------------------------------
+[FOETUSSKULL]
+Name = Foetus Skull
+NamePlural = Foetus Skulls
+Pocket = 5
+Price = 40
+Flags = Fling_25,Berry,NaturalGift_EMPTY_80
+Description = Decreases the damage of one Empty attack. The hollow cavity satisfyingly crunches as your teeth grind through it.
+#-------------------------------
+[FLAN]
+Name = Flan
+NamePlural = Flans
+Pocket = 5
+Price = 80
+Flags = Fling_0
+Description = Prevents you from being KO’d if at full health. You can’t die before you’ve had dessert! How could life be so cruel..
+#-------------------------------
+[STARVEDBERRY]
+Name = Starved Berry
+NamePlural = Starved Berries
+Pocket = 5
+Price = 15
+Flags = Berry,Fling_10,NaturalGift_TERROR_100
+Description = Increases a random stat when below a certain HP threshold. Hopefully it doesn't give you its empty stomach.
