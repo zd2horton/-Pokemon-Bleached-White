@@ -11,16 +11,6 @@ Flags = EvolutionStone,Fling_80
 Description = A peculiar stone that makes certain species of Pokémon evolve. It shines with a dazzling light
 
 #-------------------------------
-[EVIOLITE]
-Name = Eviolite
-NamePlural = Eviolites
-Pocket = 1
-Price = 3000
-SellPrice = 2000
-BPPrice = 25
-Flags = Fling_40
-Description = A mysterious evolutionary lump. When held, it raises the Defense and Sp. Def if the holder can still evolve.
-#-------------------------------
 [ROCKYHELMET]
 Name = Rocky Helmet
 NamePlural = Rocky Helmets
@@ -194,16 +184,6 @@ SellPrice = 2000
 BPPrice = 25
 Flags = Fling_30
 Description = A Pokémon held item that boosts a move used consecutively. Its effect is reset if another move is used.
-#-------------------------------
-[FOCUSBAND]
-Name = Focus Band
-NamePlural = Focus Bands
-Pocket = 1
-Price = 3000
-SellPrice = 2000
-BPPrice = 48
-Flags = Fling_10
-Description = An item to be held by a Pokémon. The holder may endure a potential KO attack, leaving it with just 1 HP.
 #-------------------------------
 [FOCUSSASH]
 Name = Focus Sash
