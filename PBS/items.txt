@@ -571,7 +571,7 @@ Price = 40
 Flags = Fling_0,Berry,NaturalGift_REASON_80
 Description = Decreases the damage of one Reason attack. Ketamine counts as an antidepressant, right?
 #-------------------------------
-[JOHN DOE]
+[JOHNDOE]
 Name = John Doe
 NamePlural = Many John Does
 Pocket = 1
