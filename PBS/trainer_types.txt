@@ -47,6 +47,12 @@ Gender = Female
 BaseMoney = 56
 BattleBGM = not maple 1 og
 #-------------------------------
+[BEAUTY_NM]
+Name = Beauty
+Gender = Female
+BaseMoney = 0
+BattleBGM = not maple 1 og
+#-------------------------------
 [BOSSBOY]
 Name = Biker
 Gender = Male
