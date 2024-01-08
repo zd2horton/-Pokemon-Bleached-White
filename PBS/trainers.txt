@@ -71,7 +71,7 @@ Pokemon = DUK,10
 LoseText = ...
 Pokemon = CHUMCHUM,1
 #-------------------------------
-[BEAUTY,lam]
+[SUPERNERD,lam]
 LoseText = ...
 Pokemon = THELAMB,14
 #-------------------------------
