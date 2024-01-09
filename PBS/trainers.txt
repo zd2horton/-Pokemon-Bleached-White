@@ -141,3 +141,7 @@ Pokemon = SPRIG,19
 LoseText = ...
 Pokemon = CHUTE,19
 Pokemon = SPRIG,19
+#-------------------------------
+[SUPERNERD,Jerry]
+LoseText = ...
+Pokemon = BIRSON,16

@@ -4,20 +4,16 @@
 41,North,0,40,South,0
 # road (41) - Route 6 Cycling Road (45)
 41,South,6,45,North,0
-# Route 1 (5) - Route 7 (47)
-5,North,62,47,South,0
-# factory shore  (83) - Route 7 (47)
-83,West,97,47,East,0
-# Cedolan City (7) - Route 7 (47)
-7,East,0,47,West,0
-# BUMP (21) - Route 7 (47)
-21,East,112,47,West,0
+# Route 1 (5) - factory shore  (83)
+5,North,132,83,South,0
+# Route 7 (47) - factory shore  (83)
+47,East,0,83,West,87
 # Lappet Town (2) - Route 1 (5)
 2,North,0,5,South,4
 # Safari Zone outside (66) - Route 1 (5)
 66,North,18,5,South,0
-# factory shore  (83) - Route 1 (5)
-83,South,0,5,North,132
+# Route 7 (47) - Route 1 (5)
+47,South,0,5,North,62
 # Cedolan City (7) - Route 1 (5)
 7,South,0,5,North,2
 # Route 6 (44) - Route 1 (5)
@@ -26,6 +22,10 @@
 66,East,0,2,West,0
 # Route 8 (69) - Lappet Town (2)
 69,North,12,2,South,0
+# Cedolan City (7) - Route 7 (47)
+7,East,0,47,West,0
+# BUMP (21) - Route 7 (47)
+21,East,112,47,West,0
 # Route 6 (44) - Cedolan City (7)
 44,East,0,7,West,5
 # Lerucean Town (23) - Cedolan City (7)
@@ -38,5 +38,3 @@
 35,East,10,31,West,0
 # Route 4 (39) - Ingido Plateau outside (35)
 39,East,0,35,West,11
-# Route 7 (47) - forest (93)
-47,57,0,93,0,157

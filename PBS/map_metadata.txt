@@ -26,7 +26,7 @@ ShowArea = true
 MapPosition = 0,13,11
 BattleBack = field
 #-------------------------------
-[006]   # Kurt's house
+[006]   # Cedolan City
 Name = Route 1
 MapPosition = 0,13,11
 #-------------------------------
@@ -65,7 +65,7 @@ MapPosition = 0,14,10
 Name = Cedolan City
 MapPosition = 0,14,10
 #-------------------------------
-[014]   # Cedolan Dept. 1F
+[014]   # shop
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
@@ -93,7 +93,7 @@ MapPosition = 0,13,10
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[021]   # Route 2
+[021]   # BUMP
 Name = Route 2
 Outdoor = true
 ShowArea = true
@@ -197,7 +197,7 @@ ShowArea = true
 BicycleAlways = true
 MapPosition = 0,11,6
 #-------------------------------
-[041]   # Route 5
+[041]   # road
 Name = Route 5
 Outdoor = true
 ShowArea = true
@@ -235,7 +235,7 @@ BattleBack = redroutes
 MapSize = 2,11
 Environment = Rock
 #-------------------------------
-[049]   # Rock Cave 1F
+[049]   # cave 2
 Name = Route 7
 Bicycle = true
 MapPosition = 0,16,10
@@ -243,7 +243,7 @@ BattleBack = cave1
 Environment = Cave
 Flags = Magnetic,DistortionWorld
 #-------------------------------
-[050]   # Rock Cave B1F
+[050]   # cave 3
 Name = Route 7
 Bicycle = true
 MapPosition = 0,16,10
@@ -252,7 +252,7 @@ BattleBack = cave3
 Environment = Cave
 Flags = Magnetic,DistortionWorld
 #-------------------------------
-[051]   # Dungeon
+[051]   # Pokémon Lab
 Name = Route 7
 Bicycle = true
 MapPosition = 0,16,10
@@ -396,3 +396,9 @@ Name = Tiall Region
 Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
+#-------------------------------
+[083]   # factory shore 
+Name = Factory Shore
+Outdoor = true
+BattleBack = factoryshore
+Weather = Rain,100
