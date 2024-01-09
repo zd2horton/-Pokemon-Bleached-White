@@ -231,7 +231,7 @@ Outdoor = true
 ShowArea = true
 Weather = Rain,0
 MapPosition = 0,15,10
-BattleBack = rocky
+BattleBack = redroutes
 MapSize = 2,11
 Environment = Rock
 #-------------------------------

@@ -166,7 +166,7 @@ BaseMoney = 48
 Name = Super Nerd
 Gender = Male
 BaseMoney = 48
-BattleBGM = more battel kick back og
+BattleBGM = not maple 1 og
 #-------------------------------
 [TAMER]
 Name = Tamer
