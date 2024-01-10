@@ -27,8 +27,8 @@ Description = Boosts Defense when hit by an attack.
 Name = Corrosive
 Description = Inflicts damage to the Pokémon on contact.
 #-------------------------------
-[inexplicable]
-Name = Prankster
+[PRANKSTER]
+Name = inexplicable
 Description = Gives priority to a status move.
 #-------------------------------
 [MAGICBOUNCE]
@@ -120,7 +120,7 @@ Name = Paralysing fear
 Description = Prevents the foe from escaping.
 #-------------------------------
 [TRACE]
-Name = Trace
+Name = copycat
 Description = The Pokémon copies a foe's Ability.
 #-------------------------------
 [GLUTTONY]
@@ -128,7 +128,7 @@ Name = numnumnum
 Description = Encourages the early use of a held Berry.
 #-------------------------------
 [UNBURDEN]
-Name = Unburden
+Name = loosssss
 Description = Raises Speed if a held item is used.
 #-------------------------------
 [AFTERMATH]
