@@ -55,7 +55,7 @@ Pokemon = BRAINWORM,9
 #-------------------------------
 [CAMPER,GAS BOSS]
 LoseText = ...
-Pokemon = LOSTFACES,12
+Pokemon = LOSTFACES,11
 Pokemon = GYRO,13
 #-------------------------------
 [CAMPER,FAN R2]
