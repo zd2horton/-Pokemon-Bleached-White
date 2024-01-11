@@ -402,7 +402,7 @@ BattleBGM = -ANIME_AT_END_OF_OCEAN
 Name = DD
 Gender = Female
 BaseMoney = 32
-BattleBGM = -666060 og
+BattleBGM = battel theme og
 #-------------------------------
 [BEAUTY]
 Name = Beauty
@@ -420,7 +420,7 @@ BattleBGM = more battel kick back og
 Name = Super Nerd
 Gender = Male
 BaseMoney = 48
-BattleBGM = not maple 1 og
+BattleBGM = more drums
 #-------------------------------
 [BOSSBOY]
 Name = Biker
@@ -432,13 +432,13 @@ BattleBGM = run fucker og
 Name = Painter
 Gender = Male
 BaseMoney = 32
-BattleBGM = run fucker og
+BattleBGM = war song og
 #-------------------------------
 [GG]
 Name = GG
-Gender = Male
+Gender = Female
 BaseMoney = 32
-BattleBGM = run fucker og
+BattleBGM = battel theme og
 #-------------------------------
 [PUNCHYLADY]
 Name = PUNCHYLADY
@@ -450,7 +450,7 @@ BattleBGM = run fucker og
 Name = Smartass
 Gender = Male
 BaseMoney = 32
-BattleBGM = run fucker og
+BattleBGM = what the fuck bid i do og
 #-------------------------------
 [EXCAVATOR]
 Name = Excavator
