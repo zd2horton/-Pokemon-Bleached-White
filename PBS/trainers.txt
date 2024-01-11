@@ -60,7 +60,7 @@ Pokemon = LOSTFACES,5
 Pokemon = LOSTFACES,7
 Pokemon = GYRO,12
 #-------------------------------
-[CAMPER,FAN R2]
+[BEAUTY,Cliffy]
 LoseText = ...
 Pokemon = DUK,10
 Pokemon = DUK,10
@@ -75,21 +75,21 @@ Pokemon = CHUMCHUM,1
 #-------------------------------
 [SUPERNERD,lam]
 LoseText = ...
-Pokemon = THELAMB,14
+Pokemon = THELAMB,11
 #-------------------------------
-[BEAUTY,lalm]
+[PAINTER,lalm]
 LoseText = ...
-Pokemon = SMUNKY,11
-Pokemon = SMUNKY,11
-Pokemon = LITTELPONE,11
+Pokemon = SMUNKY,10
+Pokemon = SMUNKY,10
+Pokemon = LITTELPONE,10
 #-------------------------------
-[BEAUTY,lallm]
+[SUPERNERD,lallm]
 LoseText = ...
-Pokemon = CHUTE,15
+Pokemon = CHUTE,12
 #-------------------------------
-[BEAUTY,lalllm]
+[EXCAVATOR,lalllm]
 LoseText = ...
-Pokemon = POOKOOCHUE,20
+Pokemon = POOKOOCHUE,13
 #-------------------------------
 [BEAUTY,lallllm]
 LoseText = ...
