@@ -35,29 +35,11 @@ Name = Rival
 Gender = Male
 BaseMoney = 36
 #-------------------------------
-[DD]
-Name = Aroma Lady
-Gender = Female
-BaseMoney = 32
-BattleBGM = -666060 og
-#-------------------------------
-[BEAUTY]
-Name = Beauty
-Gender = Female
-BaseMoney = 56
-BattleBGM = not maple 1 og
-#-------------------------------
 [BEAUTY_NM]
 Name = Beauty
 Gender = Female
 BaseMoney = 0
 BattleBGM = not maple 1 og
-#-------------------------------
-[BOSSBOY]
-Name = Biker
-Gender = Male
-BaseMoney = 32
-BattleBGM = run fucker og
 #-------------------------------
 [BIRDKEEPER]
 Name = Bird Keeper
@@ -122,11 +104,6 @@ Gender = Female
 BaseMoney = 160
 SkillLevel = 72
 #-------------------------------
-[PAINTER]
-Name = Painter
-Gender = Female
-BaseMoney = 16
-#-------------------------------
 [POKEMANIAC]
 Name = Poké Maniac
 Gender = Male
@@ -162,12 +139,6 @@ Name = Scientist
 Gender = Male
 BaseMoney = 48
 #-------------------------------
-[SUPERNERD]
-Name = Super Nerd
-Gender = Male
-BaseMoney = 48
-BattleBGM = not maple 1 og
-#-------------------------------
 [TAMER]
 Name = Tamer
 Gender = Male
@@ -182,12 +153,6 @@ BaseMoney = 32
 Name = Crush Girl
 Gender = Female
 BaseMoney = 24
-#-------------------------------
-[CAMPER]
-Name = Camper
-Gender = Male
-BaseMoney = 16
-BattleBGM = more battel kick back og
 #-------------------------------
 [PICNICKER]
 Name = Picnicker
@@ -430,5 +395,77 @@ BattleBGM = -666060 og
 [FANCLUBBOSS]
 Name = FAN CLUB BOSS!
 Gender = Female
-BaseMoney = 32
+BaseMoney = 100
 BattleBGM = -ANIME_AT_END_OF_OCEAN
+#-------------------------------
+[DD]
+Name = DD
+Gender = Female
+BaseMoney = 32
+BattleBGM = -666060 og
+#-------------------------------
+[BEAUTY]
+Name = Beauty
+Gender = Female
+BaseMoney = 56
+BattleBGM = not maple 1 og
+#-------------------------------
+[CAMPER]
+Name = Camper
+Gender = Male
+BaseMoney = 16
+BattleBGM = more battel kick back og
+#-------------------------------
+[SUPERNERD]
+Name = Super Nerd
+Gender = Male
+BaseMoney = 48
+BattleBGM = not maple 1 og
+#-------------------------------
+[BOSSBOY]
+Name = Biker
+Gender = Male
+BaseMoney = 32
+BattleBGM = run fucker og
+#-------------------------------
+[PAINTER]
+Name = Painter
+Gender = Male
+BaseMoney = 32
+BattleBGM = run fucker og
+#-------------------------------
+[GG]
+Name = GG
+Gender = Male
+BaseMoney = 32
+BattleBGM = run fucker og
+#-------------------------------
+[PUNCHYLADY]
+Name = PUNCHYLADY
+Gender = Male
+BaseMoney = 32
+BattleBGM = run fucker og
+#-------------------------------
+[SMARTASS]
+Name = Smartass
+Gender = Male
+BaseMoney = 32
+BattleBGM = run fucker og
+#-------------------------------
+[EXCAVATOR]
+Name = Excavator
+Gender = Male
+BaseMoney = 32
+BattleBGM = run fucker og
+#-------------------------------
+[PUCHYMAN]
+Name = PUCHYMAN
+Gender = Male
+BaseMoney = 32
+BattleBGM = run fucker og
+#-------------------------------
+[CRAZY]
+Name = CRAZY
+Gender = Male
+BaseMoney = 32
+BattleBGM = run fucker og

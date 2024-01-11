@@ -17,7 +17,7 @@ Pokemon = DRAGONE,10
 Pokemon = BIRSON,10
 Pokemon = ORLIHEPERH,10
 #-------------------------------
-[CAMPER,3Liam]
+[DD,3Liam]
 LoseText = ...
 Pokemon = POOKOOCHUE,5
 #-------------------------------
@@ -33,23 +33,23 @@ Pokemon = PHILSOPHER,1
 Pokemon = KOW,1
 Pokemon = KOKCROACH,1
 #-------------------------------
-[CAMPER,FAN 1]
+[SUPERNERD,FAN 1]
 LoseText = ...
 Pokemon = LOSTFACES,5
 Pokemon = CROOKEDMAN,7
 #-------------------------------
-[CAMPER,FAN 2]
+[PAINTER,FAN 2]
 LoseText = ...
 Pokemon = LOSTFACES,5
 Pokemon = LOSTFACES,5
 Pokemon = LOSTFACES,5
 Pokemon = LOSTFACES,5
 #-------------------------------
-[CAMPER,FAN 3]
+[DD,FAN 3]
 LoseText = ...
 Pokemon = DUK,12
 #-------------------------------
-[CAMPER,FAN 4]
+[SMARTASS,FAN 4]
 LoseText = ...
 Pokemon = BRAINWORM,9
 #-------------------------------
