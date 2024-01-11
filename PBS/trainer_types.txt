@@ -426,3 +426,10 @@ Name = BOXMAN
 Gender = Female
 BaseMoney = 32
 BattleBGM = -666060 og
+#-------------------------------
+[FANCLUBBOSS]
+Name = FAN CLUB BOSS !
+Gender = Male
+BaseMoney = 100
+BattleBGM = -ANIME_AT_END_OF_OCEAN
+#-------------------------------
