@@ -400,5 +400,11 @@ BattleBack = city
 [083]   # factory shore 
 Name = Factory Shore
 Outdoor = true
-BattleBack = factoryshore
 Weather = Rain,100
+BattleBack = factoryshore
+#-------------------------------
+[100]   # fan club
+Name = fan club
+BattleBack = fanclub
+TrainerBattleBGM = not maple 1 og
+TrainerVictoryBGM = empty air og
