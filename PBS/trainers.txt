@@ -55,8 +55,10 @@ Pokemon = BRAINWORM,9
 #-------------------------------
 [CAMPER,GAS BOSS]
 LoseText = ...
-Pokemon = LOSTFACES,11
-Pokemon = GYRO,13
+Pokemon = CROOKEDMAN,7
+Pokemon = LOSTFACES,5
+Pokemon = LOSTFACES,7
+Pokemon = GYRO,12
 #-------------------------------
 [CAMPER,FAN R2]
 LoseText = ...
