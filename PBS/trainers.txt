@@ -104,7 +104,7 @@ LoseText = ...
 Pokemon = DRAG,15
 Pokemon = BIRSON,15
 #-------------------------------
-[BEAUTY,maw]
+[PUCHYMAN,MARA]
 LoseText = ...
 Pokemon = MAW,9
 Pokemon = MAW,10
@@ -119,31 +119,38 @@ Pokemon = THELAMB,13
 Pokemon = THELAMB,13
 Pokemon = DRAG,15
 #-------------------------------
-[BEAUTY,BBBBBB]
+[CAMPER,BBBBBB]
 LoseText = ...
-Pokemon = BATY,14
-Pokemon = BARY,14
-Pokemon = BIRBABY,14
+Pokemon = BATY,11
+Pokemon = BARY,11
+Pokemon = BIRBABY,11
 #-------------------------------
-[BEAUTY,grave]
+[CRAZY,grave]
 LoseText = ...
-Pokemon = LOSTFACES,15
-Pokemon = GRAVENIMAGE,19
+Pokemon = MAW,10
+Pokemon = GRAVENIMAGE,13
 #-------------------------------
 [BEAUTY,ggrave]
 LoseText = ...
 Pokemon = TEEHEE,21
 #-------------------------------
-[BEAUTY,gggrave]
+[CRAZY,Marmar]
 LoseText = ...
-Pokemon = CHUTE,19
-Pokemon = SPRIG,19
+Pokemon = CHUTE,12
+Pokemon = CHUTE,12
+Pokemon = CHUTE,12
+Pokemon = CHUTE,12
 #-------------------------------
-[BEAUTY,gggggrave]
+[PUNCHYLADY,LOST]
 LoseText = ...
-Pokemon = CHUTE,19
-Pokemon = SPRIG,19
+Pokemon = CHUTE,13
+Pokemon = SPRIG,13
 #-------------------------------
 [SUPERNERD,Jerry]
 LoseText = ...
 Pokemon = BIRSON,16
+#-------------------------------
+[SUPERNERD,TOM TIs]
+LoseText = ...
+Pokemon = BUGABOO,13
+Pokemon = BUGABOO,13
