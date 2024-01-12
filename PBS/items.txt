@@ -463,15 +463,16 @@ Price = 10
 Flags = Fling_30
 Description = A small blue shard. It appears to be from some sort of implement made long ago.
 #-------------------------------
-[REDRUMPROAST]
+[ATKBERRY]
 Name = Red Rump Roast
 NamePlural = Red Rump Roasts
 Pocket = 5
 Price = 20
 Flags = Fling_20,Berry,NaturalGift_BEAST_100
+#Consumable = true
 Description = Increases attack when below a certain HP threshold. There’s nothing like sinking your teeth into a freshly cooked ass to get the blood pumping.
 #-------------------------------
-[GETBREAD]
+[DEFBERRY]
 Name = Let’s Get This Bread
 NamePlural = Let's Get These Breads
 Pocket = 5
@@ -479,7 +480,7 @@ Price = 20
 Flags = Fling_5,Berry,NaturalGift_REASON_100
 Description = Increases defense when below a certain HP threshold. Why does it do this? Fuck you, I don’t need to explain myself to you.
 #-------------------------------
-[SPARKLECAKE]
+[SPDBERRY]
 Name = Sparkle Cake
 NamePlural = Sparkle Cakes
 PortionName = Sparkle Cake Slice
@@ -489,7 +490,7 @@ Price = 20
 Flags = Fling_10,Berry,NaturalGift_FANTASY_100
 Description = Increases speed when below a certain HP threshold. All glitter, all diabetes, all fun.
 #-------------------------------
-[SWEETCREPE]
+[SPECATKBERRY]
 Name = Sweetly Sweetened Crepe (NOT A PANCAKE. FUCK YOU, IT’S A CREPE.)
 NamePlural = Sweetly Sweetened Crepes (NOT PANCAKES. FUCK YOU, THEY'RE CREPES.)
 Pocket = 5
@@ -497,13 +498,21 @@ Price = 20
 Flags = Fling_5,Berry,NaturalGift_TERROR_100
 Description = Increases special attack when below a certain HP threshold. My wife divorced me over this. It was worth it. Fuck you Jennifer, go eat pancakes with Steve.
 #-------------------------------
-[BOXOFDELIGHT]
+[SPECDEFBERRY]
 Name = Box of Delight
 NamePlural = Boxes of Delight
 Pocket = 5
 Price = 20
 Flags = Fling_10,Berry,NaturalGift_EMPTY_100
 Description = Increases special defense when below a certain HP threshold. I don’t know what it is, but it tastes good. So just eat it, okay?
+#-------------------------------
+[STARVEDBERRY]
+Name = Starved Berry
+NamePlural = Starved Berries
+Pocket = 5
+Price = 15
+Flags = Berry,Fling_10,NaturalGift_TERROR_100
+Description = Increases a random stat when below a certain HP threshold. Hopefully it doesn't give you its empty stomach.
 #-------------------------------
 [TERRORGEM]
 Name = A Cup of Red
@@ -594,11 +603,3 @@ Pocket = 5
 Price = 80
 Flags = Fling_0
 Description = Prevents you from being KO’d if at full health. You can’t die before you’ve had dessert! How could life be so cruel..
-#-------------------------------
-[STARVEDBERRY]
-Name = Starved Berry
-NamePlural = Starved Berries
-Pocket = 5
-Price = 15
-Flags = Berry,Fling_10,NaturalGift_TERROR_100
-Description = Increases a random stat when below a certain HP threshold. Hopefully it doesn't give you its empty stomach.
