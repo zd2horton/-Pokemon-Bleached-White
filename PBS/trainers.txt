@@ -150,7 +150,7 @@ Pokemon = SPRIG,13
 LoseText = ...
 Pokemon = BIRSON,16
 #-------------------------------
-[SUPERNERD,TOM TIs]
+[SMARTASS,TOM TIs]
 LoseText = ...
 Pokemon = BUGABOO,13
 Pokemon = BUGABOO,13
