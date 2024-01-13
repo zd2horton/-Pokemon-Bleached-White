@@ -77,7 +77,7 @@ Pokemon = CHUMCHUM,1
 LoseText = ...
 Pokemon = THELAMB,11
 #-------------------------------
-[PAINTER,lalm]
+[GG,lalm]
 LoseText = ...
 Pokemon = SMUNKY,10
 Pokemon = SMUNKY,10
