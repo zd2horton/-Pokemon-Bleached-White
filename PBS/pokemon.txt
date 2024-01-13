@@ -1320,7 +1320,7 @@ Pokedex = Its voracious appetite compels it to devour leaves bigger than itself 
 Generation = 1
 #-------------------------------
 [LITTELPONE]
-Name = littel poney
+Name = littelponey
 Types = BEAST,FANTASY
 BaseStats = 60,30,60,60,10,20
 GenderRatio = Female50Percent
