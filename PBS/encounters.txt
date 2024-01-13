@@ -20,7 +20,7 @@ SuperRod
     15,CRITTER,15,18
     5,CRITTER,15,17
 #-------------------------------
-[007] # Route 7
+[047] # Route 7
 Land,21
      30,DUK,9,11
      20,SMUNKY,9,11
@@ -160,7 +160,7 @@ Land,21
     15,CRITTER,15,18
     5,CRITTER,15,17
 #-------------------------------
-[047] # Route 7
+[111] # Route 7
 Land,21
      40,CRITTER,17,19
     40,CRITTER,16,19
