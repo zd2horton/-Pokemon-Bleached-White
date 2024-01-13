@@ -58,7 +58,7 @@ LoseText = ...
 Pokemon = CROOKEDMAN,7
 Pokemon = LOSTFACES,5
 Pokemon = LOSTFACES,7
-Pokemon = GYRO,12
+Pokemon = GYRO,14
 #-------------------------------
 [BEAUTY,Cliffy]
 LoseText = ...

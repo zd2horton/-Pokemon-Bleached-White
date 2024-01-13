@@ -396,7 +396,7 @@ BattleBGM = -666060 og
 Name = FAN CLUB BOSS!
 Gender = Female
 BaseMoney = 100
-BattleBGM = -ANIME_AT_END_OF_OCEAN
+BattleBGM = ANIME_AT_END_OF_OCEAN
 #-------------------------------
 [DD]
 Name = DD
