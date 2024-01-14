@@ -79,8 +79,8 @@ Pokemon = THELAMB,11
 #-------------------------------
 [GG,lalm]
 LoseText = ...
-Pokemon = SMUNKY,10
-Pokemon = SMUNKY,10
+Pokemon = THELAMB,10
+Pokemon = THELAMB,10
 Pokemon = LITTELPONE,10
 #-------------------------------
 [SUPERNERD,lallm]
@@ -111,9 +111,8 @@ Pokemon = MAW,14
 #-------------------------------
 [BEAUTY,ID]
 LoseText = ...
-Pokemon = THELAMB,13
-Pokemon = THELAMB,13
-Pokemon = DRAG,15
+Pokemon = DRAG,14
+Pokemon = SMUNKY,15
 #-------------------------------
 [CAMPER,BBBBBB]
 LoseText = ...
