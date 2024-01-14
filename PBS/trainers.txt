@@ -93,10 +93,6 @@ Pokemon = POOKOOCHUE,13
 #-------------------------------
 [BEAUTY,lallllm]
 LoseText = ...
-Pokemon = PARALLAXPEPR,20
-#-------------------------------
-[BEAUTY,lallllm]
-LoseText = ...
 Pokemon = CROOKEDMAN,20
 #-------------------------------
 [BEAUTY_NM,lallllllllm]
@@ -154,3 +150,7 @@ Pokemon = BIRSON,16
 LoseText = ...
 Pokemon = BUGABOO,13
 Pokemon = BUGABOO,13
+#-------------------------------
+[SUPERNERD,ID]
+LoseText = ...
+Pokemon = GYRO,16

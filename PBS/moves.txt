@@ -7,6 +7,7 @@ Accuracy = 100
 TotalPP = 3
 Target = NearOther
 FunctionCode = HealUserByHalfOfDamageDone
+Flags = Contact,CanProtect,CanMirrorMove
 Description = The user drains the target's blood. The user's HP is restored by half the damage taken by the target.
 #-------------------------------
 [TOUGHMEET]
@@ -74,7 +75,7 @@ Accuracy = 100
 TotalPP = 5
 Target = NearOther
 FunctionCode = PowerHigherWithUserFasterThanTarget
-Flags = CanProtect,CanMirrorMove,Bomb
+Flags = Contact,CanProtect,CanMirrorMove
 Description = The user hurls an electric orb at the foe. It does more damage the faster the user is.
 #-------------------------------
 [EQUALNATURE]
@@ -374,7 +375,7 @@ Accuracy = 100
 TotalPP = 3
 Target = AllNearFoes
 FunctionCode = LowerTargetSpeed2
-Flags = CanProtect,CanMirrorMove
+Flags = Contact,CanProtect,CanMirrorMove
 EffectChance = 100
 Description = The user captures and attacks foes by using an electric net, which lowers their Speed stat
 #-------------------------------
@@ -411,7 +412,7 @@ Accuracy = 100
 TotalPP = 5
 Target = NearOther
 FunctionCode = UseUserDefenseInsteadOfUserAttack
-Flags = Contact,CanProtect,CanMirrorMove,CannotMetronome
+Flags = Contact,CanProtect,CanMirrorMove
 Description = The user attacks by slamming its body into the target. Power increases the higher the user's Defense is.
 #-------------------------------
 [TRAPPED]
@@ -446,7 +447,7 @@ Accuracy = 100
 TotalPP = 5
 Target = NearOther
 FunctionCode = LowerPPOfTargetLastMoveBy5
-Flags = CanProtect,CanMirrorMove
+Flags = Contact,CanProtect
 Description = The user unleashes its grudge on the move last used by the target by cutting 4 PP from it.
 #-------------------------------
 [MAD]
@@ -547,7 +548,7 @@ Accuracy = 100
 TotalPP = 5
 Target = AllNearFoes
 FunctionCode = LowerTargetAttack1
-Flags = Contact,CanProtect,CanMirrorMove,CannotMetronome
+Flags = Contact,CanProtect,CanMirrorMove
 EffectChance = 100
 Description = The user swings its tough tail wildly and attacks all foes. This also lowers their Attack stats.
 #-------------------------------
@@ -560,7 +561,6 @@ TotalPP = 1
 Target = NearOther
 Priority = 1
 FunctionCode = LowerTargetSpAtk2
-Flags = CanProtect,CanMirrorMove
 Description = The user stares with its baby-doll eyes, which lowers the target's Attack stat. Always goes first.
 #-------------------------------
 [LIEINWAIT]
@@ -582,6 +582,7 @@ Category = Physical
 Power = 140
 Accuracy = 100
 TotalPP = 3
+Flags = Contact,CanProtect
 Target = NearOther
 FunctionCode = AttackTwoTurnsLater
 Description = Two turns after this move is used, the user blasts the target with a concentrated bundle of light.
@@ -595,7 +596,7 @@ Accuracy = 100
 TotalPP = 1
 Target = NearOther
 FunctionCode = LowerTargetSpDef3
-Flags = CanProtect,CanMirrorMove,Bomb
+Flags = Contact,CanProtect
 EffectChance = 10
 Description = The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.
 #-------------------------------
@@ -607,7 +608,6 @@ Accuracy = 100
 TotalPP = 1
 Target = NearOther
 FunctionCode = TrapTargetInBattleLowerTargetDefSpDef1EachTurn
-Flags = CanProtect,CanMirrorMove
 Description = Locks the target in and prevents it from fleeing. Also lowers the target's Defense and Sp. Def each turn.
 #-------------------------------
 [BODYHORROR]
@@ -641,7 +641,6 @@ Accuracy = 100
 TotalPP = 3
 Target = NearOther
 FunctionCode = StartLeechSeedTarget
-Flags = CanProtect,CanMirrorMove
 Description = A seed is planted on the target. It steals some HP from the target every turn.
 #-------------------------------
 [TENSION]
@@ -653,7 +652,7 @@ Accuracy = 100
 TotalPP = 10
 Target = NearOther
 FunctionCode = PowerHigherWithConsecutiveUseOnUserSide
-Flags = CanProtect,CanMirrorMove,Sound
+Flags = Contact,CanProtect
 Description = The user attacks the foe with an echoing voice. If this move is used every turn, it does greater damage.
 #-------------------------------
 [PHOBIA]
@@ -664,7 +663,6 @@ Accuracy = 100
 TotalPP = 3
 Target = NearOther
 FunctionCode = DisableTargetLastMoveUsed
-Flags = CanProtect,CanMirrorMove
 Description = For four turns, this move prevents the target from using the move it last used.
 #-------------------------------
 [TRUEFEAR]
@@ -676,7 +674,6 @@ TotalPP = 3
 Target = NearOther
 Priority = -6
 FunctionCode = SwitchOutTargetStatusMove
-Flags = CanMirrorMove,Sound
 Description = The target is scared off and replaced by another Pokémon in its party. In the wild, the battle ends.
 #-------------------------------
 [BLINDSIDE]
@@ -921,6 +918,7 @@ Accuracy = 100
 TotalPP = 20
 Target = Other
 Priority = 1
+Flags = Contact,CanProtect
 FunctionCode = RecoilhalfOfDamageDealt
 Description = The user tucks in its wings and charges from a low altitude. The user also takes serious damage.
 #-------------------------------
@@ -967,7 +965,7 @@ Accuracy = 100
 TotalPP = 99
 Target = NearOther
 FunctionCode = OHKO
-Flags = Contact,CanProtect,CanMirrorMove
+Flags = Contact
 Description = A vicious, tearing attack with big pincers. The target will faint instantly if this attack hits.
 #-------------------------------
 [WORRYSEED]
@@ -1001,7 +999,8 @@ Category = Physical
 Power = 200
 Accuracy = 100
 TotalPP = 1
-Target = User
+Target = NearOther
+Flags = Contact,CanProtect
 FunctionCode = SetUserTypesToUserMoveType
 Description = The user changes its type to become the same type as one of its moves.
 #-------------------------------
