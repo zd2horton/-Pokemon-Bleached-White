@@ -39,7 +39,85 @@ Land,21
 LandNight,21
       40,DEATH,100,100
 #-------------------------------
-[021] # Rock Cave 1F
+[200] # Rock Cave 1F
+Land,21
+     30,BATY,12,15
+    20,LOSTFACES,12,15
+    20,GRAVENIMAGE,12,15
+    15,BARY,12,15
+    10,MAW,12,15
+    5,BOBYS,17
+Water,2
+     40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+OldRod
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+GoodRod
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+SuperRod
+     40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+HeadbuttLow
+     40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+PokeRadar,10
+     40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+#-------------------------------
+[049] # Rock Cave 1F
+Land,21
+     30,BATY,12,15
+    20,LOSTFACES,12,15
+    20,GRAVENIMAGE,12,15
+    15,BARY,12,15
+    10,MAW,12,15
+    5,BOBYS,17
+Water,2
+     40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+OldRod
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+GoodRod
+    40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+SuperRod
+     40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+HeadbuttLow
+     40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+PokeRadar,10
+     40,CRITTER,17,19
+    40,CRITTER,16,19
+    15,CRITTER,15,18
+    5,CRITTER,15,17
+#-------------------------------
+[213] # Rock Cave 1F
 Land,21
      30,BATY,12,15
     20,LOSTFACES,12,15

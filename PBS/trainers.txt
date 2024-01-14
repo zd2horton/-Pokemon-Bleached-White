@@ -122,8 +122,8 @@ Pokemon = BIRBABY,11
 #-------------------------------
 [CRAZY,grave]
 LoseText = ...
-Pokemon = MAW,10
-Pokemon = GRAVENIMAGE,13
+Pokemon = MAW,12
+Pokemon = GRAVENIMAGE,14
 #-------------------------------
 [BEAUTY,ggrave]
 LoseText = ...
