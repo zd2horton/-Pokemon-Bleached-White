@@ -1322,7 +1322,7 @@ Generation = 1
 [LITTELPONE]
 Name = littelponey
 Types = BEAST,FANTASY
-BaseStats = 60,30,60,60,10,20
+BaseStats = 40,30,60,60,10,20
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 39
@@ -1346,7 +1346,7 @@ Evolutions = MIDHORES,Level,15
 [MIDHORES]
 Name = Midhores
 Types = BEAST,FANTASY
-BaseStats = 70,50,80,80,30,40
+BaseStats = 50,50,80,80,30,40
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 39
@@ -1370,7 +1370,7 @@ Evolutions = MARGMARE,Level,35
 [MARGMARE]
 Name = Margmare
 Types = BEAST,FANTASY
-BaseStats = 70,50,80,80,30,40
+BaseStats = 70,70,100,100,50,60
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 39
@@ -1416,7 +1416,7 @@ Generation = 1
 [DUK]
 Name = duk
 Types = BEAST,EMPTY
-BaseStats = 30,80,50,20,10,30
+BaseStats = 40,80,50,20,10,30
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 39
@@ -1440,7 +1440,7 @@ Evolutions = SPITROAST,Level,30
 [SPITROAST]
 Name = SPITROAST
 Types = BEAST,EMPTY
-BaseStats = 110,120,90,20,10,70
+BaseStats = 120,120,90,20,10,70
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 39
