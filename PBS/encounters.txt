@@ -250,13 +250,6 @@ RockSmash,50
     15,CRITTER,15,18
     5,CRITTER,15,17
 #-------------------------------
-[049] # Rock Cave 1F
-Cave,5
-    40,CRITTER,17,19
-    40,CRITTER,16,19
-    15,CRITTER,15,18
-    5,CRITTER,15,17
-#-------------------------------
 [050] # Rock Cave B1F
 Cave,5
     40,CRITTER,17,19
