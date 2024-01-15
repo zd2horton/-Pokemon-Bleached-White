@@ -446,9 +446,9 @@ Category = Status
 Accuracy = 100
 TotalPP = 5
 Target = NearOther
-FunctionCode = LowerPPOfTargetLastMoveBy5
+FunctionCode = LowerPPOfTargetLastMoveBy2
 Flags = Contact,CanProtect
-Description = The user unleashes its grudge on the move last used by the target by cutting 4 PP from it.
+Description = The user unleashes its grudge on the move last used by the target by cutting 2 PP from it.
 #-------------------------------
 [MAD]
 Name = MAD

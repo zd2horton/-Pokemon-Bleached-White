@@ -2323,3 +2323,27 @@ Category = Worm
 Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
 Generation = 1
 Evolutions = moomoonsun,Level,35
+#-------------------------------
+[Amygdala]
+Name = Amygdala
+Types = TERROR,CLOWN
+BaseStats =10,160,10,10,10,40
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 39
+EVs = HP,1
+CatchRate = 255
+Happiness = 50
+Abilities = STURDY
+Moves = 1,EQUALNATURE,1,HUNTDOWN,1,MERCURIAL,9,INVULNERABLE,13,TOUGHMEET,18,SHEDFLESH,23,CREEPING,28,DREAM,31,TENSION,39,MINDVMIGHT,45,BATONPASS,50,TOUGHMEET
+EggGroups = Bug
+HatchSteps = 3840
+Height = 0.3
+Weight = 2.9
+Color = Green
+Shape = Insectoid
+Habitat = Forest
+Category = Worm
+Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Generation = 1
+Evolutions = moomoonsun,Level,35
