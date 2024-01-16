@@ -2415,7 +2415,7 @@ Habitat = Forest
 Category = Worm
 Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
 Generation = 1
-Evolutions = thenoking,Level,35
+Evolutions = THENOKING,Level,35
 #-------------------------------
 [THENOKING]
 Name = The Noking
