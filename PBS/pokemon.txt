@@ -2417,7 +2417,7 @@ Pokedex = Its voracious appetite compels it to devour leaves bigger than itself 
 Generation = 1
 Evolutions = thenoking,Level,35
 #-------------------------------
-[thenoking]
+[THENOKING]
 Name = The Noking
 Types = REASON,FANTASY
 BaseStats =80,80,100,80,80,60
