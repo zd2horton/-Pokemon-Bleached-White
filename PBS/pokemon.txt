@@ -2298,7 +2298,7 @@ Habitat = Forest
 Category = Worm
 Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
 Generation = 1
-Evolutions = moomoonsun,Level,35
+Evolutions = Amygdala,Level,35
 #-------------------------------
 [Amygdala]
 Name = Amygdala
@@ -2322,12 +2322,11 @@ Habitat = Forest
 Category = Worm
 Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
 Generation = 1
-Evolutions = moomoonsun,Level,35
 #-------------------------------
-[Amygdala]
-Name = Amygdala
+[POPIP]
+Name = POPIP .v.
 Types = TERROR,CLOWN
-BaseStats =10,160,10,10,10,40
+BaseStats =10,160,10,40,10,40
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 39
@@ -2335,7 +2334,7 @@ EVs = HP,1
 CatchRate = 255
 Happiness = 50
 Abilities = STURDY
-Moves = 1,EQUALNATURE,1,HUNTDOWN,1,MERCURIAL,9,INVULNERABLE,13,TOUGHMEET,18,SHEDFLESH,23,CREEPING,28,DREAM,31,TENSION,39,MINDVMIGHT,45,BATONPASS,50,TOUGHMEET
+Moves = 1,EQUALNATURE,1,HUNTDOWN,1,MERCURIAL,9,INVULNERABLE,13,TOUGHMEET,18,SHEDFLESH,23,CREEPING,28,DECOY,31,WRONG,39,SURVIVAL,45,RAGE,50,DESECRATE
 EggGroups = Bug
 HatchSteps = 3840
 Height = 0.3
@@ -2346,4 +2345,97 @@ Habitat = Forest
 Category = Worm
 Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
 Generation = 1
-Evolutions = moomoonsun,Level,35
+Evolutions = YAGA,Level,35
+#-------------------------------
+[YAGA]
+Name = YAGA .w.
+Types = TERROR,CLOWN
+BaseStats =40,230,40,80,40,40
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 39
+EVs = HP,1
+CatchRate = 255
+Happiness = 50
+Abilities = STURDY
+Moves = 1,EQUALNATURE,1,HUNTDOWN,1,MERCURIAL,9,INVULNERABLE,13,TOUGHMEET,18,SHEDFLESH,23,CREEPING,28,DECOY,31,WRONG,39,SURVIVAL,45,RAGE,50,DESECRATE
+EggGroups = Bug
+HatchSteps = 3840
+Height = 0.3
+Weight = 2.9
+Color = Green
+Shape = Insectoid
+Habitat = Forest
+Category = Worm
+Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Generation = 1
+#-------------------------------
+[DOLL]
+Name = DOLL
+Types = REASON
+BaseStats =80,10,50,100,120,80
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 39
+EVs = HP,1
+CatchRate = 255
+Happiness = 50
+Abilities = STURDY
+Moves = 1,HOUR,1,UPONASTAR,1,PHOBIA,9,SILENT,13,END,18,MERCURIAL,23,OUTWIT,28,EMPATHY,31,WRONG,39,DECOY,45,BRAINBREAK,50,TRUEFEAR
+EggGroups = Bug
+HatchSteps = 3840
+Height = 0.3
+Weight = 2.9
+Color = Green
+Shape = Insectoid
+Habitat = Forest
+Category = Worm
+Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Generation = 1
+#-------------------------------
+[noking]
+Name = Noking
+Types = REASON,FANTASY
+BaseStats =40,40,40,40,40,40
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 39
+EVs = HP,1
+CatchRate = 255
+Happiness = 50
+Abilities = REGENERATOR
+Moves = 1,OUTWIT,1,TRICKERY,1,CORAGE,9,BLINDSIDE,13,MERCURIAL,18,HUNTDOWN,23,CRUELREMARK,28,CLEARMIND,31,WRONG,39,OPTIMIST,45,FEROCITY,50,RAGE
+EggGroups = Bug
+HatchSteps = 3840
+Height = 0.3
+Weight = 2.9
+Color = Green
+Shape = Insectoid
+Habitat = Forest
+Category = Worm
+Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Generation = 1
+Evolutions = the noking,Level,35
+#-------------------------------
+[the noking]
+Name = The Noking
+Types = REASON,FANTASY
+BaseStats =80,80,80,80,80,80
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 39
+EVs = HP,1
+CatchRate = 255
+Happiness = 50
+Abilities = REGENERATOR
+Moves = 1,OUTWIT,1,TRICKERY,1,CORAGE,9,BLINDSIDE,13,MERCURIAL,18,HUNTDOWN,23,CRUELREMARK,28,CLEARMIND,31,WRONG,39,OPTIMIST,45,FEROCITY,50,RAGE
+EggGroups = Bug
+HatchSteps = 3840
+Height = 0.3
+Weight = 2.9
+Color = Green
+Shape = Insectoid
+Habitat = Forest
+Category = Worm
+Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Generation = 1
