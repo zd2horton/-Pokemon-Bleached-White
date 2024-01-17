@@ -408,3 +408,12 @@ Name = fan club
 BattleBack = fanclub
 TrainerBattleBGM = not maple 1 og
 TrainerVictoryBGM = empty air og
+#-------------------------------
+[104]   # factory forest transition
+Name = Before the Forest
+Outdoor = true
+ShowArea = true
+Weather = Fog,100
+BattleBack = redroutes
+TrainerBattleBGM = not maple 1 og
+TrainerVictoryBGM = empty air og
