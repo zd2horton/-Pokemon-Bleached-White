@@ -2600,3 +2600,26 @@ Habitat = Forest
 Category = Worm
 Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
 Generation = 1
+#-------------------------------
+[ELPHANT]
+Name = Elphant
+Types = BEAST
+BaseStats =60,80,300,10,10,10
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 39
+EVs = HP,1
+CatchRate = 255
+Happiness = 50
+Abilities = MULTISCALE
+Moves = 1,NEST,1,DEVOUR,1,TOUGHMEET,1,PEAKPREDATOR,5,DEVOUR,10,RAGE,15,PEAKPREDATOR,20,JAWS,28,MINDLESS,31,SURVIVAL,39,RAGE,45,EQUALNATURE,50,CHASE
+EggGroups = Bug
+HatchSteps = 3840
+Height = 0.3
+Weight = 2.9
+Color = Green
+Shape = Insectoid
+Habitat = Forest
+Category = Worm
+Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Generation = 1

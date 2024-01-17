@@ -560,7 +560,7 @@ Accuracy = 100
 TotalPP = 1
 Target = NearOther
 Priority = 1
-FunctionCode = LowerTargetSpAtk2
+FunctionCode = LowerTargetSpAtk3
 Description = The user stares with its baby-doll eyes, which lowers the target's Attack stat. Always goes first.
 #-------------------------------
 [LIEINWAIT]
@@ -677,7 +677,7 @@ FunctionCode = SwitchOutTargetStatusMove
 Description = The target is scared off and replaced by another Pokémon in its party. In the wild, the battle ends.
 #-------------------------------
 [BLINDSIDE]
-Name = First Impression
+Name = BLINDSIDE
 Type = REASON
 Category = Special
 Power = 100
@@ -1011,7 +1011,7 @@ Category = Status
 Accuracy = 100
 Priority = 3
 FunctionCode = DoesNothingUnusableInGravity
-TotalPP = 1
+TotalPP = 20
 Target = User
 Description = 
 #-------------------------------
