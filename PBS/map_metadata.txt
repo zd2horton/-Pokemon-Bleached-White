@@ -417,3 +417,10 @@ Weather = Fog,100
 BattleBack = redroutes
 TrainerBattleBGM = not maple 1 og
 TrainerVictoryBGM = empty air og
+#-------------------------------
+[106]   # Factory Shores House
+Name = ???
+ShowArea = true
+BattleBack = walle
+WildBattleBGM = reall battel - Copy og
+WildVictoryBGM = empty air og
