@@ -468,7 +468,7 @@ BattleBGM = run fucker og
 Name = CRAZY
 Gender = Male
 BaseMoney = 32
-BattleBGM = run fucker og
+BattleBGM = breathing
 #-------------------------------
 [TROGLODYTE]
 Name = TROGLODYTE
