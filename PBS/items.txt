@@ -12,8 +12,8 @@ Description = A peculiar stone that makes certain species of Pokémon evolve. It
 
 #-------------------------------
 [ROCKYHELMET]
-Name = Rocky Helmet
-NamePlural = Rocky Helmets
+Name = curesis
+NamePlural = curesis
 Pocket = 1
 Price = 3000
 SellPrice = 2000
