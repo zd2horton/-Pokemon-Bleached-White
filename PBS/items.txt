@@ -603,3 +603,10 @@ Pocket = 5
 Price = 80
 Flags = Fling_0
 Description = Prevents you from being KO’d if at full health. You can’t die before you’ve had dessert! How could life be so cruel..
+#-------------------------------
+[FACTORYSHORESKEY]
+Name = Factory Shores Key
+NamePlural = Factory Shores Key
+Pocket = 8
+Flags = KeyItem
+Description = Allows access to a locked house in the Factory Shores.
