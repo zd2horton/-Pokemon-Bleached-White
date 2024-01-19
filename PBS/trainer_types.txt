@@ -469,3 +469,9 @@ Name = CRAZY
 Gender = Male
 BaseMoney = 32
 BattleBGM = run fucker og
+#-------------------------------
+[TROGLODYTE]
+Name = TROGLODYTE
+Gender = Female
+BaseMoney = 32
+BattleBGM = elf 2
