@@ -164,3 +164,9 @@ Pokemon = POOKOOCHUE,10
 Pokemon = POOKOOCHUE,13
 Pokemon = POOKOOCHUE,14
 Pokemon = PHILSOPHER,15
+#-------------------------------
+[SUPERNERD,seasea]
+LoseText = ...
+Pokemon = minomind,15
+Pokemon = TEEHEE,15
+Pokemon = KLAK,15
