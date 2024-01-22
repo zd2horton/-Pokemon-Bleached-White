@@ -2,6 +2,8 @@
 # Edits to databox to add stat stages
 #-------------------------------------------------------------------------------
 class Battle::Scene::PokemonDataBox
+	
+  TYPE_ICON_HEIGHT = 13
 
   alias __databox__initializeOtherGraphics initializeOtherGraphics unless method_defined?(:__databox__initializeOtherGraphics)  
   def initializeOtherGraphics(*args)
@@ -9,7 +11,7 @@ class Battle::Scene::PokemonDataBox
 
     @types_bitmap = AnimatedBitmap.new(@base_path + "Battle/icon_types")
     @types_sprite = Sprite.new(viewport)
-    height = @types_bitmap.height / GameData::Type.count
+    height = TYPE_ICON_HEIGHT
     @types_y = -height
     @types_x = (@battler.opposes?(0)) ? 24 : 40
     @types_sprite.bitmap = Bitmap.new(@databoxBitmap.width - @types_x, height)
@@ -67,7 +69,7 @@ class Battle::Scene::PokemonDataBox
     # Draw Pokémon's types
     @types_sprite.bitmap.clear
     width  = @types_bitmap.width
-    height = @types_bitmap.height / GameData::Type.count
+    height = TYPE_ICON_HEIGHT
     @battler.types.each_with_index do |type, i|
       type_number = GameData::Type.get(type).icon_position
       type_rect = Rect.new(0, type_number * height, width, height) 
