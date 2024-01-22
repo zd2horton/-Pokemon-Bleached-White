@@ -27,27 +27,42 @@ def show_autosave_warn_screen(newgame = false)
   textpos.push([_INTL("This can be turned off in the Options screen."), Graphics.width / 2, 72, 2, base_color, shad_color])
   pbDrawTextPositions(txt.bitmap, textpos)
   duration = (IntroEventScene::FADE_TICKS / 20.0).ceil
-  SmartInterpolator.perform(duration) do |factor, _|
+  t_start = System.uptime
+  loop do
+	timer = System.uptime - t_start
+	timer = duration if timer >= duration
+	factor = timer / duration.to_f
     spr.update
     txt.update
     spr.opacity = 255 * factor
     txt.opacity = 255 * factor
+	break if timer >= duration
   end
   counter   = 0
   inc_opac  = 1
   duration = (IntroEventScene::SECONDS_PER_SPLASH * 2).ceil
-  SmartInterpolator.perform(duration) do |factor, _|
+  t_start = System.uptime
+  loop do
+	timer = System.uptime - t_start
+	timer = duration if timer >= duration
+	factor = timer / duration.to_f
     Input.update
     spr.update
     txt.update
-    next true if (Input.press?(Input::USE) || Input.press?(Input::BACK)) && SaveData.exists?
+	break if timer >= duration
+    break if (Input.press?(Input::USE) || Input.press?(Input::BACK)) && SaveData.exists?
   end
   duration = (IntroEventScene::FADE_TICKS / 20.0).ceil
-  SmartInterpolator.perform(duration) do |factor, _|
+  t_start = System.uptime
+  loop do
+	timer = System.uptime - t_start
+	timer = duration if timer >= duration
+	factor = timer / duration.to_f
     spr.update
     txt.update
     spr.opacity = 255 * (1 - factor)
     txt.opacity = 255 * (1 - factor)
+	break if timer >= duration
   end
   spr.dispose
   txt.dispose

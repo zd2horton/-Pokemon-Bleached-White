@@ -78,9 +78,14 @@ class SaveSlotSelection_Scene
 
   def choose_slot
     dur = 0.25
-    SmartInterpolator.perform(dur) do |factor, _|
+	t_start = System.uptime
+    loop do
+	  timer = System.uptime - t_start
+	  timer = dur if timer >= dur
+	  factor = timer / dur.to_f
       update
       @sprites.each_value { |sprite| sprite.opacity = 255 * factor }
+	  break if timer >= dur
     end
     Graphics.update
     update
@@ -156,7 +161,11 @@ class SaveSlotSelection_Scene
     @sprites["leftarrow"].visible  = false
     @sprites["rightarrow"].visible = false
     dur = 1.to_f / frac
-    SmartInterpolator.perform(dur) do |factor, _|
+    t_start = System.uptime
+    loop do
+	  timer = System.uptime - t_start
+	  timer = dur if timer >= dur
+	  factor = timer / dur.to_f
       update
       @sprites.each do |key, sprite|
         next if !key.include?("panel")
@@ -164,6 +173,7 @@ class SaveSlotSelection_Scene
         x = sprite.bgbitmap.width + (offset / 2)
         sprite.x = start_x[key] - (x * factor)
       end
+	  break if timer >= dur
     end
     refresh_screen
   end
@@ -178,7 +188,11 @@ class SaveSlotSelection_Scene
     @sprites["rightarrow"].visible = false
     frac = 4 + @saved_data.length / 6
     dur = 1.to_f / frac
-    SmartInterpolator.perform(dur) do |factor, _|
+	t_start = System.uptime
+    loop do
+	  timer = System.uptime - t_start
+	  timer = dur if timer >= dur
+	  factor = timer / dur.to_f
       update
       @sprites.each do |key, sprite|
         next if !key.include?("panel")
@@ -186,6 +200,7 @@ class SaveSlotSelection_Scene
         x = sprite.bgbitmap.width + (offset / 2)
         sprite.x = start_x[key] + (x * factor)
       end
+	  break if timer >= dur
     end
     refresh_screen
   end
@@ -390,18 +405,28 @@ class SaveSlotSelection_Scene
   def dispose(black = false)
     if black
       dur = 0.4
-      SmartInterpolator.perform(dur) do |factor, _|
+	  t_start = System.uptime
+      loop do
+	    timer = System.uptime - t_start
+	    timer = dur if timer >= dur
+	    factor = timer / dur.to_f
         update
         @sprites.each_value { |sprite| sprite.color.alpha = 255 * factor }
+		break if timer >= dur
       end
     else
       dur = 0.25
-      SmartInterpolator.perform(dur) do |factor, _|
+	  t_start = System.uptime
+      loop do
+	    timer = System.uptime - t_start
+	    timer = dur if timer >= dur
+	    factor = timer / dur.to_f
         update
         @sprites.each_value do |sprite|
           next if sprite.opacity == 0
           sprite.opacity = 255 * (1 - factor)
         end
+		break if timer >= dur
       end
     end
     Graphics.update
