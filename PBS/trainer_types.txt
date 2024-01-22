@@ -480,11 +480,11 @@ BattleBGM = elf 2
 Name = salty
 Gender = Female
 BaseMoney = 32
-BattleBGM = elf 2
+BattleBGM = enger weering of the machieen
 #-------------------------------
 [Goon]
 Name = Goon
 Gender = Female
 BaseMoney = 32
-BattleBGM = elf 2
+BattleBGM = enger weering of the machieen
 
