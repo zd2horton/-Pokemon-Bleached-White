@@ -170,3 +170,22 @@ LoseText = ...
 Pokemon = minomind,15
 Pokemon = TEEHEE,15
 Pokemon = KLAK,15
+#-------------------------------
+[salty,joey]
+LoseText = ...
+Pokemon = TOMUCHFACES,21
+#-------------------------------
+[GG,leala]
+LoseText = ...
+Pokemon = BIRSON,16
+Pokemon = BIRSON,17
+Pokemon = BIRSON,18
+Pokemon = BIRSON,19
+Pokemon = BIRSON,20
+Pokemon = BIRSON,21
+#-------------------------------
+[SUPERNERD,nor]
+LoseText = ...
+Pokemon = minomind,18
+Pokemon = SEVLEOMED,20
+Pokemon = BUGABOO,18

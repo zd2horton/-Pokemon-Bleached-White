@@ -475,3 +475,16 @@ Name = TROGLODYTE
 Gender = Female
 BaseMoney = 32
 BattleBGM = elf 2
+#-------------------------------
+[salty]
+Name = salty
+Gender = Female
+BaseMoney = 32
+BattleBGM = elf 2
+#-------------------------------
+[Goon]
+Name = Goon
+Gender = Female
+BaseMoney = 32
+BattleBGM = elf 2
+
