@@ -1,0 +1,16 @@
+Name       = Game Saving EX
+Version    = 1.0.0
+Essentials = 21.1
+Website    = https://www.youtube.com/watch?v=dQw4w9WgXcQ
+Conflicts  = Quicksave
+Conflicts  = Multiple save (v.19)
+Optional   = Following Pokemon EX, 2.1.0
+Optional   = Boss Battles EX, 1.0.0
+Optional   = Battle Scripting EX, 1.0.0
+Optional   = Battle Databoxes EX, 1.0.0
+Optional   = Elite Battle DX, 1.2.1
+Optional   = Item Find, 2.0.0
+Optional   = Control System EX, 1.0.0
+Credits    = Golisopod User, Marin, Contributors to the Pokemon SDK, Luka S.J.
+
+# Add Mystery Gift option to menu screen probably.
