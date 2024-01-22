@@ -189,3 +189,10 @@ LoseText = ...
 Pokemon = minomind,18
 Pokemon = SEVLEOMED,20
 Pokemon = BUGABOO,18
+#-------------------------------
+[Goon,nat]
+LoseText = ...
+Pokemon = TEEHEE,18
+Pokemon = CLOCLO,21
+Pokemon = CLOCLO,21
+Pokemon = POOKOOCHUE,18
