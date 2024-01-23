@@ -7,6 +7,7 @@ Name = Intro
 Name = Lappet Town
 Outdoor = true
 ShowArea = true
+Weather = Fog,100
 MapPosition = 0,13,12
 BattleBack = field
 #-------------------------------
