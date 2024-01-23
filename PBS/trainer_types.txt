@@ -487,4 +487,3 @@ Name = Goon
 Gender = Female
 BaseMoney = 32
 BattleBGM = enger weering of the machieen
-
