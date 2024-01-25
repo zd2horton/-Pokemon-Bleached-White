@@ -672,7 +672,7 @@ Category = Status
 Accuracy = 0
 TotalPP = 3
 Target = NearOther
-Priority = -6
+Priority = -1
 FunctionCode = SwitchOutTargetStatusMove
 Description = The target is scared off and replaced by another Pokémon in its party. In the wild, the battle ends.
 #-------------------------------
