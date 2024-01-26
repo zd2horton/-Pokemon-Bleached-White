@@ -53,6 +53,13 @@ BattleBack = indoor3
 Environment = Rock
 Flags = DisableBoxLink
 #-------------------------------
+[023]   # Cedolan Gym
+Name = Cedolan City
+MapPosition = 0,13,10
+BattleBack = indoor3
+Environment = Rock
+Flags = DisableBoxLink
+#-------------------------------
 [011]   # Pokémon Institute
 Name = Cedolan City
 MapPosition = 0,14,10
