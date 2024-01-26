@@ -102,12 +102,6 @@ MapPosition = 0,14,8
 BattleBack = field
 MapSize = 1,11
 #-------------------------------
-[023]
-Name = Lerucean Town
-Outdoor = true
-ShowArea = true
-MapPosition = 0,15,8
-#-------------------------------
 [024]
 Name = Lerucean Town
 HealingSpot = 23,11,15
@@ -435,3 +429,4 @@ ShowArea = true
 BattleBack = DIGTHROUGH
 WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
+Environment = DIGTHROUGH

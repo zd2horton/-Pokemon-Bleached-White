@@ -1,9 +1,9 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-# BUMP (21) - Lerucean Town (23)
-21,East,1,23,West,0
-# Route 3 (31) - Lerucean Town (23)
-31,South,32,23,North,0
+# BUMP (21) 
+21,East,1
+# Route 3 (31) 
+31,South,32
 # Ingido Plateau outside (35) - Route 3 (31)
 35,East,10,31,West,0
 # Route 4 (39) - Ingido Plateau outside (35)
