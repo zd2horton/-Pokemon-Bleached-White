@@ -3,52 +3,72 @@
 # BUMP (21) - Lerucean Town (23)
 #Delete this line and the # from the next if a new connection from BUMP is made.(Zach)
 #21,East,1,23,West,0
+
 # Route 3 (31) - Lerucean Town (23)
 #Delete this line and the # from the next if a new connection from Route 3 is made.(Zach) 
 #31,South,32,23,North,0
+
 # Ingido Plateau outside (35) - Route 3 (31)
 #Delete this line and the # from the next if a new connection from Route 3 is made.(Zach)
 #35,East,10,31,West,0
+
 # Route 4 (39) - Ingido Plateau outside (35)
 #Delete this line and the # from the next if a new connection from Indigo Plateau is made.(Zach) 
 #39,East,0,35,West,12
+
 # road (41) - Route 4 Cycling Road (40)
 #Delete this line and the # from the next if a new connection from Road is made.(Zach) 
 #41,North,0,40,South,0
+
 # road (41) - Route 6 Cycling Road (45)
 #Delete this line and the # from the next if a new connection from Road is made.(Zach) 
 #41,South,6,45,North,0
+
 # Cedolan City (7) - factory forest transition (104)
 7,North,75,104,South,0
+
 # Route 7 (47) - factory forest transition (104)
 47,North,15,104,South,0
+
 # factory shore  (83) - factory forest transition (104)
 83,West,30,104,East,0
+
 # forest (93) - factory forest transition (104)
 93,South,17,104,North,0
+
 # Route 1 (5) - Cedolan City (7)
 5,North,2,7,South,0
+
 # Route 7 (47) - Cedolan City (7)
 47,West,0,7,East,0
+
 # Route 6 (44) - Cedolan City (7)
 #Delete this line and the # from the next if a new connection from Cedolan City is made.(Zach) 
 #44,East,0,7,West,5
+
 # Lappet Town (2) - Route 1 (5)
 2,North,0,5,South,4
+
 # Safari Zone outside (66) - Route 1 (5)
 #Delete this line and the # from the next if a new connection from Route 1 is made.(Zach) 
 #66,North,18,5,South,0
+
 # Route 7 (47) - Route 1 (5)
 47,South,0,5,North,62
+
 # factory shore  (83) - Route 1 (5)
 83,South,0,5,North,132
+
 # Route 6 (44) - Route 1 (5)
 #Delete this line and the # from the next if a new connection from Route 1 is made.(Zach) 
 #44,South,43,5,North,0
+
 # Safari Zone outside (66) - Lappet Town (2)
 #Delete this line and the # from the next if a new connection from Lappet is made.(Zach) 
 #66,East,0,2,West,0
+
 # Route 8 (69) - Lappet Town (2)
 69,North,12,2,South,0
+
 # factory shore  (83) - Route 7 (47)
 83,West,87,47,East,0
