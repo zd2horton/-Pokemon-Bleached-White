@@ -196,3 +196,10 @@ Pokemon = TEEHEE,18
 Pokemon = CLOCLO,21
 Pokemon = CLOCLO,21
 Pokemon = POOKOOCHUE,18
+#-------------------------------
+[PUCHYMAN,MANMAN]
+LoseText = ...
+Pokemon = BARY,12
+Pokemon = BARY,12
+Pokemon = BARY,12
+Pokemon = BUGABOO,15

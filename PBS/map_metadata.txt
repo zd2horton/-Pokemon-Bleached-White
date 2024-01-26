@@ -403,6 +403,10 @@ Outdoor = true
 Weather = Rain,100
 BattleBack = factoryshore
 #-------------------------------
+[093]   # forest
+WildBattleBGM = fuck you forest final 
+BattleBack = forist
+#-------------------------------
 [100]   # fan club
 Name = fan club
 BattleBack = fanclub
@@ -423,4 +427,11 @@ Name = ???
 ShowArea = true
 BattleBack = walle
 WildBattleBGM = reall battel - Copy og
+WildVictoryBGM = empty air og
+#-------------------------------
+[200]   # DIG THROUGH 
+Name = ???
+ShowArea = true
+BattleBack = DIGTHROUGH
+WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
