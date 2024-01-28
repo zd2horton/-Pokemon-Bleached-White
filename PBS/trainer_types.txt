@@ -444,7 +444,7 @@ BattleBGM = battel theme og
 Name = PUNCHYLADY
 Gender = Male
 BaseMoney = 32
-BattleBGM = run fucker og
+BattleBGM = slow fight
 #-------------------------------
 [SMARTASS]
 Name = Smartass
@@ -456,13 +456,13 @@ BattleBGM = what the fuck bid i do og
 Name = Excavator
 Gender = Male
 BaseMoney = 32
-BattleBGM = run fucker og
+BattleBGM = indarsty
 #-------------------------------
 [PUCHYMAN]
 Name = PUCHYMAN
 Gender = Male
 BaseMoney = 32
-BattleBGM = run fucker og
+BattleBGM = sloooow
 #-------------------------------
 [CRAZY]
 Name = CRAZY
@@ -474,16 +474,28 @@ BattleBGM = breathing
 Name = TROGLODYTE
 Gender = Female
 BaseMoney = 32
-BattleBGM = elf 2
+BattleBGM = awsome
 #-------------------------------
 [salty]
 Name = salty
 Gender = Female
 BaseMoney = 32
-BattleBGM = enger weering of the machieen
+BattleBGM = slow slow fight
 #-------------------------------
 [Goon]
 Name = Goon
 Gender = Female
 BaseMoney = 32
 BattleBGM = enger weering of the machieen
+#-------------------------------
+[spooky]
+Name = spooky
+Gender = Female
+BaseMoney = 32
+BattleBGM = gulity
+#-------------------------------
+[butcher]
+Name = butcher
+Gender = Female
+BaseMoney = 32
+BattleBGM = prayer to the deep
