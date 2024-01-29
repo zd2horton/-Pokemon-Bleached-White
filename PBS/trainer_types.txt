@@ -499,3 +499,10 @@ Name = butcher
 Gender = Female
 BaseMoney = 32
 BattleBGM = prayer to the deep
+#-------------------------------
+[eginer ]
+Name = eginer 
+Gender = Female
+BaseMoney = 32
+BattleBGM = prayer to the deep
+

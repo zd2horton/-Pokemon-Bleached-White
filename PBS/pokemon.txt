@@ -2531,6 +2531,7 @@ Habitat = Forest
 Category = Worm
 Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
 Generation = 1
+Evolutions = DARD,Level,25
 #-------------------------------
 [DARD]
 Name = DARD
@@ -2554,6 +2555,7 @@ Habitat = Forest
 Category = Worm
 Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
 Generation = 1
+Evolutions = DARK,Level,40
 #-------------------------------
 [DARK]
 Name = DARK
@@ -2646,6 +2648,7 @@ Habitat = Forest
 Category = Worm
 Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
 Generation = 1
+Evolutions = sisters,Level,40
 #-------------------------------
 [sisters]
 Name = Sisters
@@ -2738,6 +2741,7 @@ Habitat = Forest
 Category = Worm
 Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
 Generation = 1
+Evolutions = BERMYB,Level,40
 #-------------------------------
 [BERMYB]
 Name = BERMY.B
@@ -2784,6 +2788,7 @@ Habitat = Forest
 Category = Worm
 Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
 Generation = 1
+Evolutions = DAMPANDDARK,Level,40
 #-------------------------------
 [DAMPANDDARK]
 Name = DampandDark
@@ -2853,6 +2858,7 @@ Habitat = Forest
 Category = Worm
 Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
 Generation = 1
+Evolutions = TUUMMAARR,Level,40
 #-------------------------------
 [TUUMMAARR]
 Name = TUUMMAARR
