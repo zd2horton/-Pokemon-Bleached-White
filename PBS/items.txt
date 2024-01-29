@@ -119,10 +119,10 @@ Description = An item to be held by a Pokémon. This scarf boosts Speed but allo
 #-------------------------------
 
 [LEFTOVERS]
-Name = Leftovers
-NamePlural = Leftovers
-PortionName = serving of Leftovers
-PortionNamePlural = servings of Leftovers
+Name = cutekittyplush
+NamePlural = cutekittyplushs
+PortionName = cutekittyplush
+PortionNamePlural = cutekittyplushs
 Pocket = 1
 Price = 4000
 BPPrice = 25

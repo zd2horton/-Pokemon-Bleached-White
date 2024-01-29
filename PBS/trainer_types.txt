@@ -505,4 +505,12 @@ Name = eginer
 Gender = Female
 BaseMoney = 32
 BattleBGM = prayer to the deep
+#-------------------------------
+[LEADEROFMIND]
+Name = LEADER OF MIND 
+Gender = Female
+BaseMoney = 32
+BattleBGM = prayer to the deep
+skilllevel = 1000000
+
 

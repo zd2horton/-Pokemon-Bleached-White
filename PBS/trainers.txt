@@ -270,3 +270,23 @@ Pokemon = SUPERSMUNKYBALL,24
 Pokemon = noking,20
 Pokemon = minomind,20
 Pokemon = DRAG,22
+#-------------------------------
+[LEADEROFMIND,.]
+LoseText = Very good.
+Pokemon = ENGORGED,25
+    Moves = NEST,BLOODSUCKER,BRAINBREAK,HOLLOWOUT
+    AbilityIndex = 0
+    Gender = male
+    Item = EMPTYBERRY
+Pokemon = IDOL,25
+    Moves = TENSION,HOUR,MIMIC,STARTLE
+    AbilityIndex = 0
+    Item = LEFTOVERS
+    Gender = male
+Pokemon = sister,25
+    Moves = INVULNERABLE,QUICKTHINKING,MAGICNUMBER,DECOY
+    AbilityIndex = 0
+    Item = SPECDEFBERRY
+    
+  
+
