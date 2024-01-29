@@ -1,0 +1,67 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[REASON]
+Name = REASON
+IconPosition = 0
+Weaknesses = BEAST,EMPTY 
+Resistances = TERROR,FANTASY
+#-------------------------------
+[BEAST]
+Name = BEAST
+IconPosition = 1
+Weaknesses = TERROR,FANTASY
+Resistances = REASON,EMPTY
+
+#-------------------------------
+[EMPTY]
+Name = EMPTY
+IconPosition = 2
+Weaknesses = FANTASY,BEAST
+Immunities = REASON
+#-------------------------------
+[FANTASY]
+Name = FANTASY
+IconPosition = 3
+Weaknesses = TERROR,REASON
+Resistances =EMPTY,BEAST
+#-------------------------------
+[TERROR]
+Name = TERROR
+IconPosition = 4
+Weaknesses = REASON,EMPTY
+Resistances = BEAST,FANTASY
+#-------------------------------
+[FLYING]
+Name = Flying
+IconPosition = 2
+#-------------------------------
+[GROUND]
+Name = Ground
+#-------------------------------
+[GHOST]
+Name = Ghost
+#-------------------------------
+[TRUCK]
+Name = TRUCK!
+IconPosition = 6
+#-------------------------------
+[CLOWN]
+Name = CLOWN <3
+IconPosition = 5
+Weaknesses = FANTASY
+Immunities = REASON
+Resistances =EMPTY,BEAST
+#-------------------------------
+[BLOON]
+Name = BloOn :)
+IconPosition = 7
+Weaknesses = FANTASY,EMPTY,BEAST,REASON,CLOWN,TRUCK,EMPTY
+#-------------------------------
+[FURRY]
+Name = FURRY O w O
+IconPosition = 8
+
+#-------------------------------
+[GRASS]
+Name = Ghost
+#-------------------------------
