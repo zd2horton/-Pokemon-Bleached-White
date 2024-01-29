@@ -223,9 +223,50 @@ Pokemon = TOMUCHFACES,22
 Pokemon = DRAG,22
 Pokemon = IDOL,22
 #-------------------------------
-[salty,Joj]
+[eginer,tim]
 LoseText = ...
-Pokemon = TOMUCHFACES,22
-Pokemon = DRAG,22
-Pokemon = IDOL,22
+Pokemon = noking,22
+Pokemon = minomind,22
 #-------------------------------
+[eginer,tom]
+LoseText = ...
+Pokemon = CRITTERSSS,25
+#-------------------------------
+[SUPERNERD,toff]
+LoseText = ...
+Pokemon = minomind,22
+Pokemon = minomind,22
+Pokemon = TOMUCHFACES,22
+Pokemon = TOMUCHFACES,22
+#-------------------------------
+[SMARTASS,taly]
+LoseText = ...
+Pokemon = moomoon,22
+Pokemon = moomoon,22
+Pokemon = LITTELSTAR,22
+#-------------------------------
+[eginer,tatsy]
+LoseText = ...
+Pokemon = noking,22
+Pokemon = minomind,22
+Pokemon = LITTELSTAR,22
+Pokemon = moomoon,22
+#-------------------------------
+[SUPERNERD,toots]
+LoseText = ...
+Pokemon = FLATMAN,23
+Pokemon = POSEY,23
+Pokemon = DUK,22
+Pokemon = SUPERSMUNKYBALL,24
+#-------------------------------
+[Goon,tass]
+LoseText = ...
+Pokemon = THERAM,27
+#-------------------------------
+[SUPERNERD,tall]
+LoseText = ...
+Pokemon = LITTELSTAR,20
+Pokemon = SUPERSMUNKYBALL,24
+Pokemon = noking,20
+Pokemon = minomind,20
+Pokemon = DRAG,22
