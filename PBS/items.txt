@@ -610,3 +610,10 @@ NamePlural = Factory Shores Key
 Pocket = 8
 Flags = KeyItem
 Description = Allows access to a locked house in the Factory Shores.
+#-------------------------------
+[TWENTYDOLLARS]
+Name = Bundle of 20 Dollars
+NamePlural = Bundle of 20 Dollars
+Pocket = 8
+Flags = KeyItem
+Description = Nobody uses this currency anymore, but maybe there's some people who would want it.
