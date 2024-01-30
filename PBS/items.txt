@@ -149,8 +149,8 @@ Description = An item to be held by a Pokémon. It restores any lowered stat in 
 
 #-------------------------------
 [WEAKNESSPOLICY]
-Name = Weakness Policy
-NamePlural = Weakness Policies
+Name = Chalice of need
+NamePlural = Chalice of need
 Pocket = 1
 Price = 1000
 BPPrice = 20
