@@ -218,10 +218,10 @@ Flags = Fling_30
 Description = A nutritious drink for Pokémon. It raises the base HP of a single Pokémon.
 #-------------------------------
 [PROTEIN]
-Name = Protein
-NamePlural = Proteins
-PortionName = bottle of Protein
-PortionNamePlural = bottles of Protein
+Name = MOUTH
+NamePlural = MOUTHs
+PortionName = MOUTH
+PortionNamePlural = MOUTH
 Pocket = 2
 Price = 10000
 FieldUse = OnPokemon
@@ -229,10 +229,10 @@ Flags = Fling_30
 Description = A nutritious drink for Pokémon. It raises the base Attack stat of a single Pokémon.
 #-------------------------------
 [IRON]
-Name = Iron
-NamePlural = Irons
-PortionName = bottle of Iron
-PortionNamePlural = bottles of Iron
+Name = HAND
+NamePlural = HANDs
+PortionName = HAND
+PortionNamePlural = HAND
 Pocket = 2
 Price = 10000
 FieldUse = OnPokemon
@@ -240,10 +240,10 @@ Flags = Fling_30
 Description = A nutritious drink for Pokémon. It raises the base Defense stat of a single Pokémon.
 #-------------------------------
 [CALCIUM]
-Name = Calcium
-NamePlural = Calciums
-PortionName = bottle of Calcium
-PortionNamePlural = bottles of Calcium
+Name = EYE
+NamePlural = EYEs
+PortionName = EYE
+PortionNamePlural = EYE
 Pocket = 2
 Price = 10000
 FieldUse = OnPokemon
@@ -251,10 +251,10 @@ Flags = Fling_30
 Description = A nutritious drink for Pokémon. It raises the base Sp. Atk (Special Attack) stat of a single Pokémon.
 #-------------------------------
 [ZINC]
-Name = Zinc
-NamePlural = Zincs
-PortionName = bottle of Zinc
-PortionNamePlural = bottles of Zinc
+Name = HAIR
+NamePlural =HAIRs
+PortionName = HAIR
+PortionNamePlural = HAIR
 Pocket = 2
 Price = 10000
 FieldUse = OnPokemon
@@ -262,10 +262,10 @@ Flags = Fling_30
 Description = A nutritious drink for Pokémon. It raises the base Sp. Def (Special Defense) stat of a single Pokémon.
 #-------------------------------
 [CARBOS]
-Name = Carbos
-NamePlural = Carbos
-PortionName = bottle of Carbos
-PortionNamePlural = bottles of Carbos
+Name = FOOT
+NamePlural = FOOTs
+PortionName = bottle of FOOTs
+PortionNamePlural = bottles of FOOTs
 Pocket = 2
 Price = 10000
 FieldUse = OnPokemon
