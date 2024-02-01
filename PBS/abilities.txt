@@ -140,7 +140,7 @@ Name = Eager
 Description = Physical attacks lower Defense and raise Speed.
 #-------------------------------
 [PROTEAN]
-Name = Protean
+Name = hehe
 Description = It changes type to that of the move it's about to use.
 #-------------------------------
 [STAMINA]
@@ -152,7 +152,7 @@ Name = thewheelturns
 Description = All the Pokémon's moves become the Normal type.
 #-------------------------------
 [SHIELDDUST]
-Name = Shield Dust
+Name = Immutable
 Description = Blocks the added effects of attacks taken.
 #-------------------------------
 [ROUGHSKIN]
@@ -171,3 +171,10 @@ Description = Damages an attacker that lands the finishing hit.
 Name = RUN
 Description = Cowardly switches out if its HP becomes half or less.
 #-------------------------------
+[BATTLEARMOR]
+Name = Battle Armor
+Description = The Pokémon is protected against critical hits.
+#-------------------------------
+[ANGERPOINT]
+Name = ow shit 
+Description = Maxes Attack after taking a critical hit.
