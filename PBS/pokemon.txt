@@ -2977,6 +2977,7 @@ Habitat = Forest
 Category = Worm
 Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
 Generation = 1
+Evolutions = DarwinsAngel,Level,40
 #-------------------------------
 [DarwinsAngel]
 Name = Darwins Angel
@@ -3023,6 +3024,7 @@ Habitat = Forest
 Category = Worm
 Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
 Generation = 1
+Evolutions = DOSME,Level,30
 #-------------------------------
 [DOSME]
 Name = DOSME
