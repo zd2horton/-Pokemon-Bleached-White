@@ -692,7 +692,7 @@ Description = Although this move has great power, it only works the first turn t
 [MINDVMIGHT]
 Name = MindVmight 
 Type = REASON
-Category = Special
+Category = Physical
 Power = 95
 Accuracy = 100
 TotalPP = 5
@@ -702,7 +702,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = The user turns the foe's power against it. It does more damage the higher the target's Attack stat.
 #-------------------------------
 [OUTWIT]
-Name = Sucker Punch
+Name = OUTWIT
 Type = REASON
 Category = Special
 Power = 40
