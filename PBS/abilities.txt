@@ -178,3 +178,59 @@ Description = The Pokémon is protected against critical hits.
 [ANGERPOINT]
 Name = ow shit 
 Description = Maxes Attack after taking a critical hit.
+#-------------------------------
+[SKILLLINK]
+Name = Skill Link
+Description = Increases the frequency of multi-strike moves.
+#-------------------------------
+[SNIPER]
+Name = Sniper
+Description = Powers up moves if they become critical hits.
+#-------------------------------
+[UNNERVE]
+Name = Unnerve
+Description = Makes the foe nervous and unable to eat Berries.
+#-------------------------------
+[HARVEST]
+Name = Harvest
+Description = May create another Berry after one is used.
+#-------------------------------
+[CHEEKPOUCH]
+Name = Cheek Pouch
+Description = Restores HP as well when the Pokémon eats a Berry.
+#-------------------------------
+[COMPETITIVE]
+Name = Competitive
+Description = Sharply boosts Sp. Atk when a stat is lowered.
+#-------------------------------
+[BERSERK]
+Name = Berserk
+Description = Ups Sp. Atk if a hit makes its HP half or less.
+#-------------------------------
+[SOULHEART]
+Name = Soul-Heart
+Description = Boosts Sp. Atk each time a Pokémon faints.
+#-------------------------------
+[RECEIVER]
+Name = Receiver
+Description = Copies the Ability of a defeated ally.#
+#-------------------------------
+[BEASTBOOST]
+Name = Beast Boost
+Description = Boosts its best stat each time it deals a KO.
+#-------------------------------
+[SHADOWSHIELD]
+Name = Shadow Shield
+Description = Resists damage while its HP is full.
+#-------------------------------
+[NEUROFORCE]
+Name = Neuroforce
+Description = Powers up moves that are super-effective.
+#-------------------------------
+[RIPEN]
+Name = Ripen
+Description = Ripens Berries and doubles their effect.
+#-------------------------------
+[PERISHBODY]
+Name = Perish Body
+Description = Both Pokémon faint 3 turns after taking a contact hit.
