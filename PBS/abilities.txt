@@ -188,7 +188,7 @@ Name = Sniper
 Description = Powers up moves if they become critical hits.
 #-------------------------------
 [UNNERVE]
-Name = Unnerve
+Name = Sick
 Description = Makes the foe nervous and unable to eat Berries.
 #-------------------------------
 [HARVEST]
@@ -228,7 +228,7 @@ Name = Neuroforce
 Description = Powers up moves that are super-effective.
 #-------------------------------
 [RIPEN]
-Name = Ripen
+Name = Fecundity
 Description = Ripens Berries and doubles their effect.
 #-------------------------------
 [PERISHBODY]
