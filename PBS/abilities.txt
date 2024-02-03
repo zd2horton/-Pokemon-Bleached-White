@@ -192,7 +192,7 @@ Name = Sick
 Description = Makes the foe nervous and unable to eat Berries.
 #-------------------------------
 [HARVEST]
-Name = Harvest
+Name = Birth
 Description = May create another Berry after one is used.
 #-------------------------------
 [CHEEKPOUCH]

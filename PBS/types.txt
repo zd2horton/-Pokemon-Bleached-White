@@ -60,8 +60,11 @@ Weaknesses = FANTASY,EMPTY,BEAST,REASON,CLOWN,TRUCK,EMPTY
 [FURRY]
 Name = FURRY O w O
 IconPosition = 8
-
+Weaknesses = BEAST,EMPTY,BLOON
+Resistances = FANTASY,TRUCK,TERROR
 #-------------------------------
-[GRASS]
-Name = Ghost
-#-------------------------------
+[WRONG]
+Name = :;W+RO^N%G@~#
+IconPosition = 9
+Resistances = FANTASY,EMPTY,BEAST,REASON,EMPTY
+Weaknesses = CLOWN,TRUCK,BLOON,FURRY
