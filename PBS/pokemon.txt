@@ -3442,3 +3442,25 @@ Habitat = Forest
 Category = Worm
 Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
 Generation = 1
+#-------------------------------
+[eEeMm]
+Name = eEeMm
+Types = FANTASY
+BaseStats =80,10,60,80,60,100
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 39
+EVs = HP,1
+CatchRate = 800
+Happiness = 50
+Abilities = SNIPER
+Moves = 1,MAGICNUMBER,1,DREAM,1,ICARUS,1,DRACONICBREATH
+HatchSteps = 3840
+Height = 0.3
+Weight = 2.9
+Color = Green
+Shape = Insectoid
+Habitat = Forest
+Category = Worm
+Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Generation = 1
