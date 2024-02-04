@@ -166,15 +166,23 @@ MapPosition = 0,13,13
 DiveMap = 70
 BattleBack = field
 #-------------------------------
-[070]   # Route 8 underwater
+[070]
 Name = Route 8
 MapPosition = 0,13,13
 BattleBack = underwater
 Environment = Underwater
 #-------------------------------
-[071]   # Route 8 harbor
+[071]
 Name = Route 8
 MapPosition = 0,13,13
+#-------------------------------
+[077]   # MAP077
+Name = Highlands
+Outdoor = true
+WildBattleBGM = not maple 1 og
+TrainerBattleBGM = empty air og
+WildVictoryBGM = not maple 1 og
+TrainerVictoryBGM = empty air og
 #-------------------------------
 [083]   # factory shore 
 Name = Factory Shore
@@ -185,8 +193,8 @@ BattleBack = factoryshore
 [093]   # forest
 Name = Forest
 Outdoor = true
-WildBattleBGM = fuck you forest final
 BattleBack = forist
+WildBattleBGM = fuck you forest final
 #-------------------------------
 [100]   # fan club
 Name = fan club
@@ -210,11 +218,9 @@ BattleBack = walle
 WildBattleBGM = reall battel - Copy og
 WildVictoryBGM = empty air og
 #-------------------------------
-[200]   # DIG THROUGH ("Rock Cave 1F" in RPG Maker)
+[200]   # Rock Cave 1F
 Name = ???
 ShowArea = true
 BattleBack = DIGTHROUGH
 WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
-#A "DIGTHROUGH" environment doesn't exist and currently crashes the game. Remove this line and the # from the next if one is made.(Zach) 
-#Environment = DIGTHROUGH
