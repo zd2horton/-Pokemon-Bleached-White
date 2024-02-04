@@ -705,9 +705,9 @@ Description = The user turns the foe's power against it. It does more damage the
 Name = OUTWIT
 Type = REASON
 Category = Special
-Power = 60
+Power = 100
 Accuracy = 100
-TotalPP = 5
+TotalPP = 3
 Target = NearOther
 Priority = 1
 FunctionCode = FailsIfTargetActed
@@ -1070,3 +1070,50 @@ Target = NearOther
 FunctionCode = LowerPPOfTargetLastMoveBy99
 Flags = Contact,CanProtect
 Description = The user unleashes its grudge on the move last used by the target by cutting 2 PP from it.
+#-------------------------------
+[SUITUP]
+Name = SUIT UP
+Type = FURRY
+Category = Status
+Accuracy = 0
+TotalPP = 10
+Target = User
+FunctionCode = RaiseUserDefSpDef1
+Description = The user calls out its underlings to shield its body, raising its Defense and Sp. Def stats.
+#-------------------------------
+[PAWCONGA]
+Name = PAW CONGA
+Type = FURRY
+Category = Physical
+Power = 1
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = HitOncePerUserTeamMember
+Flags = CanProtect,CanMirrorMove
+Description = The user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.
+#-------------------------------
+[PRICESFORFURR]
+Name = PRICESFORFURR
+Type = FURRY
+Category = Physical
+Power = 50
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+Priority = -6
+FunctionCode = SwitchOutTargetDamagingMove,RecoilThirdOfDamageDealt
+Flags = Contact,CanProtect,CanMirrorMove
+Description = The user knocks away the target and drags out another Pokémon in its party. In the wild, the battle ends.
+#-------------------------------
+[Contagion]
+Name = Contagion
+Type = FURRY
+Category = Physical
+Power = 20
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = BindTarget
+Flags = Contact,CanProtect,CanMirrorMove,CannotMetronome
+Description = The user snares the target in a snap trap for four to five turns

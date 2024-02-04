@@ -184,7 +184,7 @@ Name = Skill Link
 Description = Increases the frequency of multi-strike moves.
 #-------------------------------
 [SNIPER]
-Name = Sniper
+Name = Krael 
 Description = Powers up moves if they become critical hits.
 #-------------------------------
 [UNNERVE]
@@ -220,7 +220,7 @@ Name = Beast Boost
 Description = Boosts its best stat each time it deals a KO.
 #-------------------------------
 [SHADOWSHIELD]
-Name = Shadow Shield
+Name = TO CUTE !
 Description = Resists damage while its HP is full.
 #-------------------------------
 [NEUROFORCE]
