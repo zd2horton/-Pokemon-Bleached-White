@@ -72,7 +72,7 @@ Name = unlucky
 Description = May disable a move used on the Pokémon.
 #-------------------------------
 [DEFIANT]
-Name = grumpy
+Name = Grumpy /:<
 Description = When its stats are lowered its Attack increases.
 #-------------------------------
 [CONTRARY]
@@ -196,7 +196,7 @@ Name = Birth
 Description = May create another Berry after one is used.
 #-------------------------------
 [CHEEKPOUCH]
-Name = Cheek Pouch
+Name = Munch
 Description = Restores HP as well when the Pokémon eats a Berry.
 #-------------------------------
 [COMPETITIVE]
@@ -204,7 +204,7 @@ Name = Competitive
 Description = Sharply boosts Sp. Atk when a stat is lowered.
 #-------------------------------
 [BERSERK]
-Name = Berserk
+Name = not yet 
 Description = Ups Sp. Atk if a hit makes its HP half or less.
 #-------------------------------
 [SOULHEART]
