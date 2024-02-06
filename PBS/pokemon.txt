@@ -3420,7 +3420,7 @@ Category = Worm
 Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
 Generation = 1
 #-------------------------------
-[315]
+[three]
 Name = 315
 Types = TERROR
 BaseStats =150,10,40,130,70,80
