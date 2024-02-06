@@ -208,7 +208,7 @@ Name = not yet
 Description = Ups Sp. Atk if a hit makes its HP half or less.
 #-------------------------------
 [SOULHEART]
-Name = Soul-Heart
+Name = More
 Description = Boosts Sp. Atk each time a Pokémon faints.
 #-------------------------------
 [RECEIVER]

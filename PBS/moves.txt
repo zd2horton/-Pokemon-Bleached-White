@@ -945,7 +945,7 @@ FunctionCode = SwitchOutUserPassOnEffects
 Description = The user switches places with a party Pokémon in waiting, passing along any stat changes.
 #-------------------------------
 [TRUMPCARD]
-Name = Trump Card
+Name = Last Card
 Type = CLOWN
 Category = Special
 Power = 1
