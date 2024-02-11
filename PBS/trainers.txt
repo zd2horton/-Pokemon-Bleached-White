@@ -288,5 +288,10 @@ Pokemon = sister,25
     AbilityIndex = 0
     Item = SPECDEFBERRY
     
-  
+  #-------------------------------
+[BESTBOY,NUGO]
+LoseText = ...
+Pokemon = ONGYRO,99
+
+
 
