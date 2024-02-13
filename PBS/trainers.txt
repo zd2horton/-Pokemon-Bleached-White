@@ -95,7 +95,7 @@ Pokemon = POOKOOCHUE,13
 LoseText = ...
 Pokemon = CROOKEDMAN,20
 #-------------------------------
-[BEAUTY_NM,lallllllllm]
+[BEAUTY,lallllllllm]
 LoseText = ...
 Pokemon = DRAG,15
 Pokemon = BIRSON,15

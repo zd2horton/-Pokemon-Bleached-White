@@ -1,4 +1,4 @@
-F# See the documentation on the wiki to learn how to edit this file.
+# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [KOW]
 Name = Kow
@@ -10,7 +10,7 @@ BaseExp = 64
 EVs = SPECIAL_ATTACK,1
 CatchRate = 45
 Happiness = 50
-Abilities = MOXIEF
+Abilities = MOXIE
 Moves = 1,DEVOUR,1,JAWS,3,HUNTDOWN,6,CHASE,9,RAGE,12,PEAKPREDATOR
 EggGroups = Monster,Grass
 HatchSteps = 5120
