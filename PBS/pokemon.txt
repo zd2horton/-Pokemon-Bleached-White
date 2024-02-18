@@ -20,7 +20,7 @@ Color = Green
 Shape = Quadruped
 Habitat = Grassland
 Category = Seed
-Pokedex = Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.
+Pokedex = Original character. Do not steal!!!
 Generation = 1
 Evolutions = AUROCHS,Level,16
 #-------------------------------
@@ -44,7 +44,7 @@ Color = Green
 Shape = Quadruped
 Habitat = Grassland
 Category = Seed
-Pokedex = To support its bulb, Ivysaur's legs grow sturdy. If it spends more time lying in the sunlight, the bud will soon bloom into a large flower.
+Pokedex = If consuming the flesh is wrong, why does it taste so sweet? I’m sure the victim would have agreed with me, Mr. Judge.
 Generation = 1
 Evolutions = BODIVINE,Level,32
 #-------------------------------
@@ -68,7 +68,7 @@ Color = Green
 Shape = Quadruped
 Habitat = Grassland
 Category = Seed
-Pokedex = Venusaur's flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.
+Pokedex = When all is left is skin and bone, then will you be sorry.
 Generation = 1
 #-------------------------------
 [PHILSOPHER]
@@ -91,7 +91,7 @@ Color = Red
 Shape = BipedalTail
 Habitat = Mountain
 Category = Lizard
-Pokedex = The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is happy, and blazes when it is enraged.
+Pokedex = TSomeone so invested into unravelling the mysteries of the universe, enraptured by their own daring and genius, they have yet to notice someone cut their fucking head off.
 Generation = 1
 Evolutions = REHOSLIPH,Level,16
 #-------------------------------
@@ -115,7 +115,7 @@ Color = Red
 Shape = BipedalTail
 Habitat = Mountain
 Category = Flame
-Pokedex = Without pity, its sharp claws destroy foes. If it encounters a strong enemy, it becomes agitated, and the flame on its tail flares with a bluish white color.
+Pokedex = mc2. What about A = mc2? Checkmate, Einstein!
 Generation = 1
 Evolutions = ORLIHEPERH,Level,36
 #-------------------------------
@@ -139,7 +139,8 @@ Color = Red
 Shape = BipedalTail
 Habitat = Mountain
 Category = Flame
-Pokedex = A Charizard flies about in search of strong opponents. It breathes intense flames that can melt any material. However, it will never torch a weaker foe.
+Pokedex = It is said the human mind can expand inwards infinitely. One may get lost in that infinity and one may never find their way out.
+
 Generation = 1
 #-------------------------------
 [KOKCROACH]
@@ -162,7 +163,7 @@ Color = Blue
 Shape = BipedalTail
 Habitat = WatersEdge
 Category = Tiny Turtle
-Pokedex = Its shell is not just for protection. Its rounded shape and the grooves on its surface minimize resistance in water, enabling Squirtle to swim at high speeds.
+Pokedex = Cool bug facts: There are bugs in your eyes! They are feeding.
 Generation = 1
 Evolutions = ROOOCH,Level,16
 #-------------------------------
@@ -186,7 +187,7 @@ Color = Blue
 Shape = BipedalTail
 Habitat = WatersEdge
 Category = Turtle
-Pokedex = Its large tail is covered with rich, thick fur that deepens in color with age. The scratches on its shell are evidence of this Pokémon's toughness in battle.
+Pokedex = You hear it skittering. You hear it scratching. It’s behind the fridge. It’s judging you.
 Generation = 1
 Evolutions = O,Level,36
 #-------------------------------
@@ -210,7 +211,7 @@ Color = Blue
 Shape = BipedalTail
 Habitat = WatersEdge
 Category = Shellfish
-Pokedex = The waterspouts that protrude from its shell are highly accurate. Their bullets of water can precisely nail tin cans from a distance of over 160 feet.
+Pokedex = Cool bug facts: We will eat your rotting corpse! You taste disappointing, but we wouldn’t expect anything else from you.
 Generation = 1
 #-------------------------------
 [LOSTFACES]
@@ -587,7 +588,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = The bigger my ears, the better I can hear your screams.
 Generation = 1
 Evolutions = OMED,Level,20
 #-------------------------------
@@ -611,7 +612,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = Good girls and boys get presents, no matter how unwanted. 
 Generation = 1
 Evolutions = SEVLEOMED,Level,40
 #-------------------------------
@@ -635,7 +636,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = In the dust and the ash, you can hear them, you can see them, pointing and laughing.
 Generation = 1
 #-------------------------------
 [THEFERAL]
@@ -705,7 +706,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = Honk! Honk! Whats the funniest joke in the universe?
 Generation = 1
 Evolutions = TEETEETEE,Level,27
 #-------------------------------
@@ -729,7 +730,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = Honk! Honk! You!
 Generation = 1
 #-------------------------------
 [BUGABOO]
@@ -752,7 +753,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = He is after your sucrose!
 Generation = 1
 Evolutions = BUGERBOOBOO,Level,30
 #-------------------------------
@@ -776,7 +777,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = Cower and weep! He has claimed your sucrose! And he is about to claim far more!
 Generation = 1
 #-------------------------------
 [PARALLAXPEPR]
@@ -1598,7 +1599,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = Please do not sue me, Nintendo! I will give you apple slices!
 Generation = 1
 #-------------------------------
 [BOBYS]
@@ -1830,7 +1831,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = Alfred, you are such a cheeky monkey!
 Generation = 1
 #-------------------------------
 [EGG]
@@ -3509,4 +3510,27 @@ Shape = Insectoid
 Habitat = Forest
 Category = Worm
 Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Generation = 1
+#-------------------------------
+[heelEO]
+Name = heelEO
+Types = TERROR
+BaseStats =150,150,100,150,150,100
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 39
+EVs = HP,1
+CatchRate = 255
+Happiness = 50
+Abilities = NEUROFORCE
+Moves = 1,TENSION
+EggGroups = Bug
+HatchSteps = 3840
+Height = 0.3
+Weight = 2.9
+Color = Green
+Shape = Insectoid
+Habitat = Forest
+Category = Worm
+Pokedex = Fuck you, Dante, and your fucking poverty tourism, you mad fuck!
 Generation = 1
