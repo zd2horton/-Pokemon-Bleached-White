@@ -224,7 +224,7 @@ Name = TO CUTE !
 Description = Resists damage while its HP is full.
 #-------------------------------
 [NEUROFORCE]
-Name = Neuroforce
+Name = Necrotik
 Description = Powers up moves that are super-effective.
 #-------------------------------
 [RIPEN]
