@@ -22,8 +22,8 @@ SuperRod
 #-------------------------------
 [005] # Route 1
 Land,21
-    40,BIRBABY,1,4
-    40,CRITTER,1,4
+    40,BIRBABY,3,4
+    40,CRITTER,3,4
     20,LOSTFACES,4
 LandNight,21
     40,DEATH,100
