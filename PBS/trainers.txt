@@ -103,11 +103,11 @@ Pokemon = BIRSON,15
 [PUCHYMAN,MARA]
 LoseText = ...
 Pokemon = MAW,9
-Pokemon = MAW,10
-Pokemon = MAW,11
+Pokemon = MAW,9
+Pokemon = MAW,9
+Pokemon = MAW,9
 Pokemon = MAW,12
 Pokemon = MAW,13
-Pokemon = MAW,14
 #-------------------------------
 [BEAUTY,ID]
 LoseText = ...
