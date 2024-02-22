@@ -74,3 +74,8 @@ Name = FURRY O w O
 IconPosition = 8
 Weaknesses = BEAST,EMPTY,BLOON
 Resistances = FANTASY,TRUCK,TERROR
+#-------------------------------
+[WATER]
+Name = BloOn :)
+IconPosition = 7
+Weaknesses = FANTASY,EMPTY,BEAST,REASON,CLOWN,TRUCK,EMPTY

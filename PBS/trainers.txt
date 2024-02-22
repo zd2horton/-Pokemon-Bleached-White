@@ -160,7 +160,6 @@ Pokemon = MIDHORES,17
 LoseText = ...
 Pokemon = POOKOOCHUE,10
 Pokemon = POOKOOCHUE,13
-Pokemon = POOKOOCHUE,14
 Pokemon = PHILSOPHER,15
 #-------------------------------
 [SUPERNERD,seasea]
