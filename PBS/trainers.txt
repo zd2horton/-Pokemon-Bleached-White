@@ -106,8 +106,6 @@ Pokemon = MAW,9
 Pokemon = MAW,9
 Pokemon = MAW,9
 Pokemon = MAW,9
-Pokemon = MAW,12
-Pokemon = MAW,13
 #-------------------------------
 [BEAUTY,ID]
 LoseText = ...

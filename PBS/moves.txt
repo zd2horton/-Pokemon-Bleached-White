@@ -236,7 +236,7 @@ Type = FANTASY
 Category = Status
 Accuracy = 0
 TotalPP = 3
-Target = UserOrNearAlly
+Target = User
 FunctionCode = RaiseTargetRandomStat3
 Description = The user applies pressure to stress points, sharply boosting one of its stats.
 #-------------------------------
