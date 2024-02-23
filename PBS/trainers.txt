@@ -127,7 +127,7 @@ Pokemon = GRAVENIMAGE,13
 LoseText = ...
 Pokemon = TEEHEE,21
 #-------------------------------
-[CRAZY,Marmar]
+[CRAZY,TROGLODYTE]
 LoseText = ...
 Pokemon = CHUTE,12
 Pokemon = CHUTE,12

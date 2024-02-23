@@ -17,7 +17,7 @@ Resistances = REASON,EMPTY
 Name = EMPTY
 IconPosition = 2
 Weaknesses = FANTASY,BEAST
-Immunities = REASON
+Resistances = REASON,TERROR
 #-------------------------------
 [FANTASY]
 Name = FANTASY

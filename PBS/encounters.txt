@@ -123,12 +123,12 @@ PokeRadar,20
 #-------------------------------
 [049] # cave 2
 Cave,21
-    30,BATY,12,15
-    20,GRAVENIMAGE,12,15
-    20,LOSTFACES,12,15
-    15,BARY,12,15
-    10,MAW,12,15
-    5,BOBYS,17
+    30,BATY,12,13
+    20,GRAVENIMAGE,12,13
+    20,LOSTFACES,12,13
+    15,BARY,12,13
+    10,MAW,12,13
+    5,BOBYS,8
 Water,2
     40,CRITTER,16,19
     40,CRITTER,17,19
@@ -275,12 +275,12 @@ RockSmash,50
 #-------------------------------
 [213] # cave1
 Cave,21
-    30,BATY,12,15
-    20,GRAVENIMAGE,12,15
-    20,LOSTFACES,12,15
-    15,BARY,12,15
-    10,MAW,12,15
-    5,BOBYS,17
+    30,BATY,12,14
+    20,GRAVENIMAGE,12,14
+    20,LOSTFACES,12,14
+    15,BARY,12,14
+    10,MAW,12,14
+    5,BOBYS,8
 Water,2
     40,CRITTER,16,19
     40,CRITTER,17,19
