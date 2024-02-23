@@ -83,7 +83,7 @@ SuperRod
     5,CRITTER,15,17
 #-------------------------------
 [034] # Ice Cave
-Cave,5
+Land,5
     40,CRITTER,16,19
     40,CRITTER,17,19
     15,CRITTER,15,18
@@ -161,7 +161,7 @@ PokeRadar,10
     5,CRITTER,15,17
 #-------------------------------
 [050] # cave 3
-Cave,5
+Land,5
     40,CRITTER,16,19
     40,CRITTER,17,19
     15,CRITTER,15,18

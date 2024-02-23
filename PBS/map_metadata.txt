@@ -141,23 +141,6 @@ BattleBack = redroutes
 MapSize = 2,11
 Environment = Rock
 #-------------------------------
-[049]   # cave 2
-Name = Route 7
-Bicycle = true
-MapPosition = 0,16,10
-BattleBack = cave1
-Environment = Cave
-Flags = Magnetic,DistortionWorld
-#-------------------------------
-[050]   # cave 3
-Name = Route 7
-Bicycle = true
-MapPosition = 0,16,10
-DarkMap = true
-BattleBack = cave3
-Environment = Cave
-Flags = Magnetic,DistortionWorld
-#-------------------------------
 [069]   # Route 8
 Name = Route 8
 Outdoor = true
@@ -218,8 +201,29 @@ BattleBack = walle
 WildBattleBGM = reall battel - Copy og
 WildVictoryBGM = empty air og
 #-------------------------------
-[200]   # Rock Cave 1F
-Name = ???
+[200]   # deep
+Name = deep
+ShowArea = true
+BattleBack = DIGTHROUGH
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
+#-------------------------------
+[049]   # deeper
+Name = deeper
+ShowArea = true
+BattleBack = DIGTHROUGH
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
+#-------------------------------
+[213]   # DEEPER
+Name = DEEPER
+ShowArea = true
+BattleBack = DIGTHROUGH
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
+#-------------------------------
+[050]   # DEEPER!!!!!!!!!!!!
+Name = DEEPER!!!!!!!!!!!!
 ShowArea = true
 BattleBack = DIGTHROUGH
 WildBattleBGM = rocks og
