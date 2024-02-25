@@ -141,7 +141,7 @@ Pokemon = SPRIG,13
 #-------------------------------
 [SUPERNERD,Jerry]
 LoseText = ...
-Pokemon = BIRSON,16
+Pokemon = BIRSON,18
 #-------------------------------
 [SMARTASS,TOM TIs]
 LoseText = ...
@@ -233,21 +233,16 @@ Pokemon = TOMUCHFACES,22
 [SMARTASS,taly]
 LoseText = ...
 Pokemon = moomoon,22
-Pokemon = moomoon,22
-Pokemon = LITTELSTAR,22
 #-------------------------------
 [eginer,tatsy]
 LoseText = ...
 Pokemon = noking,22
-Pokemon = minomind,22
 Pokemon = LITTELSTAR,22
 Pokemon = moomoon,22
 #-------------------------------
 [SUPERNERD,toots]
 LoseText = ...
 Pokemon = FLATMAN,23
-Pokemon = POSEY,23
-Pokemon = DUK,22
 Pokemon = SUPERSMUNKYBALL,24
 #-------------------------------
 [Goon,tass]
@@ -256,10 +251,8 @@ Pokemon = THERAM,27
 #-------------------------------
 [SUPERNERD,tall]
 LoseText = ...
-Pokemon = LITTELSTAR,20
-Pokemon = SUPERSMUNKYBALL,24
-Pokemon = noking,20
-Pokemon = minomind,20
+Pokemon = POSEY,23
+Pokemon = DUK,22
 Pokemon = DRAG,22
 #-------------------------------
 [LEADEROFMIND,.]
