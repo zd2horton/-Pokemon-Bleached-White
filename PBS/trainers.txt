@@ -236,9 +236,8 @@ Pokemon = moomoon,22
 #-------------------------------
 [eginer,tatsy]
 LoseText = ...
-Pokemon = noking,22
+Pokemon = DUK,22
 Pokemon = LITTELSTAR,22
-Pokemon = moomoon,22
 #-------------------------------
 [SUPERNERD,toots]
 LoseText = ...
@@ -252,8 +251,7 @@ Pokemon = THERAM,27
 [SUPERNERD,tall]
 LoseText = ...
 Pokemon = POSEY,23
-Pokemon = DUK,22
-Pokemon = DRAG,22
+Pokemon = DRAG,21
 #-------------------------------
 [LEADEROFMIND,.]
 LoseText = Very good.

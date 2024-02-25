@@ -139,9 +139,10 @@ BattleBGM = wild ecounter
 #-------------------------------
 [LEADEROFMIND]
 Name = LEADER OF MIND 
+BattleBack = mind
 Gender = Female
 BaseMoney = 32
-BattleBGM = prayer to the deep
+BattleBGM = true church
 skilllevel = 1000000
 #-------------------------------
 [BESTBOY]

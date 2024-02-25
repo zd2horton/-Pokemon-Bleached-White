@@ -235,4 +235,11 @@ ShowArea = true
 BattleBack = fatory
 WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
+#-------------------------------
+[086]   # AIR
+Name = AIR
+ShowArea = true
+BattleBack = fatory
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
 
