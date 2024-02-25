@@ -135,7 +135,7 @@ BattleBGM = prayer to the deep
 Name = eginer 
 Gender = Female
 BaseMoney = 32
-BattleBGM = my heart
+BattleBGM = wild ecounter
 #-------------------------------
 [LEADEROFMIND]
 Name = LEADER OF MIND 

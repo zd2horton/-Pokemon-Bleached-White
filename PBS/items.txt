@@ -273,10 +273,10 @@ Flags = Fling_30
 Description = A nutritious drink for Pokémon. It raises the base Speed stat of a single Pokémon.
 #-------------------------------
 [EXPCANDYXS]
-Name = Exp. Candy XS
-NamePlural = Exp. Candy XSs
+Name = ROTEINGBRAINGUNK
+NamePlural = 
 Pocket = 2
-Price = 20
+Price = 5000
 FieldUse = OnPokemon
 Flags = Fling_30
 Description = A candy packed with energy. When consumed, it will grant a Pokémon a very small amount of Exp. Points.
