@@ -53,12 +53,12 @@ Cave,21
 Land,40
     100,BRAINWORM,18,20
 #-------------------------------
-[104] # dead forest  
+[093] # dead forest  
 Land,40
     15,LITTELSTAR,18,20
-    15,CHUTE,18,20
+    20,CHUTE,18,20
     10,TEEHEE,18,20
-    20,noking,18,20
+    15,noking,18,20
     15,arra,18,20
     15,BUGABOO,18,20
     5,BIRSON,20,25
