@@ -241,7 +241,7 @@ Pokemon = LITTELSTAR,22
 #-------------------------------
 [SUPERNERD,toots]
 LoseText = ...
-Pokemon = FLATMAN,23
+Pokemon = FLATMAN,22
 Pokemon = SUPERSMUNKYBALL,24
 #-------------------------------
 [Goon,tass]
@@ -276,5 +276,51 @@ Pokemon = sister,25
 LoseText = ...
 Pokemon = ONGYRO,99
 
-
-
+  #-------------------------------
+[BESTBOY,NUGO]
+LoseText = ...
+Pokemon = ALADY,25
+Pokemon = FLATMAN,20
+Pokemon = FLATMAN,20
+Pokemon = FLATMAN,20
+  #-------------------------------
+[BESTBOY,NUGO]
+LoseText = ...
+Pokemon = moomoon,21
+Pokemon = moomoon,21
+Pokemon = moomoon,21
+Pokemon = TOMUCHFACES,23
+  #-------------------------------
+[BESTBOY,NUGO]
+LoseText = ...
+Pokemon = TEEHEE,21
+Pokemon = THELAMB,21
+Pokemon = CLOCLO,21
+Pokemon = MAW,21
+Pokemon = BRAINWORM,21
+Pokemon = CRITTER,21
+#-------------------------------
+[BESTBOY,NUGO]
+LoseText = ...
+Pokemon = MAN,25
+#-------------------------------
+[BESTBOY,NUGO]
+LoseText = ...
+Pokemon = MAN,20
+Pokemon = MAN,20
+Pokemon = MAN,20
+Pokemon = MAN,20
+Pokemon = MAN,20
+#-------------------------------
+[BESTBOY,NUGO]
+LoseText = ...
+Pokemon = sister,24
+Pokemon = sister,24
+#-------------------------------
+[BESTBOY,NUGO]
+LoseText = ...
+Pokemon = LITTELSTAR,20
+Pokemon = LITTELSTAR,20
+Pokemon = MOREMAW,25
+Pokemon = LITTELSTAR,20
+Pokemon = MOREMAW,25

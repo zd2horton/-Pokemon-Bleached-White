@@ -56,10 +56,11 @@ Land,40
 [093] # dead forest  
 Land,40
     15,LITTELSTAR,18,20
-    20,CHUTE,18,20
+    15,CHUTE,18,20
     10,TEEHEE,18,20
     15,noking,18,20
     15,arra,18,20
     15,BUGABOO,18,20
     5,BIRSON,20,25
     5,sister,20,22
+    5,ALADY,22,25
