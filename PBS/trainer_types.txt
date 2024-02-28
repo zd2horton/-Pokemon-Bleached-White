@@ -159,10 +159,11 @@ BaseMoney = 32
 BattleBGM = gulity
 skilllevel = 1000000
 #-------------------------------
-[looter]
-Name = looter
+[mystic]
+Name = mystic
 Gender = Female
 BaseMoney = 32
 BattleBGM = gulity
 skilllevel = 1000000
+
 

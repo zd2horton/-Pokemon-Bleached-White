@@ -277,21 +277,21 @@ LoseText = ...
 Pokemon = ONGYRO,99
 
   #-------------------------------
-[BESTBOY,NUGO]
+[spooky,sassasass]
 LoseText = ...
 Pokemon = ALADY,25
 Pokemon = FLATMAN,20
 Pokemon = FLATMAN,20
 Pokemon = FLATMAN,20
   #-------------------------------
-[BESTBOY,NUGO]
+[HIKER,lost]
 LoseText = ...
 Pokemon = moomoon,21
 Pokemon = moomoon,21
 Pokemon = moomoon,21
 Pokemon = TOMUCHFACES,23
   #-------------------------------
-[BESTBOY,NUGO]
+[mystic,scared]
 LoseText = ...
 Pokemon = TEEHEE,21
 Pokemon = THELAMB,21
@@ -300,27 +300,42 @@ Pokemon = MAW,21
 Pokemon = BRAINWORM,21
 Pokemon = CRITTER,21
 #-------------------------------
-[BESTBOY,NUGO]
+[mystic,angery]
 LoseText = ...
 Pokemon = MAN,25
 #-------------------------------
-[BESTBOY,NUGO]
+[spooky,sa]
 LoseText = ...
-Pokemon = MAN,20
-Pokemon = MAN,20
-Pokemon = MAN,20
-Pokemon = MAN,20
-Pokemon = MAN,20
+Pokemon = MAN,19
+Pokemon = MAN,19
+Pokemon = MAN,19
+Pokemon = MAN,19
+Pokemon = MAN,19
+Pokemon = MAN,19
 #-------------------------------
-[BESTBOY,NUGO]
+[DD,redy]
 LoseText = ...
 Pokemon = sister,24
 Pokemon = sister,24
 #-------------------------------
-[BESTBOY,NUGO]
+[Bruno,stars]
 LoseText = ...
 Pokemon = LITTELSTAR,20
 Pokemon = LITTELSTAR,20
 Pokemon = MOREMAW,25
 Pokemon = LITTELSTAR,20
 Pokemon = MOREMAW,25
+#-------------------------------
+[mystic,sad]
+LoseText = ...
+Pokemon = Lovers,20
+Pokemon = Lovers,20
+Pokemon = noking,25
+Pokemon = noking,25
+#-------------------------------
+[spooky,as]
+LoseText = ...
+Pokemon = TICK,20
+Pokemon = THERAM,27
+Pokemon = KLAKLAKKLA,25
+

@@ -55,7 +55,7 @@ Land,40
 #-------------------------------
 [093] # dead forest  
 Land,40
-    15,LITTELSTAR,18,20
+    10,LITTELSTAR,18,20
     15,CHUTE,18,20
     10,TEEHEE,18,20
     15,noking,18,20
@@ -64,3 +64,4 @@ Land,40
     5,BIRSON,20,25
     5,sister,20,22
     5,ALADY,22,25
+    5,Lovers,18,20
