@@ -119,17 +119,12 @@ Gender = Female
 BaseMoney = 32
 BattleBGM = enger weering of the machieen
 #-------------------------------
-[spooky]
-Name = spooky
-Gender = Female
-BaseMoney = 32
-BattleBGM = gulity
-#-------------------------------
 [butcher]
 Name = butcher
 Gender = Female
 BaseMoney = 32
 BattleBGM = prayer to the deep
+skilllevel = 1000000
 #-------------------------------
 [eginer]
 Name = eginer 
@@ -156,3 +151,18 @@ Name = ISOPODMAN
 BaseMoney = 32
 BattleBGM = nice misc
 skilllevel = 1000000
+#-------------------------------
+[spooky]
+Name = spooky
+Gender = Female
+BaseMoney = 32
+BattleBGM = gulity
+skilllevel = 1000000
+#-------------------------------
+[looter]
+Name = looter
+Gender = Female
+BaseMoney = 32
+BattleBGM = gulity
+skilllevel = 1000000
+
