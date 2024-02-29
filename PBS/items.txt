@@ -22,8 +22,8 @@ Flags = Fling_60
 Description = If the holder of this item takes damage, the attacker will also be damaged upon contact.
 #-------------------------------
 [ASSAULTVEST]
-Name = Assault Vest
-NamePlural = Assault Vests
+Name = Blood
+NamePlural = Bloods
 Pocket = 1
 Price = 1000
 BPPrice = 25
@@ -52,8 +52,8 @@ Flags = Fling_50
 Description = An item to be held by a Pokémon. When the holder's stats are lowered, it will be switched out of battle.
 #-------------------------------
 [REDCARD]
-Name = Red Card
-NamePlural = Red Cards
+Name = toy train
+NamePlural = toy trains
 Pocket = 1
 Price = 3000
 SellPrice = 2000
@@ -139,8 +139,8 @@ Flags = Fling_30
 Description = An item to be held by a Pokémon. The holder's HP is restored a little every time it inflicts damage.
 #-------------------------------
 [WHITEHERB]
-Name = White Herb
-NamePlural = White Herbs
+Name = syrij
+NamePlural = syrij
 Pocket = 1
 Price = 4000
 BPPrice = 15
@@ -158,8 +158,8 @@ Flags = Fling_80
 Description = An item to be held by a Pokémon. The holder's Attack and Sp. Atk sharply increase if hit by a move it's weak to.
 #-------------------------------
 [LIFEORB]
-Name = Life Orb
-NamePlural = Life Orbs
+Name = plush shork 
+NamePlural = plush shorks
 Pocket = 1
 Price = 4000
 BPPrice = 25
@@ -167,8 +167,8 @@ Flags = Fling_30
 Description = An item to be held by a Pokémon. It boosts the power of moves, but at the cost of some HP on each hit.
 #-------------------------------
 [EXPERTBELT]
-Name = Expert Belt
-NamePlural = Expert Belts
+Name = sulfur_brand
+NamePlural = sulfur brands
 Pocket = 1
 Price = 4000
 BPPrice = 25
@@ -176,8 +176,8 @@ Flags = Fling_10
 Description = An item to be held by a Pokémon. It is a well-worn belt that slightly boosts the power of supereffective moves.
 #-------------------------------
 [METRONOME]
-Name = Metronome
-NamePlural = Metronomes
+Name = IDOL
+NamePlural = IDOLS
 Pocket = 1
 Price = 3000
 SellPrice = 2000
@@ -186,8 +186,8 @@ Flags = Fling_30
 Description = A Pokémon held item that boosts a move used consecutively. Its effect is reset if another move is used.
 #-------------------------------
 [FOCUSSASH]
-Name = Focus Sash
-NamePlural = Focus Sashes
+Name = Flan
+NamePlural = Flans
 Pocket = 1
 Price = 3000
 SellPrice = 2000
@@ -515,8 +515,8 @@ Flags = Berry,Fling_10,NaturalGift_TERROR_100
 Description = Increases a random stat when below a certain HP threshold. Hopefully it doesn't give you its empty stomach.
 #-------------------------------
 [TERRORGEM]
-Name = A Cup of Red
-NamePlural = Cups of Red
+Name = FLESHCAKE
+NamePlural = FLESHCAKE
 Pocket = 1
 Price = 50
 Flags = Fling_20,TypeGem
@@ -533,16 +533,16 @@ Flags = Fling_10,Berry,NaturalGift_TERROR_80
 Description = Decreases the damage of one Terror attack. The memories of winters gone soothes your soul.
 #-------------------------------
 [BEASTGEM]
-Name = Delish Fish Dish
-NamePlural = Delish Fish Dishes
+Name = red Meat
+NamePlural = red Meats
 Pocket = 1
 Price = 50
 Flags = Fling_30,TypeGem
 Description = Increases the damage of one Beast attack. Being able to look into its helpless dead eyes makes it all the sweeter.
 #-------------------------------
 [BEASTBERRY]
-Name = “Fish” Dish?
-NamePlural = “Fish” Dishes?
+Name = food ?
+NamePlural = food ?
 Pocket = 5
 Price = 40
 Flags = Fling_15,Berry,NaturalGift_BEAST_80
@@ -557,16 +557,16 @@ Flags = Fling_20,TypeGem
 Description = Increases the damage of one Fantasy attack. What’s in it? Who knows! All that matters is that it sparkles.
 #-------------------------------
 [FANTASYBERRY]
-Name = Cute Lil’ Biscuit
-NamePlural = Cute Lil’ Biscuits
+Name = sweet sweets
+NamePlural = sweet sweets
 Pocket = 5
 Price = 40
 Flags = Fling_0,Berry,NaturalGift_FANTASY_80
 Description = Decreases the damage of one Fantasy attack. There are plenty of wondrous fantasies in this world, but a cup of tea and cute lil’ biscuits is one of the strongest.
 #-------------------------------
 [REASONGEM]
-Name = Brain Food
-NamePlural = Brain Foods
+Name = thinking food 
+NamePlural = thinking food
 Pocket = 1
 Price = 50
 Flags = Fling_5,TypeGem
@@ -595,14 +595,6 @@ Pocket = 5
 Price = 40
 Flags = Fling_25,Berry,NaturalGift_EMPTY_80
 Description = Decreases the damage of one Empty attack. The hollow cavity satisfyingly crunches as your teeth grind through it.
-#-------------------------------
-[FLAN]
-Name = Flan
-NamePlural = Flans
-Pocket = 5
-Price = 80
-Flags = Fling_0
-Description = Prevents you from being KO’d if at full health. You can’t die before you’ve had dessert! How could life be so cruel..
 #-------------------------------
 [FACTORYSHORESKEY]
 Name = Factory Shores Key
