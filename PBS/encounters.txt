@@ -54,7 +54,7 @@ Land,40
     100,BRAINWORM,18,20
 #-------------------------------
 [093] # dead forest  
-Land,40
+Land,25
     10,LITTELSTAR,18,20
     15,CHUTE,18,20
     10,TEEHEE,18,20
