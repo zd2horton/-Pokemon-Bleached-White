@@ -156,14 +156,14 @@ skilllevel = 1000000
 Name = spooky
 Gender = Female
 BaseMoney = 32
-BattleBGM = gulity
+BattleBGM = SPOOKSSONG
 skilllevel = 1000000
 #-------------------------------
 [mystic]
 Name = mystic
 Gender = Female
 BaseMoney = 32
-BattleBGM = gulity
+BattleBGM = fuck you forest final 
 skilllevel = 1000000
 
 

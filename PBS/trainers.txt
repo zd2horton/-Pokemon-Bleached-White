@@ -284,9 +284,8 @@ Pokemon = FLATMAN,20
 Pokemon = FLATMAN,20
 Pokemon = FLATMAN,20
   #-------------------------------
-[HIKER,lost]
+[EXCAVATOR,lost]
 LoseText = ...
-Pokemon = moomoon,21
 Pokemon = moomoon,21
 Pokemon = moomoon,21
 Pokemon = TOMUCHFACES,23
@@ -295,8 +294,6 @@ Pokemon = TOMUCHFACES,23
 LoseText = ...
 Pokemon = TEEHEE,21
 Pokemon = THELAMB,21
-Pokemon = CLOCLO,21
-Pokemon = MAW,21
 Pokemon = BRAINWORM,21
 Pokemon = CRITTER,21
 #-------------------------------
@@ -309,16 +306,13 @@ LoseText = ...
 Pokemon = MAN,19
 Pokemon = MAN,19
 Pokemon = MAN,19
-Pokemon = MAN,19
-Pokemon = MAN,19
-Pokemon = MAN,19
 #-------------------------------
 [DD,redy]
 LoseText = ...
 Pokemon = sister,24
 Pokemon = sister,24
 #-------------------------------
-[Bruno,stars]
+[GG,stars]
 LoseText = ...
 Pokemon = LITTELSTAR,20
 Pokemon = LITTELSTAR,20

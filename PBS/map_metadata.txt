@@ -61,10 +61,6 @@ MapPosition = 0,14,10
 Name = Cedolan City
 MapPosition = 0,14,10
 #-------------------------------
-[013]   # Game Corner
-Name = Cedolan City
-MapPosition = 0,14,10
-#-------------------------------
 [014]   # shop
 Name = Cedolan City
 MapPosition = 0,13,10
@@ -178,6 +174,7 @@ Name = Forest
 Outdoor = true
 BattleBack = forist
 WildBattleBGM = fuck you forest final
+WildBattleBGM = I say
 #-------------------------------
 [100]   # fan club
 Name = fan club
