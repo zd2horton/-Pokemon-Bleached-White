@@ -30,27 +30,6 @@ BPPrice = 25
 Flags = Fling_80
 Description = An item to be held by a Pokémon. This offensive vest raises Sp. Def but prevents the use of status moves.
 #-------------------------------
-
-[EJECTBUTTON]
-Name = Eject Button
-NamePlural = Eject Buttons
-Pocket = 1
-Price = 3000
-SellPrice = 2000
-BPPrice = 20
-Flags = Fling_30
-Description = If the holder is hit by an attack, it will switch with another Pokémon in your party.
-#-------------------------------
-[EJECTPACK]
-Name = Eject Pack
-NamePlural = Eject Packs
-Pocket = 1
-Price = 3000
-SellPrice = 2000
-BPPrice = 20
-Flags = Fling_50
-Description = An item to be held by a Pokémon. When the holder's stats are lowered, it will be switched out of battle.
-#-------------------------------
 [REDCARD]
 Name = toy train
 NamePlural = toy trains
