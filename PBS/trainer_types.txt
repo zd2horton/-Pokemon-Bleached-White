@@ -165,5 +165,11 @@ Gender = Female
 BaseMoney = 32
 BattleBGM = fuck you forest final 
 skilllevel = 1000000
-
+#-------------------------------
+[LEADEROFEMPTY]
+Name = .
+Gender = Male
+BaseMoney = 32
+BattleBGM = i am god  og
+skilllevel = 1000000
 

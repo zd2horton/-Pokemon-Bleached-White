@@ -317,8 +317,6 @@ LoseText = ...
 Pokemon = LITTELSTAR,20
 Pokemon = LITTELSTAR,20
 Pokemon = MOREMAW,25
-Pokemon = LITTELSTAR,20
-Pokemon = MOREMAW,25
 #-------------------------------
 [mystic,sad]
 LoseText = ...
@@ -332,4 +330,14 @@ LoseText = ...
 Pokemon = TICK,20
 Pokemon = THERAM,27
 Pokemon = KLAKLAKKLA,25
+#-------------------------------
+[LEADEROFEMPTY,Satoshi]
+LoseText = ...
+Pokemon = FIRST,25
+Pokemon = DUK,25
+Pokemon = HER,27
+Pokemon = FLATMAN,22
+Pokemon = SPRIG,22
+Pokemon = eEDIOe,22
+Pokemon = LITTELSTAR,22
 
