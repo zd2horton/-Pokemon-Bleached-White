@@ -60,6 +60,11 @@ Pokemon = LOSTFACES,5
 Pokemon = LOSTFACES,7
 Pokemon = GYRO,14
 #-------------------------------
+[SUPERNERD,lam]
+LoseText = ...
+Pokemon = DRAGONE,11
+Pokemon = LITTELPONE,11
+#-------------------------------
 [BEAUTY,Cliffy]
 LoseText = ...
 Pokemon = DUK,10
