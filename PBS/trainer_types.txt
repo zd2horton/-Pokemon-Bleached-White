@@ -172,4 +172,46 @@ Gender = Male
 BaseMoney = 32
 BattleBGM = i am god  og
 skilllevel = 1000000
+#-------------------------------
+[MSDINO]
+Name = .
+Gender = Female
+BaseMoney = 32
+BattleBGM = i am god  og
+skilllevel = 1000000
+#-------------------------------
+[MEZMOR]
+Name = .
+Gender = Male
+BaseMoney = 32
+BattleBGM = i am god  og
+skilllevel = 1000000
+#-------------------------------
+[adirtyman]
+Name = .
+Gender = Female
+BaseMoney = 32
+BattleBGM = i am god  og
+skilllevel = 1000000
+#-------------------------------
+[LOOTER]
+Name = .
+Gender = Male
+BaseMoney = 32
+BattleBGM = i am god  og
+skilllevel = 1000000
+#-------------------------------
+[OCLATIST]
+Name = .
+Gender = Male
+BaseMoney = 32
+BattleBGM = i am god  og
+skilllevel = 1000000
+#-------------------------------
+[BEATSLEADER]
+Name = .
+Gender = Female
+BaseMoney = 32
+BattleBGM = i am god  og
+skilllevel = 1000000
 
