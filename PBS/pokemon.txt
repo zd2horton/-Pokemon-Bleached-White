@@ -1152,9 +1152,9 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = Baty can be a derogatory phrase for someone who is insane, which seems rather rude to me since the average bat I've met seems perfectly civilised.
 Generation = 1
-Evolutions = BIGBARY,Level,24
+Evolutions = BAAATY,Level,24
 #-------------------------------
 [BAAATY]
 Name = BAAATY
@@ -1176,7 +1176,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = Though a shadowy monster which appears out of the night, screaming in your face, might seem like an unpleasant experience - I assure you a conversation with you is worse.
 Generation = 1
 #-------------------------------
 [MAW]
@@ -1199,7 +1199,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = Hunger is insatiable, hunger is inevitable. The only time the hunger will end is when you become food for something else.
 Generation = 1
 Evolutions = MOREMAW,Level,24
 #-------------------------------
@@ -1223,7 +1223,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = Look, I was really proud of the entry for Maw. Like, really proud of it, such a cool line so just.. go read that again please.
 Generation = 1
 #-------------------------------
 [SMUNKY]
@@ -1246,7 +1246,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = Four little Smunkys were jumping on a bed, one fell off and bumped his head - and recieved severe trauma to his cerebellum.
 Generation = 1
 Evolutions = SUPERSMUNKYBALL,Level,24
 #-------------------------------
@@ -1270,7 +1270,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = One of the underrated classics, I have no idea why it didn't take off when it got tilt controls. Like, it was made for tilt controls! But nooo, still an obscure series godamnit.. anyway, what were we talking about?
 Generation = 1
 #-------------------------------
 [THELAMB]
@@ -1293,7 +1293,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = The story of the Lamb is a tricky one. An omnipotent god that could have anything, that has everything, still demands death and still demands sacrifice. What kind of being would it be?
 Generation = 1
 Evolutions = THERAM,Level,22
 #-------------------------------
@@ -1317,7 +1317,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = Maybe you'll find out one day. 
 Generation = 1
 #-------------------------------
 [LITTELPONE]
@@ -1340,7 +1340,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = My Littel Pone, I used to wonder what friendship could be.
 Generation = 1
 Evolutions = MIDHORES,Level,15
 #-------------------------------
@@ -1364,7 +1364,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = Until you all shared it's magic with me.
 Generation = 1
 Evolutions = MARGMARE,Level,35
 #-------------------------------
@@ -1388,7 +1388,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = Nobody told me it would hurt.
 Generation = 1
 #-------------------------------
 [CHUMCHUM]
@@ -1411,7 +1411,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = This species was believed to be extinct, but it turns out the reason nobody ever saw them was because nobody could find them. It's because they just genuinely hate people.
 Generation = 1
 #-------------------------------
 [DUK]
@@ -1434,7 +1434,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = Appetising.
 Generation = 1
 Evolutions = SPITROAST,Level,30
 #-------------------------------
@@ -1458,7 +1458,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = The flesh tastes so good, but still being able to see it's face... somehow spoils the experience. I much prefer my food decapitated. Makes it a lot less personal.
 Generation = 1
 #-------------------------------
 [CHUTE]
@@ -1481,9 +1481,9 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = Floating down from the sky, I wonder why. If I was to fall down from that high.. I'd probably die.
 Generation = 1
-Evolutions = SPITROAST,Level,25
+Evolutions = MANINBLACK,Level,25
 #-------------------------------
 [MANINBLACK]
 Name = Man in black
@@ -1505,7 +1505,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = Floating down from the sky, I need to no longer wonder why. I wish I did. 
 Generation = 1
 #-------------------------------
 [SAPLING]
@@ -1528,9 +1528,9 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = This is why I no longer go to garden centers.
 Generation = 1
-Evolutions = SPITROAST,Level,15
+Evolutions = SPRIG,Level,15
 #-------------------------------
 [SPRIG]
 Name = Sprig
@@ -1552,7 +1552,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = It's heart is as hollow as a rotten oak tree, and if you don't get the reference I'll cry.
 Generation = 1
 Evolutions = TREE,Level,35
 #-------------------------------
@@ -1576,7 +1576,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = We need trees to live, without their oxygen we would frankly die. But this person's codependency has become a little disturbing.
 Generation = 1
 #-------------------------------
 [POOKOOCHUE]
@@ -1622,7 +1622,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = I hope me constantly accidentally switching my Ds and Bs hasn't ruined the horror of this moment. 
 Generation = 1
 #-------------------------------
 [TICK]
@@ -1645,7 +1645,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = What defines a parasite? Something that takes, and never gives. Like my ex-wife Deborah.
 Generation = 1
 #-------------------------------
 [ALIVE]
@@ -1668,7 +1668,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = The definition for life, is to grow, is to feel. Unlike my ex-husband. You hear that Barry, you fuck?!
 Generation = 1
 #-------------------------------
 [POSEY]
@@ -1691,7 +1691,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = An artist needs a model. Whether that model wants to be there is besides the point. 
 Generation = 1
 Evolutions = ROSEPOSEY,Level,35
 #-------------------------------
@@ -1715,7 +1715,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = If art is derived from suffering, then better you than me.
 Generation = 1
 #-------------------------------
 [FLATMAN]
@@ -1738,7 +1738,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = Look both ways when crossing the street, kids.
 Generation = 1
 Evolutions = BOWHOUSE,Level,35
 #-------------------------------
@@ -1762,7 +1762,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = If you don't get the reference, you're awfully uncultured. And if you do get the reference, fuck you, you're not special you pretentious ass. 
 Generation = 1
 #-------------------------------
 [HER]
@@ -1785,7 +1785,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = .......*...*>>>>...
 Generation = 1
 #-------------------------------
 [ASCENDED]
@@ -1808,7 +1808,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = In the end, we are all crushed under the spokes of an endlessly revolving wheel. 
 Generation = 1
 #-------------------------------
 [ALFRED]
@@ -1854,7 +1854,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = It's empty. I promise you. It's empty.
 Generation = 1
 #-------------------------------
 [THEWORD]
@@ -1877,7 +1877,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = Hypnagogia. 
 Generation = 1
 #-------------------------------
 [KART]
@@ -1900,7 +1900,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = It's a kart.
 Generation = 1
 #-------------------------------
 [ALADY]
@@ -1923,7 +1923,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = All fear stems from the unknown, and could be more unfathomable than the feminine mind.
 Generation = 1
 #-------------------------------
 [AAARRR]
@@ -1946,7 +1946,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = It's important to have inclusive gender roles. Putting arbitary standards on the way people should act based on their sex is highly narrowminded. 
 Generation = 1
 #-------------------------------
 [OJABOBOD]
@@ -1969,7 +1969,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = OJABOBO:DOJABOBO:DOJABOBO:DOJABOBO:DOJABOBO:DOJABOBO:DOJABOBO:DOJABOBO:DOJABOBO:DOJABOBO:DOJABOBO:DOJABOBO:DOJABOBO:DOJABOBO:D
 Generation = 1
 #-------------------------------
 [MAN]
@@ -1992,7 +1992,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = What is a man but a miserable pile of secrets.
 Generation = 1
 #-------------------------------
 [KLAK]
@@ -2015,7 +2015,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = They say you must submerge a crab in boiling water alive because that is the way to get the richest flavour. The same is true for people.
 Generation = 1
 Evolutions = KLAKLAK,Level,25
 #-------------------------------
@@ -2039,7 +2039,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = Would you still love me if I was a crab?
 Generation = 1
 Evolutions = KLAKLAKKLA,Level,35
 #-------------------------------
@@ -2063,7 +2063,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = Google carcinisation.
 Generation = 1
 #-------------------------------
 [LITTELSTAR]
@@ -2086,7 +2086,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = They're a little star, and you are not. You piece of shit.
 Generation = 1
 Evolutions = BIGSTAR,Level,25
 #-------------------------------
@@ -2110,7 +2110,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = This is what all big stars look like before makeup.
 Generation = 1
 Evolutions = STAR,Level,40
 #-------------------------------
@@ -2134,9 +2134,8 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = To be a star is to be the brightest thing in the night sky. To be the only one.
 Generation = 1
-Evolutions = ROSEPOSEY,Level,35
 #-------------------------------
 [LLABOTOMY]
 Name = llabotomy
@@ -2158,7 +2157,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = Are they happier this way?
 Generation = 1
 #-------------------------------
 [LOJA]
@@ -2181,7 +2180,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = The FitnessGram Pacer test is a multistage aerobic capacity test.
 Generation = 1
 #-------------------------------
 [satara]
@@ -2204,7 +2203,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = People believe their destiny is divined by the stars in the sky, it is not them. It is ME. I'm the reason you stubbed your toe!
 Generation = 1
 Evolutions = saturn,Level,35
 #-------------------------------
@@ -2228,7 +2227,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = JK. The stars don't give a shit about you, we have better things to do.
 Generation = 1
 #-------------------------------
 [moomoon]
@@ -2251,7 +2250,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = In most folklore the moon is feminine coded, which makes the Man in the moon very lucky. 
 Generation = 1
 Evolutions = moomoonsun,Level,35
 #-------------------------------
@@ -2275,7 +2274,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = The moon is now asking for child support.
 Generation = 1
 #-------------------------------
 [minomind]
@@ -2298,7 +2297,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = Has big thoughts about small things, like.. your IQ. AYO.
 Generation = 1
 Evolutions = Amygdala,Level,35
 #-------------------------------
@@ -2322,7 +2321,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = Sadly, it has big thoughts about big things, and it's head is about to burst from it. There are some thoughts that just can't be contained by a skull.
 Generation = 1
 #-------------------------------
 [POPIP]
@@ -2345,7 +2344,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Pokedex = On the subject of Popip, you could only begin to understand it if you had a firm grasp on classical literature, such as Sir Jacksfilms' Top Ten Farts.
 Generation = 1
 Evolutions = YAGA,Level,35
 #-------------------------------
