@@ -2671,8 +2671,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = The Weird Sisters, hand in hand,
-Posters of the sea and land, Thus do go, about, about, Thrice to thine, thrice to mine, And thrice again to make up nine. Peace, the charm's wound up.
+Pokedex = The Weird Sisters, hand in hand, Posters of the sea and land, Thus do go, about, about, Thrice to thine, thrice to mine, And thrice again to make up nine. Peace, the charm's wound up.
 
 Generation = 1
 #-------------------------------
