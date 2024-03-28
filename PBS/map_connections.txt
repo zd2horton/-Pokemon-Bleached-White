@@ -1,11 +1,15 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
+# forest (93) - After the Forest (77)
+93,North,0,77,South,64
+# dead city (79) - After the Forest (77)
+79,East,30,77,West,0
+# After the Forest Top Area (29) - After the Forest (77)
+29,South,0,77,North,0
 # Cedolan City (7) - forest (93)
 7,East,0,93,West,132
 # factory forest transition (104) - forest (93)
 104,North,0,93,South,15
-# After the Forest (77) - forest (93)
-77,South,64,93,North,0
 # Route 1 (5) - Cedolan City (7)
 5,North,12,7,South,0
 # Route 7 (47) - Cedolan City (7)
@@ -22,5 +26,5 @@
 83,West,87,47,East,0
 # factory shore  (83) - factory forest transition (104)
 83,West,30,104,East,0
-# dead city (79) - After the Forest (77)
-79,East,30,77,West,0
+# After the Forest Top Area (29) - dead city (79)
+29,West,0,79,East,10
