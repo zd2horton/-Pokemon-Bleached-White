@@ -588,3 +588,93 @@ NamePlural = Bundle of 20 Dollars
 Pocket = 8
 Flags = KeyItem
 Description = Nobody uses this currency anymore, but maybe there's some people who would want it.
+#-------------------------------
+[REASONBALL]
+Name = Reason Kube
+NamePlural = Reason Kubes
+Pocket = 3
+Price = 200
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A Kreature Kube specifically designed to help in easily catching Reason Kreatures. Clearly the logical solution, how else would you catch them? 
+#-------------------------------
+[BEASTBALL]
+Name = Beast Kube
+NamePlural = Beast Kubes
+Pocket = 3
+Price = 200
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A Kreature Kube specifically designed to help in easily catching Beast Kreatures. This should quell their ferocius feral tendencies. 
+#-------------------------------
+[EMPTYBALL]
+Name = Empty Kube
+NamePlural = Empty Kubes
+Pocket = 3
+Price = 200
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A Kreature Kube specifically designed to help in easily catching Empty Kreatures. Once filled, it is no longer empty, yet emptier than ever.
+#-------------------------------
+[FANTASYBALL]
+Name = Fantasy Kube
+NamePlural = Fantasy Kubes
+Pocket = 3
+Price = 200
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A Kreature Kube specifically designed to help in easily catching Fantasy Kreatures. With this, catching that little tricky Kreature will no longer be a fantasy.
+#-------------------------------
+[TERRORBALL]
+Name = Terror Kube
+NamePlural = Terror Kubes
+Pocket = 3
+Price = 200
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A Kreature Kube specifically designed to help in easily catching Terror Kreatures. They'll look a lot less scary trapped in one of these.
+#-------------------------------
+[TRUCKBALL]
+Name = Truck Kube
+NamePlural = Truck Kubes
+Pocket = 3
+Price = 200
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A Kreature Kube specifically designed to help in easily catching....trucks. I don't know why you would want to capture a truck of all things, but I won't stop you.
+#-------------------------------
+[CLOWNBALL]
+Name = Clown Kube
+NamePlural = Clown Kubes
+Pocket = 3
+Price = 200
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A Kreature Kube specifically designed to help in easily catching clowns. The world may be ending but you're doing it a very good service.
+#-------------------------------
+[BLOONBALL]
+Name = Bloon Kube
+NamePlural = Bloon Kubes
+Pocket = 3
+Price = 200
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A Kreature Kube specifically designed to help in easily catching Bloon Kreatures. Maybe they'll pop before you can bring them out?
+#-------------------------------
+[FURRYBALL]
+Name = Furry Kube
+NamePlural = Furry Kubes
+Pocket = 3
+Price = 200
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A Kreature Kube specifically designed to help in easily catching furries. An......interesting choice.
+#-------------------------------
+[WRONGBALL]
+Name = Wrong Kube
+NamePlural = Wrong Kubes
+Pocket = 3
+Price = 200
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A Kreature Kube specifically designed to help in easily catching Wrong Kreatures. Everything about this is wrong, especially the Kreature you'll trap inside.
