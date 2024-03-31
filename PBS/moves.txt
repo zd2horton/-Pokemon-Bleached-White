@@ -8,7 +8,7 @@ TotalPP = 3
 Target = NearOther
 FunctionCode = HealUserByHalfOfDamageDone
 Flags = Contact,CanProtect,CanMirrorMove
-Description = Take the flesh of your enemy and make it your own Restore hp by half the damage dealt
+Description = Take the flesh of your enemy and make it your own Restore hp by half the damage dealt.
 #-------------------------------
 [TOUGHMEET]
 Name = Tough meet
@@ -18,7 +18,7 @@ Accuracy = 0
 TotalPP = 5
 Target = User
 FunctionCode = RaiseUserDefense3
-Description = Very chewy increases physical defence drastically
+Description = Very chewy increases physical defence drastically.
 
 #-------------------------------
 [NEST]
@@ -29,7 +29,7 @@ Accuracy = 0
 TotalPP = 1
 Target = User
 FunctionCode = StartHealUserEachTurn
-Description = Make a precious little nest to rest, your weary head, restores a small amount of health each turn 
+Description = Make a precious little nest to rest, your weary head, restores a small amount of health each turn.
 #-------------------------------
 [RAGE]
 Name = rage
@@ -182,7 +182,7 @@ TotalPP = 3
 Target = NearOther
 FunctionCode = None
 Flags = CanProtect,CanMirrorMove,HighCriticalHitRate
-Description = This man be spitting fire, literally has a chance to critical hit higher than average
+Description = This man be spitting fire, literally has a chance to critical hit higher than average.
 #-------------------------------
 [ICARUS]
 Name = Icarus
@@ -194,7 +194,7 @@ TotalPP = 20
 Target = NearOther
 FunctionCode = CrashDamageIfFailsUnusableInGravity
 Flags = Contact,CanProtect,CanMirrorMove
-Description = Where is the fun in life without a little risk does high damage, but has a chance to miss Which will hurt 
+Description = Where is the fun in life without a little risk does high damage, but has a chance to miss Which will hurt.
 #-------------------------------
 [CORAGE]
 Name = Courage
@@ -207,7 +207,7 @@ Target = NearOther
 FunctionCode = RaiseUserAttack1
 Flags = Contact,CanProtect,CanMirrorMove,Punching
 EffectChance = 100
-Description = You are a brave little soldier increases your attack 
+Description = You are a brave little soldier increases your attack.
 #-------------------------------
 [HOUR]
 Name = 11th hour
@@ -219,7 +219,7 @@ TotalPP = 5
 Target = NearOther
 FunctionCode = PowerLowerWithUserHP
 Flags = Contact,CanProtect,CanMirrorMove
-Description = You feel the final hour approaching does more damage the less health you have
+Description = You feel the final hour approaching does more damage the less health you have.
 #-------------------------------
 [LASTSTAND]
 Name = Last stand
@@ -229,7 +229,7 @@ Accuracy = 0
 TotalPP = 1
 Target = User
 FunctionCode = AttackerFaintsIfUserFaints
-Description = If, after using this move, you are KO By your opponent, using a move, you drag them to hell with you
+Description = If, after using this move, you are KO By your opponent, using a move, you drag them to hell with you.
 #-------------------------------
 [OPTIMIST]
 Name = Optimist
@@ -239,7 +239,7 @@ Accuracy = 0
 TotalPP = 3
 Target = User
 FunctionCode = RaiseTargetRandomStat3
-Description = Good things come to good people it’s a shame good is subjective Drastically increases a random stat
+Description = Good things come to good people it’s a shame good is subjective, drastically increases a random stat.
 #-------------------------------
 [SELFWORTH]
 Name = Self-worth
@@ -250,7 +250,7 @@ TotalPP = 1
 Target = NearOther
 FunctionCode = SetTargetAbilityToUserAbility
 Flags = CanProtect,CanMirrorMove
-Description = The user dances to compel the target to mimic it, making the target's Ability the same as the user's.
+Description = You were quite the trend-setter, change your oppontents ability to your ability.
 #-------------------------------
 [FATE]
 Name = fate
@@ -260,7 +260,7 @@ Accuracy = 100
 TotalPP = 100
 Target = User
 FunctionCode = UseRandomMove
-Description = The user waggles a finger and stimulates its brain into randomly using nearly any move.
+Description = Why don't you live a little, select a move to use completely at random.
 #-------------------------------
 [DREAM]
 Name = DREAM
@@ -272,7 +272,7 @@ TotalPP = 3
 Target = NearOther
 FunctionCode = LowerUserDefSpDef1
 Flags = Contact,CanProtect,CanMirrorMove
-Description = The user fights the foe up close without guarding itself. It also cuts the user's Defense and Sp. Def.
+Description = Dream big, but not too big, you'll give yourself a headache, does high damage but decreases your special defence.
 #-------------------------------
 [UPONASTAR]
 Name = Upon a star
@@ -282,7 +282,7 @@ Accuracy = 100
 TotalPP = 3
 Target = User
 FunctionCode = HealUserPositionNextTurn
-Description = One turn after this move is used, the target's HP is restored by half the user's maximum HP.
+Description = I'm sure your wish will come true, eventually, heals your active critter next turn.
 #-------------------------------
 [PHOENIX]
 Name = phoenix
@@ -294,7 +294,7 @@ TotalPP = 1
 Target = AllNearOthers
 FunctionCode = UserLosesHalfOfTotalHPExplosive
 Flags = CanProtect,CanMirrorMove,CannotMetronome
-Description = The user attacks everything by causing its own head to explode. This also damages the user.
+Description = Burn bright like a diamond, does high damage but recieve damage which is half your max HP.
 #-------------------------------
 [HOLLOWOUT]
 Name = Hollow out
@@ -307,7 +307,7 @@ Target = NearOther
 FunctionCode = LowerTargetSpAtk1
 Flags = Contact,CanProtect,CanMirrorMove
 EffectChance = 100
-Description = The user skitters behind the target to attack. This also lowers the target's Sp. Atk stat.
+Description = Make them as empty as you feel, decreases your opponent's special attack.
 #-------------------------------
 [VACUUM]
 Name = VACUUM
@@ -319,7 +319,7 @@ TotalPP = 3
 Target = NearOther
 FunctionCode = BindTarget
 Flags = Contact,CanProtect,CanMirrorMove
-Description = The target is infested and unable to flee for four to five turns.
+Description = The good suck, your opponent cannot switch out for several turns, receiving damage on those turns.
 #-------------------------------
 [LOSS]
 Name = loss
@@ -331,7 +331,7 @@ TotalPP = 1
 Target = NearOther
 FunctionCode = RemoveTargetItem
 Flags = Contact,CanProtect,CanMirrorMove
-Description = The user slaps down the target's held item, preventing that item from being used in the battle.
+Description = Everything leaves eventually, your opponent loses whatever item they're holding.
 #-------------------------------
 [FALLING]
 Name = Falling
@@ -343,7 +343,7 @@ TotalPP = 5
 Target = NearOther
 FunctionCode = PowerHigherWithTargetPositiveStatStages
 Flags = Contact,CanProtect,CanMirrorMove
-Description = This attack's power increases the more the target has powered up with stat changes.
+Description = A rise always comes before a fall, does more damage the more stat boosts your opponent has. 
 #-------------------------------
 [WRONG]
 Name = WRONG
@@ -354,7 +354,7 @@ TotalPP = 5
 Target = NearOther
 FunctionCode = InvertTargetStatStages
 Flags = CanProtect,CanMirrorMove
-Description = All stat changes affecting the target turn topsy-turvy and become the opposite of what they were.
+Description = Wrong, just like your opinions, inverts target's stat changes.
 #-------------------------------
 [Nilhilism]
 Name = Nihilism
@@ -365,7 +365,7 @@ TotalPP = 5
 Target = User
 FunctionCode = RaiseUserMainStats1LoseThirdOfTotalHP
 Flags = Sound,CannotMetronome,Dance
-Description = The user raises all its stats by using some of its HP.
+Description = Nothing else matters, or maybe it doesn't, raises your highest stat but reduces your HP. 
 #-------------------------------
 [ATROPHY]
 Name = Atrophy
@@ -378,7 +378,7 @@ Target = AllNearFoes
 FunctionCode = LowerTargetSpeed2
 Flags = Contact,CanProtect,CanMirrorMove
 EffectChance = 100
-Description = The user captures and attacks foes by using an electric net, which lowers their Speed stat
+Description = In the end all is still, reduces target speed significantly. 
 #-------------------------------
 [HALFLIFE]
 Name = Half life
@@ -390,7 +390,7 @@ TotalPP = 3
 Target = NearOther
 FunctionCode = FixedDamageHalfTargetHP
 Flags = CanProtect,CanMirrorMove,CannotMetronome
-Description = The user hits the target with the force of nature. It halves the target's HP.
+Description = Valve, please release half life 3, halves your opponent's HP. 
 #-------------------------------
 [BREATHLESS]
 Name = Breathless
@@ -402,7 +402,7 @@ TotalPP = 5
 Target = NearOther
 FunctionCode = AttackAndSkipNextTurn
 Flags = CanProtect,CanMirrorMove,CannotMetronome
-Description = The user attacks wildly with its thick leek. The user can't move on the next turn.
+Description = What you make me, does high damage but skip your next turn. 
 #-------------------------------
 [UNMOVEING]
 Name = Unmoving
@@ -414,7 +414,7 @@ TotalPP = 5
 Target = NearOther
 FunctionCode = UseUserDefenseInsteadOfUserAttack
 Flags = Contact,CanProtect,CanMirrorMove
-Description = The user attacks by slamming its body into the target. Power increases the higher the user's Defense is.
+Description = As unmovable as something very unmovable, use defence instead of attack stat. 
 #-------------------------------
 [TRAPPED]
 Name = Trapped
@@ -427,18 +427,18 @@ Target = None
 Priority = -5
 FunctionCode = CounterPhysicalDamage
 Flags = Contact,CanProtect
-Description = A retaliation move that counters any physical attack, inflicting double the damage taken.
+Description = You activated my trap card, counters physical attacks with a high damaging move. 
 #-------------------------------
 [ABSENCE]
 Name = Absence
 Type = EMPTY
 Category = Status
 Accuracy = 100
-TotalPP = 5
+TotalPP = 1
 Target = User
 Priority = 4
 FunctionCode = ProtectUser
-Description = It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.
+Description = Like your father, your invulnerable to attacks for a turn.
 #-------------------------------
 [SILENT]
 Name = Silent
@@ -449,7 +449,7 @@ TotalPP = 5
 Target = NearOther
 FunctionCode = LowerPPOfTargetLastMoveBy2
 Flags = Contact,CanProtect
-Description = The user unleashes its grudge on the move last used by the target by cutting 2 PP from it.
+Description = Shut your mouth, lowers the PP of your opponent's last year's move, and PP stands for Power Points you dirty bastards.
 #-------------------------------
 [MAD]
 Name = MAD
@@ -461,7 +461,7 @@ TotalPP = 1
 Target = AllNearOthers
 FunctionCode = UserFaintsExplosive
 Flags = CanProtect,CanMirrorMove
-Description = The user explodes to inflict damage on those around it. The user faints upon using this move.
+Description = Like a capitalist society, like nobody buys my games, immediately become KO but do high damage to your opponent.
 #-------------------------------
 [MEMENTOMORI]
 Name = MEMENTO MORI
@@ -471,7 +471,7 @@ Accuracy = 100
 TotalPP = 5
 Target = User
 FunctionCode = MaxUserAttackLoseHalfOfTotalHP
-Description = The user maximizes its Attack stat in exchange for HP equal to half its max HP.
+Description = Yeah I totally know what Memento Mori means, I'm cultured, lose half your total HP but receive the maximum attack buff.
 #-------------------------------
 [ANATHEMA]
 Name = Anathema
@@ -483,7 +483,7 @@ Target = BothSides
 Priority = -7
 FunctionCode = StartSlowerBattlersActFirst
 Flags = CanMirrorMove
-Description = The user creates a bizarre area in which slower Pokémon get to move first for five turns.
+Description = Like me to bad game design, whose ever speed is lower acts first.
 #-------------------------------
 [ENTROPY]
 Name = Entropy
@@ -494,7 +494,7 @@ TotalPP = 3
 Target = AllBattlers
 FunctionCode = StartPerishCountsForAllBattlers
 Flags = Sound
-Description = Any Pokémon that hears this song faints in three turns, unless it switches out of battle.
+Description = You will die, sorry, unless you switch out, you and your opponent will become KO in 3 turns.
 #-------------------------------
 [SHEDFLESH]
 Name = Shed flesh
@@ -504,7 +504,7 @@ Accuracy = 100
 TotalPP = 3
 Target = User
 FunctionCode = LowerUserDefSpDef1RaiseUserAtkSpAtkSpd2
-Description = The user breaks its shell, lowering its defenses but sharply raising attacking and Speed stats.
+Description = Let me slip into something more comfortable, reduce defence and special defence, but heavily increase attack, special attack and speed. 
 #-------------------------------
 [DESECRATE]
 Name = Desecrate
