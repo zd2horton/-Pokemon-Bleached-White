@@ -219,7 +219,7 @@ TotalPP = 5
 Target = NearOther
 FunctionCode = PowerLowerWithUserHP
 Flags = Contact,CanProtect,CanMirrorMove
-Description = An all-out attack that becomes more powerful the less HP the user has.
+Description = You feel the final hour approaching does more damage the less health you have
 #-------------------------------
 [LASTSTAND]
 Name = Last stand
@@ -229,7 +229,7 @@ Accuracy = 0
 TotalPP = 1
 Target = User
 FunctionCode = AttackerFaintsIfUserFaints
-Description = When this move is used, if the user faints, the foe that landed the knockout hit also faints.
+Description = If, after using this move, you are KO By your opponent, using a move, you drag them to hell with you
 #-------------------------------
 [OPTIMIST]
 Name = Optimist
@@ -239,7 +239,7 @@ Accuracy = 0
 TotalPP = 3
 Target = User
 FunctionCode = RaiseTargetRandomStat3
-Description = The user applies pressure to stress points, sharply boosting one of its stats.
+Description = Good things come to good people it’s a shame good is subjective Drastically increases a random stat
 #-------------------------------
 [SELFWORTH]
 Name = Self-worth
