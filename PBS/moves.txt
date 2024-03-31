@@ -8,7 +8,7 @@ TotalPP = 3
 Target = NearOther
 FunctionCode = HealUserByHalfOfDamageDone
 Flags = Contact,CanProtect,CanMirrorMove
-Description = The user drains the target's blood. The user's HP is restored by half the damage taken by the target.
+Description = Take the flesh of your enemy and make it your own Restore hp by half the damage dealt
 #-------------------------------
 [TOUGHMEET]
 Name = Tough meet
@@ -18,7 +18,8 @@ Accuracy = 0
 TotalPP = 5
 Target = User
 FunctionCode = RaiseUserDefense3
-Description = The user calls out its underlings to shield its body, raising its Defense and Sp. Def stats.
+Description = Very chewy increases physical defence drastically
+
 #-------------------------------
 [NEST]
 Name = NEST
@@ -28,7 +29,7 @@ Accuracy = 0
 TotalPP = 1
 Target = User
 FunctionCode = StartHealUserEachTurn
-Description = The user envelops itself in a veil made of water. It regains some HP on every turn.
+Description = Make a precious little nest to rest, your weary head, restores a small amount of health each turn 
 #-------------------------------
 [RAGE]
 Name = rage
@@ -40,7 +41,7 @@ TotalPP = 3
 Target = NearOther
 FunctionCode = DoublePowerIfUserStatsLoweredThisTurn
 Flags = Contact,CanProtect,CanMirrorMove
-Description = The user lashes out to vent its frustration. Power is doubled if its stats dropped this turn.
+Description = Your Sense worthlessness fuels Your rage increases power if your stats have been decreased this turn.
 #-------------------------------
 [HUNTDOWN]
 Name = huntdown
@@ -52,7 +53,7 @@ TotalPP = 2
 Target = NearOther
 FunctionCode = PursueSwitchingFoe
 Flags = Contact,CanProtect,CanMirrorMove
-Description = An attack move that inflicts double damage if used on a target that is switching out of battle.
+Description = They know your IP address does increase damage if your opponent tries to switch out
 #-------------------------------
 [PEAKPREDATOR]
 Name = Peak predator
@@ -64,7 +65,7 @@ TotalPP = 5
 Target = AllNearFoes
 FunctionCode = PowerHigherWithUserHP
 Flags = CanProtect,CanMirrorMove,CannotMetronome
-Description = Converts life-force into power to attack. The lower the user's HP, the lower the move's power.
+Description = Sacrifice everything in the name of the kill decrease your HP, but does more damage
 #-------------------------------
 [CHASE]
 Name = Chase
@@ -76,7 +77,7 @@ TotalPP = 5
 Target = NearOther
 FunctionCode = PowerHigherWithUserFasterThanTarget
 Flags = Contact,CanProtect,CanMirrorMove
-Description = The user hurls an electric orb at the foe. It does more damage the faster the user is.
+Description = I am speed Does more damage the more, you outspeed your opponent
 #-------------------------------
 [EQUALNATURE]
 Name = Equal nature
@@ -87,7 +88,7 @@ TotalPP = 1
 Target = NearOther
 FunctionCode = UserTargetAverageBaseAtkSpAtk
 Flags = CanProtect
-Description = The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target.
+Description = Your mediocre is infectious, averages out your and your opponents attack and special attack stats
 #-------------------------------
 [SURVIVAL]
 Name = Survival
@@ -97,7 +98,7 @@ Accuracy = 0
 TotalPP = 1
 Target = User
 FunctionCode = UserSwapBaseAtkDef
-Description = The user employs its psychic power to switch its Attack with its Defense stat.
+Description = The best offence is the best defence this move does damage based on your defence instead of your attack
 
 #-------------------------------
 [FEROCITY]
@@ -110,7 +111,7 @@ TotalPP = 3
 Target = NearOther
 FunctionCode = LowerUserSpeed1
 Flags = Contact,CanProtect,CanMirrorMove,Punching
-Description = The user swings and hits with its strong and heavy fist. It lowers the user's Speed, however.
+Description = Rage clouds your thoughts does high damage, but reduces speed
 #-------------------------------
 [JAWS]
 Name = JAWS
@@ -123,7 +124,7 @@ Target = NearOther
 FunctionCode = LowerTargetDefense1
 Flags = Contact,CanProtect,CanMirrorMove,CannotMetronome
 EffectChance = 100
-Description = Overwhelms the target with lightning-like movement, then kicks. Lowers the target's Defense stat.
+Description = Your teeth breakthrough, the skin, how lovely uses your opponents defence
 #-------------------------------
 [MINDLESS]
 Name = Mindless
@@ -135,7 +136,7 @@ TotalPP = 20
 Target = RandomNearFoe
 FunctionCode = MultiTurnAttackPreventSleeping
 Flags = CanProtect,CanMirrorMove,Sound
-Description = The user attacks in an uproar for three turns. Over that time, no one can fall asleep.
+Description = This attack repeats for three turns there’s nothing you can do about it
 #-------------------------------
 [MERCURIAL]
 Name = Mercurial
@@ -147,7 +148,7 @@ TotalPP = 1
 Target = NearOther
 FunctionCode = SwitchOutUserDamagingMove
 Flags = Contact,CanProtect,CanMirrorMove
-Description = After making its attack, the user rushes back to switch places with a party Pokémon in waiting.
+Description = Mercurial is a fun word Attack as well as switching out in the same turn 
 #-------------------------------
 [MAGICNUMBER]
 Name = Magic number
@@ -159,7 +160,7 @@ TotalPP = 5
 Target = NearOther
 FunctionCode = HitTwoToFiveTimes
 Flags = CanProtect,CanMirrorMove
-Description = Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row.
+Description = Can hit your enemy 2 to 5 times in a row. Hope you get lucky kid
 #-------------------------------
 [INVULNERABLE]
 Name = Invulnerable
@@ -169,7 +170,7 @@ Accuracy = 0
 TotalPP = 1
 Target = User
 FunctionCode = RaiseUserSpDef3
-Description = The user calls out its underlings to shield its body, raising its Defense and Sp. Def stats.
+Description = Your delusional belief in your own capabilities, increases your special defence drastically
 #-------------------------------
 [DRACONICBREATH]
 Name = Draconic breath
@@ -181,7 +182,7 @@ TotalPP = 3
 Target = NearOther
 FunctionCode = None
 Flags = CanProtect,CanMirrorMove,HighCriticalHitRate
-Description = The user tears the target along with the space around it. Critical hits land more easily.
+Description = This man be spitting fire, literally has a chance to critical hit higher than average
 #-------------------------------
 [ICARUS]
 Name = Icarus
@@ -193,7 +194,7 @@ TotalPP = 20
 Target = NearOther
 FunctionCode = CrashDamageIfFailsUnusableInGravity
 Flags = Contact,CanProtect,CanMirrorMove
-Description = The target is attacked with a knee kick from a jump. If it misses, the user is hurt instead.
+Description = Where is the fun in life without a little risk does high damage, but has a chance to miss Which will hurt 
 #-------------------------------
 [CORAGE]
 Name = Courage
@@ -206,7 +207,7 @@ Target = NearOther
 FunctionCode = RaiseUserAttack1
 Flags = Contact,CanProtect,CanMirrorMove,Punching
 EffectChance = 100
-Description = Striking opponents repeatedly makes the user's fists harder, raising the user's Attack stat.
+Description = You are a brave little soldier increases your attack 
 #-------------------------------
 [HOUR]
 Name = 11th hour
