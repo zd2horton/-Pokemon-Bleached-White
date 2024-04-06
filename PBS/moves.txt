@@ -516,7 +516,7 @@ TotalPP = 3
 Target = NearOther
 FunctionCode = RaiseUserAttack3IfTargetFaints
 Flags = Contact,CanProtect,CanMirrorMove
-Description = When the user knocks out a target with this move, the user's Attack stat rises drastically.
+Description = The joy your beauty brings is only suppast by the joy it brings by thwe joy of taking it away drastically raises pysical attack on KO
 #-------------------------------
 [Exploitation]
 Name = Exploitation
@@ -528,7 +528,7 @@ TotalPP = 5
 Target = NearOther
 FunctionCode = DoublePowerIfTargetHPLessThanHalf
 Flags = CanProtect,CanMirrorMove
-Description = If the target's HP is down to about half, this attack will hit with double the power.
+Description = Expoitation something that you should ve used to does double damage if your HP is below 50%
 #-------------------------------
 [HAUNTING]
 Name = Haunting
@@ -538,7 +538,7 @@ Accuracy = 0
 TotalPP = 5
 Target = FoeSide
 FunctionCode = AddStickyWebToFoeSide
-Description = Weaves a sticky net around the opposing team, which lowers their Speed stats upon switching in.
+Description = The suffercating forbodings halts your step decrease the speed of youre opponants kritters when switched in
 #-------------------------------
 [CREEPING]
 Name = Creeping
@@ -551,7 +551,7 @@ Target = AllNearFoes
 FunctionCode = LowerTargetAttack1
 Flags = Contact,CanProtect,CanMirrorMove
 EffectChance = 100
-Description = The user swings its tough tail wildly and attacks all foes. This also lowers their Attack stats.
+Description = Fight or flight which will they choose decreases youre opponants pysical attack 
 #-------------------------------
 [STARTLE]
 Name = Startle
@@ -562,7 +562,7 @@ TotalPP = 1
 Target = NearOther
 Priority = 1
 FunctionCode = LowerTargetSpAtk3
-Description = The user stares with its baby-doll eyes, which lowers the target's Attack stat. Always goes first.
+Description = BOO Always lands first reduces youre opponants attack stat
 #-------------------------------
 [LIEINWAIT]
 Name = Lie in wait
@@ -574,7 +574,7 @@ TotalPP = 3
 Target = NearOther
 FunctionCode = PowerHigherWithTargetFasterThanUser
 Flags = Contact,CanProtect,CanMirrorMove,Bomb
-Description = The user tackles the target with a high-speed spin. The slower the user, the greater the damage.
+Description = Theres no need to chase your prey when they come to you the slower you are compared to your opponent the higher the damage 
 #-------------------------------
 [ITSCOMING]
 Name = It’s coming
@@ -586,7 +586,7 @@ TotalPP = 3
 Flags = Contact,CanProtect
 Target = NearOther
 FunctionCode = AttackTwoTurnsLater
-Description = Two turns after this move is used, the user blasts the target with a concentrated bundle of light.
+Description = Thats what she said hits your opponent two turns after it is used
 #-------------------------------
 [DARKTHOUGHTS]
 Name = Dark thoughts
@@ -599,7 +599,7 @@ Target = NearOther
 FunctionCode = LowerTargetSpDef3
 Flags = Contact,CanProtect
 EffectChance = 10
-Description = The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.
+Description = Did I leave the oven on..? Greatly decreases your opponent's Special Defence.
 #-------------------------------
 [VICTIM]
 Name = Victim
@@ -609,7 +609,7 @@ Accuracy = 100
 TotalPP = 1
 Target = NearOther
 FunctionCode = TrapTargetInBattleLowerTargetDefSpDef1EachTurn
-Description = Locks the target in and prevents it from fleeing. Also lowers the target's Defense and Sp. Def each turn.
+Description = Being a victim is a mindset, at least that's what I was told midway through being stabbed. Cannot flee from battle, decreases Defence and Special Defence.
 #-------------------------------
 [BODYHORROR]
 Name = Body horror
@@ -620,7 +620,7 @@ Accuracy = 100
 TotalPP = 20
 Target = Other
 FunctionCode = RecoilThirdOfDamageDealt
-Description = The user tucks in its wings and charges from a low altitude. The user also takes serious damage.
+Description = Have you looked in a mirror lately? Causes recoil damage to yourself, which is a third of the damage dealt to your opponent.
 #-------------------------------
 [UNDERTHEBED]
 Name = Under the bed
@@ -632,7 +632,7 @@ TotalPP = 3
 Target = Other
 FunctionCode = TwoTurnAttackInvulnerableInSky
 Flags = Contact,CanProtect,CanMirrorMove
-Description = The user soars, then strikes on the second turn. It can also be used for flying to any familiar town.
+Description = The suspense makes it all the sweeter. Cannot be damaged on the first turn of using this attack, the damage is dealt to opponent on the second turn.
 #-------------------------------
 [BLOODSUCKER]
 Name = Bloodsucker
@@ -642,7 +642,7 @@ Accuracy = 100
 TotalPP = 3
 Target = NearOther
 FunctionCode = StartLeechSeedTarget
-Description = A seed is planted on the target. It steals some HP from the target every turn.
+Description = Capitalism. Do I need to say more. Drains health from your opponent every turn. You gain the health that has been drained.
 #-------------------------------
 [TENSION]
 Name = Tension
@@ -654,7 +654,7 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = PowerHigherWithConsecutiveUseOnUserSide
 Flags = Contact,CanProtect
-Description = The user attacks the foe with an echoing voice. If this move is used every turn, it does greater damage.
+Description = They said I would get used to it, but they lied. Increase damage on every consecutive use.
 #-------------------------------
 [PHOBIA]
 Name = Phobia
@@ -664,7 +664,7 @@ Accuracy = 100
 TotalPP = 3
 Target = NearOther
 FunctionCode = DisableTargetLastMoveUsed
-Description = For four turns, this move prevents the target from using the move it last used.
+Description = The phobia of long words is called Hippopotomonstrosesquippedaliophobia. Whoever named that was a spiteful arse. Temporarily prevents opponent from using last move used.
 #-------------------------------
 [TRUEFEAR]
 Name = True fear 
@@ -675,7 +675,7 @@ TotalPP = 3
 Target = NearOther
 Priority = -1
 FunctionCode = SwitchOutTargetStatusMove
-Description = The target is scared off and replaced by another Pokémon in its party. In the wild, the battle ends.
+Description = You'll have to do taxes for the rest of your life. Forces your opponent to switch out.
 #-------------------------------
 [BLINDSIDE]
 Name = BLINDSIDE
@@ -688,7 +688,7 @@ Target = NearOther
 Priority = 2
 FunctionCode = FailsIfNotUserFirstTurn
 Flags = Contact,CanProtect,CanMirrorMove
-Description = Although this move has great power, it only works the first turn the user is in battle.
+Description = Never neglect the element of surprise. Well, that's what my gynecologist told me. Automatically outspeeds your opponent, fails if not first turn.
 #-------------------------------
 [MINDVMIGHT]
 Name = MindVmight 
@@ -700,7 +700,7 @@ TotalPP = 5
 Target = NearOther
 FunctionCode = UseTargetAttackInsteadOfUserAttack
 Flags = Contact,CanProtect,CanMirrorMove
-Description = The user turns the foe's power against it. It does more damage the higher the target's Attack stat.
+Description = Is the pen mightier than the sword? Let's stab you with both and see! Uses target's attack instead of user's attack.
 #-------------------------------
 [OUTWIT]
 Name = OUTWIT
@@ -713,7 +713,7 @@ Target = NearOther
 Priority = 1
 FunctionCode = FailsIfTargetActed
 Flags = Contact,CanProtect,CanMirrorMove
-Description = This move enables the user to attack first. It fails if the target is not readying an attack, however.
+Description = You've been hoisted by your own petard. And yes, I totally know what that means. Fails if attacked by the target.
 #-------------------------------
 [Retort]
 Name = Retort
@@ -725,7 +725,7 @@ TotalPP = 3
 Target = NearOther
 FunctionCode = DoublePowerIfTargetActed
 Flags = Contact,CanProtect,CanMirrorMove
-Description = If the user moves after the target, this attack's power will be doubled.
+Description = Your mum gay. Double power if your opponent acted first.
 #-------------------------------
 [EGO]
 Name = Ego
@@ -737,7 +737,7 @@ TotalPP = 3
 Target = NearOther
 FunctionCode = PowerHigherWithUserPositiveStatStages
 Flags = Contact,CanProtect,CanMirrorMove
-Description = The user boasts of its strength. Power increases the more the user's stats are raised.
+Description = I've never lost a game of bayblades. The more buffs the user has, the stronger the attack is.
 #-------------------------------
 [END]
 Name = END
@@ -748,7 +748,7 @@ TotalPP = 1
 Target = NearOther
 FunctionCode = UserFaintsLowerTargetAtkSpAtk2
 Flags = CanProtect,CanMirrorMove
-Description = The user faints when using this move. In return, it harshly lowers the target's Attack and Sp. Atk.
+Description = Life is best punctated with a full stop. KOs the user but drastically decreases your opponent's Attack and Special Attack.
 #-------------------------------
 [CRUELREMARK]
 Name = Cruel remark
@@ -759,7 +759,7 @@ TotalPP = 5
 Target = NearOther
 FunctionCode = DisableTargetStatusMoves
 Flags = CanProtect,CanMirrorMove
-Description = The target is taunted into a rage that allows it to use only attack moves for three turns.
+Description = Bad children get the stick. Prevents your opponent from using non-attacking moves.
 #-------------------------------
 [BRAINBREAK]
 Name = Brain break
@@ -771,7 +771,7 @@ TotalPP = 3
 Target = NearOther
 FunctionCode = LowerUserSpAtk2
 Flags = CanProtect,CanMirrorMove
-Description = Comets are summoned down from the sky. The attack's recoil harshly reduces the user's Sp. Atk stat.
+Description = You know what? Ant Man 2 is good. Does high damage, but lowers the user's Special Attack drastically.
 #-------------------------------
 [PERFECTPLAN]
 Name = Perfect plan
@@ -783,7 +783,7 @@ TotalPP = 3
 Target = NearOther
 Priority = -3
 FunctionCode = FailsIfUserDamagedThisTurn
-Description = The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.
+Description = *Teleports behind you* Nothing personal, kid. Fails if user is damaged this turn.
 #-------------------------------
 [QUICKTHINKING]
 Name = Quick thinking
@@ -795,7 +795,7 @@ TotalPP = 2
 Target = NearOther
 Priority = 1
 FunctionCode = None
-Description = The user throws a punch at blinding speed. It is certain to strike first.
+Description = When you shoot a brain out of a T-shirt cannon. Always hits first, unless someone else is hitting first - then who the fuck knows.
 #-------------------------------
 [CERTAINTY]
 Name = Certainty
@@ -807,7 +807,7 @@ TotalPP = 5
 Target = NearOther
 FunctionCode = FixedDamageUserLevel
 Flags = Contact,CanProtect,CanMirrorMove
-Description = The target is thrown using the power of gravity. It inflicts damage equal to the user's level.
+Description = My opinion is right, and your opinion is wrong. Re:Zero is a bad anime, fight me. It inflicts damage equal to the user's level.
 #-------------------------------
 [CLEARMIND]
 Name = Clear mind
@@ -817,7 +817,7 @@ Accuracy = 0
 TotalPP = 3
 Target = BothSides
 FunctionCode = ResetAllBattlersStatStages
-Description = The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.
+Description = I like to unwind with an empty mind. Remove all buffs and debuffs.
 #-------------------------------
 [EVALUATE]
 Name = Evaluate
@@ -830,7 +830,7 @@ Target = None
 Priority = 1
 FunctionCode = MultiTurnAttackBideThenReturnDoubleDamage
 Flags = Contact,CanProtect
-Description = The user endures attacks for two turns, then strikes back to cause double the damage taken.
+Description = In my educated opinion, you a bitch. The user freezes for two turns, and then attacks with double the damage dealt. 
 #-------------------------------
 [EMPATHY]
 Name = Empathy
@@ -842,7 +842,7 @@ TotalPP = 3
 Target = NearOther
 FunctionCode = LowerTargetHPToUserHP
 Flags = Contact,CanProtect,CanMirrorMove
-Description = An attack move that cuts down the target's HP to equal the user's HP.
+Description = Oh no.. he dropped his chicken tendies. Split the damage dealt to the user with the target.
 #-------------------------------
 [MIMIC]
 Name = Mimic
@@ -852,7 +852,7 @@ Accuracy = 0
 TotalPP = 20
 Target = User
 FunctionCode = UseLastMoveUsed
-Description = The user mimics the move used immediately before it. The move fails if no other move has been used yet.
+Description = Imitation is the highest form of flattery! What do you mean identity theft is a crime? Copies the last move your opponent used. You can't copy nothing.
 #-------------------------------
 [TRICKERY]
 Name = Trickery
@@ -863,7 +863,7 @@ TotalPP = 3
 Target = NearOther
 FunctionCode = DisableTargetUsingDifferentMove
 Flags = CanProtect,CanMirrorMove
-Description = The user compels the target to keep using only the move it last used for three turns.
+Description = Could you repeat that please? I was distracted by how handsome you are. Your opponent repeatedly uses the last move used for three turns.
 #-------------------------------
 [DECOY]
 Name = Decoy
@@ -873,7 +873,7 @@ Accuracy = 0
 TotalPP = 3
 Target = User
 FunctionCode = UserMakeSubstitute
-Description = The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.
+Description = Bro doesn't even know the shadow clone ninjustsu. Creates a decoy to receive damage instead of the user. 
 #-------------------------------
 [SURF]
 Name = ?
@@ -896,7 +896,7 @@ TotalPP = 20
 Target = User
 FunctionCode = RaiseUserSpAtkSpDefSpdAttackDefense1
 Flags = Dance
-Description = The user performs a beautiful dance. It boosts the user's Sp. Atk, Sp. Def, and Speed stats.
+Description = Vroom vroom. Increases all stats.
 #-------------------------------
 [BURNINGRUBBER]
 Name = BURNING RUBBER
@@ -908,7 +908,7 @@ TotalPP = 20
 Target = NearOther
 FunctionCode = LowerUserSpAtkSpDefSpdAttackDefense1
 Flags = CanProtect,CanMirrorMove
-Description = Comets are summoned down from the sky. The attack's recoil harshly reduces the user's Sp. Atk stat.
+Description = PSA, this will get you kicked out of the rubber ducky store. Does high damage, lowers all user's stats.
 #-------------------------------
 [CRASHTIME]
 Name = CRASH TIME!!!!
@@ -921,10 +921,10 @@ Target = Other
 Priority = 1
 Flags = Contact,CanProtect
 FunctionCode = RecoilhalfOfDamageDealt
-Description = The user tucks in its wings and charges from a low altitude. The user also takes serious damage.
+Description = No seatbelts, we die like men. Receive recoil damage, which is half the damage dealt by this move. 
 #-------------------------------
-[EATMYDEST]
-Name = EAT MY DEST
+[EATMYDUST]
+Name = EAT MY DUST
 Type = TRUCK
 Category = Special
 Power = 100
@@ -933,7 +933,7 @@ TotalPP = 3
 Target = NearOther
 FunctionCode = SwitchOutUserDamagingMove
 Flags = Contact,CanProtect,CanMirrorMove
-Description = After making its attack, the user rushes back to switch places with a party Pokémon in waiting.
+Description = Eat my dust like a starving roomba. After doing an attack, immediately switch out.
 #-------------------------------
 [BATONPASS]
 Name = PARTY !!!
@@ -943,7 +943,7 @@ Accuracy = 0
 TotalPP = 40
 Target = User
 FunctionCode = SwitchOutUserPassOnEffects
-Description = The user switches places with a party Pokémon in waiting, passing along any stat changes.
+Description = You're not invited. Immediately switch out, whoever you switch out to immediately gains your buffs.
 #-------------------------------
 [TRUMPCARD]
 Name = Last Card
@@ -955,7 +955,7 @@ TotalPP = 20
 Target = NearOther
 FunctionCode = PowerHigherWithLessPP
 Flags = Contact,CanProtect,CanMirrorMove
-Description = The fewer PP this move has, the greater its attack power.
+Description = It's a coupon for the extra butt whoopin' store. Does more damage the less PP one has.
 #-------------------------------
 [LOLGETFUCKED]
 Name = LoLgETFuCKeD :3
@@ -967,7 +967,7 @@ TotalPP = 99
 Target = NearOther
 FunctionCode = OHKO
 Flags = Contact
-Description = A vicious, tearing attack with big pincers. The target will faint instantly if this attack hits.
+Description = Have fun trying to get this to work, fucker. Immediately KOs opponent, if you find out how to use it.
 #-------------------------------
 [WORRYSEED]
 Name = Clownery
@@ -979,7 +979,7 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = SetTargetAbilityToSIMPLE
 Flags = CanProtect,CanMirrorMove
-Description = A seed that causes worry is planted on the foe. It prevents sleep by making its Ability Insomnia.
+Description = It does a thing, a very heehee hoohoo thing. Do I need to elaborate?
 #-------------------------------
 [SOAK]
 Name = Inflate
@@ -990,7 +990,7 @@ TotalPP = 20
 Target = NearOther
 FunctionCode = SetTargetTypesToBLOON
 Flags = CanProtect,CanMirrorMove
-Description = The user shoots a torrent of water at the target and changes the target's type to Water.
+Description = Inflate that fucker like the Iranian Rial. 
 #-------------------------------
 [CONVERSION]
 Name = POP 
@@ -1003,7 +1003,7 @@ TotalPP = 1
 Target = NearOther
 Flags = Contact,CanProtect
 FunctionCode = SetUserTypesToUserMoveType
-Description = The user changes its type to become the same type as one of its moves.
+Description = I'm sorry to inform you, you are now a balloon. 
 #-------------------------------
 [HAPPYTOSEEYOU]
 Name = Happytoseeyou
@@ -1014,7 +1014,7 @@ Priority = 3
 FunctionCode = DoesNothingUnusableInGravity
 TotalPP = 20
 Target = User
-Description = 
+Description = They're not happy to see you.
 #-------------------------------
 [COOLSTICK]
 Name = COOLSTICK
@@ -1025,7 +1025,7 @@ Accuracy = 100
 TotalPP = 1
 Target = NearOther
 Flags = Contact,CanProtect,CanMirrorMove
-Description = 
+Description = It makes fun noises.
 #-------------------------------
 [SCARYSTICK]
 Name = SCARYSTICK
@@ -1036,7 +1036,7 @@ Accuracy = 100
 TotalPP = 1
 Target = NearOther
 Flags = Contact,CanProtect,CanMirrorMove
-Description = 
+Description = It makes not fun noises.
 #-------------------------------
 [SMARTSTICK]
 Name = SMARTSTICK
@@ -1047,7 +1047,7 @@ Accuracy = 100
 TotalPP = 1
 Target = NearOther
 Flags = Contact,CanProtect,CanMirrorMove
-Description = A
+Description = It produces intoxicating veberations.
 #-------------------------------
 [LEAVEAWHOLE]
 Name = Leave a whole
@@ -1059,7 +1059,7 @@ TotalPP = 1
 Target = AllNearOthers
 FunctionCode = UserFaintsExplosive
 Flags = CanProtect,CanMirrorMove
-Description = T
+Description = Does what it says on the tin.
 #-------------------------------
 [NO]
 Name = .[;NO.#'.
@@ -1070,7 +1070,7 @@ TotalPP = 99
 Target = NearOther
 FunctionCode = LowerPPOfTargetLastMoveBy99
 Flags = Contact,CanProtect
-Description = The user unleashes its grudge on the move last used by the target by cutting 2 PP from it.
+Description = No.
 #-------------------------------
 [SUITUP]
 Name = SUIT UP
@@ -1080,7 +1080,7 @@ Accuracy = 0
 TotalPP = 10
 Target = User
 FunctionCode = RaiseUserDefSpDef1
-Description = The user calls out its underlings to shield its body, raising its Defense and Sp. Def stats.
+Description = This is expensive, please use wisely. 
 #-------------------------------
 [PAWCONGA]
 Name = PAW CONGA
@@ -1092,7 +1092,7 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = HitOncePerUserTeamMember
 Flags = CanProtect,CanMirrorMove
-Description = The user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.
+Description = I'm told this is a thing they do at conventions. NOT from firsthand experience of course.
 #-------------------------------
 [PRICESFORFURR]
 Name = PRICESFORFURR
@@ -1105,7 +1105,7 @@ Target = NearOther
 Priority = -6
 FunctionCode = SwitchOutTargetDamagingMove,RecoilThirdOfDamageDealt
 Flags = Contact,CanProtect,CanMirrorMove
-Description = The user knocks away the target and drags out another Pokémon in its party. In the wild, the battle ends.
+Description = Credit card debt.
 #-------------------------------
 [Contagion]
 Name = Contagion
@@ -1117,4 +1117,4 @@ TotalPP = 15
 Target = NearOther
 FunctionCode = BindTarget
 Flags = Contact,CanProtect,CanMirrorMove,CannotMetronome
-Description = The user snares the target in a snap trap for four to five turns
+Description = It's all Disney's Robin Hood fault.
