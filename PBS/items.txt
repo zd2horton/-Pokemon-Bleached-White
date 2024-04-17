@@ -305,33 +305,7 @@ BPPrice = 20
 FieldUse = OnPokemon
 Flags = Fling_30
 Description = A candy that is packed with energy. It raises the level of a single Pokémon by one.
-#-------------------------------
-[MASTERBALL]
-Name = Master Ball
-NamePlural = Master Balls
-Pocket = 3
-Price = 0
-BattleUse = OnFoe
-Flags = PokeBall
-Description = The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.
-#-------------------------------
-[ULTRABALL]
-Name = Ultra Ball
-NamePlural = Ultra Balls
-Pocket = 3
-Price = 800
-BattleUse = OnFoe
-Flags = PokeBall
-Description = An ultra-performance Ball that provides a higher Pokémon catch rate than a Great Ball.
-#-------------------------------
-[GREATBALL]
-Name = Great Ball
-NamePlural = Great Balls
-Pocket = 3
-Price = 600
-BattleUse = OnFoe
-Flags = PokeBall
-Description = A good, high-performance Ball that provides a higher Pokémon catch rate than a standard Poké Ball.
+
 #-------------------------------
 [POKEBALL]
 Name = Kreature Kube
@@ -341,33 +315,6 @@ Price = 200
 BattleUse = OnFoe
 Flags = PokeBall
 Description = A device for catching wild Pokémon. It is thrown like a ball at the target. It is designed as a capsule system.
-#-------------------------------
-[SAFARIBALL]
-Name = Safari Ball
-NamePlural = Safari Balls
-Pocket = 3
-Price = 0
-BattleUse = OnFoe
-Flags = PokeBall
-Description = A special Poké Ball that is used only in the Safari Zone. It is decorated in a camouflage pattern.
-#-------------------------------
-[NETBALL]
-Name = Net Ball
-NamePlural = Net Balls
-Pocket = 3
-Price = 1000
-BattleUse = OnFoe
-Flags = PokeBall
-Description = A somewhat different Poké Ball that works especially well on Water- and Bug-type Pokémon.
-#-------------------------------
-[DIVEBALL]
-Name = Dive Ball
-NamePlural = Dive Balls
-Pocket = 3
-Price = 1000
-BattleUse = OnFoe
-Flags = PokeBall
-Description = A somewhat different Poké Ball that works especially well on Pokémon that live underwater.
 #-------------------------------
 [TIMERBALL]
 Name = KLOK KUDE
@@ -387,24 +334,6 @@ SellPrice = 10
 BattleUse = OnFoe
 Flags = PokeBall
 Description = A somewhat rare Poké Ball that has been specially made to commemorate an event of some sort.
-#-------------------------------
-[QUICKBALL]
-Name = Quick Ball
-NamePlural = Quick Balls
-Pocket = 3
-Price = 1000
-BattleUse = OnFoe
-Flags = PokeBall
-Description = A somewhat different Poké Ball that provides a better catch rate if used at the start of a wild encounter.
-#-------------------------------
-[FASTBALL]
-Name = Fast Ball
-NamePlural = Fast Balls
-Pocket = 3
-Price = 300
-BattleUse = OnFoe
-Flags = PokeBall
-Description = A Poké Ball that makes it easier to catch fast Pokémon.
 #-------------------------------
 [LEVELBALL]
 Name = Level KUBE
