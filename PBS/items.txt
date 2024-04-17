@@ -370,8 +370,8 @@ Flags = PokeBall
 Description = A somewhat different Poké Ball that works especially well on Pokémon that live underwater.
 #-------------------------------
 [TIMERBALL]
-Name = Timer Ball
-NamePlural = Timer Balls
+Name = KLOK KUDE
+NamePlural = KLOK KUDES
 Pocket = 3
 Price = 1000
 BattleUse = OnFoe
@@ -407,8 +407,8 @@ Flags = PokeBall
 Description = A Poké Ball that makes it easier to catch fast Pokémon.
 #-------------------------------
 [LEVELBALL]
-Name = Level Ball
-NamePlural = Level Balls
+Name = Level KUBE
+NamePlural = Level KUBES
 Pocket = 3
 Price = 300
 BattleUse = OnFoe
