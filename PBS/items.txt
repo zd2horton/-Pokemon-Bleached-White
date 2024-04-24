@@ -607,3 +607,12 @@ Price = 200
 BattleUse = OnFoe
 Flags = PokeBall
 Description = A Kreature Kube specifically designed to help in easily catching Wrong Kreatures. Everything about this is wrong, especially the Kreature you'll trap inside.
+#-------------------------------
+[LOOT]
+Name = LOOT
+NamePlural = LOOTs
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = LOOT!
+#-------------------------------

@@ -345,4 +345,10 @@ Pokemon = FLATMAN,22
 Pokemon = SPRIG,22
 Pokemon = eEDIOe,22
 Pokemon = LITTELSTAR,22
+#-------------------------------
+[LOOTER,Looter and Looter]
+LoseText = ...
+Pokemon = TICK,20
+Pokemon = TICK,20
+#-------------------------------
 
