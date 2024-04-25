@@ -346,7 +346,7 @@ Pokemon = SPRIG,22
 Pokemon = eEDIOe,22
 Pokemon = LITTELSTAR,22
 #-------------------------------
-[boxman 2,boxbox]
+[boxman2,boxbox]
 LoseText = ...
 Pokemon = AUROCHS,25
 Pokemon = PHILSOPHER,25
@@ -369,7 +369,7 @@ Pokemon = DOS,24
 #-------------------------------
 [MEZMOR,nices]
 LoseText = ...
-LITTELSTAR,1
+Pokemon = LITTELSTAR,1
 
 
 

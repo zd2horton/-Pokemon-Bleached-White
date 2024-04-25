@@ -215,9 +215,9 @@ BaseMoney = 32
 BattleBGM = i am god  og
 skilllevel = 1000000
 #-------------------------------
-[boxman 2]
+[boxman2]
 Name = boxman 2
-Gender = ?
+Gender = Female
 BaseMoney = 32
 BattleBGM = -666060 og
 

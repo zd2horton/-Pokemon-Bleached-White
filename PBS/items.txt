@@ -414,7 +414,7 @@ Price = 20
 Flags = Fling_10,Berry,NaturalGift_EMPTY_100
 Description = Increases special defense when below a certain HP threshold. I don’t know what it is, but it tastes good. So just eat it, okay?
 #-------------------------------
-[love letter]
+[loveletter]
 Name = love letter
 NamePlural = Starved Berries
 Pocket = 5
