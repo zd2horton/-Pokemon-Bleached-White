@@ -214,4 +214,23 @@ Gender = Female
 BaseMoney = 32
 BattleBGM = i am god  og
 skilllevel = 1000000
+#-------------------------------
+[boxman 2]
+Name = boxman 2
+Gender = ?
+BaseMoney = 32
+BattleBGM = -666060 og
 
+#-------------------------------
+[CRAZY2]
+Name = CRAZY2
+Gender = Male
+BaseMoney = 32
+BattleBGM = breathing
+#-------------------------------
+[MEZMOR2]
+Name = .
+Gender = Male
+BaseMoney = 32
+BattleBGM = i am god  og
+skilllevel = 1000000

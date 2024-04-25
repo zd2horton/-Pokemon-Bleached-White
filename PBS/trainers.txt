@@ -346,9 +346,32 @@ Pokemon = SPRIG,22
 Pokemon = eEDIOe,22
 Pokemon = LITTELSTAR,22
 #-------------------------------
-[LOOTER,Looter and Looter]
+[boxman 2,boxbox]
 LoseText = ...
-Pokemon = TICK,20
-Pokemon = TICK,20
+Pokemon = AUROCHS,25
+Pokemon = PHILSOPHER,25
+Pokemon = ROOOCH,25
+Pokemon = OMED,25
 #-------------------------------
+[eginer,egg]
+LoseText = ...
+Pokemon = DAMP,23
+Pokemon = DAMP,23
+Pokemon = Didydark,23
+Pokemon = DOS,27
+#-------------------------------
+[CRAZY2,two two ]
+LoseText = ...
+Pokemon = BIGBARY,25
+Pokemon = BUGABOO,24
+Pokemon = BRAINWORM,25
+Pokemon = DOS,24
+#-------------------------------
+[MEZMOR,nices]
+LoseText = ...
+LITTELSTAR,1
+
+
+
+
 
