@@ -370,6 +370,16 @@ Pokemon = DOS,24
 [MEZMOR,nices]
 LoseText = ...
 Pokemon = LITTELSTAR,1
+#-------------------------------
+[LOOTERS2, bi bi]
+LoseText = ...
+Pokemon = DOLL,28
+Pokemon = THEFERAL,28
+#-------------------------------
+[crazmez, bi bi]
+LoseText = ...
+Pokemon = DOLL,28
+Pokemon = THEFERAL,28
 
 
 

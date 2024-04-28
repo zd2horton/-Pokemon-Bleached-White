@@ -196,7 +196,7 @@ skilllevel = 1000000
 #-------------------------------
 [LOOTER]
 Name = .
-Gender = Male
+Gender = Female
 BaseMoney = 32
 BattleBGM = i am god  og
 skilllevel = 1000000
@@ -229,8 +229,24 @@ BaseMoney = 32
 BattleBGM = breathing
 #-------------------------------
 [MEZMOR2]
-Name = .
+Name = MEZMOR2
 Gender = Male
 BaseMoney = 32
 BattleBGM = i am god  og
 skilllevel = 1000000
+#-------------------------------
+[LOOTERS2]
+Name = LOOTERS
+Gender = Male
+BaseMoney = 32
+BattleBGM = i am god  og
+skilllevel = 1000000
+#-------------------------------
+[crazmez2]
+Name = crazmez2
+Gender = Male
+BaseMoney = 32
+BattleBGM = i am god  og
+skilllevel = 1000000
+
+
