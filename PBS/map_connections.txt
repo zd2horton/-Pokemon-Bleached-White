@@ -18,8 +18,6 @@
 2,North,0,5,South,14
 # Route 7 (47) - Route 1 (5)
 47,South,0,5,North,72
-# Route 8 (69) - Lappet Town (2)
-69,North,12,2,South,0
 # factory forest transition (104) - Route 7 (47)
 104,South,0,47,North,15
 # factory shore  (83) - Route 7 (47)
