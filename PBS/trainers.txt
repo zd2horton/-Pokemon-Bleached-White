@@ -380,6 +380,35 @@ Pokemon = THEFERAL,28
 LoseText = ...
 Pokemon = DOLL,28
 Pokemon = THEFERAL,28
+#-------------------------------
+[BOXMAN,Cave Member,1]
+LoseText = ...
+Pokemon = PHILSOPHER,1
+#-------------------------------
+[BOXMAN,Cave Member,2]
+LoseText = ...
+Pokemon = PHILSOPHER,1
+#-------------------------------
+[BOXMAN,Cave Member,3]
+LoseText = ...
+Pokemon = PHILSOPHER,1
+#-------------------------------
+[BOXMAN,Cave Member,4]
+LoseText = ...
+Pokemon = PHILSOPHER,1
+#-------------------------------
+[BOXMAN,Cave Member,5]
+LoseText = ...
+Pokemon = PHILSOPHER,1
+#-------------------------------
+[BOXMAN,Cave Member,6]
+LoseText = ...
+Pokemon = PHILSOPHER,1
+#-------------------------------
+[BOXMAN,Cave Boss]
+LoseText = ...
+Pokemon = PHILSOPHER,1
+
 
 
 
