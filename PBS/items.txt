@@ -616,3 +616,9 @@ Price = 0
 Flags = KeyItem
 Description = LOOT!
 #-------------------------------
+[DCBP]
+Name = Dead City Boxman Pass
+NamePlural = Dead City Boxman Pass
+Pocket = 8
+Flags = KeyItem
+Description = Show this to the Boxman in Dead City.

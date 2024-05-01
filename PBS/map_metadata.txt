@@ -26,7 +26,7 @@ ShowArea = true
 MapPosition = 0,13,11
 BattleBack = field
 #-------------------------------
-[006]   # Cedolan City
+[006]   # elf room
 Name = Route 1
 MapPosition = 0,13,11
 #-------------------------------
@@ -41,12 +41,12 @@ MapSize = 2,11
 Name = Lappet Town
 MapPosition = 0,13,12
 #-------------------------------
-[009]   # Cedolan City Poké Center
+[009]   # gro home
 Name = Cedolan City
 HealingSpot = 8,17,11
 MapPosition = 0,14,10
 #-------------------------------
-[010]   # Cedolan Gym
+[010]   # MAP010
 Name = Cedolan City
 MapPosition = 0,13,10
 BattleBack = indoor3
@@ -60,6 +60,13 @@ MapPosition = 0,14,10
 [012]   # Cedolan City Condo
 Name = Cedolan City
 MapPosition = 0,14,10
+#-------------------------------
+[013]   # forest cave 1
+Name = AIR
+ShowArea = true
+BattleBack = fatory
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
 #-------------------------------
 [014]   # shop
 Name = Cedolan City
@@ -85,7 +92,7 @@ MapPosition = 0,13,10
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[020]   # Cedolan Dept. Elevator
+[020]
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
@@ -98,13 +105,20 @@ MapPosition = 0,14,8
 BattleBack = field
 MapSize = 1,11
 #-------------------------------
-[031]   # Route 3
+[031]   # MAP031
 Name = Route 3
 Outdoor = true
 ShowArea = true
 MapPosition = 0,14,6
 BattleBack = field
 MapSize = 2,1101
+#-------------------------------
+[032]   # MATION
+Name = ......
+ShowArea = true
+BattleBack = M
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
 #-------------------------------
 [034]
 Name = Route 3
@@ -137,7 +151,21 @@ BattleBack = redroutes
 MapSize = 2,11
 Environment = Rock
 #-------------------------------
-[069]   # Route 8
+[049]   # cave 2
+Name = deeper
+ShowArea = true
+BattleBack = DIGTHROUGH
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
+#-------------------------------
+[050]   # cave 3
+Name = DEEPER!!!!!!!!!!!!
+ShowArea = true
+BattleBack = DIGTHROUGH
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
+#-------------------------------
+[069]
 Name = Route 8
 Outdoor = true
 ShowArea = true
@@ -155,7 +183,7 @@ Environment = Underwater
 Name = Route 8
 MapPosition = 0,13,13
 #-------------------------------
-[077]   # MAP077
+[077]   # After the Forest
 Name = Highlands
 Outdoor = true
 WildBattleBGM = not maple 1 og
@@ -169,12 +197,25 @@ Outdoor = true
 Weather = Rain,100
 BattleBack = factoryshore
 #-------------------------------
+[086]   # factory 1
+Name = AIR
+ShowArea = true
+BattleBack = fatory
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
+#-------------------------------
 [093]   # forest
 Name = Forest
 Outdoor = true
 BattleBack = forist
-WildBattleBGM = fuck you forest final
 WildBattleBGM = I say
+#-------------------------------
+[099]   # fatory
+Name = AIR
+ShowArea = true
+BattleBack = fatory
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
 #-------------------------------
 [100]   # fan club
 Name = fan club
@@ -198,62 +239,25 @@ BattleBack = walle
 WildBattleBGM = reall battel - Copy og
 WildVictoryBGM = empty air og
 #-------------------------------
-[200]   # deep
+[200]   # Rock Cave 1F
 Name = deep
 ShowArea = true
 BattleBack = DIGTHROUGH
 WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
 #-------------------------------
-[049]   # deeper
-Name = deeper
-ShowArea = true
-BattleBack = DIGTHROUGH
-WildBattleBGM = rocks og
-WildVictoryBGM = empty air og
-#-------------------------------
-[213]   # DEEPER
+[213]   # cave1
 Name = DEEPER
 ShowArea = true
 BattleBack = DIGTHROUGH
 WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
 #-------------------------------
-[050]   # DEEPER!!!!!!!!!!!!
-Name = DEEPER!!!!!!!!!!!!
+[215]   # Boxman Cave
+Name = Boxman Cave
 ShowArea = true
 BattleBack = DIGTHROUGH
 WildBattleBGM = rocks og
+TrainerBattleBGM = not maple 1 og
 WildVictoryBGM = empty air og
-#-------------------------------
-[099]   # AIR
-Name = AIR
-ShowArea = true
-BattleBack = fatory
-WildBattleBGM = rocks og
-WildVictoryBGM = empty air og
-#-------------------------------
-[086]   # AIR
-Name = AIR
-ShowArea = true
-BattleBack = fatory
-WildBattleBGM = rocks og
-WildVictoryBGM = empty air og
-#-------------------------------
-[013]   # AIR
-Name = AIR
-ShowArea = true
-BattleBack = fatory
-WildBattleBGM = rocks og
-WildVictoryBGM = empty air og
-#-------------------------------
-[032]   # .......
-Name = ......
-ShowArea = true
-BattleBack = M
-WildBattleBGM = rocks og
-WildVictoryBGM = empty air og
-
-
-
-
+TrainerVictoryBGM = empty air og
