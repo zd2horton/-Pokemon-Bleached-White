@@ -371,17 +371,27 @@ Pokemon = DOS,24
 LoseText = ...
 Pokemon = LITTELSTAR,1
 #-------------------------------
-[LOOTERS2, bi bi]
+[LOOTERS2,bi bi]
 LoseText = ...
 Pokemon = DOLL,28
 Pokemon = THEFERAL,28
 #-------------------------------
-[crazmez, bi bi]
+[crazmez2,3]
 LoseText = ...
-Pokemon = DOLL,28
-Pokemon = THEFERAL,28
-
-
-
+Pokemon = Amygdala,35
+#-------------------------------
+[crazmez2,2]
+LoseText = ...
+Pokemon = TOMUCHFACES,28
+Pokemon = CRITTERSSS,28
+#-------------------------------
+[crazmez2,1]
+LoseText = ...
+Pokemon = TEEHEE,23
+Pokemon = POPIP,23
+Pokemon = POOKOOCHUE,23
+Pokemon = POOKOOCHUE,23
+Pokemon = POPIP,23
+Pokemon = TEEHEE,23
 
 
