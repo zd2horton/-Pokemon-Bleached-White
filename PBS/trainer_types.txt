@@ -242,7 +242,7 @@ BaseMoney = 32
 BattleBGM = i am god  og
 skilllevel = 1000000
 #-------------------------------
-[crazmez]
+[crazmez2]
 Name = crazmez2
 Gender = Male
 BaseMoney = 32
