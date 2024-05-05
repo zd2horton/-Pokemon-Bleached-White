@@ -622,3 +622,11 @@ NamePlural = Dead City Boxman Pass
 Pocket = 8
 Flags = KeyItem
 Description = Show this to the Boxman in Dead City.
+#-------------------------------
+[STEAKDINNER] 
+Name = Yummy Steak Dinner 
+NamePlural = Yummy Steak Dinners 
+Pocket = 8 
+Flags = KeyItem 
+Description = A delicious steak dinner for one! Surely no-one's ever missed out on this before.... 
+#-------------------------------
