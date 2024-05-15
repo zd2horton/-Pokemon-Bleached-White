@@ -237,7 +237,7 @@ Type = FANTASY
 Category = Status
 Accuracy = 0
 TotalPP = 3
-Target = User
+Target = UserOrNearAlly
 FunctionCode = RaiseTargetRandomStat2
 Description = Good things come to good people it’s a shame good is subjective, drastically increases a random stat.
 #-------------------------------
@@ -443,12 +443,14 @@ Description = Like your father, your invulnerable to attacks for a turn.
 [SILENT]
 Name = Silent
 Type = EMPTY
-Category = Status
+Category = Special
+Power = 20
 Accuracy = 100
 TotalPP = 5
 Target = NearOther
 FunctionCode = LowerPPOfTargetLastMoveBy3
 Flags = Contact,CanProtect
+EffectChance = 100
 Description = Shut your mouth, lowers the PP of your opponent's last year's move, and PP stands for Power Points you dirty bastards.
 #-------------------------------
 [MAD]
