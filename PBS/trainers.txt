@@ -393,5 +393,42 @@ Pokemon = POOKOOCHUE,23
 Pokemon = POOKOOCHUE,23
 Pokemon = POPIP,23
 Pokemon = TEEHEE,23
-
-
+#-------------------------------
+[UMBRELLAGIRL, Bella] 
+LoseText = Oh, dear! We were going so nicely too...
+Pokemon = RAPTORS, 28 #Front line attacker
+	Gender = male
+	Moves = JAWS,STARTLE,VICTIM,UNDERTHEBED
+	AbilityIndex = 0
+	Item = TERRORGEM
+	IV = 20,20,20,20,20,20
+Pokemon = THELAMB, 29 #Can weaken outgoing Kreatures through PP reduce and damage
+	Gender = male
+	Moves = UPONASTAR,MAGICNUMBER,SILENT,HUNTDOWN
+	AbilityIndex = 0
+	Item = ATKBERRY
+	IV = 20,20,20,20,20,20
+Pokemon = POSEY, 31 #Oddball, shakes things up against player
+	Gender = female
+	Moves = EQUALNATURE,CLEARMIND,FATE,END
+	AbilityIndex = 0
+	Item = SPDBERRY
+	IV = 20,20,20,20,20,20
+Pokemon = AAARRR, 30 #General pace breaker and brute
+	Gender = female
+	Moves = HOLLOWOUT,LOSS,ENTROPY,MINDLESS
+	AbilityIndex = 0
+	Item = FANTASYBERRY
+	IV = 20,20,20,20,20,20
+Pokemon = TEETEETEE, 31 #Buffs self and passes buffs on
+	Gender = male
+	Moves = BATONPASS,INVULNERABLE,PHOBIA,Nilhilism
+	AbilityIndex = 0
+	Item = FANTASYBERRY
+	IV = 20,20,20,20,20,20
+Pokemon = KART, 32 #BIG damage dealer
+	Gender = female
+	Moves = REVUP,EATMYDUST,ITSCOMING,CRASHTIME
+	AbilityIndex = 0
+	Item = loveletter
+	IV = 20,20,20,20,20,20

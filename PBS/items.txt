@@ -416,7 +416,7 @@ Description = Increases special defense when below a certain HP threshold. I don
 #-------------------------------
 [loveletter]
 Name = love letter
-NamePlural = Starved Berries
+NamePlural = love letters
 Pocket = 5
 Price = 15
 Flags = Berry,Fling_10,NaturalGift_TERROR_100

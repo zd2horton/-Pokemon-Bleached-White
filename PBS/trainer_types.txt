@@ -248,5 +248,11 @@ Gender = Male
 BaseMoney = 32
 BattleBGM = i am god  og
 skilllevel = 1000000
-
-
+#-------------------------------
+[UMBRELLAGIRL]
+Name = Umbrella Girl
+Gender = Female
+BaseMoney = 60
+SkillLevel = 50
+Flags = PredictMoveFailure, ScoreMoves, ConsiderSwitching
+BattleBGM = pink in the end
