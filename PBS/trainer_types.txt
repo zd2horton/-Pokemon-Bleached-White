@@ -177,35 +177,35 @@ skilllevel = 1000000
 Name = .
 Gender = Female
 BaseMoney = 32
-BattleBGM = i am god  og
+BattleBGM = ROCKING 
 skilllevel = 1000000
 #-------------------------------
 [MEZMOR]
 Name = .
 Gender = Male
 BaseMoney = 32
-BattleBGM = i am god  og
+BattleBGM = soul song
 skilllevel = 1000000
 #-------------------------------
 [adirtyman]
 Name = .
 Gender = Female
 BaseMoney = 32
-BattleBGM = i am god  og
+BattleBGM = comdat drums
 skilllevel = 1000000
 #-------------------------------
 [LOOTER]
 Name = .
 Gender = Female
 BaseMoney = 32
-BattleBGM = i am god  og
+BattleBGM = HAPPY CHRISMAS
 skilllevel = 1000000
 #-------------------------------
 [OCLATIST]
 Name = .
 Gender = Male
 BaseMoney = 32
-BattleBGM = i am god  og
+BattleBGM = SPACE NOICSES
 skilllevel = 1000000
 #-------------------------------
 [BEATSLEADER]
@@ -232,27 +232,67 @@ BattleBGM = breathing
 Name = MEZMOR2
 Gender = Male
 BaseMoney = 32
-BattleBGM = i am god  og
+BattleBGM = soul song
 skilllevel = 1000000
 #-------------------------------
 [LOOTERS2]
 Name = LOOTERS
 Gender = Male
 BaseMoney = 32
-BattleBGM = i am god  og
+BattleBGM = HAPPY CHRISMAS
 skilllevel = 1000000
 #-------------------------------
 [crazmez2]
 Name = crazmez2
 Gender = Male
 BaseMoney = 32
-BattleBGM = i am god  og
+BattleBGM = breathing
 skilllevel = 1000000
 #-------------------------------
 [UMBRELLAGIRL]
 Name = Umbrella Girl
 Gender = Female
 BaseMoney = 60
-SkillLevel = 50
+SkillLevel =  1000000
+Flags = PredictMoveFailure, ScoreMoves, ConsiderSwitching
+BattleBGM = pink in the end
+#-------------------------------
+[butcher]
+Name = BUTCHER
+Gender = Female
+BaseMoney = 60
+SkillLevel =  some many fucking brums 
+Flags = PredictMoveFailure, ScoreMoves, ConsiderSwitching
+BattleBGM = pink in the end
+#-------------------------------
+[beastleader]
+Name = LEADER OF BEASTS
+Gender = Female
+BaseMoney = 60
+SkillLevel =  jornys end og
+Flags = PredictMoveFailure, ScoreMoves, ConsiderSwitching
+BattleBGM = pink in the end
+#-------------------------------
+[terroleader]
+Name = LEADER OF TERROR
+Gender = Female
+BaseMoney = 60
+SkillLevel =  screams of hell final
+Flags = PredictMoveFailure, ScoreMoves, ConsiderSwitching
+BattleBGM = pink in the end
+#-------------------------------
+[THESECONDBEST]
+Name = THE SECOND BEST
+Gender = Female
+BaseMoney = 60
+SkillLevel =  story_end
+Flags = PredictMoveFailure, ScoreMoves, ConsiderSwitching
+BattleBGM = ANIME_AT_END_OF_OCEAN
+#-------------------------------
+[THEBEST]
+Name = THE BEST
+Gender = Female
+BaseMoney = 60
+SkillLevel =  lost memorys
 Flags = PredictMoveFailure, ScoreMoves, ConsiderSwitching
 BattleBGM = pink in the end
