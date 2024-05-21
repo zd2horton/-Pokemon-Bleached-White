@@ -144,6 +144,11 @@ LoseText = ...
 Pokemon = CHUTE,13
 Pokemon = SPRIG,13
 #-------------------------------
+[PUNCHYLADY,Mandy]
+LoseText = Drat...guess they need more prep time...
+Pokemon = arramrra,24
+Pokemon = BUGERBOOBOO,23
+#-------------------------------
 [SUPERNERD,Jerry]
 LoseText = ...
 Pokemon = BIRSON,18
@@ -371,6 +376,11 @@ Pokemon = DOS,24
 LoseText = ...
 Pokemon = LITTELSTAR,1
 #-------------------------------
+[MEZMOR,Jeggy]
+LoseText = ...
+Pokemon = MIDHORES,25
+Pokemon = ENGORGED, 25
+#-------------------------------
 [LOOTERS2,bi bi]
 LoseText = ...
 Pokemon = DOLL,28
@@ -393,6 +403,12 @@ Pokemon = POOKOOCHUE,23
 Pokemon = POOKOOCHUE,23
 Pokemon = POPIP,23
 Pokemon = TEEHEE,23
+#-------------------------------
+[adirtyman,Guy]
+LoseText = ...
+Pokemon = KLAK,20
+Pokemon = ROOOCH,20
+Pokemon = OMED, 21
 #-------------------------------
 [UMBRELLAGIRL, Bella] 
 LoseText = Oh, dear! We were going so nicely too...
