@@ -257,11 +257,11 @@ SkillLevel =  1000000
 Flags = PredictMoveFailure, ScoreMoves, ConsiderSwitching
 BattleBGM = pink in the end
 #-------------------------------
-[butcher]
+[butcher2]
 Name = BUTCHER
 Gender = Female
 BaseMoney = 60
-SkillLevel =  some many fucking brums 
+SkillLevel =  1000000
 Flags = PredictMoveFailure, ScoreMoves, ConsiderSwitching
 BattleBGM = pink in the end
 #-------------------------------
@@ -269,7 +269,7 @@ BattleBGM = pink in the end
 Name = LEADER OF BEASTS
 Gender = Female
 BaseMoney = 60
-SkillLevel =  jornys end og
+SkillLevel =  1000000
 Flags = PredictMoveFailure, ScoreMoves, ConsiderSwitching
 BattleBGM = pink in the end
 #-------------------------------
@@ -277,7 +277,7 @@ BattleBGM = pink in the end
 Name = LEADER OF TERROR
 Gender = Female
 BaseMoney = 60
-SkillLevel =  screams of hell final
+SkillLevel =  1000000
 Flags = PredictMoveFailure, ScoreMoves, ConsiderSwitching
 BattleBGM = pink in the end
 #-------------------------------
@@ -285,7 +285,7 @@ BattleBGM = pink in the end
 Name = THE SECOND BEST
 Gender = Female
 BaseMoney = 60
-SkillLevel =  story_end
+SkillLevel =  1000000
 Flags = PredictMoveFailure, ScoreMoves, ConsiderSwitching
 BattleBGM = ANIME_AT_END_OF_OCEAN
 #-------------------------------
@@ -293,6 +293,6 @@ BattleBGM = ANIME_AT_END_OF_OCEAN
 Name = THE BEST
 Gender = Female
 BaseMoney = 60
-SkillLevel =  lost memorys
+SkillLevel =  1000000
 Flags = PredictMoveFailure, ScoreMoves, ConsiderSwitching
 BattleBGM = pink in the end
