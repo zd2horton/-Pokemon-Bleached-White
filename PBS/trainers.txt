@@ -263,6 +263,11 @@ LoseText = ...
 Pokemon = POSEY,23
 Pokemon = DRAG,21
 #-------------------------------
+[eginer,Beck]
+LoseText = ...
+Pokemon = arra,22
+Pokemon = Preacher,22
+#-------------------------------
 [LEADEROFMIND,.]
 LoseText = Very good.
 BattleBack = mind

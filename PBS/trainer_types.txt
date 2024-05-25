@@ -262,7 +262,7 @@ Name = Umbrella Girl
 Gender = Female
 BaseMoney = 60
 SkillLevel =  1000000
-Flags = PredictMoveFailure, ScoreMoves, ConsiderSwitching
+Flags = PredictMoveFailure, ScoreMoves, ConsiderSwitching, UsePokemonInOrder
 BattleBGM = pink in the end
 #-------------------------------
 [butcher2]
