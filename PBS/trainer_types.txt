@@ -285,7 +285,7 @@ BattleBGM = pink in the end
 Name = LEADER OF FANTASY
 Gender = Female
 BaseMoney = 60
-SkillLevel =  rif1
+SkillLevel =  1000000
 Flags = PredictMoveFailure, ScoreMoves, ConsiderSwitching
 BattleBGM = pink in the end
 #-------------------------------
