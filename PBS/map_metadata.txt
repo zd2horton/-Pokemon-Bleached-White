@@ -206,6 +206,13 @@ Outdoor = true
 Weather = Rain,100
 BattleBack = factoryshore
 #-------------------------------
+[084]   # factory 1
+Name = AIR
+ShowArea = true
+BattleBack = monky
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
+#-------------------------------
 [086]   # factory 1
 Name = AIR
 ShowArea = true
