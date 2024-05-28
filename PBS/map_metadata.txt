@@ -47,11 +47,10 @@ HealingSpot = 8,17,11
 MapPosition = 0,14,10
 #-------------------------------
 [010]   # MAP010
-Name = Cedolan City
+Name = art
 MapPosition = 0,13,10
-BattleBack = indoor3
-Environment = Rock
-Flags = DisableBoxLink
+BattleBack = fantasyleader
+
 #-------------------------------
 [011]   # Pokémon Institute
 Name = Cedolan City
@@ -184,6 +183,16 @@ Name = Route 8
 MapPosition = 0,13,13
 #-------------------------------
 [077]   # After the Forest
+BattleBack = DIGTHROUGH
+Name = Highlands
+Outdoor = true
+WildBattleBGM = not maple 1 og
+TrainerBattleBGM = empty air og
+WildVictoryBGM = not maple 1 og
+TrainerVictoryBGM = empty air og
+#-------------------------------
+[079]   # After the Forest
+BattleBack = beadcity
 Name = Highlands
 Outdoor = true
 WildBattleBGM = not maple 1 og
@@ -209,6 +218,14 @@ Name = Forest
 Outdoor = true
 BattleBack = forist
 WildBattleBGM = I say
+#-------------------------------
+[096]   # BUTCHER
+Name = BUTCHER
+BattleBack = butcher
+ShowArea = true
+BattleBack = fatory
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
 #-------------------------------
 [099]   # fatory
 Name = AIR
