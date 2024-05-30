@@ -453,3 +453,107 @@ Pokemon = KART, 32 #BIG damage dealer
 	AbilityIndex = 0
 	Item = loveletter
 	IV = 20,20,20,20,20,20
+#-------------------------------
+[BOXMAN, 1] 
+LoseText =  ...
+Pokemon = TREE, 25
+	Gender = male
+	Moves = MAD
+	
+	Item = EMPTYGEM
+	IV = 20,20,20,20,20,20
+#-------------------------------
+[BOXMAN, 2] 
+LoseText =  ...
+Pokemon = TOMUCHFACES, 25
+	Gender = male
+	Moves = ENTROPY,HOLLOWOUT,HALFLIFE,VACUUM
+	
+	Item = FANTASYBERRY
+	IV = 20,20,20,20,20,20
+
+Pokemon = TOMUCHFACES, 25
+	Gender = male
+	Moves = ENTROPY,BREATHLESS,ICARUS,FALLING
+	
+	Item = FANTASYGEM
+	IV = 20,20,20,20,20,20
+Pokemon = TOMUCHFACES, 25
+	Gender = male
+	Moves = ENTROPY,BREATHLESS,ATROPHY,FALLING
+	
+	Item = FOCUSSASH
+	IV = 20,20,20,20,20,20
+#-------------------------------
+[BOXMAN, 3] 
+LoseText =  ...
+Pokemon = SPRIG, 21
+	Gender = male
+	Moves = MAD
+	
+	
+	IV = 20,20,20,20,20,20
+
+Pokemon = SPRIG, 21
+	Gender = male
+	Moves = MAD
+	
+	
+	IV = 20,20,20,20,20,20
+Pokemon = SPRIG, 21
+	Gender = male
+	Moves = MAD
+	
+	
+	IV = 20,20,20,20,20,20
+Pokemon = SPRIG, 21
+	Gender = male
+	Moves = MAD
+	
+	
+	IV = 20,20,20,20,20,20
+Pokemon = ONGYRO, 25
+		
+	IV = 20,20,20,20,20,20
+#-------------------------------
+[BOXMAN, 6] 
+LoseText =  ...
+Pokemon = TREE, 35
+	Gender = male
+	Moves = MAD
+	
+	Item = EMPTYGEM
+	IV = 20,20,20,20,20,20
+#-------------------------------
+[BOXMAN, 5] 
+LoseText =  ...
+Pokemon = LOSTFACES, 1
+	Gender = male
+	Moves = MAD
+	
+	Item = EMPTYGEM
+	IV = 20,20,20,20,20,20
+
+#-------------------------------
+[BOXMAN, 4] 
+LoseText =  ...
+Pokemon = TEETEETEE, 25
+	Gender = male
+	
+	
+	Item = WEAKNESSPOLICY
+	IV = 20,20,20,20,20,20
+Pokemon = TEETEETEE, 25
+	Gender = male
+	
+	
+	Item = WEAKNESSPOLICY
+	IV = 20,20,20,20,20,20
+Pokemon = TEETEETEE, 25
+	Gender = male
+	
+	
+	Item = WEAKNESSPOLICY
+	IV = 20,20,20,20,20,20
+
+
