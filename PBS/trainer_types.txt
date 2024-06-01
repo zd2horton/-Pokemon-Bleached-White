@@ -124,103 +124,90 @@ Name = butcher
 Gender = Female
 BaseMoney = 32
 BattleBGM = prayer to the deep
-skilllevel = 1000000
 #-------------------------------
 [eginer]
-Name = eginer 
+Name = eginer
 Gender = Female
 BaseMoney = 32
 BattleBGM = wild ecounter
 #-------------------------------
 [LEADEROFMIND]
-Name = LEADER OF MIND 
-BattleBack = mind
+Name = LEADER OF MIND
 Gender = Female
 BaseMoney = 32
 BattleBGM = true church
-skilllevel = 1000000
 #-------------------------------
 [BESTBOY]
 Name = BESTBOY
+Gender = Unknown
 BaseMoney = 32
 BattleBGM = happy gro
-skilllevel = 1000000
 #-------------------------------
 [ISOPODMAN]
 Name = ISOPODMAN
+Gender = Unknown
 BaseMoney = 32
 BattleBGM = nice misc
-skilllevel = 1000000
 #-------------------------------
 [spooky]
 Name = spooky
 Gender = Female
 BaseMoney = 32
 BattleBGM = SPOOKSSONG
-skilllevel = 1000000
 #-------------------------------
 [mystic]
 Name = mystic
 Gender = Female
 BaseMoney = 32
-BattleBGM = fuck you forest final 
-skilllevel = 1000000
+BattleBGM = fuck you forest final
 #-------------------------------
 [LEADEROFEMPTY]
 Name = .
 Gender = Male
 BaseMoney = 32
 BattleBGM = i am god  og
-skilllevel = 1000000
 #-------------------------------
 [MSDINO]
 Name = .
 Gender = Female
 BaseMoney = 32
-BattleBGM = ROCKING 
-skilllevel = 1000000
+BattleBGM = ROCKING
 #-------------------------------
 [MEZMOR]
 Name = .
 Gender = Male
 BaseMoney = 32
 BattleBGM = soul song
-skilllevel = 1000000
 #-------------------------------
 [adirtyman]
 Name = .
 Gender = Female
 BaseMoney = 32
 BattleBGM = comdat drums
-skilllevel = 1000000
 #-------------------------------
 [LOOTER]
 Name = .
 Gender = Female
 BaseMoney = 32
 BattleBGM = HAPPY CHRISMAS
-skilllevel = 1000000
 #-------------------------------
 [OCLATIST]
 Name = .
 Gender = Male
 BaseMoney = 32
 BattleBGM = SPACE NOICSES
-skilllevel = 1000000
 #-------------------------------
 [BEATSLEADER]
 Name = .
 Gender = Female
 BaseMoney = 32
 BattleBGM = i am god  og
-skilllevel = 1000000
 #-------------------------------
 [boxman2]
 Name = boxman 2
 Gender = Female
 BaseMoney = 32
 BattleBGM = -666060 og
-
 #-------------------------------
 [CRAZY2]
 Name = CRAZY2
@@ -233,82 +220,79 @@ Name = MEZMOR2
 Gender = Male
 BaseMoney = 32
 BattleBGM = soul song
-skilllevel = 1000000
 #-------------------------------
 [LOOTERS2]
 Name = LOOTERS
 Gender = Male
 BaseMoney = 32
 BattleBGM = HAPPY CHRISMAS
-skilllevel = 1000000
 #-------------------------------
 [crazmez2]
 Name = crazmez2
 Gender = Male
 BaseMoney = 32
 BattleBGM = breathing
-skilllevel = 1000000
 #-------------------------------
 [LEADLOOTER]
 Name = LEADLOOTER
 Gender = Female
 BaseMoney = 60
-SkillLevel =  1000000
-Flags = PredictMoveFailure, ScoreMoves, ConsiderSwitching
+SkillLevel = 1000000
+Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
 BattleBGM = 01 MFP live - Groovy Place
 #-------------------------------
 [UMBRELLAGIRL]
 Name = Umbrella Girl
 Gender = Female
 BaseMoney = 60
-SkillLevel =  1000000
-Flags = PredictMoveFailure, ScoreMoves, ConsiderSwitching, UsePokemonInOrder
+SkillLevel = 1000000
+Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching,UsePokemonInOrder
 BattleBGM = pink in the end
 #-------------------------------
 [butcher2]
 Name = BUTCHER
 Gender = Female
 BaseMoney = 60
-SkillLevel =  1000000
-Flags = PredictMoveFailure, ScoreMoves, ConsiderSwitching
+SkillLevel = 1000000
+Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
 BattleBGM = pink in the end
 #-------------------------------
 [beastleader]
 Name = LEADER OF BEASTS
 Gender = Female
 BaseMoney = 60
-SkillLevel =  1000000
-Flags = PredictMoveFailure, ScoreMoves, ConsiderSwitching
+SkillLevel = 1000000
+Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
 BattleBGM = pink in the end
 #-------------------------------
 [FANTASYleader]
 Name = LEADER OF FANTASY
 Gender = Female
 BaseMoney = 60
-SkillLevel =  1000000
-Flags = PredictMoveFailure, ScoreMoves, ConsiderSwitching
+SkillLevel = 1000000
+Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
 BattleBGM = pink in the end
 #-------------------------------
 [terroleader]
 Name = LEADER OF TERROR
-Gender = male
+Gender = Male
 BaseMoney = 60
-SkillLevel =  1000000
-Flags = PredictMoveFailure, ScoreMoves, ConsiderSwitching
+SkillLevel = 1000000
+Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
 BattleBGM = pink in the end
 #-------------------------------
 [THESECONDBEST]
 Name = THE SECOND BEST
 Gender = Female
 BaseMoney = 60
-SkillLevel =  1000000
-Flags = PredictMoveFailure, ScoreMoves, ConsiderSwitching
+SkillLevel = 1000000
+Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
 BattleBGM = ANIME_AT_END_OF_OCEAN
 #-------------------------------
 [THEBEST]
 Name = THE BEST
 Gender = Female
 BaseMoney = 60
-SkillLevel =  1000000
-Flags = PredictMoveFailure, ScoreMoves, ConsiderSwitching
+SkillLevel = 1000000
+Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
 BattleBGM = pink in the end

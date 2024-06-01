@@ -198,7 +198,6 @@ Pokemon = BARY,12
 Pokemon = BARY,12
 Pokemon = BARY,12
 Pokemon = BUGABOO,15
-
 #-------------------------------
 [Goon,nat]
 LoseText = ...
@@ -270,12 +269,11 @@ Pokemon = Preacher,22
 #-------------------------------
 [LEADEROFMIND,.]
 LoseText = Very good.
-BattleBack = mind
 Pokemon = ENGORGED,25
     Moves = NEST,BLOODSUCKER,BRAINBREAK,HOLLOWOUT
     AbilityIndex = 0
-    Gender = male
     Item = EMPTYBERRY
+    Gender = male
 Pokemon = IDOL,25
     Moves = TENSION,HOUR,MIMIC,STARTLE
     AbilityIndex = 0
@@ -285,26 +283,24 @@ Pokemon = sister,25
     Moves = INVULNERABLE,QUICKTHINKING,MAGICNUMBER,DECOY
     AbilityIndex = 0
     Item = SPECDEFBERRY
-    
-  #-------------------------------
+#-------------------------------
 [BESTBOY,NUGO]
 LoseText = ...
 Pokemon = ONGYRO,99
-
-  #-------------------------------
+#-------------------------------
 [spooky,sassasass]
 LoseText = ...
 Pokemon = ALADY,25
 Pokemon = FLATMAN,20
 Pokemon = FLATMAN,20
 Pokemon = FLATMAN,20
-  #-------------------------------
+#-------------------------------
 [EXCAVATOR,lost]
 LoseText = ...
 Pokemon = moomoon,21
 Pokemon = moomoon,21
 Pokemon = TOMUCHFACES,23
-  #-------------------------------
+#-------------------------------
 [mystic,scared]
 LoseText = ...
 Pokemon = TEEHEE,21
@@ -370,7 +366,7 @@ Pokemon = DAMP,23
 Pokemon = Didydark,23
 Pokemon = DOS,27
 #-------------------------------
-[CRAZY2,two two ]
+[CRAZY2,two two]
 LoseText = ...
 Pokemon = BIGBARY,25
 Pokemon = BUGABOO,24
@@ -384,7 +380,7 @@ Pokemon = LITTELSTAR,1
 [MEZMOR,Jeggy]
 LoseText = ...
 Pokemon = MIDHORES,25
-Pokemon = ENGORGED, 25
+Pokemon = ENGORGED,25
 #-------------------------------
 [LOOTERS2,bi bi]
 LoseText = ...
@@ -413,147 +409,131 @@ Pokemon = TEEHEE,23
 LoseText = ...
 Pokemon = KLAK,20
 Pokemon = ROOOCH,20
-Pokemon = OMED, 21
+Pokemon = OMED,21
 #-------------------------------
-[UMBRELLAGIRL, Bella] 
+[UMBRELLAGIRL,Bella]
 LoseText = Oh, dear! We were going so nicely too...
-Pokemon = RAPTORS, 28 #Front line attacker
-	Gender = male
-	Moves = JAWS,STARTLE,VICTIM,UNDERTHEBED
-	AbilityIndex = 0
-	Item = TERRORGEM
-	IV = 20,20,20,20,20,20
-Pokemon = THELAMB, 29 #Can weaken outgoing Kreatures through PP reduce and damage
-	Gender = male
-	Moves = UPONASTAR,MAGICNUMBER,SILENT,HUNTDOWN
-	AbilityIndex = 0
-	Item = ATKBERRY
-	IV = 20,20,20,20,20,20
-Pokemon = POSEY, 31 #Oddball, shakes things up against player
-	Gender = female
-	Moves = EQUALNATURE,CLEARMIND,FATE,END
-	AbilityIndex = 0
-	Item = SPDBERRY
-	IV = 20,20,20,20,20,20
-Pokemon = AAARRR, 30 #General pace breaker and brute
-	Gender = female
-	Moves = HOLLOWOUT,LOSS,ENTROPY,MINDLESS
-	AbilityIndex = 0
-	Item = FANTASYBERRY
-	IV = 20,20,20,20,20,20
-Pokemon = TEETEETEE, 31 #Buffs self and passes buffs on
-	Gender = male
-	Moves = BATONPASS,INVULNERABLE,PHOBIA,Nilhilism
-	AbilityIndex = 0
-	Item = FANTASYBERRY
-	IV = 20,20,20,20,20,20
-Pokemon = KART, 32 #BIG damage dealer
-	Gender = female
-	Moves = REVUP,EATMYDUST,ITSCOMING,CRASHTIME
-	AbilityIndex = 0
-	Item = loveletter
-	IV = 20,20,20,20,20,20
+Pokemon = RAPTORS,28
+    Moves = JAWS,STARTLE,VICTIM,UNDERTHEBED
+    AbilityIndex = 0
+    Item = TERRORGEM
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = THELAMB,29
+    Moves = UPONASTAR,MAGICNUMBER,SILENT,HUNTDOWN
+    AbilityIndex = 0
+    Item = ATKBERRY
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = POSEY,31
+    Moves = EQUALNATURE,CLEARMIND,FATE,END
+    AbilityIndex = 0
+    Item = SPDBERRY
+    Gender = female
+    IV = 20,20,20,20,20,20
+Pokemon = AAARRR,30
+    Moves = HOLLOWOUT,LOSS,ENTROPY,MINDLESS
+    AbilityIndex = 0
+    Item = FANTASYBERRY
+    Gender = female
+    IV = 20,20,20,20,20,20
+Pokemon = TEETEETEE,31
+    Moves = BATONPASS,INVULNERABLE,PHOBIA,Nilhilism
+    AbilityIndex = 0
+    Item = FANTASYBERRY
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = KART,32
+    Moves = REVUP,EATMYDUST,ITSCOMING,CRASHTIME
+    AbilityIndex = 0
+    Item = loveletter
+    Gender = female
+    IV = 20,20,20,20,20,20
 #-------------------------------
-[BOXMAN, 1] 
-LoseText =  ...
-Pokemon = TREE, 25
-	Gender = male
-	Moves = MAD
-	
-	Item = EMPTYGEM
-	IV = 20,20,20,20,20,20
+[BOXMAN,1]
+LoseText = ...
+Pokemon = TREE,25
+    Moves = MAD
+    Item = EMPTYGEM
+    Gender = male
+    IV = 20,20,20,20,20,20
 #-------------------------------
-[BOXMAN, 2] 
-LoseText =  ...
-Pokemon = TOMUCHFACES, 25
-	Gender = male
-	Moves = ENTROPY,HOLLOWOUT,HALFLIFE,VACUUM
-	
-	Item = FANTASYBERRY
-	IV = 20,20,20,20,20,20
-
-Pokemon = TOMUCHFACES, 25
-	Gender = male
-	Moves = ENTROPY,BREATHLESS,ICARUS,FALLING
-	
-	Item = FANTASYGEM
-	IV = 20,20,20,20,20,20
-Pokemon = TOMUCHFACES, 25
-	Gender = male
-	Moves = ENTROPY,BREATHLESS,ATROPHY,FALLING
-	
-	Item = FOCUSSASH
-	IV = 20,20,20,20,20,20
+[BOXMAN,2]
+LoseText = ...
+Pokemon = TOMUCHFACES,25
+    Moves = ENTROPY,HOLLOWOUT,HALFLIFE,VACUUM
+    Item = FANTASYBERRY
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = TOMUCHFACES,25
+    Moves = ENTROPY,BREATHLESS,ICARUS,FALLING
+    Item = FANTASYGEM
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = TOMUCHFACES,25
+    Moves = ENTROPY,BREATHLESS,ATROPHY,FALLING
+    Item = FOCUSSASH
+    Gender = male
+    IV = 20,20,20,20,20,20
 #-------------------------------
-[BOXMAN, 3] 
-LoseText =  ...
-Pokemon = SPRIG, 21
-	Gender = male
-	Moves = MAD
-	
-	
-	IV = 20,20,20,20,20,20
-
-Pokemon = SPRIG, 21
-	Gender = male
-	Moves = MAD
-	
-	
-	IV = 20,20,20,20,20,20
-Pokemon = SPRIG, 21
-	Gender = male
-	Moves = MAD
-	
-	
-	IV = 20,20,20,20,20,20
-Pokemon = SPRIG, 21
-	Gender = male
-	Moves = MAD
-	
-	
-	IV = 20,20,20,20,20,20
-Pokemon = ONGYRO, 25
-		
-	IV = 20,20,20,20,20,20
+[BOXMAN,3]
+LoseText = ...
+Pokemon = SPRIG,21
+    Moves = MAD
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = SPRIG,21
+    Moves = MAD
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = SPRIG,21
+    Moves = MAD
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = SPRIG,21
+    Moves = MAD
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = ONGYRO,25
+    IV = 20,20,20,20,20,20
 #-------------------------------
-[BOXMAN, 6] 
-LoseText =  ...
-Pokemon = TREE, 35
-	Gender = male
-	Moves = MAD
-	
-	Item = EMPTYGEM
-	IV = 20,20,20,20,20,20
+[BOXMAN,6]
+LoseText = ...
+Pokemon = TREE,35
+    Moves = MAD
+    Item = EMPTYGEM
+    Gender = male
+    IV = 20,20,20,20,20,20
 #-------------------------------
-[BOXMAN, 5] 
-LoseText =  ...
-Pokemon = LOSTFACES, 1
-	Gender = male
-	Moves = MAD
-	
-	Item = EMPTYGEM
-	IV = 20,20,20,20,20,20
-
+[BOXMAN,5]
+LoseText = ...
+Pokemon = LOSTFACES,1
+    Moves = MAD
+    Item = EMPTYGEM
+    Gender = male
+    IV = 20,20,20,20,20,20
 #-------------------------------
-[BOXMAN, 4] 
-LoseText =  ...
-Pokemon = TEETEETEE, 25
-	Gender = male
-	
-	
-	Item = WEAKNESSPOLICY
-	IV = 20,20,20,20,20,20
-Pokemon = TEETEETEE, 25
-	Gender = male
-	
-	
-	Item = WEAKNESSPOLICY
-	IV = 20,20,20,20,20,20
-Pokemon = TEETEETEE, 25
-	Gender = male
-	
-	
-	Item = WEAKNESSPOLICY
-	IV = 20,20,20,20,20,20
-
-
+[BOXMAN,4]
+LoseText = ...
+Pokemon = TEETEETEE,25
+    Item = WEAKNESSPOLICY
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = TEETEETEE,25
+    Item = WEAKNESSPOLICY
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = TEETEETEE,25
+    Item = WEAKNESSPOLICY
+    Gender = male
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[BOXMAN,7]
+LoseText = ...
+LoseText = ...
+Pokemon = BIRDDER,25
+Item = WEAKNESSPOLICY
+Pokemon = SPITROAST,25
+Item = ROCKYHELMET
+Pokemon = ORLIHEPERH,30
+Item = EMPTYGEM
