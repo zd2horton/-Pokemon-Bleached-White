@@ -1,5 +1,5 @@
 [DEVOUR]
-Name = devour
+Name = Devour
 Type = BEAST
 Category = Physical
 Power = 80
@@ -11,7 +11,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Take the flesh of your enemy and make it your own Restore hp by half the damage dealt.
 #-------------------------------
 [TOUGHMEET]
-Name = Tough meet
+Name = Tough Meet
 Type = FANTASY
 Category = Status
 Accuracy = 0
@@ -32,7 +32,7 @@ FunctionCode = StartHealUserEachTurn
 Description = Make a precious little nest to rest, your weary head, restores a small amount of health each turn.
 #-------------------------------
 [RAGE]
-Name = rage
+Name = Rage
 Type = BEAST
 Category = Physical
 Power = 75
@@ -44,7 +44,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Your Sense worthlessness fuels Your rage increases power if your stats have been decreased this turn.
 #-------------------------------
 [HUNTDOWN]
-Name = huntdown
+Name = Huntdown
 Type = BEAST
 Category = Physical
 Power = 70
@@ -56,7 +56,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = They know your IP address does increase damage if your opponent tries to switch out
 #-------------------------------
 [PEAKPREDATOR]
-Name = Peak predator
+Name = Peak Predator
 Type = BEAST
 Category = Physical
 Power = 70
@@ -80,7 +80,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = I am speed Does more damage the more, you outspeed your opponent
 #-------------------------------
 [EQUALNATURE]
-Name = Equal nature
+Name = Equal Nature
 Type = BEAST
 Category = Status
 Accuracy = 0
@@ -151,7 +151,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Mercurial is a fun word Attack as well as switching out in the same turn 
 #-------------------------------
 [MAGICNUMBER]
-Name = Magic number
+Name = Magic Number
 Type = FANTASY
 Category = Special
 Power = 30
@@ -173,7 +173,7 @@ FunctionCode = RaiseUserSpDef3
 Description = Your delusional belief in your own capabilities, increases your special defence drastically
 #-------------------------------
 [DRACONICBREATH]
-Name = Draconic breath
+Name = Draconic Breath
 Type = FANTASY
 Category = Special
 Power = 60
@@ -210,7 +210,7 @@ EffectChance = 100
 Description = You are a brave little soldier increases your attack.
 #-------------------------------
 [HOUR]
-Name = 11th hour
+Name = 11th Hour
 Type = FANTASY
 Category = Special
 Power = 1
@@ -222,7 +222,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = You feel the final hour approaching does more damage the less health you have.
 #-------------------------------
 [LASTSTAND]
-Name = Last stand
+Name = Last Stand
 Type = FANTASY
 Category = Status
 Accuracy = 0
@@ -242,7 +242,7 @@ FunctionCode = RaiseTargetRandomStat2
 Description = Good things come to good people it’s a shame good is subjective, drastically increases a random stat.
 #-------------------------------
 [SELFWORTH]
-Name = Self-worth
+Name = Self-Worth
 Type = FANTASY
 Category = Status
 Accuracy = 100
@@ -253,7 +253,7 @@ Flags = CanProtect,CanMirrorMove
 Description = You were quite the trend-setter, change your oppontents ability to your ability.
 #-------------------------------
 [FATE]
-Name = fate
+Name = Fate
 Type = FANTASY
 Category = Status
 Accuracy = 100
@@ -275,7 +275,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Dream big, but not too big, you'll give yourself a headache, does high damage but decreases your special defence.
 #-------------------------------
 [UPONASTAR]
-Name = Upon a star
+Name = Upon a Star
 Type = FANTASY
 Category = Status
 Accuracy = 100
@@ -285,7 +285,7 @@ FunctionCode = HealUserPositionNextTurn
 Description = I'm sure your wish will come true, eventually, heals your active critter next turn.
 #-------------------------------
 [PHOENIX]
-Name = phoenix
+Name = Phoenix
 Type =  FANTASY
 Category = Special
 Power = 150
@@ -297,7 +297,7 @@ Flags = CanProtect,CanMirrorMove,CannotMetronome
 Description = Burn bright like a diamond, does high damage but recieve damage which is half your max HP.
 #-------------------------------
 [HOLLOWOUT]
-Name = Hollow out
+Name = Hollow Out
 Type = EMPTY
 Category = Physical
 Power = 40
@@ -322,7 +322,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = The good suck, your opponent cannot switch out for several turns, receiving damage on those turns.
 #-------------------------------
 [LOSS]
-Name = loss
+Name = Loss
 Type = EMPTY
 Category = Physical
 Power = 90
@@ -381,7 +381,7 @@ EffectChance = 100
 Description = In the end all is still, reduces target speed significantly. 
 #-------------------------------
 [HALFLIFE]
-Name = Half life
+Name = Half Life
 Type = EMPTY
 Category = Special
 Power = 1
@@ -499,7 +499,7 @@ Flags = Sound
 Description = You will die, sorry, unless you switch out, you and your opponent will become KO in 3 turns.
 #-------------------------------
 [SHEDFLESH]
-Name = Shed flesh
+Name = Shed Flesh
 Type = EMPTY
 Category = Status
 Accuracy = 100
@@ -564,10 +564,10 @@ TotalPP = 1
 Target = NearOther
 Priority = 1
 FunctionCode = LowerTargetSpAtk3
-Description = BOO Always lands first reduces youre opponants attack stat
+Description = BOO Always lands first reduces youre opponants special attack stat
 #-------------------------------
 [LIEINWAIT]
-Name = Lie in wait
+Name = Lie in Wait
 Type = TERROR
 Category = Physical
 Power = 1
@@ -591,7 +591,7 @@ FunctionCode = AttackTwoTurnsLater
 Description = Thats what she said hits your opponent two turns after it is used
 #-------------------------------
 [DARKTHOUGHTS]
-Name = Dark thoughts
+Name = Dark Thoughts
 Type = TERROR
 Category = Special
 Power = 20
@@ -600,7 +600,7 @@ TotalPP = 1
 Target = NearOther
 FunctionCode = LowerTargetSpDef3
 Flags = Contact,CanProtect
-EffectChance = 10
+EffectChance = 100
 Description = Did I leave the oven on..? Greatly decreases your opponent's Special Defence.
 #-------------------------------
 [VICTIM]
@@ -614,7 +614,7 @@ FunctionCode = TrapTargetInBattleLowerTargetDefSpDef1EachTurn
 Description = Being a victim is a mindset, at least that's what I was told midway through being stabbed. Cannot flee from battle, decreases Defence and Special Defence.
 #-------------------------------
 [BODYHORROR]
-Name = Body horror
+Name = Body Horror
 Type = TERROR
 Category = Physical
 Power = 120
@@ -625,7 +625,7 @@ FunctionCode = RecoilThirdOfDamageDealt
 Description = Have you looked in a mirror lately? Causes recoil damage to yourself, which is a third of the damage dealt to your opponent.
 #-------------------------------
 [UNDERTHEBED]
-Name = Under the bed
+Name = Under the Bed
 Type = TERROR
 Category = Physical
 Power = 90
@@ -669,7 +669,7 @@ FunctionCode = DisableTargetLastMoveUsed
 Description = The phobia of long words is called Hippopotomonstrosesquippedaliophobia. Whoever named that was a spiteful arse. Temporarily prevents opponent from using last move used.
 #-------------------------------
 [TRUEFEAR]
-Name = True fear 
+Name = True Fear 
 Type = TERROR
 Category = Status
 Accuracy = 0
@@ -693,7 +693,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Never neglect the element of surprise. Well, that's what my gynecologist told me. Automatically outspeeds your opponent, fails if not first turn.
 #-------------------------------
 [MINDVMIGHT]
-Name = MindVmight 
+Name = MindVMight 
 Type = REASON
 Category = Physical
 Power = 95
@@ -713,7 +713,7 @@ Accuracy = 100
 TotalPP = 3
 Target = NearOther
 Priority = 1
-FunctionCode = FailsIfTargetActed
+FunctionCode = FailsIfUserDamagedThisTurn
 Flags = Contact,CanProtect,CanMirrorMove
 Description = You've been hoisted by your own petard. And yes, I totally know what that means. Fails if attacked by the target.
 #-------------------------------
@@ -753,7 +753,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Life is best punctated with a full stop. KOs the user but drastically decreases your opponent's Attack and Special Attack.
 #-------------------------------
 [CRUELREMARK]
-Name = Cruel remark
+Name = Cruel Remark
 Type = REASON
 Category = Status
 Accuracy = 100
@@ -764,7 +764,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Bad children get the stick. Prevents your opponent from using non-attacking moves.
 #-------------------------------
 [BRAINBREAK]
-Name = Brain break
+Name = Brain Break
 Type = REASON
 Category = Special
 Power = 130
@@ -776,7 +776,7 @@ Flags = CanProtect,CanMirrorMove
 Description = You know what? Ant Man 2 is good. Does high damage, but lowers the user's Special Attack drastically.
 #-------------------------------
 [PERFECTPLAN]
-Name = Perfect plan
+Name = Perfect Plan
 Type = REASON
 Category = Special
 Power = 200
@@ -788,7 +788,7 @@ FunctionCode = FailsIfUserDamagedThisTurn
 Description = *Teleports behind you* Nothing personal, kid. Fails if user is damaged this turn.
 #-------------------------------
 [QUICKTHINKING]
-Name = Quick thinking
+Name = Quick Thinking
 Type = REASON
 Category = Special
 Power = 70
@@ -812,7 +812,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = My opinion is right, and your opinion is wrong. Re:Zero is a bad anime, fight me. It inflicts damage equal to the user's level.
 #-------------------------------
 [CLEARMIND]
-Name = Clear mind
+Name = Clear Mind
 Type = REASON
 Category = Status
 Accuracy = 0
@@ -844,7 +844,7 @@ TotalPP = 3
 Target = NearOther
 FunctionCode = LowerTargetHPToUserHP
 Flags = Contact,CanProtect,CanMirrorMove
-Description = Oh no.. he dropped his chicken tendies. Split the damage dealt to the user with the target.
+Description = Oh no.. he dropped his chicken tendies. Drops your opponent's HP down to yours.
 #-------------------------------
 [MIMIC]
 Name = Mimic
@@ -922,7 +922,7 @@ TotalPP = 20
 Target = Other
 Priority = 1
 Flags = Contact,CanProtect
-FunctionCode = RecoilhalfOfDamageDealt
+FunctionCode = RecoilHalfOfDamageDealt
 Description = No seatbelts, we die like men. Receive recoil damage, which is half the damage dealt by this move. 
 #-------------------------------
 [EATMYDUST]
@@ -963,7 +963,7 @@ Description = It's a coupon for the extra butt whoopin' store. Does more damage 
 Name = LoLgETFuCKeD :3
 Type = CLOWN
 Category = Physical
-Power = 1
+Power = 1                          
 Accuracy = 100
 TotalPP = 99
 Target = NearOther
@@ -979,7 +979,7 @@ Power = 50
 Accuracy = 100
 TotalPP = 10
 Target = NearOther
-FunctionCode = SetTargetAbilityToSIMPLE
+FunctionCode = SetTargetAbilityToSimple
 Flags = CanProtect,CanMirrorMove
 Description = It does a thing, a very heehee hoohoo thing. Do I need to elaborate?
 #-------------------------------
@@ -1052,7 +1052,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = It produces intoxicating veberations.
 #-------------------------------
 [LEAVEAWHOLE]
-Name = Leave a whole
+Name = Leave a Whole
 Type = EMPTY
 Category = Physical
 Power = 300
@@ -1105,7 +1105,7 @@ Accuracy = 100
 TotalPP = 10
 Target = NearOther
 Priority = -6
-FunctionCode = SwitchOutTargetDamagingMove,RecoilThirdOfDamageDealt
+FunctionCode = SwitchOutTargetDamagingRecoilThird
 Flags = Contact,CanProtect,CanMirrorMove
 Description = Credit card debt.
 #-------------------------------

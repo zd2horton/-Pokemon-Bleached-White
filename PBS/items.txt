@@ -14,7 +14,7 @@ Description = A peculiar stone that makes certain species of Pokémon evolve. It
 [ROCKYHELMET]
 Name = curesis
 NamePlural = curesis
-Pocket = 1
+Pocket = 4
 Price = 3000
 SellPrice = 2000
 BPPrice = 25
@@ -24,7 +24,7 @@ Description = If the holder of this item takes damage, the attacker will also be
 [ASSAULTVEST]
 Name = Blood
 NamePlural = Bloods
-Pocket = 1
+Pocket = 3
 Price = 1000
 BPPrice = 25
 Flags = Fling_80
@@ -70,7 +70,7 @@ Description = An item to be held by a Pokémon. It is an egg filled with happine
 [CHOICEBAND]
 Name = Choice Band
 NamePlural = Choice Bands
-Pocket = 1
+Pocket = 3
 Price = 4000
 BPPrice = 25
 Flags = Fling_10
@@ -81,7 +81,7 @@ Name = Choice Specs
 NamePlural = Choice Specs
 PortionName = pair of Choice Specs
 PortionNamePlural = pairs of Choice Specs
-Pocket = 1
+Pocket = 3
 Price = 4000
 BPPrice = 25
 Flags = Fling_10
@@ -90,7 +90,7 @@ Description = An item to be held by a Pokémon. These curious glasses boost Sp. 
 [CHOICESCARF]
 Name = Choice Scarf
 NamePlural = Choice Scarves
-Pocket = 1
+Pocket = 3
 Price = 4000
 BPPrice = 25
 Flags = Fling_10
@@ -120,7 +120,7 @@ Description = An item to be held by a Pokémon. The holder's HP is restored a li
 [WHITEHERB]
 Name = syrij
 NamePlural = syrij
-Pocket = 1
+Pocket = 3
 Price = 4000
 BPPrice = 15
 Flags = Fling_10
@@ -130,7 +130,7 @@ Description = An item to be held by a Pokémon. It restores any lowered stat in 
 [WEAKNESSPOLICY]
 Name = Chalice of need
 NamePlural = Chalice of need
-Pocket = 1
+Pocket = 3
 Price = 1000
 BPPrice = 20
 Flags = Fling_80
@@ -139,7 +139,7 @@ Description = An item to be held by a Pokémon. The holder's Attack and Sp. Atk 
 [LIFEORB]
 Name = plush shork 
 NamePlural = plush shorks
-Pocket = 1
+Pocket = 4
 Price = 4000
 BPPrice = 25
 Flags = Fling_30
@@ -148,7 +148,7 @@ Description = An item to be held by a Pokémon. It boosts the power of moves, bu
 [EXPERTBELT]
 Name = sulfur_brand
 NamePlural = sulfur brands
-Pocket = 1
+Pocket = 4
 Price = 4000
 BPPrice = 25
 Flags = Fling_10
@@ -157,7 +157,7 @@ Description = An item to be held by a Pokémon. It is a well-worn belt that slig
 [METRONOME]
 Name = IDOL
 NamePlural = IDOLS
-Pocket = 1
+Pocket = 4
 Price = 3000
 SellPrice = 2000
 BPPrice = 25
@@ -167,7 +167,7 @@ Description = A Pokémon held item that boosts a move used consecutively. Its ef
 [FOCUSSASH]
 Name = Flan
 NamePlural = Flans
-Pocket = 1
+Pocket = 4
 Price = 3000
 SellPrice = 2000
 BPPrice = 15
@@ -190,7 +190,7 @@ Name = HP Up
 NamePlural = HP Ups
 PortionName = bottle of HP Up
 PortionNamePlural = bottles of HP Up
-Pocket = 2
+Pocket = 3
 Price = 10000
 FieldUse = OnPokemon
 Flags = Fling_30
@@ -201,7 +201,7 @@ Name = MOUTH
 NamePlural = MOUTHs
 PortionName = MOUTH
 PortionNamePlural = MOUTH
-Pocket = 2
+Pocket = 3
 Price = 10000
 FieldUse = OnPokemon
 Flags = Fling_30
@@ -212,7 +212,7 @@ Name = HAND
 NamePlural = HANDs
 PortionName = HAND
 PortionNamePlural = HAND
-Pocket = 2
+Pocket = 3
 Price = 10000
 FieldUse = OnPokemon
 Flags = Fling_30
@@ -223,7 +223,7 @@ Name = EYE
 NamePlural = EYEs
 PortionName = EYE
 PortionNamePlural = EYE
-Pocket = 2
+Pocket = 3
 Price = 10000
 FieldUse = OnPokemon
 Flags = Fling_30
@@ -234,7 +234,7 @@ Name = HAIR
 NamePlural =HAIRs
 PortionName = HAIR
 PortionNamePlural = HAIR
-Pocket = 2
+Pocket = 3
 Price = 10000
 FieldUse = OnPokemon
 Flags = Fling_30
@@ -245,7 +245,7 @@ Name = FOOT
 NamePlural = FOOTs
 PortionName = bottle of FOOTs
 PortionNamePlural = bottles of FOOTs
-Pocket = 2
+Pocket = 3
 Price = 10000
 FieldUse = OnPokemon
 Flags = Fling_30
@@ -254,7 +254,7 @@ Description = A nutritious drink for Pokémon. It raises the base Speed stat of 
 [EXPCANDYXS]
 Name = ROTEINGBRAINGUNK
 NamePlural = 
-Pocket = 2
+Pocket = 3
 Price = 5000
 FieldUse = OnPokemon
 Flags = Fling_30
@@ -263,7 +263,7 @@ Description = A candy packed with energy. When consumed, it will grant a Pokémo
 [EXPCANDYS]
 Name = Exp. Candy S
 NamePlural = Exp. Candy Ss
-Pocket = 2
+Pocket = 3
 Price = 240
 FieldUse = OnPokemon
 Flags = Fling_30
@@ -272,7 +272,7 @@ Description = A candy packed with energy. When consumed, it will grant a Pokémo
 [EXPCANDYM]
 Name = Exp. Candy M
 NamePlural = Exp. Candy Ms
-Pocket = 2
+Pocket = 3
 Price = 1000
 FieldUse = OnPokemon
 Flags = Fling_30
@@ -281,7 +281,7 @@ Description = A candy packed with energy. When consumed, it will grant a Pokémo
 [EXPCANDYL]
 Name = Exp. Candy L
 NamePlural = Exp. Candy Ls
-Pocket = 2
+Pocket = 3
 Price = 3000
 FieldUse = OnPokemon
 Flags = Fling_30
@@ -290,7 +290,7 @@ Description = A candy packed with energy. When consumed, it will grant a Pokémo
 [EXPCANDYXL]
 Name = Exp. Candy XL
 NamePlural = Exp. Candy XLs
-Pocket = 2
+Pocket = 3
 Price = 10000
 FieldUse = OnPokemon
 Flags = Fling_30
@@ -299,18 +299,17 @@ Description = A candy packed with energy. When consumed, it will grant a Pokémo
 [RARECANDY]
 Name = Rare Candy
 NamePlural = Rare Candies
-Pocket = 2
+Pocket = 3
 Price = 10000
 BPPrice = 20
 FieldUse = OnPokemon
 Flags = Fling_30
 Description = A candy that is packed with energy. It raises the level of a single Pokémon by one.
-
 #-------------------------------
 [POKEBALL]
 Name = Kreature Kube
 NamePlural = Kreature Kubes
-Pocket = 3
+Pocket = 2
 Price = 200
 BattleUse = OnFoe
 Flags = PokeBall
@@ -319,7 +318,7 @@ Description = A device for catching wild Pokémon. It is thrown like a ball at t
 [TIMERBALL]
 Name = KLOK KUDE
 NamePlural = KLOK KUDES
-Pocket = 3
+Pocket = 2
 Price = 1000
 BattleUse = OnFoe
 Flags = PokeBall
@@ -328,7 +327,7 @@ Description = A somewhat different Ball that becomes progressively better the mo
 [PREMIERBALL]
 Name = Premier Ball
 NamePlural = Premier Balls
-Pocket = 3
+Pocket = 2
 Price = 200
 SellPrice = 10
 BattleUse = OnFoe
@@ -338,7 +337,7 @@ Description = A somewhat rare Poké Ball that has been specially made to commemo
 [LEVELBALL]
 Name = Level KUBE
 NamePlural = Level KUBES
-Pocket = 3
+Pocket = 2
 Price = 300
 BattleUse = OnFoe
 Flags = PokeBall
@@ -347,7 +346,7 @@ Description = A Poké Ball for catching Pokémon that are a lower level than you
 [SHINYCHARM]
 Name = Shiny Charm
 NamePlural = Shiny Charms
-Pocket = 8
+Pocket = 1
 Price = 0
 Flags = KeyItem
 Description = A shiny charm said to increase the chance of finding a Shiny Pokémon.
@@ -357,7 +356,7 @@ Name = Carbos
 NamePlural = Carbos
 PortionName = bottle of Carbos
 PortionNamePlural = bottles of Carbos
-Pocket = 2
+Pocket = 3
 Price = 10000
 FieldUse = OnPokemon
 Flags = Fling_30
@@ -374,7 +373,7 @@ Description = A small blue shard. It appears to be from some sort of implement m
 [ATKBERRY]
 Name = Red Rump Roast
 NamePlural = Red Rump Roasts
-Pocket = 5
+Pocket = 3
 Price = 20
 Flags = Fling_20,Berry,NaturalGift_BEAST_100
 #Consumable = true
@@ -383,7 +382,7 @@ Description = Increases attack when below a certain HP threshold. There’s noth
 [DEFBERRY]
 Name = Let’s Get This Bread
 NamePlural = Let's Get These Breads
-Pocket = 5
+Pocket = 3
 Price = 20
 Flags = Fling_5,Berry,NaturalGift_REASON_100
 Description = Increases defense when below a certain HP threshold. Why does it do this? Fuck you, I don’t need to explain myself to you.
@@ -393,7 +392,7 @@ Name = Sparkle Cake
 NamePlural = Sparkle Cakes
 PortionName = Sparkle Cake Slice
 PortionNamePlural = Sparkle Cake Slices
-Pocket = 5
+Pocket = 3
 Price = 20
 Flags = Fling_10,Berry,NaturalGift_FANTASY_100
 Description = Increases speed when below a certain HP threshold. All glitter, all diabetes, all fun.
@@ -401,7 +400,7 @@ Description = Increases speed when below a certain HP threshold. All glitter, al
 [SPECATKBERRY]
 Name = Sweetly Sweetened Crepe (NOT A PANCAKE. FUCK YOU, IT’S A CREPE.)
 NamePlural = Sweetly Sweetened Crepes (NOT PANCAKES. FUCK YOU, THEY'RE CREPES.)
-Pocket = 5
+Pocket = 3
 Price = 20
 Flags = Fling_5,Berry,NaturalGift_TERROR_100
 Description = Increases special attack when below a certain HP threshold. My wife divorced me over this. It was worth it. Fuck you Jennifer, go eat pancakes with Steve.
@@ -409,7 +408,7 @@ Description = Increases special attack when below a certain HP threshold. My wif
 [SPECDEFBERRY]
 Name = Box of Delight
 NamePlural = Boxes of Delight
-Pocket = 5
+Pocket = 3
 Price = 20
 Flags = Fling_10,Berry,NaturalGift_EMPTY_100
 Description = Increases special defense when below a certain HP threshold. I don’t know what it is, but it tastes good. So just eat it, okay?
@@ -417,7 +416,7 @@ Description = Increases special defense when below a certain HP threshold. I don
 [loveletter]
 Name = love letter
 NamePlural = love letters
-Pocket = 5
+Pocket = 3
 Price = 15
 Flags = Berry,Fling_10,NaturalGift_TERROR_100
 Description = Increases a random stat when below a certain HP threshold. Hopefully it doesn't give you its empty stomach.
@@ -425,7 +424,7 @@ Description = Increases a random stat when below a certain HP threshold. Hopeful
 [TERRORGEM]
 Name = FLESHCAKE
 NamePlural = FLESHCAKE
-Pocket = 1
+Pocket = 4
 Price = 50
 Flags = Fling_20,TypeGem
 Description = Increases the damage of one Terror attack. To sip on the life fluids of a living thing can give one great strength. God, I love grape juice.
@@ -435,7 +434,7 @@ Name = Christmas Cake
 NamePlural = Christmas Cake Slices
 PortionName = Christmas Cake Slice
 PortionNamePlural = Christmas Cake Slices
-Pocket = 5
+Pocket = 4
 Price = 40
 Flags = Fling_10,Berry,NaturalGift_TERROR_80
 Description = Decreases the damage of one Terror attack. The memories of winters gone soothes your soul.
@@ -443,7 +442,7 @@ Description = Decreases the damage of one Terror attack. The memories of winters
 [BEASTGEM]
 Name = red Meat
 NamePlural = red Meats
-Pocket = 1
+Pocket = 4
 Price = 50
 Flags = Fling_30,TypeGem
 Description = Increases the damage of one Beast attack. Being able to look into its helpless dead eyes makes it all the sweeter.
@@ -451,7 +450,7 @@ Description = Increases the damage of one Beast attack. Being able to look into 
 [BEASTBERRY]
 Name = food ?
 NamePlural = food ?
-Pocket = 5
+Pocket = 4
 Price = 40
 Flags = Fling_15,Berry,NaturalGift_BEAST_80
 Description = Decreases the damage of one Beast attack. The smell of this revolts you on a primal level.
@@ -459,7 +458,7 @@ Description = Decreases the damage of one Beast attack. The smell of this revolt
 [FANTASYGEM]
 Name = Mystery Juice
 NamePlural = Mystery Juice Bottles
-Pocket = 1
+Pocket = 4
 Price = 50
 Flags = Fling_20,TypeGem
 Description = Increases the damage of one Fantasy attack. What’s in it? Who knows! All that matters is that it sparkles.
@@ -467,7 +466,7 @@ Description = Increases the damage of one Fantasy attack. What’s in it? Who kn
 [FANTASYBERRY]
 Name = sweet sweets
 NamePlural = sweet sweets
-Pocket = 5
+Pocket = 4
 Price = 40
 Flags = Fling_0,Berry,NaturalGift_FANTASY_80
 Description = Decreases the damage of one Fantasy attack. There are plenty of wondrous fantasies in this world, but a cup of tea and cute lil’ biscuits is one of the strongest.
@@ -475,7 +474,7 @@ Description = Decreases the damage of one Fantasy attack. There are plenty of wo
 [REASONGEM]
 Name = thinking food 
 NamePlural = thinking food
-Pocket = 1
+Pocket = 4
 Price = 50
 Flags = Fling_5,TypeGem
 Description = Increases the damage of one Reason attack. It’s a birthday cake made of liquified brains. What do you want from me.
@@ -483,7 +482,7 @@ Description = Increases the damage of one Reason attack. It’s a birthday cake 
 [REASONBERRY]
 Name = Antidepressant
 NamePlural = Antidepressants
-Pocket = 5
+Pocket = 4
 Price = 40
 Flags = Fling_0,Berry,NaturalGift_REASON_80
 Description = Decreases the damage of one Reason attack. Ketamine counts as an antidepressant, right?
@@ -491,7 +490,7 @@ Description = Decreases the damage of one Reason attack. Ketamine counts as an a
 [EMPTYGEM]
 Name = John Doe
 NamePlural = Many John Does
-Pocket = 1
+Pocket = 4
 Price = 50
 Flags = Fling_40,TypeGem
 Description = Increases the damage of one Empty attack. I’m sorry John.
@@ -499,7 +498,7 @@ Description = Increases the damage of one Empty attack. I’m sorry John.
 [EMPTYBERRY]
 Name = Foetus Skull
 NamePlural = Foetus Skulls
-Pocket = 5
+Pocket = 4
 Price = 40
 Flags = Fling_25,Berry,NaturalGift_EMPTY_80
 Description = Decreases the damage of one Empty attack. The hollow cavity satisfyingly crunches as your teeth grind through it.
@@ -507,21 +506,21 @@ Description = Decreases the damage of one Empty attack. The hollow cavity satisf
 [FACTORYSHORESKEY]
 Name = Factory Shores Key
 NamePlural = Factory Shores Key
-Pocket = 8
+Pocket = 5
 Flags = KeyItem
 Description = Allows access to a locked house in the Factory Shores.
 #-------------------------------
 [TWENTYDOLLARS]
 Name = Bundle of 20 Dollars
 NamePlural = Bundle of 20 Dollars
-Pocket = 8
+Pocket = 5
 Flags = KeyItem
 Description = Nobody uses this currency anymore, but maybe there's some people who would want it.
 #-------------------------------
 [REASONBALL]
 Name = Reason Kube
 NamePlural = Reason Kubes
-Pocket = 3
+Pocket = 2
 Price = 200
 BattleUse = OnFoe
 Flags = PokeBall
@@ -530,7 +529,7 @@ Description = A Kreature Kube specifically designed to help in easily catching R
 [BEASTBALL]
 Name = Beast Kube
 NamePlural = Beast Kubes
-Pocket = 3
+Pocket = 2
 Price = 200
 BattleUse = OnFoe
 Flags = PokeBall
@@ -539,7 +538,7 @@ Description = A Kreature Kube specifically designed to help in easily catching B
 [EMPTYBALL]
 Name = Empty Kube
 NamePlural = Empty Kubes
-Pocket = 3
+Pocket = 2
 Price = 200
 BattleUse = OnFoe
 Flags = PokeBall
@@ -548,7 +547,7 @@ Description = A Kreature Kube specifically designed to help in easily catching E
 [FANTASYBALL]
 Name = Fantasy Kube
 NamePlural = Fantasy Kubes
-Pocket = 3
+Pocket = 2
 Price = 200
 BattleUse = OnFoe
 Flags = PokeBall
@@ -557,7 +556,7 @@ Description = A Kreature Kube specifically designed to help in easily catching F
 [TERRORBALL]
 Name = Terror Kube
 NamePlural = Terror Kubes
-Pocket = 3
+Pocket = 2
 Price = 200
 BattleUse = OnFoe
 Flags = PokeBall
@@ -566,7 +565,7 @@ Description = A Kreature Kube specifically designed to help in easily catching T
 [TRUCKBALL]
 Name = Truck Kube
 NamePlural = Truck Kubes
-Pocket = 3
+Pocket = 2
 Price = 200
 BattleUse = OnFoe
 Flags = PokeBall
@@ -575,7 +574,7 @@ Description = A Kreature Kube specifically designed to help in easily catching..
 [CLOWNBALL]
 Name = Clown Kube
 NamePlural = Clown Kubes
-Pocket = 3
+Pocket = 2
 Price = 200
 BattleUse = OnFoe
 Flags = PokeBall
@@ -584,7 +583,7 @@ Description = A Kreature Kube specifically designed to help in easily catching c
 [BLOONBALL]
 Name = Bloon Kube
 NamePlural = Bloon Kubes
-Pocket = 3
+Pocket = 2
 Price = 200
 BattleUse = OnFoe
 Flags = PokeBall
@@ -593,7 +592,7 @@ Description = A Kreature Kube specifically designed to help in easily catching B
 [FURRYBALL]
 Name = Furry Kube
 NamePlural = Furry Kubes
-Pocket = 3
+Pocket = 2
 Price = 200
 BattleUse = OnFoe
 Flags = PokeBall
@@ -602,7 +601,7 @@ Description = A Kreature Kube specifically designed to help in easily catching f
 [WRONGBALL]
 Name = Wrong Kube
 NamePlural = Wrong Kubes
-Pocket = 3
+Pocket = 2
 Price = 200
 BattleUse = OnFoe
 Flags = PokeBall
@@ -611,7 +610,7 @@ Description = A Kreature Kube specifically designed to help in easily catching W
 [LOOT]
 Name = LOOT
 NamePlural = LOOTs
-Pocket = 8
+Pocket = 5
 Price = 0
 Flags = KeyItem
 Description = LOOT!
@@ -619,14 +618,21 @@ Description = LOOT!
 [DCBP]
 Name = Dead City Boxman Pass
 NamePlural = Dead City Boxman Pass
-Pocket = 8
+Pocket = 5
 Flags = KeyItem
 Description = Show this to the Boxman in Dead City.
 #-------------------------------
 [STEAKDINNER] 
 Name = Yummy Steak Dinner 
 NamePlural = Yummy Steak Dinners 
-Pocket = 8 
+Pocket = 5 
 Flags = KeyItem 
 Description = A delicious steak dinner for one! Surely no-one's ever missed out on this before.... 
+#-------------------------------
+[Test1] 
+Name = Test1
+NamePlural = Test1 
+Pocket = 5 
+Flags = KeyItem 
+Description = Test1
 #-------------------------------
