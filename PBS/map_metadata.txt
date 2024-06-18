@@ -19,8 +19,8 @@ MapPosition = 0,13,12
 Name = Pokémon Lab
 MapPosition = 0,13,12
 #-------------------------------
-[005]   # Route 1
-Name = Route 1
+[005]   # First Steps
+Name = First Steps
 Outdoor = true
 ShowArea = true
 MapPosition = 0,13,11
@@ -140,8 +140,8 @@ BicycleAlways = true
 MapPosition = 0,11,7
 MapSize = 1,111
 #-------------------------------
-[047]   # Route 7
-Name = Route 7
+[047]   # Rocky Plains
+Name = Rocky Plains
 Outdoor = true
 ShowArea = true
 Weather = Rain,0
@@ -263,8 +263,8 @@ BattleBack = walle
 WildBattleBGM = reall battel - Copy og
 WildVictoryBGM = empty air og
 #-------------------------------
-[200]   # Rock Cave 1F
-Name = deep
+[200]   # Rocky Caves (Deep...)
+Name = Rocky Caves (Deep...)
 ShowArea = true
 BattleBack = DIGTHROUGH
 WildBattleBGM = rocks og

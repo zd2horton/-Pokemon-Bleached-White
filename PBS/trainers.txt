@@ -5,7 +5,7 @@ LoseText = ...
 Pokemon = KOW,1
 Pokemon = KOW,1
 #-------------------------------
-[CAMPER,2Liam]
+[CAMPER,Liam]
 LoseText = ...
 Pokemon = CRITTER,1
 Pokemon = CRITTER,2
@@ -17,17 +17,17 @@ Pokemon = DRAGONE,10
 Pokemon = BIRSON,10
 Pokemon = ORLIHEPERH,10
 #-------------------------------
-[DD,3Liam]
+[DD,Liah]
 LoseText = ...
 Pokemon = POOKOOCHUE,5
 #-------------------------------
-[BOSSBOY,4Liam]
+[BOSSBOY,Loam]
 LoseText = ...
 Pokemon = BIRBABY,4
 Pokemon = CRITTER,4
 Pokemon = SEVLE,6
 #-------------------------------
-[BOXMAN,box man 1]
+[BOXMAN,Starter]
 LoseText = ...
 Pokemon = PHILSOPHER,1
 Pokemon = KOW,1
@@ -60,7 +60,7 @@ Pokemon = LOSTFACES,5
 Pokemon = LOSTFACES,7
 Pokemon = GYRO,14
 #-------------------------------
-[SUPERNERD,lam]
+[SUPERNERD,Lam]
 LoseText = ...
 Pokemon = DRAGONE,11
 Pokemon = LITTELPONE,11
@@ -74,15 +74,15 @@ Pokemon = DUK,10
 Pokemon = DUK,10
 Pokemon = DUK,10
 #-------------------------------
-[BEAUTY,1Lim]
+[BEAUTY,Lim]
 LoseText = ...
 Pokemon = CHUMCHUM,1
 #-------------------------------
-[PAINTER,lalm]
+[PAINTER,Lammy]
 LoseText = ...
 Pokemon = THELAMB,12
 #-------------------------------
-[GG,lalm]
+[GG,Laim]
 LoseText = ...
 Pokemon = THELAMB,10
 Pokemon = THELAMB,10
@@ -92,7 +92,7 @@ Pokemon = LITTELPONE,10
 LoseText = ...
 Pokemon = CHUTE,12
 #-------------------------------
-[EXCAVATOR,lalllm]
+[EXCAVATOR,Logjam]
 LoseText = ...
 Pokemon = POOKOOCHUE,13
 #-------------------------------
@@ -105,7 +105,7 @@ LoseText = ...
 Pokemon = DRAG,15
 Pokemon = BIRSON,15
 #-------------------------------
-[PUCHYMAN,MARA]
+[PUCHYMAN,Mara]
 LoseText = ...
 Pokemon = MAW,9
 Pokemon = MAW,9
@@ -117,13 +117,13 @@ LoseText = ...
 Pokemon = DRAG,14
 Pokemon = SMUNKY,15
 #-------------------------------
-[CAMPER,BBBBBB]
+[CAMPER,Beary]
 LoseText = ...
 Pokemon = BATY,11
 Pokemon = BARY,11
 Pokemon = BIRBABY,11
 #-------------------------------
-[CRAZY,grave]
+[CRAZY,Grave]
 LoseText = ...
 Pokemon = MAW,10
 Pokemon = GRAVENIMAGE,13
@@ -162,8 +162,8 @@ Pokemon = BUGABOO,13
 LoseText = ...
 Pokemon = GYRO,16
 #-------------------------------
-[BEAUTY,lily]
-LoseText = ...
+[BEAUTY,Lilly]
+LoseText = ....
 Pokemon = MIDHORES,17
 #-------------------------------
 [TROGLODYTE,MUNCHY]
@@ -192,7 +192,7 @@ LoseText = ...
 Pokemon = minomind,18
 Pokemon = SEVLEOMED,20
 #-------------------------------
-[PUCHYMAN,MANMAN]
+[PUCHYMAN,Man-Man]
 LoseText = ...
 Pokemon = BARY,12
 Pokemon = BARY,12
