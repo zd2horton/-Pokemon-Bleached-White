@@ -530,10 +530,26 @@ Pokemon = TEETEETEE,25
 #-------------------------------
 [BOXMAN,7]
 LoseText = ...
-LoseText = ...
 Pokemon = BIRDDER,25
-Item = WEAKNESSPOLICY
+    Item = WEAKNESSPOLICY
 Pokemon = SPITROAST,25
-Item = ROCKYHELMET
+    Item = ROCKYHELMET
 Pokemon = ORLIHEPERH,30
-Item = EMPTYGEM
+    Item = EMPTYGEM
+#-------------------------------
+[LOOTERS2,Looter and Looter]
+LoseText = ...
+Pokemon = TOMUCHFACES,20
+Pokemon = Marriage,30
+#-------------------------------
+[MEZMOR2,mezmez]
+LoseText = ...
+Pokemon = BARY,25
+Pokemon = DIOTORAS,25
+Pokemon = ENGORGED,25
+Pokemon = IDOL,25
+#-------------------------------
+[crazmez2,flowers]
+LoseText = ...
+Pokemon = CLOCLOGLIDER,40
+Pokemon = CLOCLO,5
