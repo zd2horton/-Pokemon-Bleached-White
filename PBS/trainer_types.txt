@@ -132,7 +132,7 @@ BaseMoney = 32
 BattleBGM = wild ecounter
 #-------------------------------
 [LEADEROFMIND]
-Name = LEADER OF MIND
+Name = Master of
 Gender = Female
 BaseMoney = 32
 BattleBGM = true church

@@ -139,7 +139,7 @@ Pokemon = CHUTE,12
 Pokemon = CHUTE,12
 Pokemon = CHUTE,12
 #-------------------------------
-[PUNCHYLADY,LOST]
+[PUNCHYLADY,Lost]
 LoseText = ...
 Pokemon = CHUTE,13
 Pokemon = SPRIG,13
@@ -153,7 +153,7 @@ Pokemon = BUGERBOOBOO,23
 LoseText = ...
 Pokemon = BIRSON,18
 #-------------------------------
-[SMARTASS,TOM TIs]
+[SMARTASS,Tom Tis]
 LoseText = ...
 Pokemon = BUGABOO,13
 Pokemon = BUGABOO,13
@@ -172,22 +172,22 @@ Pokemon = POOKOOCHUE,10
 Pokemon = POOKOOCHUE,13
 Pokemon = PHILSOPHER,15
 #-------------------------------
-[SUPERNERD,seasea]
+[SUPERNERD,See-Sea]
 LoseText = ...
 Pokemon = minomind,15
 Pokemon = TEEHEE,15
 Pokemon = KLAK,15
 #-------------------------------
-[salty,joey]
+[salty,Joey]
 LoseText = ...
 Pokemon = TOMUCHFACES,21
 #-------------------------------
-[GG,leala]
+[GG,Leala]
 LoseText = ...
 Pokemon = BIRSON,16
 Pokemon = BIRSON,18
 #-------------------------------
-[SUPERNERD,nor]
+[SUPERNERD,Nor]
 LoseText = ...
 Pokemon = minomind,18
 Pokemon = SEVLEOMED,20
@@ -199,7 +199,7 @@ Pokemon = BARY,12
 Pokemon = BARY,12
 Pokemon = BUGABOO,15
 #-------------------------------
-[Goon,nat]
+[Goon,Nat]
 LoseText = ...
 Pokemon = TEEHEE,17
 Pokemon = TEEHEE,17
@@ -225,12 +225,12 @@ LoseText = ...
 Pokemon = TOMUCHFACES,21
 Pokemon = IDOL,22
 #-------------------------------
-[eginer,tim]
+[eginer,Tim]
 LoseText = ...
 Pokemon = noking,19
 Pokemon = minomind,19
 #-------------------------------
-[eginer,tom]
+[eginer,Tom]
 LoseText = ...
 Pokemon = CRITTERSSS,25
 #-------------------------------
@@ -239,25 +239,30 @@ LoseText = ...
 Pokemon = TOMUCHFACES,22
 Pokemon = TOMUCHFACES,22
 #-------------------------------
-[SMARTASS,taly]
+[SMARTASS,Taly]
 LoseText = ...
 Pokemon = moomoon,22
 #-------------------------------
-[eginer,tatsy]
+[SMARTASS,Tully]
+LoseText = ...
+Pokemon = POSEY,22
+Pokemon = CHUTE,23
+#-------------------------------
+[eginer,Tatsy]
 LoseText = ...
 Pokemon = DUK,22
 Pokemon = LITTELSTAR,22
 #-------------------------------
-[SUPERNERD,toots]
+[SUPERNERD,Toots]
 LoseText = ...
-Pokemon = FLATMAN,22
+Pokemon = KART,22
 Pokemon = SUPERSMUNKYBALL,24
 #-------------------------------
-[Goon,tass]
+[Goon,Tass]
 LoseText = ...
 Pokemon = THERAM,27
 #-------------------------------
-[SUPERNERD,tall]
+[SUPERNERD,Tall]
 LoseText = ...
 Pokemon = POSEY,23
 Pokemon = DRAG,21
@@ -267,7 +272,7 @@ LoseText = ...
 Pokemon = arra,22
 Pokemon = Preacher,22
 #-------------------------------
-[LEADEROFMIND,.]
+[LEADEROFMIND,Mind]
 LoseText = Very good.
 Pokemon = ENGORGED,25
     Moves = NEST,BLOODSUCKER,BRAINBREAK,HOLLOWOUT
@@ -284,66 +289,66 @@ Pokemon = sister,25
     AbilityIndex = 0
     Item = SPECDEFBERRY
 #-------------------------------
-[BESTBOY,NUGO]
+[BESTBOY,Nugo]
 LoseText = ...
 Pokemon = ONGYRO,99
 #-------------------------------
-[spooky,sassasass]
+[spooky,Sassasass]
 LoseText = ...
 Pokemon = ALADY,25
 Pokemon = FLATMAN,20
 Pokemon = FLATMAN,20
 Pokemon = FLATMAN,20
 #-------------------------------
-[EXCAVATOR,lost]
+[EXCAVATOR,Lost]
 LoseText = ...
 Pokemon = moomoon,21
 Pokemon = moomoon,21
 Pokemon = TOMUCHFACES,23
 #-------------------------------
-[mystic,scared]
+[mystic,Scared]
 LoseText = ...
 Pokemon = TEEHEE,21
 Pokemon = THELAMB,21
 Pokemon = BRAINWORM,21
 Pokemon = CRITTER,21
 #-------------------------------
-[mystic,angery]
+[mystic,Angery]
 LoseText = ...
 Pokemon = MAN,25
 #-------------------------------
-[spooky,sa]
+[spooky,Rich]
 LoseText = ...
 Pokemon = MAN,19
 Pokemon = MAN,19
 Pokemon = MAN,19
 #-------------------------------
-[DD,redy]
+[DD,Reddy]
 LoseText = ...
 Pokemon = sister,24
 Pokemon = sister,24
 #-------------------------------
-[GG,stars]
+[GG,Stars]
 LoseText = ...
 Pokemon = LITTELSTAR,20
 Pokemon = LITTELSTAR,20
 Pokemon = MOREMAW,25
 #-------------------------------
-[mystic,sad]
+[mystic,Sad]
 LoseText = ...
 Pokemon = Lovers,20
 Pokemon = Lovers,20
 Pokemon = noking,25
 Pokemon = noking,25
 #-------------------------------
-[spooky,as]
+[spooky,Asa]
 LoseText = ...
 Pokemon = TICK,20
 Pokemon = THERAM,27
 Pokemon = KLAKLAKKLA,25
 #-------------------------------
 [LEADEROFEMPTY,Satoshi]
-LoseText = ...
+LoseText = Not bad, young lady.
 Pokemon = FIRST,25
 Pokemon = DUK,25
 Pokemon = HER,27
