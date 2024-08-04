@@ -48,7 +48,7 @@ ShowArea = true
 HealingSpot = 8,17,11
 MapPosition = 0,14,10
 #-------------------------------
-[010]   # MAP010
+[010]   # MAP 010
 Name = art
 MapPosition = 0,13,10
 BattleBack = fantasyleader

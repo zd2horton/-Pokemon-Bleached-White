@@ -20,7 +20,7 @@ Color = Green
 Shape = Quadruped
 Habitat = Grassland
 Category = Seed
-Pokedex = Original character. Do not steal!!!
+Pokedex = Original character, do not steal!!!
 Generation = 1
 Evolutions = AUROCHS,Level,16
 #-------------------------------
@@ -91,7 +91,7 @@ Color = Red
 Shape = BipedalTail
 Habitat = Mountain
 Category = Lizard
-Pokedex = TSomeone so invested into unravelling the mysteries of the universe, enraptured by their own daring and genius, they have yet to notice someone cut their fucking head off.
+Pokedex = Someone so invested into unravelling the mysteries of the universe, enraptured by their own daring and genius. They have yet to notice someone cut their fucking head off.
 Generation = 1
 Evolutions = REHOSLIPH,Level,16
 #-------------------------------
@@ -115,7 +115,7 @@ Color = Red
 Shape = BipedalTail
 Habitat = Mountain
 Category = Flame
-Pokedex = mc2. What about A = mc2? Checkmate, Einstein!
+Pokedex = mc2? What about A = mc2? Checkmate, Einstein!
 Generation = 1
 Evolutions = ORLIHEPERH,Level,36
 #-------------------------------
@@ -187,7 +187,7 @@ Color = Blue
 Shape = BipedalTail
 Habitat = WatersEdge
 Category = Turtle
-Pokedex = You hear it skittering. You hear it scratching. It’s behind the fridge. It’s judging you.
+Pokedex = You hear it skittering. Scratching. It’s behind the fridge. It’s judging you.
 Generation = 1
 Evolutions = O,Level,36
 #-------------------------------
@@ -239,7 +239,7 @@ Generation = 1
 Evolutions = TOMUCHFACES,Level,20
 #-------------------------------
 [TOMUCHFACES]
-Name = Too Much Faces
+Name = Many Faces
 Types = EMPTY
 BaseStats = 70,70,70,70,70,70
 GenderRatio = Female50Percent
@@ -328,9 +328,9 @@ Color = Brown
 Shape = Insectoid
 Habitat = Forest
 Category = Hairy Bug
-Pokedex = A doll, brought to life by the sheer love of the great anime story. As soon as they started talking, they were abandoned en masse.
+Pokedex = Dolls brought to life by the sheer love of the Great Anime Story. As soon as they started talking, they were abandoned en masse.
 Generation = 1
-Evolutions = CRITTERSSS,Level,22
+Evolutions = ONGYRO,Level,22
 #-------------------------------
 [ONGYRO]
 Name = Ongyro
@@ -352,7 +352,7 @@ Color = Brown
 Shape = Insectoid
 Habitat = Forest
 Category = Hairy Bug
-Pokedex = I bet you wish you hadn't left me behind now. You brought me to life with love and I wil end yours with it.
+Pokedex = I bet you wish you hadn't left me behind now. You brought me to life with love and I will end yours with it.
 Generation = 1
 #-------------------------------
 [DRAGONE]
@@ -375,7 +375,7 @@ Color = Brown
 Shape = Insectoid
 Habitat = Forest
 Category = Hairy Bug
-Pokedex = There are no such things as dragons anymore. There all dra-gone. 
+Pokedex = There are no such things as dragons anymore. They're all dra-gone. 
 Generation = 1
 Evolutions = DRAG,Level,21
 #-------------------------------
@@ -399,7 +399,7 @@ Color = Brown
 Shape = Insectoid
 Habitat = Forest
 Category = Hairy Bug
-Pokedex = This is not the type of drag I was hoping for. 0/10. Immediately refunded.
+Pokedex = This is not the type of drag I was hoping for, 0/10. Immediately refunded.
 Generation = 1
 Evolutions = GONE,Level,35
 #-------------------------------
@@ -446,7 +446,7 @@ Color = Brown
 Shape = Insectoid
 Habitat = Forest
 Category = Hairy Bug
-Pokedex = You can hear the sound of nails scraping beneath your floorboards. The sound won't go on for much longer. At least that's what you keep telling yourself.
+Pokedex = You can hear the sound of nails scraping beneath your floorboards. The sound won't go on for much longer. At least...that's what you keep telling yourself.
 Generation = 1
 Evolutions = BURIED,Level,25
 #-------------------------------
@@ -494,7 +494,7 @@ Color = Brown
 Shape = Insectoid
 Habitat = Forest
 Category = Hairy Bug
-Pokedex = Body was discovered after their neighbours noticed a distressing smell. They appear to have died, due to chronic sleep deprivation. The pit underneath their bed is none of your concern.
+Pokedex = Body was discovered after their neighbours noticed a distressing smell. They appear to have died due to chronic sleep deprivation. The pit underneath their bed is none of your concern.
 Generation = 1
 #-------------------------------
 [BIRBABY]
@@ -640,7 +640,7 @@ Pokedex = In the dust and the ash, you can hear them, you can see them, pointing
 Generation = 1
 #-------------------------------
 [THEFERAL]
-Name = The feral
+Name = The Feral
 Types = BEAST,FANTASY
 BaseStats = 20,50,40,60,30,40
 GenderRatio = Female50Percent
@@ -664,7 +664,7 @@ Generation = 1
 Evolutions = THEFERALGOD,Level,40
 #-------------------------------
 [THEFERALGOD]
-Name = THE FERAL GOD 
+Name = FERAL GOD 
 Types = BEAST,FANTASY
 BaseStats = 40,70,60,80,50,60
 GenderRatio = Female50Percent
@@ -706,7 +706,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Honk! Honk! Whats the funniest joke in the universe?
+Pokedex = Honk! Honk! What's the funniest joke in the universe?
 Generation = 1
 Evolutions = TEETEETEE,Level,27
 #-------------------------------
@@ -898,7 +898,7 @@ Generation = 1
 Evolutions = THEYBROKE,Level,25
 #-------------------------------
 [THEYBROKE]
-Name = Crooked Man
+Name = they broke
 Types = EMPTY
 BaseStats = 80,100,80,90,50,70
 GenderRatio = Female50Percent
@@ -917,7 +917,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = At this point, there's nothing more to say. Anyway, they're beyond hearing it now. 
+Pokedex = At this point, there's nothing more to say. They're beyond hearing it now. 
 Generation = 1
 #-------------------------------
 [GRAVENIMAGE]
@@ -964,7 +964,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Protection can come in many forms. Whether that protection is wanted or pleasant is beside the point. You made your bed, now lie in it.
+Pokedex = Protection can come in many forms. Whether it is wanted or pleasant is beside the point. You made your bed, now lie in it.
 Generation = 1
 #-------------------------------
 [BRAINWORM]
@@ -987,7 +987,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = how you ever forgotten something small name a date so sure what you were about to do a second ago but now its slipped away into a mouth of gnashing teeth
+Pokedex = Have you ever forgotten something small? A name, a date? You were so sure on what you were about to do a second ago, but now it's slipped away into a mouth of gnashing teeth.
 Generation = 1
 Evolutions = ENGORGED,Level,25
 #-------------------------------
@@ -1011,7 +1011,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = They have grown fat from your past on your mistakes and your victories all melted away in a swollen stomach and soon from your empty skull they will be ready to hatch
+Pokedex = They have grown fat from your memories gone by. Your mistakes, your victories, all melted away in a swollen stomach. Soon, from your empty skull, they will be ready to hatch.
 Generation = 1
 #-------------------------------
 [RAPTORS]
@@ -1034,7 +1034,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = A fun fact was that velociraptor was harmless another fun fact no matter how many fun facts I have it will not stop this thing ripping a hole through my stomach
+Pokedex = Fun fact, velociraptors were harmless. Another fun fact, no matter how many fun facts I have it will not stop this thing from ripping a hole through my stomach.
 Generation = 1
 Evolutions = DIOTORAS,Level,25
 #-------------------------------
@@ -1058,7 +1058,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Dinasaur means terrible lizard such an uncharitable description they wernt all terrible far from it some were far worst than that 
+Pokedex = Dinosaur means "terrible lizard"...such an uncharitable description. They weren't all terrible, far from it...some were far worse than that. 
 Generation = 1
 #-------------------------------
 [BARY]
@@ -1081,7 +1081,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Any likenesses of those  living or dead is purely coincidental that being said Bary tou are a little shit!
+Pokedex = Any likeness of those living or dead is purely coincidental. That being said, Bary you are a little shit!
 Generation = 1
 Evolutions = BIGBARY,Level,25
 #-------------------------------
@@ -1105,7 +1105,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Your're cistern begins to rumble youre plumbing starts to quake and tremble, your'e lavotory a churning royaling nightmare, big bary sends his regards
+Pokedex = Your cistern begins to rumble, your plumbing starts to quake and tremble. Your lavatory is a churning roiling nightmare. Big Bary sends his regards.
 Generation = 1
 Evolutions = BARYS,Level,35
 #-------------------------------
@@ -1129,11 +1129,11 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Better to shit in the sink than sink in the shit. Plato
+Pokedex = "Better to shit in the sink than sink in the shit." - Plato
 Generation = 1
 #-------------------------------
 [BATY]
-Name = Baty
+Name = Batty
 Types = TERROR
 BaseStats = 30,10,10,80,60,50
 GenderRatio = Female50Percent
@@ -1152,7 +1152,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Baty can be a derogatory phrase for someone who is insane, which seems rather rude to me since the average bat I've met seems perfectly civilised.
+Pokedex = Batty can be a derogatory phrase for someone who is insane, which seems rather rude to me since the average bat I've met seems perfectly civilised.
 Generation = 1
 Evolutions = BAAATY,Level,24
 #-------------------------------
@@ -1176,7 +1176,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Though a shadowy monster which appears out of the night, screaming in your face, might seem like an unpleasant experience - I assure you a conversation with you is worse.
+Pokedex = Though a shadowy monster appearing out of the night and screaming in your face might seem like an unpleasant experience - I assure you a conversation with you is worse.
 Generation = 1
 #-------------------------------
 [MAW]
@@ -1199,7 +1199,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Hunger is insatiable, hunger is inevitable. The only time the hunger will end is when you become food for something else.
+Pokedex = Hunger is insatiable, inevitable. The only time it will end is when you become food for something else.
 Generation = 1
 Evolutions = MOREMAW,Level,24
 #-------------------------------
@@ -1223,7 +1223,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Look, I was really proud of the entry for Maw. Like, really proud of it, such a cool line so just.. go read that again please.
+Pokedex = Look, I was really proud of the entry for Maw. Like, really proud of it, such a cool line so just...go read that again please.
 Generation = 1
 #-------------------------------
 [SMUNKY]
@@ -1246,12 +1246,12 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Four little Smunkys were jumping on a bed, one fell off and bumped his head - and recieved severe trauma to his cerebellum.
+Pokedex = Four little Smunkys were jumping on a bed, one fell off and bumped his head - and received severe trauma to his cerebellum.
 Generation = 1
 Evolutions = SUPERSMUNKYBALL,Level,24
 #-------------------------------
 [SUPERSMUNKYBALL]
-Name = SUPERSMUNKYBALL
+Name = Smunkyball
 Types = BEAST
 BaseStats = 80,70,80,100,70,80
 GenderRatio = Female50Percent
@@ -1270,7 +1270,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = One of the underrated classics, I have no idea why it didn't take off when it got tilt controls. Like, it was made for tilt controls! But nooo, still an obscure series godamnit.. anyway, what were we talking about?
+Pokedex = One of the underrated classics, I have no idea why it didn't take off when it got tilt controls. Like, it was made for tilt controls! But nooo, still an obscure series godamnit...anyway, what were we talking about?
 Generation = 1
 #-------------------------------
 [THELAMB]
@@ -1321,7 +1321,7 @@ Pokedex = Maybe you'll find out one day.
 Generation = 1
 #-------------------------------
 [LITTELPONE]
-Name = littelponey
+Name = Littel Pone
 Types = BEAST,FANTASY
 BaseStats = 40,30,60,60,40,20
 GenderRatio = Female50Percent
@@ -1364,7 +1364,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Until you all shared it's magic with me.
+Pokedex = Until you all shared its magic with me.
 Generation = 1
 Evolutions = MARGMARE,Level,35
 #-------------------------------
@@ -1439,7 +1439,7 @@ Generation = 1
 Evolutions = SPITROAST,Level,30
 #-------------------------------
 [SPITROAST]
-Name = SPITROAST
+Name = Spitroast
 Types = BEAST,EMPTY
 BaseStats = 120,120,90,20,10,70
 GenderRatio = Female50Percent
@@ -1458,7 +1458,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = The flesh tastes so good, but still being able to see it's face... somehow spoils the experience. I much prefer my food decapitated. Makes it a lot less personal.
+Pokedex = The flesh tastes so good, but still being able to see its face...somehow spoils the experience. I much prefer my food decapitated, makes it a lot less personal.
 Generation = 1
 #-------------------------------
 [CHUTE]
@@ -1481,12 +1481,12 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Floating down from the sky, I wonder why. If I was to fall down from that high.. I'd probably die.
+Pokedex = Floating down from the sky, I wonder why. If I were to fall down from that high...I'd probably die.
 Generation = 1
 Evolutions = MANINBLACK,Level,25
 #-------------------------------
 [MANINBLACK]
-Name = Man in black
+Name = Man in Black
 Types = EMPTY,REASON
 BaseStats = 80,70,70,90,70,100
 GenderRatio = Female50Percent
@@ -1552,7 +1552,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = It's heart is as hollow as a rotten oak tree, and if you don't get the reference I'll cry.
+Pokedex = Its heart is as hollow as a rotten oak tree, and if you don't get the reference I'll cry.
 Generation = 1
 Evolutions = TREE,Level,35
 #-------------------------------
@@ -1599,7 +1599,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Please do not sue me, Nintendo! I will give you apple slices!
+Pokedex = Please don't sue me, Nintendo! I'll give you apple slices!
 Generation = 1
 #-------------------------------
 [BOBYS]
@@ -1622,7 +1622,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = I hope me constantly accidentally switching my Ds and Bs hasn't ruined the horror of this moment. 
+Pokedex = I hope me constantly switching my Ds and Bs by accident hasn't ruined the horror of this moment. 
 Generation = 1
 #-------------------------------
 [TICK]
@@ -1645,7 +1645,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = What defines a parasite? Something that takes, and never gives. Like my ex-wife Deborah.
+Pokedex = What defines a parasite? Something that takes and never gives, just like my ex-wife Deborah.
 Generation = 1
 #-------------------------------
 [ALIVE]
@@ -1668,11 +1668,11 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = The definition for life, is to grow, is to feel. Unlike my ex-husband. You hear that Barry, you fuck?!
+Pokedex = The definition for life is to grow, to feel. Unlike my ex-husband. You hear that Barry, you fuck?!
 Generation = 1
 #-------------------------------
 [POSEY]
-Name = posey
+Name = Posey
 Types = EMPTY,REASON
 BaseStats = 60,10,30,90,90,70
 GenderRatio = Female50Percent
@@ -1743,7 +1743,7 @@ Generation = 1
 Evolutions = BOWHOUSE,Level,35
 #-------------------------------
 [BOWHOUSE]
-Name = BOWHOUSE
+Name = Bowhouse
 Types = EMPTY,REASON
 BaseStats = 100,80,80,60,80,80
 GenderRatio = Female50Percent
@@ -1881,7 +1881,7 @@ Pokedex = Hypnagogia.
 Generation = 1
 #-------------------------------
 [KART]
-Name = KART
+Name = Kart
 Types = TRUCK
 BaseStats = 210,50,50,50,50,50
 GenderRatio = Female50Percent
@@ -1950,7 +1950,7 @@ Pokedex = It's important to have inclusive gender roles. Putting arbitary standa
 Generation = 1
 #-------------------------------
 [OJABOBOD]
-Name = OJABOBO:D
+Name = OJABOBO :D
 Types = FANTASY,CLOWN
 BaseStats =120,60,80,120,60,40
 GenderRatio = Female50Percent
@@ -1992,7 +1992,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = What is a man but a miserable pile of secrets.
+Pokedex = What is a man? A miserable little pile of secrets!
 Generation = 1
 #-------------------------------
 [KLAK]
@@ -2015,7 +2015,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = They say you must submerge a crab in boiling water alive because that is the way to get the richest flavour. The same is true for people.
+Pokedex = They say you must submerge a crab in boiling water alive, because that is the way to get the richest flavour. The same is true for people.
 Generation = 1
 Evolutions = KLAKLAK,Level,25
 #-------------------------------
@@ -2067,7 +2067,7 @@ Pokedex = Google carcinisation.
 Generation = 1
 #-------------------------------
 [LITTELSTAR]
-Name = *Littelstar*
+Name = *Littel Star*
 Types = FANTASY,EMPTY
 BaseStats =90,30,30,30,30,30
 GenderRatio = Female50Percent
@@ -2091,7 +2091,7 @@ Generation = 1
 Evolutions = BIGSTAR,Level,25
 #-------------------------------
 [BIGSTAR]
-Name = *Bigstar*
+Name = *Big Star*
 Types = FANTASY,EMPTY
 BaseStats =110,50,50,50,50,50
 GenderRatio = Female50Percent
@@ -2138,7 +2138,7 @@ Pokedex = To be a star is to be the brightest thing in the night sky. To be the 
 Generation = 1
 #-------------------------------
 [LLABOTOMY]
-Name = llabotomy
+Name = Llabotomy
 Types = BEAST,EMPTY
 BaseStats =100,200,200,50,10,80
 GenderRatio = Female50Percent
@@ -2161,7 +2161,7 @@ Pokedex = Are they happier this way?
 Generation = 1
 #-------------------------------
 [LOJA]
-Name = LOJA
+Name = Loja
 Types = TERROR,REASON
 BaseStats =10,150,30,150,150,30
 GenderRatio = Female50Percent
@@ -2180,10 +2180,10 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = The FitnessGram Pacer test is a multistage aerobic capacity test.
+Pokedex = The FitnessGram Pacer test is a multistage aerobic capacity test that progressively gets more difficult as it continues.
 Generation = 1
 #-------------------------------
-[satara]
+[SATARA]
 Name = Satara
 Types = TERROR
 BaseStats =110,60,110,10,10,60
@@ -2203,11 +2203,11 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = People believe their destiny is divined by the stars in the sky, it is not them. It is ME. I'm the reason you stubbed your toe!
+Pokedex = People believe their destiny is divined by the stars in the sky...it is not them, but ME. I'm the reason you stubbed your toe!
 Generation = 1
-Evolutions = saturn,Level,35
+Evolutions = SATURN,Level,35
 #-------------------------------
-[saturn]
+[SATURN]
 Name = Saturn
 Types = TERROR
 BaseStats =130,100,130,10,10,80
@@ -2230,7 +2230,7 @@ Category = Worm
 Pokedex = JK. The stars don't give a shit about you, we have better things to do.
 Generation = 1
 #-------------------------------
-[moomoon]
+[MOOMOON]
 Name = Moonmoon
 Types = REASON,FANTASY
 BaseStats =60,10,60,10,60,150
@@ -2250,11 +2250,11 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = In most folklore the moon is feminine coded, which makes the Man in the moon very lucky. 
+Pokedex = In most folklore the moon is feminine coded, which makes the man in the moon very lucky. 
 Generation = 1
-Evolutions = moomoonsun,Level,35
+Evolutions = MOOMOONSUN,Level,35
 #-------------------------------
-[moomoonsun]
+[MOOMOONSUN]
 Name = MoonmoonSun
 Types = REASON,FANTASY
 BaseStats =60,10,70,10,100,200
@@ -2277,7 +2277,7 @@ Category = Worm
 Pokedex = The moon is now asking for child support.
 Generation = 1
 #-------------------------------
-[minomind]
+[MINOMIND]
 Name = Minomind
 Types = REASON
 BaseStats =40,10,10,60,80,40
@@ -2297,11 +2297,11 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Has big thoughts about small things, like.. your IQ. AYO.
+Pokedex = Has big thoughts about small things, like...your IQ, AYO.
 Generation = 1
-Evolutions = Amygdala,Level,35
+Evolutions = AMYGDALA,Level,35
 #-------------------------------
-[Amygdala]
+[AMYGDALA]
 Name = Amygdala
 Types = REASON
 BaseStats =80,10,10,160,190,80
@@ -2321,7 +2321,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Sadly, it has big thoughts about big things, and it's head is about to burst from it. There are some thoughts that just can't be contained by a skull.
+Pokedex = Sadly it has big thoughts about big things, and its head is about to burst from it. There are some thoughts that just can't be contained by a skull.
 Generation = 1
 #-------------------------------
 [POPIP]
@@ -2372,7 +2372,7 @@ Pokedex = Do you ever wonder why people find joy in the macabre and disturbing? 
 Generation = 1
 #-------------------------------
 [DOLL]
-Name = DOLL
+Name = Doll
 Types = REASON
 BaseStats =80,10,50,100,120,80
 GenderRatio = Female50Percent
@@ -2394,7 +2394,7 @@ Category = Worm
 Pokedex = They were played with too much. 
 Generation = 1
 #-------------------------------
-[noking]
+[NOKING]
 Name = Noking
 Types = REASON,FANTASY
 BaseStats =40,40,50,40,40,30
@@ -2414,7 +2414,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = noking has an extreme affection for the letter N. Niceties, nutella, nutmeg, but if you abuse the letter N it will get very upset. You wouldnt want to upset it would you?
+Pokedex = Noking has an extreme affection for the letter N. Niceties, Nutella, nutmeg, but if you abuse the letter N it will get very upset. You wouldn't want to upset it, would you?
 Generation = 1
 Evolutions = THENOKING,Level,35
 #-------------------------------
@@ -2484,7 +2484,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Go watch the game overthinker on youtube I’m not playing around. Go do it now or I’ll leak your IP address.
+Pokedex = Go watch the Game OverThinker on YouTube, I’m not playing around. Go do it now or I’ll leak your IP address.
 Generation = 1
 #-------------------------------
 [AYVASA]
@@ -2510,8 +2510,8 @@ Category = Worm
 Pokedex = Cities were never made for people. Cities were made for cars. This is the logical progression.
 Generation = 1
 #-------------------------------
-[Didydark]
-Name = Didy dark
+[DIDYDARK]
+Name = Didy Dark
 Types = TERROR
 BaseStats =40,80,10,10,80,40
 GenderRatio = Female50Percent
@@ -2530,7 +2530,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Arent I so cute? Arent I so delightful?
+Pokedex = Aren't I so cute? Aren't I so delightful?
 Generation = 1
 Evolutions = DARD,Level,25
 #-------------------------------
@@ -2624,10 +2624,10 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = I dont know why but I have started to use Nelly the Elephant as a swear word. Oh yeah and this is a big spooky monster woo.
+Pokedex = I don't know why, but I've started to use Nelly the Elephant as a swear word. Oh yeah, and this is a big spooky monster. Woo.
 Generation = 1
 #-------------------------------
-[sister]
+[SISTER]
 Name = Sister
 Types = REASON,FANTASY
 BaseStats =60,10,30,20,100,120
@@ -2647,11 +2647,11 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Sorry mister I never would have kissed her if I knew that they were your sister. 
+Pokedex = Sorry mister, I never would have kissed her if I knew she was your sister. 
 Generation = 1
-Evolutions = sisters,Level,40
+Evolutions = SISTERS,Level,40
 #-------------------------------
-[sisters]
+[SISTERS]
 Name = Sisters
 Types = REASON,FANTASY
 BaseStats =80,10,50,40,120,140
@@ -2671,8 +2671,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = The Weird Sisters, hand in hand, Posters of the sea and land, Thus do go, about, about, Thrice to thine, thrice to mine, And thrice again to make up nine. Peace, the charm's wound up.
-
+Pokedex = The Weird Sisters, hand in hand, posters of the sea and land, thus do go, about, about, thrice to thine, thrice to mine, and thrice again to make up nine. Peace, the charm's wound up.
 Generation = 1
 #-------------------------------
 [PAKA]
@@ -2695,7 +2694,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = If youve continued to read the nonsense I have put here I am sorry for you.
+Pokedex = If you've continued to read the nonsense I've put here I am sorry for you.
 Generation = 1
 #-------------------------------
 [ARIARKE]
@@ -2718,7 +2717,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Has your body ever broken and snapped under the weight of expectation? I’m sorry but the form you were given is just not good enough, you need a better one.
+Pokedex = Has your body ever broken and snapped under the weight of expectation? I’m sorry, but the form you were given is just not good enough, and you need a better one.
 Generation = 1
 #-------------------------------
 [BERMY]
@@ -2741,7 +2740,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = After all this are you still you? Or have you been hollowed out and something else has made a home inside?
+Pokedex = After all this, are you still you? Or have you been hollowed out, something else making its home inside you?
 Generation = 1
 Evolutions = BERMYB,Level,40
 #-------------------------------
@@ -2793,7 +2792,7 @@ Generation = 1
 Evolutions = DAMPANDDARK,Level,40
 #-------------------------------
 [DAMPANDDARK]
-Name = DampandDark
+Name = Damp n Dark
 Types = EMPTY,FANTASY
 BaseStats =140,10,60,90,90,90
 GenderRatio = Female50Percent
@@ -2812,11 +2811,11 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = .Strangulation isn’t too bad, it could always be worse. In the real world, these creatures rip your soul out of your arsehole. 
+Pokedex = Strangulation isn’t too bad, it could always be worse. In the real world, these creatures rip your soul out of your arsehole. 
 Generation = 1
 #-------------------------------
 [HUMAN]
-Name = HUMAN
+Name = human
 Types = REASON
 BaseStats =160,160,160,160,160,160
 GenderRatio = Female50Percent
@@ -2839,7 +2838,7 @@ Pokedex = https://www.youtube.com/watch?v=L3wKzyIN1yk
 Generation = 1
 #-------------------------------
 [TUMAR]
-Name = TUMAR
+Name = Tumar
 Types = REASON
 BaseStats =60,120,50,40,60,60
 GenderRatio = Female50Percent
@@ -2863,7 +2862,7 @@ Generation = 1
 Evolutions = TUUMMAARR,Level,40
 #-------------------------------
 [TUUMMAARR]
-Name = TUUMMAARR
+Name = Tuummaarr
 Types = REASON
 BaseStats =70,200,70,60,80,80
 GenderRatio = Female50Percent
@@ -2882,10 +2881,10 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = It’s always good to get rid of unwanted flesh, but what happens when that flesh does not want to leave? It misses you
+Pokedex = It’s always good to get rid of unwanted flesh, but what happens when that flesh doesn't want to leave? It misses you.
 Generation = 1
 #-------------------------------
-[gros]
+[GROS]
 Name = Gros
 Types = FANTASY,TERROR
 BaseStats =40,50,20,20,50,60
@@ -2905,11 +2904,11 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Like looking into a mirror. Well I would imagine it would be for you. 
+Pokedex = Like looking into a mirror. Well, I would imagine it would be for you. 
 Generation = 1
-Evolutions = grogs,Level,27
+Evolutions = GROGS,Level,27
 #-------------------------------
-[grogs]
+[GROGS]
 Name = Grogs
 Types = FANTASY,TERROR
 BaseStats =60,70,40,40,70,80
@@ -2931,9 +2930,9 @@ Habitat = Forest
 Category = Worm
 Pokedex = A parasite on my time and patience. Yet this might just be the pot calling the kettle black. 
 Generation = 1
-Evolutions = grogs,Level,35
+Evolutions = GROOGROS,Level,35
 #-------------------------------
-[groogros]
+[GROOGROS]
 Name = Groogros
 Types = FANTASY,TERROR
 BaseStats =80,90,60,60,90,100
@@ -2956,7 +2955,7 @@ Category = Worm
 Pokedex = Will you miss it when it’s over? Will they miss you? 
 Generation = 1
 #-------------------------------
-[Darwin]
+[DARWIN]
 Name = Darwin
 Types = FANTASY
 BaseStats =100,10,100,100,100,30
@@ -2978,10 +2977,10 @@ Habitat = Forest
 Category = Worm
 Pokedex = Charles Darwin was going to be a holy man but he was torn from his sacred path. Those goddamned finches. 
 Generation = 1
-Evolutions = DarwinsAngel,Level,40
+Evolutions = DARWINSANGEL,Level,40
 #-------------------------------
-[DarwinsAngel]
-Name = Darwins Angel
+[DARWINSANGEL]
+Name = DarwinsAngel
 Types = FANTASY
 BaseStats =120,10,120,120,140,50
 GenderRatio = Female50Percent
@@ -3004,7 +3003,7 @@ Pokedex = Some believe evolution is a path God set us on, a slow journey of perf
 Generation = 1
 #-------------------------------
 [DOS]
-Name = DOS
+Name = Dos
 Types = BEAST,FANTASY
 BaseStats =40,40,40,40,40,40
 GenderRatio = Female50Percent
@@ -3023,12 +3022,12 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = There is no creature so low and foul that someone won’t love. 
+Pokedex = There is no Kreature so low and foul that someone won’t love. 
 Generation = 1
 Evolutions = DOSME,Level,30
 #-------------------------------
 [DOSME]
-Name = DOSME
+Name = Dosme
 Types = BEAST,FANTASY
 BaseStats =80,80,80,80,80,80
 GenderRatio = Female50Percent
@@ -3051,7 +3050,7 @@ Pokedex = Is love reciprocal? I sure hope not.
 Generation = 1
 #-------------------------------
 [HEADSOFMAHARA]
-Name = Heads of Mahara
+Name = Ads of Mahara
 Types = BLOON
 BaseStats =70,100,40,140,100,80
 GenderRatio = Female50Percent
@@ -3093,11 +3092,11 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = Children like dinosaur so we made it a dinosaur. 
+Pokedex = Children like dinosaurs so we made it a dinosaur. 
 Generation = 1
 #-------------------------------
 [SECOND]
-Name = SECOND
+Name = Second
 Types = EMPTY
 BaseStats =180,10,80,10,40,40
 GenderRatio = Female50Percent
@@ -3142,7 +3141,7 @@ Category = Worm
 Pokedex = Dead worlds, dead projects, dead gods, only I remain.
 Generation = 1
 #-------------------------------
-[Preacher]
+[PREACHER]
 Name = Preacher
 Types = TERROR,REASON
 BaseStats =110,10,80,80,80,110
@@ -3165,7 +3164,7 @@ Category = Worm
 Pokedex = It speaks words of wisdom, if only you could hear them. 
 Generation = 1
 #-------------------------------
-[arra]
+[ARRA]
 Name = Arra
 Types = FANTASY,REASON
 BaseStats =150,10,40,40,60,60
@@ -3187,9 +3186,9 @@ Habitat = Forest
 Category = Worm
 Pokedex = Arramrra, the word sounds nice in my mouth. Shame it tastes like Sulphur.
 Generation = 1
-Evolutions = arramrra,Level,30
+Evolutions = ARRAMRRA,Level,30
 #-------------------------------
-[arramrra]
+[ARRAMRRA]
 Name = Arramrra
 Types = FANTASY,REASON
 BaseStats =210,10,40,40,60,60
@@ -3212,7 +3211,7 @@ Category = Worm
 Pokedex = More than words are just in my mouth now, and nothing could get me to describe the taste.
 Generation = 1
 #-------------------------------
-[Lovers]
+[LOVERS]
 Name = Lovers
 Types = TERROR,REASON
 BaseStats =160,30,60,20,30,60
@@ -3234,9 +3233,9 @@ Habitat = Forest
 Category = Worm
 Pokedex = Hey look up the reproduction cycle of the angler fish, it won’t disappoint. 
 Generation = 1
-Evolutions = Marriage,Level,30
+Evolutions = MARRIAGE,Level,30
 #-------------------------------
-[Marriage]
+[MARRIAGE]
 Name = Marriage
 Types = TERROR,REASON
 BaseStats =320,30,60,20,30,60
@@ -3293,7 +3292,7 @@ EVs = HP,1
 CatchRate = 255
 Happiness = 50
 Abilities = TRACE
-Moves = 1,PRICESFORFURR,1,SUITUP,1,PAWCONGA,1,Contagion
+Moves = 1,PRICESFORFURR,1,SUITUP,1,PAWCONGA,1,CONTAGION
 EggGroups = Bug
 HatchSteps = 3840
 Height = 0.3
@@ -3306,7 +3305,7 @@ Pokedex = For some reason they’re very good at programming.
 Generation = 1
 #-------------------------------
 [WYORM]
-Name = WYORM
+Name = Wyorm
 Types = FANTASY,EMPTY
 BaseStats =60,60,40,20,100,80
 GenderRatio = Female50Percent
@@ -3325,7 +3324,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Worm
-Pokedex = The head of the 16th-century lindworm statue at Lindwurm Fountain (Lindwurmbrunnen [de]) in Klagenfurt, Austria, is modeled on the skull of a woolly rhinoceros found in a nearby quarry in 1335.
+Pokedex = The head of the 16th-century lindworm statue at Lindwurm Fountain in Klagenfurt, Austria, is modeled on the skull of a woolly rhinoceros found in a nearby quarry in 1335.
 Generation = 1
 Evolutions = WYWYWY,Level,30
 #-------------------------------
@@ -3352,7 +3351,7 @@ Category = Worm
 Pokedex = It was not a rhinoceros after all. 
 Generation = 1
 #-------------------------------
-[DIOe]
+[DIOE]
 Name = DIOe
 Types = REASON,EMPTY
 BaseStats =80,10,100,80,10,80
@@ -3375,7 +3374,7 @@ Category = Worm
 Pokedex = Old bones.
 Generation = 1
 #-------------------------------
-[eEDIOe]
+[EEDIOE]
 Name = eEDIOe
 Types = REASON,EMPTY
 BaseStats =80,10,200,150,10,80
@@ -3399,7 +3398,7 @@ Pokedex = You’ll be old too one day.
 Generation = 1
 #-------------------------------
 [CARACRCA]
-Name = CARACRCA
+Name = Caracrca
 Types = BEAST
 BaseStats =80,100,80,150,10,60
 GenderRatio = Female50Percent
@@ -3421,7 +3420,7 @@ Category = Worm
 Pokedex = Honey I have to write one hundred and fifty one of these, they can’t all be winners.
 Generation = 1
 #-------------------------------
-[three]
+[THREEONEFIVE]
 Name = 315
 Types = TERROR
 BaseStats =150,10,40,130,70,80
@@ -3444,7 +3443,7 @@ Category = Worm
 Pokedex = Please google search Izumi Kato, you’ll know who’s responsible for SCP by complete accident.
 Generation = 1
 #-------------------------------
-[eEeMm]
+[EEEMM]
 Name = eEeMm
 Types = FANTASY
 BaseStats =80,10,60,80,60,100
@@ -3489,7 +3488,7 @@ Category = Worm
 Pokedex = How would it be to nest inside?
 Generation = 1
 #-------------------------------
-[wstaaw]
+[WSTAAW]
 Name = Wstaaw
 Types = EMPTY
 BaseStats =240,40,10,10,80,120
@@ -3512,7 +3511,7 @@ Category = Worm
 Pokedex = Are they as empty as you?
 Generation = 1
 #-------------------------------
-[heelEO]
+[HEELEO]
 Name = heelEO
 Types = TERROR
 BaseStats =150,150,100,150,150,100

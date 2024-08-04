@@ -146,7 +146,7 @@ Pokemon = SPRIG,13
 #-------------------------------
 [PUNCHYLADY,Mandy]
 LoseText = Drat...guess they need more prep time...
-Pokemon = arramrra,24
+Pokemon = ARRAMRRA,24
 Pokemon = BUGERBOOBOO,23
 #-------------------------------
 [SUPERNERD,Jerry]
@@ -174,7 +174,7 @@ Pokemon = PHILSOPHER,15
 #-------------------------------
 [SUPERNERD,See-Sea]
 LoseText = ...
-Pokemon = minomind,15
+Pokemon = MINOMIND,15
 Pokemon = TEEHEE,15
 Pokemon = KLAK,15
 #-------------------------------
@@ -189,7 +189,7 @@ Pokemon = BIRSON,18
 #-------------------------------
 [SUPERNERD,Nor]
 LoseText = ...
-Pokemon = minomind,18
+Pokemon = MINOMIND,18
 Pokemon = SEVLEOMED,20
 #-------------------------------
 [PUCHYMAN,Man-Man]
@@ -216,9 +216,9 @@ LoseText = ...
 Pokemon = KLAK,19
 Pokemon = KLAK,19
 Pokemon = KLAK,19
-Pokemon = minomind,20
-Pokemon = minomind,20
-Pokemon = minomind,20
+Pokemon = MINOMIND,20
+Pokemon = MINOMIND,20
+Pokemon = MINOMIND,20
 #-------------------------------
 [salty,Joj]
 LoseText = ...
@@ -227,8 +227,8 @@ Pokemon = IDOL,22
 #-------------------------------
 [eginer,Tim]
 LoseText = ...
-Pokemon = noking,19
-Pokemon = minomind,19
+Pokemon = NOKING,19
+Pokemon = MINOMIND,19
 #-------------------------------
 [eginer,Tom]
 LoseText = ...
@@ -241,7 +241,7 @@ Pokemon = TOMUCHFACES,22
 #-------------------------------
 [SMARTASS,Taly]
 LoseText = ...
-Pokemon = moomoon,22
+Pokemon = MOOMOON,22
 #-------------------------------
 [SMARTASS,Tully]
 LoseText = ...
@@ -269,8 +269,8 @@ Pokemon = DRAG,21
 #-------------------------------
 [eginer,Beck]
 LoseText = ...
-Pokemon = arra,22
-Pokemon = Preacher,22
+Pokemon = ARRA,22
+Pokemon = PREACHER,22
 #-------------------------------
 [LEADEROFMIND,Mind]
 LoseText = Very good.
@@ -284,7 +284,7 @@ Pokemon = IDOL,25
     AbilityIndex = 0
     Item = LEFTOVERS
     Gender = male
-Pokemon = sister,25
+Pokemon = SISTER,25
     Moves = INVULNERABLE,QUICKTHINKING,MAGICNUMBER,DECOY
     AbilityIndex = 0
     Item = SPECDEFBERRY
@@ -302,8 +302,8 @@ Pokemon = FLATMAN,20
 #-------------------------------
 [EXCAVATOR,Lost]
 LoseText = ...
-Pokemon = moomoon,21
-Pokemon = moomoon,21
+Pokemon = MOOMOON,21
+Pokemon = MOOMOON,21
 Pokemon = TOMUCHFACES,23
 #-------------------------------
 [mystic,Scared]
@@ -325,8 +325,8 @@ Pokemon = MAN,19
 #-------------------------------
 [DD,Reddy]
 LoseText = ...
-Pokemon = sister,24
-Pokemon = sister,24
+Pokemon = SISTER,24
+Pokemon = SISTER,24
 #-------------------------------
 [GG,Stars]
 LoseText = ...
@@ -336,10 +336,10 @@ Pokemon = MOREMAW,25
 #-------------------------------
 [mystic,Sad]
 LoseText = ...
-Pokemon = Lovers,20
-Pokemon = Lovers,20
-Pokemon = noking,25
-Pokemon = noking,25
+Pokemon = LOVERS,20
+Pokemon = LOVERS,20
+Pokemon = NOKING,25
+Pokemon = NOKING,25
 #-------------------------------
 [spooky,Asa]
 LoseText = ...
@@ -354,7 +354,7 @@ Pokemon = DUK,25
 Pokemon = HER,27
 Pokemon = FLATMAN,22
 Pokemon = SPRIG,22
-Pokemon = eEDIOe,22
+Pokemon = EEDIOE,22
 Pokemon = LITTELSTAR,22
 #-------------------------------
 [boxman2,boxbox]
@@ -368,7 +368,7 @@ Pokemon = OMED,25
 LoseText = ...
 Pokemon = DAMP,23
 Pokemon = DAMP,23
-Pokemon = Didydark,23
+Pokemon = DIDYDARK,23
 Pokemon = DOS,27
 #-------------------------------
 [CRAZY2,two two]
@@ -394,7 +394,7 @@ Pokemon = THEFERAL,28
 #-------------------------------
 [crazmez2,3]
 LoseText = ...
-Pokemon = Amygdala,35
+Pokemon = AMYGDALA,35
 #-------------------------------
 [crazmez2,2]
 LoseText = ...
@@ -545,9 +545,9 @@ Pokemon = ORLIHEPERH,30
 [LOOTERS2,Looter and Looter]
 LoseText = ...
 Pokemon = TOMUCHFACES,20
-Pokemon = Marriage,30
+Pokemon = MARRIAGE,30
 #-------------------------------
-[MEZMOR2,mezmez]
+[MEZMOR2,Mez-Mez]
 LoseText = ...
 Pokemon = BARY,25
 Pokemon = DIOTORAS,25

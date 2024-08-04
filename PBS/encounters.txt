@@ -58,18 +58,18 @@ Land,25
     10,LITTELSTAR,18,20
     15,CHUTE,18,20
     10,TEEHEE,18,20
-    15,noking,18,20
-    15,arra,18,20
+    15,NOKING,18,20
+    15,ARRA,18,20
     15,BUGABOO,18,20
     5,BIRSON,20,25
-    5,sister,20,22
+    5,SISTER,20,22
     5,ALADY,22,25
-    5,Lovers,18,20
+    5,LOVERS,18,20
 #-------------------------------
 [077] # there 
 Land,40
     20,DOS,21,23
-    20,gros,21,23
+    20,GROS,21,23
     20,DAMP,21,23
     20,BERMY,21,23
-    20,Didydark,21,23
+    20,DIDYDARK,21,23

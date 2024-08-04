@@ -736,7 +736,7 @@ TotalPP = 3
 Target = NearOther
 FunctionCode = PowerHigherWithUserPositiveStatStages
 Flags = Contact,CanProtect,CanMirrorMove
-Description = I've never lost a game of bayblades. The more buffs the user has, the stronger the attack is.
+Description = I've never lost at Beyblades. The more buffs the user has, the stronger the attack is.
 #-------------------------------
 [END]
 Name = END
@@ -747,7 +747,7 @@ TotalPP = 1
 Target = NearOther
 FunctionCode = UserFaintsLowerTargetAtkSpAtk2
 Flags = CanProtect,CanMirrorMove
-Description = Life is best punctated with a full stop. KOs the user but drastically decreases your opponent's Attack and Special Attack.
+Description = Life is best punctuated with a full stop. KOs the user but drastically decreases the opponent's attack and special attack.
 #-------------------------------
 [CRUELREMARK]
 Name = Cruel Remark
@@ -841,7 +841,7 @@ TotalPP = 3
 Target = NearOther
 FunctionCode = LowerTargetHPToUserHP
 Flags = Contact,CanProtect,CanMirrorMove
-Description = Oh no.. he dropped his chicken tendies. Drops your opponent's HP down to yours.
+Description = Oh no...he dropped his chicken tendies. Drops your opponent's HP down to yours.
 #-------------------------------
 [MIMIC]
 Name = Mimic
@@ -872,7 +872,7 @@ Accuracy = 0
 TotalPP = 3
 Target = User
 FunctionCode = UserMakeSubstitute
-Description = Bro doesn't even know the shadow clone ninjustsu. Creates a decoy to receive damage instead of the user. 
+Description = Bro doesn't even know the shadow clone ninjutsu. Creates a decoy to receive damage instead of the user. 
 #-------------------------------
 [SURF]
 Name = ?
@@ -932,7 +932,7 @@ TotalPP = 3
 Target = NearOther
 FunctionCode = SwitchOutUserDamagingMove
 Flags = Contact,CanProtect,CanMirrorMove
-Description = Eat my dust like a starving roomba. After doing an attack, immediately switch out.
+Description = Eat my dust like a starving Roomba. After doing an attack, immediately switch out.
 #-------------------------------
 [BATONPASS]
 Name = PARTY!!!
@@ -978,7 +978,7 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = SetTargetAbilityToSimple
 Flags = CanProtect,CanMirrorMove
-Description = It does a thing, a very heehee hoohoo thing. Do I need to elaborate?
+Description = It does a thing...a very heehee hoohoo thing. Do I need to elaborate?
 #-------------------------------
 [SOAK]
 Name = Inflate
@@ -1046,7 +1046,7 @@ Accuracy = 100
 TotalPP = 1
 Target = NearOther
 Flags = Contact,CanProtect,CanMirrorMove
-Description = It produces intoxicating veberations.
+Description = It produces intoxicating verberations.
 #-------------------------------
 [LEAVEAWHOLE]
 Name = Leave a Hole
@@ -1106,7 +1106,7 @@ FunctionCode = SwitchOutTargetDamagingRecoilThird
 Flags = Contact,CanProtect,CanMirrorMove
 Description = Credit card debt.
 #-------------------------------
-[Contagion]
+[CONTAGION]
 Name = Contagion
 Type = FURRY
 Category = Physical
