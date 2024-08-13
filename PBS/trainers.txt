@@ -542,10 +542,22 @@ Pokemon = SPITROAST,25
 Pokemon = ORLIHEPERH,30
     Item = EMPTYGEM
 #-------------------------------
-[LOOTERS2,Looter and Looter]
+[LOOTERS2,Loocy and Tanner]
 LoseText = ...
 Pokemon = TOMUCHFACES,20
 Pokemon = MARRIAGE,30
+#-------------------------------
+[LOOTERS2,Robbette and Lacy]
+LoseText = ...
+Pokemon = ALADY,26
+Pokemon = RAPTORS,24
+Pokemon = KLAKLAK,27
+Pokemon = HER,26
+#-------------------------------
+[CRAZY,Travis]
+LoseText = ...
+Pokemon = OMED,27
+Pokemon = EEEMM,28
 #-------------------------------
 [MEZMOR2,Mez-Mez]
 LoseText = ...
@@ -556,5 +568,188 @@ Pokemon = IDOL,25
 #-------------------------------
 [crazmez2,flowers]
 LoseText = ...
-Pokemon = CLOCLOGLIDER,40
-Pokemon = CLOCLO,5
+Pokemon = SPRIG,26
+Pokemon = PARALLAXPEPR,25
+Pokemon = SATARA,25
+#-------------------------------
+[LEADLOOTER,Rey]
+LoseText = ...
+Pokemon = AYVASA,28
+Pokemon = ARRAMRRA,27
+Pokemon = BIGSTAR,29
+Pokemon = MAN,27
+Pokemon = BERMYB,28
+#-------------------------------
+[butcher,Kat]
+LoseText = ...
+Pokemon = HEAD,30
+Pokemon = CARACRCA,30
+#-------------------------------
+[butcher,Clive]
+LoseText = ...
+Pokemon = BIRSON,30
+Pokemon = SPITROAST,31
+#-------------------------------
+[butcher,Slai]
+LoseText = ...
+Pokemon = BUGERBOOBOO,31
+Pokemon = KLAKLAK,31
+#-------------------------------
+[butcher2,Flank and Shank]
+LoseText = ...
+Pokemon = DOSME,31
+Pokemon = CRITTERSSS,30
+Pokemon = LLABOTOMY,31
+Pokemon = ONGYRO,32
+#-------------------------------
+[butcher,Chuck]
+LoseText = ...
+Pokemon = AUROCHS,31
+Pokemon = THERAM,32
+#-------------------------------
+[butcher,Brisket]
+LoseText = ...
+Pokemon = ELPHANT,32
+Pokemon = MIDHORES,32
+#-------------------------------
+[butcher,Butch]
+LoseText = ...
+Pokemon = HEAD,32
+Pokemon = SMUNKY,32
+#-------------------------------
+[beastleader,Sir Loin]
+LoseText = ...
+Pokemon = MOREMAW,34
+Pokemon = AAARRR,33
+Pokemon = SUPERSMUNKYBALL,33
+Pokemon = MARGMARE,34
+Pokemon = KLAKLAKKLA,34 
+Pokemon = BODIVINE,35
+#-------------------------------
+[TROGLODYTE,Manny] #Hand eater
+LoseText = ...
+Pokemon = DARD,35
+Pokemon = ENGORGED,34
+Pokemon = THENOKING,35
+#-------------------------------
+[MSDINO,Harry] #Dino kid that calls you trash
+LoseText = ...
+Pokemon = SECOND,34
+Pokemon = FURRY,35
+Pokemon = DIOE,36
+#-------------------------------
+[GG,Hapi] #Definition of gay girl
+LoseText = ...
+Pokemon = OJABOBOD,34
+Pokemon = PARALLAXPEPR,35
+Pokemon = POOKOOCHUE,34
+#-------------------------------
+[MEZMOR,Melvin] #Factoid guy
+LoseText = ...
+Pokemon = BOBYS,36
+Pokemon = AMYGDALA,35
+Pokemon = ORLIHEPERH,36
+#-------------------------------
+[LOOTER,Staceys] #Can't stop moving
+LoseText = ...
+Pokemon = MECRURY,35
+Pokemon = TEETEETEE,34
+Pokemon = THEYBROKE,34
+Pokemon = HEELEO,35
+#-------------------------------
+[EXCAVATOR,Gordon] #Hopes dashed
+LoseText = ...
+Pokemon = DOLL,35
+Pokemon = HUMAN,35
+Pokemon = TREE,35
+#-------------------------------
+[adirtyman,Will] #Vomit dude
+LoseText = ...
+Pokemon = BARYS,35
+Pokemon = ROOOCH,35
+Pokemon = TICK,34
+#-------------------------------
+[PAINTER2,Bold and Brash]
+LoseText = ...
+Pokemon = THENOKING,35
+Pokemon = MARGMARE,37
+Pokemon = THERAM,36
+Pokemon = DARWIN,36
+#-------------------------------
+[PAINTER,Adeleine]
+LoseText = ...
+Pokemon = OMED,35
+Pokemon = BIGSTAR,37
+#-------------------------------
+[PAINTER,Quill]
+LoseText = ...
+Pokemon = OJABOBOD,36
+Pokemon = DOSME,36
+#-------------------------------
+[PAINTER,Pablo]
+LoseText = ...
+Pokemon = MECRURY,36
+Pokemon = GROOGROS,37
+#-------------------------------
+[PAINTER,Goth]
+LoseText = ...
+Pokemon = DAMP,37
+Pokemon = GONE,37
+#-------------------------------
+[PAINTER2,Mona and Lisa]
+LoseText = ...
+Pokemon = PAKA,36
+Pokemon = ARRAMRRA,37
+Pokemon = SISTER,37
+Pokemon = BERMY,36
+#-------------------------------
+[FANTASYleader,Michaelangelo]
+LoseText = A fine showing.
+Pokemon = THEGOT,37
+Pokemon = THEWORD,36
+Pokemon = MOOMOONSUN,38
+Pokemon = EEEMM,37
+Pokemon = DIOTORAS,38
+Pokemon = WYWYWY,36
+#-------------------------------
+[TROGLODYTE,Freddy]
+Pokemon = HER,38
+Pokemon = DIOTORAS,39
+Pokemon = YAGA,38
+#-------------------------------
+[PUNCHYISOPOD,Ripley and Yowcher]
+Pokemon = BUGERBOOBOO,38
+Pokemon = ARIARKE,39
+Pokemon = O,38
+Pokemon = HEELEO,40
+#-------------------------------
+[BOSSBOY,Ash]
+Pokemon = ENGORGED,38
+Pokemon = LOJA,40
+Pokemon = MOREMAW,39
+#-------------------------------
+[SMARTASS,Victor]
+Pokemon = ALADY,39
+Pokemon = MARRIAGE,40
+Pokemon = THEVOYEUR,40
+Pokemon = BARYS,38
+#-------------------------------
+[PAINTER,Raven]
+Pokemon = TREE,39
+Pokemon = IDOL,39
+Pokemon = BOBYS,40
+#-------------------------------
+[crazmez2,Jekyll and Hyde]
+Pokemon = TICK,39
+Pokemon = SATURN,40
+Pokemon = ALIVE,40
+Pokemon = GROOGROS,40
+#-------------------------------
+[terroleader,Alucard]
+Pokemon = THREEONEFIVE,40
+Pokemon = PREACHER,40
+Pokemon = BAAATY,40
+Pokemon = GONE,41
+Pokemon = DARK,41
+Pokemon = DEATH, 42
+#-------------------------------

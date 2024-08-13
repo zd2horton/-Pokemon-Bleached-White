@@ -72,7 +72,7 @@ BaseMoney = 32
 BattleBGM = battel theme og
 #-------------------------------
 [PUNCHYLADY]
-Name = PUNCHYLADY
+Name = Punchy Lady
 Gender = Male
 BaseMoney = 32
 BattleBGM = slow fight
@@ -90,7 +90,7 @@ BaseMoney = 32
 BattleBGM = indarsty
 #-------------------------------
 [PUCHYMAN]
-Name = PUCHYMAN
+Name = Punchy Man
 Gender = Male
 BaseMoney = 32
 BattleBGM = sloooow
@@ -120,13 +120,13 @@ BaseMoney = 32
 BattleBGM = enger weering of the machieen
 #-------------------------------
 [butcher]
-Name = butcher
+Name = Butcher
 Gender = Female
 BaseMoney = 32
 BattleBGM = prayer to the deep
 #-------------------------------
 [eginer]
-Name = eginer
+Name = Engineer
 Gender = Female
 BaseMoney = 32
 BattleBGM = wild ecounter
@@ -138,25 +138,25 @@ BaseMoney = 32
 BattleBGM = true church
 #-------------------------------
 [BESTBOY]
-Name = BESTBOY
+Name = Best Boy
 Gender = Unknown
 BaseMoney = 32
 BattleBGM = happy gro
 #-------------------------------
 [ISOPODMAN]
-Name = ISOPODMAN
+Name = Isopodman
 Gender = Unknown
 BaseMoney = 32
 BattleBGM = nice misc
 #-------------------------------
 [spooky]
-Name = spooky
+Name = Spooky
 Gender = Female
 BaseMoney = 32
 BattleBGM = SPOOKSSONG
 #-------------------------------
 [mystic]
-Name = mystic
+Name = Mystic
 Gender = Female
 BaseMoney = 32
 BattleBGM = fuck you forest final
@@ -234,7 +234,7 @@ BaseMoney = 32
 BattleBGM = breathing
 #-------------------------------
 [LEADLOOTER]
-Name = LEADLOOTER
+Name = Lead Looter
 Gender = Female
 BaseMoney = 60
 SkillLevel = 1000000
@@ -258,7 +258,7 @@ Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
 BattleBGM = pink in the end
 #-------------------------------
 [beastleader]
-Name = LEADER OF BEASTS
+Name = Leader of Beasts
 Gender = Female
 BaseMoney = 60
 SkillLevel = 1000000
@@ -296,3 +296,10 @@ BaseMoney = 60
 SkillLevel = 1000000
 Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
 BattleBGM = pink in the end
+#-------------------------------
+[PUNCHYISOPOD]
+Name = Unlikely Pair
+Gender = Unknown
+BaseMoney = 32
+BattleBGM = nice misc
+#-------------------------------
