@@ -618,7 +618,7 @@ Pokemon = HEAD,32
 Pokemon = SMUNKY,32
 #-------------------------------
 [beastleader,Sir Loin]
-LoseText = ...
+LoseText = And now.....blood falls onto your hands.
 Pokemon = MOREMAW,34
 Pokemon = AAARRR,33
 Pokemon = SUPERSMUNKYBALL,33
