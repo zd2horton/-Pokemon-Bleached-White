@@ -65,6 +65,12 @@ Gender = Male
 BaseMoney = 32
 BattleBGM = war song og
 #-------------------------------
+[PAINTER2]
+Name = Painters
+Gender = Unknown
+BaseMoney = 32
+BattleBGM = war song og
+#-------------------------------
 [GG]
 Name = GG
 Gender = Female
