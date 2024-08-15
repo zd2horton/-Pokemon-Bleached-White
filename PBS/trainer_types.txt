@@ -296,7 +296,7 @@ Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
 BattleBGM = ANIME_AT_END_OF_OCEAN
 #-------------------------------
 [THEBEST]
-Name = THE BEST
+Name = THE
 Gender = Female
 BaseMoney = 60
 SkillLevel = 1000000

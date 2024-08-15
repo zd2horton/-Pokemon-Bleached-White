@@ -713,43 +713,68 @@ Pokemon = DIOTORAS,38
 Pokemon = WYWYWY,36
 #-------------------------------
 [TROGLODYTE,Freddy]
+LoseText = ...
 Pokemon = HER,38
 Pokemon = DIOTORAS,39
 Pokemon = YAGA,38
 #-------------------------------
 [PUNCHYISOPOD,Ripley and Yowcher]
+LoseText = ...
 Pokemon = BUGERBOOBOO,38
 Pokemon = ARIARKE,39
 Pokemon = O,38
 Pokemon = HEELEO,40
 #-------------------------------
 [BOSSBOY,Ash]
+LoseText = ...
 Pokemon = ENGORGED,38
 Pokemon = LOJA,40
 Pokemon = MOREMAW,39
 #-------------------------------
 [SMARTASS,Victor]
+LoseText = ...
 Pokemon = ALADY,39
 Pokemon = MARRIAGE,40
 Pokemon = THEVOYEUR,40
 Pokemon = BARYS,38
 #-------------------------------
 [PAINTER,Raven]
+LoseText = ...
 Pokemon = TREE,39
 Pokemon = IDOL,39
 Pokemon = BOBYS,40
 #-------------------------------
 [crazmez2,Jekyll and Hyde]
+LoseText = ...
 Pokemon = TICK,39
 Pokemon = SATURN,40
 Pokemon = ALIVE,40
 Pokemon = GROOGROS,40
 #-------------------------------
 [terroleader,Alucard]
+LoseText = How horrifying.
 Pokemon = THREEONEFIVE,40
 Pokemon = PREACHER,40
 Pokemon = BAAATY,40
 Pokemon = GONE,41
 Pokemon = DARK,41
 Pokemon = DEATH, 42
+#------------------------------- EEDIOE, LLABOTOMY, CROOKEDMAN also considered
+[THESECONDBEST, Box Overlord]
+LoseText = ...you're ready.
+Pokemon = DARK,44
+Pokemon = HEADSOFMAHARA,43
+Pokemon = DOLL,45
+Pokemon = POPIP,45
+Pokemon = KORRUPTION,44
+Pokemon = WSTAAW,45
+#------------------------------- GONE, EEEMM, SATURN also considered
+[THEBEST,BEST]
+LoseText = ...
+Pokemon = DARWINSANGEL,48
+Pokemon = STAR,46
+Pokemon = DEATH,47
+Pokemon = EGG,46
+Pokemon = THEFERALGOD,48
+Pokemon = ASCENDED,50
 #-------------------------------
