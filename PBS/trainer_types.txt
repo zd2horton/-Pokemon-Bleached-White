@@ -138,7 +138,7 @@ BaseMoney = 32
 BattleBGM = wild ecounter
 #-------------------------------
 [LEADEROFMIND]
-Name = Master of
+Name = Master of Mind
 Gender = Female
 BaseMoney = 32
 BattleBGM = true church
@@ -168,7 +168,7 @@ BaseMoney = 32
 BattleBGM = fuck you forest final
 #-------------------------------
 [LEADEROFEMPTY]
-Name = .
+Name = Husk of Emptiness
 Gender = Male
 BaseMoney = 32
 BattleBGM = i am god  og
@@ -272,7 +272,7 @@ Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
 BattleBGM = pink in the end
 #-------------------------------
 [FANTASYleader]
-Name = LEADER OF FANTASY
+Name = Guider of Fantasy
 Gender = Female
 BaseMoney = 60
 SkillLevel = 1000000
@@ -280,7 +280,7 @@ Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
 BattleBGM = pink in the end
 #-------------------------------
 [terroleader]
-Name = LEADER OF TERROR
+Name = King of Terror
 Gender = Male
 BaseMoney = 60
 SkillLevel = 1000000

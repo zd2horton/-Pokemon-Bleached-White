@@ -272,7 +272,7 @@ LoseText = ...
 Pokemon = ARRA,22
 Pokemon = PREACHER,22
 #-------------------------------
-[LEADEROFMIND,Mind]
+[LEADEROFMIND,Prudence]
 LoseText = Very good.
 Pokemon = ENGORGED,25
     Moves = NEST,BLOODSUCKER,BRAINBREAK,HOLLOWOUT
