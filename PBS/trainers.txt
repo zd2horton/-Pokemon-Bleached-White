@@ -704,7 +704,7 @@ Pokemon = SISTER,37
 Pokemon = BERMY,36
 #-------------------------------
 [FANTASYleader,Michaelangelo]
-LoseText = A fine showing.
+LoseText = ....A fine showing.
 Pokemon = THEGOT,37
 Pokemon = THEWORD,36
 Pokemon = MOOMOONSUN,38
@@ -777,4 +777,14 @@ Pokemon = DEATH,47
 Pokemon = EGG,46
 Pokemon = THEFERALGOD,48
 Pokemon = ASCENDED,50
+#-------------------------------
+[adirtyman,Brad]
+LoseText = ...
+Pokemon = KOKCROACH,10
+Pokemon = BIRBABY,9
+#-------------------------------
+[LOOTER,Ruth]
+LoseText = ...
+Pokemon = CARACRCA,14
+Pokemon = BABOSHCA,15
 #-------------------------------
