@@ -1,7 +1,9 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-# BUMP (The Dump) (21) - Between Dead City and Slaughter (279)
-21,East,66,279,West,0
+# Between Dead City and Slaughter (279) - BUMP (The Dump) (21)
+279,West,0,21,East,41
+# dead city (79) - Between Dead City and Slaughter (279)
+79,North,0,279,South,13
 # After the Forest Top Area (29) - dead city (79)
 29,West,0,79,East,11
 # After the Forest (77) - dead city (79)
