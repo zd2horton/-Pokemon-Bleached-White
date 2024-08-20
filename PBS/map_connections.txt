@@ -1,5 +1,11 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
+# road (Long Road) (41) - waterfall (30)
+41,North,9,30,South,0
+# second best fight  (38) - waterfall (30)
+38,South,0,30,North,53
+# BUMP (The Dump) (21) - road (Long Road) (41)
+21,North,28,41,South,0
 # Between Dead City and Slaughter (279) - BUMP (The Dump) (21)
 279,West,0,21,East,41
 # dead city (79) - Between Dead City and Slaughter (279)
