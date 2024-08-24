@@ -15,19 +15,19 @@ BicycleBGM = empty air og
 [1]
 TrainerType = POKEMONTRAINER_Leaf
 WalkCharset = trainer_POKEMONTRAINER_Leaf
-RunCharset = girl_run
-CycleCharset = girl_bike
-SurfCharset = girl_surf
-DiveCharset = girl_surf
-FishCharset = girl_fish_offset
-SurfFishCharset = girl_fish_offset
+RunCharset = trainer_POKEMONTRAINER_Leaf
+CycleCharset = trainer_POKEMONTRAINER_Leaf
+SurfCharset = trainer_POKEMONTRAINER_Leaf
+DiveCharset = trainer_POKEMONTRAINER_Leaf
+FishCharset = trainer_POKEMONTRAINER_Leaf
+SurfFishCharset = trainer_POKEMONTRAINER_Leaf
 #-------------------------------
 [2]
 TrainerType = POKEMONTRAINER_Leaf
 WalkCharset = trainer_POKEMONTRAINER_Leaf
-RunCharset = girl_run
-CycleCharset = girl_bike
-SurfCharset = girl_surf
-DiveCharset = girl_surf
-FishCharset = girl_fish_offset
-SurfFishCharset = girl_fish_offset
+RunCharset = trainer_POKEMONTRAINER_Leaf
+CycleCharset = trainer_POKEMONTRAINER_Leaf
+SurfCharset = trainer_POKEMONTRAINER_Leaf
+DiveCharset = trainer_POKEMONTRAINER_Leaf
+FishCharset = trainer_POKEMONTRAINER_Leaf
+SurfFishCharset = trainer_POKEMONTRAINER_Leaf
