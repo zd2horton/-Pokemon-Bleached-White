@@ -567,9 +567,9 @@ class PokemonSaveSlotPanel < Sprite
   def refresh_load
     textpos = []
     textpos.push([@title, 32, 14, 0, @base_color, @shadow_color])
-    textpos.push([_INTL("Badges:"), 32, 116, 0, @base_color, @shadow_color])
+    textpos.push([_INTL("Leaders Beat:"), 32, 116, 0, @base_color, @shadow_color])
     textpos.push([@trainer.badge_count.to_s, 206, 116, 1, @base_color, @shadow_color])
-    textpos.push([_INTL("Pokédex:"), 32, 148, 0, @base_color, @shadow_color])
+    textpos.push([_INTL("Kreatures:"), 32, 148, 0, @base_color, @shadow_color])
     textpos.push([@trainer.pokedex.seen_count.to_s, 206, 148, 1, @base_color, @shadow_color])
     textpos.push([_INTL("Time:"), 32, 178, 0, @base_color, @shadow_color])
     hour = @totalsec / 60 / 60
