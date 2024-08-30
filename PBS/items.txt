@@ -12,8 +12,8 @@ Description = A peculiar stone that makes certain species of Pokémon evolve. It
 
 #-------------------------------
 [ROCKYHELMET]
-Name = curesis
-NamePlural = curesis
+Name = Curesis
+NamePlural = Curesis
 Pocket = 4
 Price = 3000
 SellPrice = 2000
@@ -31,8 +31,8 @@ Flags = Fling_80
 Description = An item to be held by a Pokémon. This offensive vest raises Sp. Def but prevents the use of status moves.
 #-------------------------------
 [REDCARD]
-Name = toy train
-NamePlural = toy trains
+Name = Toy Train
+NamePlural = Toy Trains
 Pocket = 1
 Price = 3000
 SellPrice = 2000
@@ -118,8 +118,8 @@ Flags = Fling_30
 Description = An item to be held by a Pokémon. The holder's HP is restored a little every time it inflicts damage.
 #-------------------------------
 [WHITEHERB]
-Name = syrij
-NamePlural = syrij
+Name = Syrij
+NamePlural = Syrij
 Pocket = 2
 Price = 4000
 BPPrice = 15
@@ -128,8 +128,8 @@ Description = An item to be held by a Pokémon. It restores any lowered stat in 
 
 #-------------------------------
 [WEAKNESSPOLICY]
-Name = Chalice of need
-NamePlural = Chalice of need
+Name = Chalice of Need
+NamePlural = Chalice of Need
 Pocket = 2
 Price = 1000
 BPPrice = 20
@@ -146,8 +146,8 @@ Flags = Fling_30
 Description = An item to be held by a Pokémon. It boosts the power of moves, but at the cost of some HP on each hit.
 #-------------------------------
 [EXPERTBELT]
-Name = sulfur_brand
-NamePlural = sulfur brands
+Name = Sulfur Brand
+NamePlural = Sulfur Brands
 Pocket = 4
 Price = 4000
 BPPrice = 25
@@ -155,8 +155,8 @@ Flags = Fling_10
 Description = An item to be held by a Pokémon. It is a well-worn belt that slightly boosts the power of supereffective moves.
 #-------------------------------
 [METRONOME]
-Name = IDOL
-NamePlural = IDOLS
+Name = Idol
+NamePlural = Idols
 Pocket = 4
 Price = 3000
 SellPrice = 2000
@@ -313,11 +313,11 @@ Pocket = 3
 Price = 200
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A device for catching wild Pokémon. It is thrown like a ball at the target. It is designed as a capsule system.
+Description = A weird device used to catch Kreatures. May or may not give them a head injury based on how you throw it.
 #-------------------------------
 [TIMERBALL]
-Name = KLOK KUDE
-NamePlural = KLOK KUDES
+Name = Klok Kube
+NamePlural = Klok Kube
 Pocket = 3
 Price = 1000
 BattleUse = OnFoe
@@ -325,18 +325,18 @@ Flags = PokeBall
 Description = A somewhat different Ball that becomes progressively better the more turns there are in a battle.
 #-------------------------------
 [PREMIERBALL]
-Name = Premier Ball
-NamePlural = Premier Balls
+Name = Premier Kube
+NamePlural = Premier Kubes
 Pocket = 3
 Price = 200
 SellPrice = 10
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A somewhat rare Poké Ball that has been specially made to commemorate an event of some sort.
+Description = A top of the line Kreature Kube!
 #-------------------------------
 [LEVELBALL]
-Name = Level KUBE
-NamePlural = Level KUBES
+Name = Level Kube
+NamePlural = Level Kubes
 Pocket = 3
 Price = 300
 BattleUse = OnFoe
@@ -414,7 +414,7 @@ Flags = Fling_10,Berry,NaturalGift_EMPTY_100
 Description = Increases special defense when below a certain HP threshold. I don’t know what it is, but it tastes good. So just eat it, okay?
 #-------------------------------
 [loveletter]
-Name = love letter
+Name = Love Letter
 NamePlural = love letters
 Pocket = 2
 Price = 15
@@ -422,8 +422,8 @@ Flags = Berry,Fling_10,NaturalGift_TERROR_100
 Description = Increases a random stat when below a certain HP threshold. Hopefully it doesn't give you its empty stomach.
 #-------------------------------
 [TERRORGEM]
-Name = FLESHCAKE
-NamePlural = FLESHCAKE
+Name = Fleshcake
+NamePlural = Fleshcakes
 Pocket = 4
 Price = 50
 Flags = Fling_20,TypeGem
@@ -440,16 +440,16 @@ Flags = Fling_10,Berry,NaturalGift_TERROR_80
 Description = Decreases the damage of one Terror attack. The memories of winters gone soothes your soul.
 #-------------------------------
 [BEASTGEM]
-Name = red Meat
-NamePlural = red Meats
+Name = Red Meat
+NamePlural = Red Meats
 Pocket = 4
 Price = 50
 Flags = Fling_30,TypeGem
 Description = Increases the damage of one Beast attack. Being able to look into its helpless dead eyes makes it all the sweeter.
 #-------------------------------
 [BEASTBERRY]
-Name = food ?
-NamePlural = food ?
+Name = Food?
+NamePlural = Food?
 Pocket = 4
 Price = 40
 Flags = Fling_15,Berry,NaturalGift_BEAST_80
@@ -464,16 +464,16 @@ Flags = Fling_20,TypeGem
 Description = Increases the damage of one Fantasy attack. What’s in it? Who knows! All that matters is that it sparkles.
 #-------------------------------
 [FANTASYBERRY]
-Name = sweet sweets
-NamePlural = sweet sweets
+Name = Sweet Sweets
+NamePlural = Sweet Sweets
 Pocket = 4
 Price = 40
 Flags = Fling_0,Berry,NaturalGift_FANTASY_80
 Description = Decreases the damage of one Fantasy attack. There are plenty of wondrous fantasies in this world, but a cup of tea and cute lil’ biscuits is one of the strongest.
 #-------------------------------
 [REASONGEM]
-Name = thinking food 
-NamePlural = thinking food
+Name = Thinking Food 
+NamePlural = Thinking Food
 Pocket = 4
 Price = 50
 Flags = Fling_5,TypeGem
