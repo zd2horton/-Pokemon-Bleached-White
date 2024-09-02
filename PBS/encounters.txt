@@ -1,6 +1,6 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-[005] # Route 1
+[005] # Route 1 (First Steps)
 Land,40
     40,BIRBABY,3,4
     40,CRITTER,3,4
@@ -8,7 +8,7 @@ Land,40
 LandNight,21
     40,DEATH,100
 #-------------------------------
-[047] # Route 7
+[047] # Route 7 (Rocky Plains)
 Land,21
     30,DUK,9,11
     30,LITTELPONE,9,11
@@ -19,7 +19,7 @@ LandNight,21
 PokeRadar,20
     40,DEATH,100
 #-------------------------------
-[049] # cave 2
+[049] # cave 2 (Rocky Spiral (Deeper...))
 Cave,21
     30,BATY,12,13
     20,GRAVENIMAGE,12,13
@@ -28,7 +28,32 @@ Cave,21
     10,MAW,12,13
     5,BOBYS,8
 #-------------------------------
-[102] # Oak's Room
+[077] # After the Forest
+Land,40
+    20,BERMY,21,23
+    20,DAMP,21,23
+    20,DIDYDARK,21,23
+    20,DOS,21,23
+    20,GROS,21,23
+#-------------------------------
+[083] # Factory Shore
+Land,40
+    20,KLAK,15,17
+#-------------------------------
+[093] # forest (Foraging Forests)
+Land,25
+    15,ARRA,18,20
+    15,BUGABOO,18,20
+    15,CHUTE,18,20
+    15,NOKING,18,20
+    10,LITTELSTAR,18,20
+    10,TEEHEE,18,20
+    5,ALADY,22,25
+    5,BIRSON,20,25
+    5,LOVERS,18,20
+    5,SISTER,20,22
+#-------------------------------
+[102] # Professor's Room
 Land,15
     40,FLATMAN,1,4
     5,TEEHEE,4,25
@@ -36,40 +61,15 @@ RockSmash,50
     80,KOKCROACH,5
     50,TOMUCHFACES,5
 #-------------------------------
-[083] #Factory shore
+[104] # factory forest transition (Before the Forest)
 Land,40
-    20,KLAK,15,17
+    100,BRAINWORM,18,20
 #-------------------------------
-[213] # cave1
-Cave,21
-    30,BATY,12,14
-    20,GRAVENIMAGE,12,14
+[213] # cave1 (Crimson Cavern (DEEPER....))
+Cave,10
+    20,BATY,12,14
+    10,GRAVENIMAGE,12,14
     20,LOSTFACES,12,14
     15,BARY,12,14
     10,MAW,12,14
     5,BOBYS,8
-#-------------------------------
-[104] # here 
-Land,40
-    100,BRAINWORM,18,20
-#-------------------------------
-[093] # dead forest  
-Land,25
-    10,LITTELSTAR,18,20
-    15,CHUTE,18,20
-    10,TEEHEE,18,20
-    15,NOKING,18,20
-    15,ARRA,18,20
-    15,BUGABOO,18,20
-    5,BIRSON,20,25
-    5,SISTER,20,22
-    5,ALADY,22,25
-    5,LOVERS,18,20
-#-------------------------------
-[077] # there 
-Land,40
-    20,DOS,21,23
-    20,GROS,21,23
-    20,DAMP,21,23
-    20,BERMY,21,23
-    20,DIDYDARK,21,23
