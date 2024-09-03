@@ -374,9 +374,7 @@ Pokemon = DOS,27
 [CRAZY2,two two]
 LoseText = ...
 Pokemon = BIGBARY,25
-Pokemon = BUGABOO,24
 Pokemon = BRAINWORM,25
-Pokemon = DOS,24
 #-------------------------------
 [MEZMOR,nices]
 LoseText = ...
