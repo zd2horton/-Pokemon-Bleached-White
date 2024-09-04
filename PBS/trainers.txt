@@ -778,11 +778,10 @@ Pokemon = ASCENDED,50
 #-------------------------------
 [adirtyman,Brad]
 LoseText = ...
-Pokemon = KOKCROACH,10
-Pokemon = BIRBABY,9
+Pokemon =  BAAATY,30
 #-------------------------------
 [LOOTER,Ruth]
 LoseText = ...
-Pokemon = CARACRCA,14
-Pokemon = BABOSHCA,15
+Pokemon = CARACRCA,23
+Pokemon = BABOSHCA,23
 #-------------------------------
