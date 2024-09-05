@@ -785,3 +785,20 @@ LoseText = ...
 Pokemon = CARACRCA,23
 Pokemon = BABOSHCA,23
 #-------------------------------
+[OCLATIST,Joe]
+LoseText = ...
+Pokemon = BOBYS,31
+Pokemon = THERAM,32
+Pokemon = HUMAN,31
+Pokemon = LLABOTOMY,29
+Pokemon = DOLL,30
+Pokemon = LOSTFACES,30
+#-------------------------------
+[ISOPODMAN,Poddy]
+LoseText = ...
+Pokemon = SPRIG,30
+Pokemon = FURRY,30
+Pokemon = BUGERBOOBOO,30
+Pokemon = CHUTE,31
+Pokemon = MINOMIND,30
+Pokemon = POPIP,32

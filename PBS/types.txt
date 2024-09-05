@@ -11,7 +11,6 @@ Name = BEAST
 IconPosition = 1
 Weaknesses = TERROR,FANTASY
 Resistances = REASON,EMPTY
-
 #-------------------------------
 [EMPTY]
 Name = EMPTY
@@ -31,26 +30,16 @@ IconPosition = 4
 Weaknesses = REASON,EMPTY
 Resistances = BEAST,FANTASY
 #-------------------------------
-[FLYING]
-Name = Flying
-IconPosition = 2
-#-------------------------------
-[GROUND]
-Name = Ground
-#-------------------------------
-[GHOST]
-Name = Ghost
-#-------------------------------
-[TRUCK]
-Name = TRUCK!
-IconPosition = 6
-#-------------------------------
 [CLOWN]
 Name = CLOWN <3
 IconPosition = 5
 Weaknesses = FANTASY
 Immunities = REASON
 Resistances =EMPTY,BEAST
+#-------------------------------
+[TRUCK]
+Name = TRUCK!
+IconPosition = 6
 #-------------------------------
 [BLOON]
 Name = BloOn :)
@@ -69,13 +58,102 @@ IconPosition = 9
 Resistances = FANTASY,EMPTY,BEAST,REASON,EMPTY
 Weaknesses = CLOWN,TRUCK,BLOON,FURRY
 #-------------------------------
-[GRASS]
-Name = FURRY O w O
-IconPosition = 8
-Weaknesses = BEAST,EMPTY,BLOON
-Resistances = FANTASY,TRUCK,TERROR
+[NORMAL]
+Name = Normal
+Weaknesses = FIGHTING
+Immunities = GHOST
+#-------------------------------
+[FIGHTING]
+Name = Fighting
+Weaknesses = FLYING,PSYCHIC,FAIRY
+Resistances = ROCK,BUG,DARK
+#-------------------------------
+[FLYING]
+Name = Flying
+Weaknesses = ROCK,ELECTRIC,ICE
+Resistances = FIGHTING,BUG,GRASS
+Immunities = GROUND
+#-------------------------------
+[POISON]
+Name = Poison
+Weaknesses = GROUND,PSYCHIC
+Resistances = FIGHTING,POISON,BUG,GRASS,FAIRY
+#-------------------------------
+[GROUND]
+Name = Ground
+Weaknesses = WATER,GRASS,ICE
+Resistances = POISON,ROCK
+Immunities = ELECTRIC
+#-------------------------------
+[ROCK]
+Name = Rock
+Weaknesses = FIGHTING,GROUND,STEEL,WATER,GRASS
+Resistances = NORMAL,FLYING,POISON,FIRE
+#-------------------------------
+[BUG]
+Name = Bug
+Weaknesses = FLYING,ROCK,FIRE
+Resistances = FIGHTING,GROUND,GRASS
+#-------------------------------
+[GHOST]
+Name = Ghost
+Weaknesses = GHOST,DARK
+Resistances = POISON,BUG
+Immunities = NORMAL,FIGHTING
+#-------------------------------
+[STEEL]
+Name = Steel
+Weaknesses = FIGHTING,GROUND,FIRE
+Resistances = NORMAL,FLYING,ROCK,BUG,STEEL,GRASS,PSYCHIC,ICE,DRAGON,FAIRY
+Immunities = POISON
+#-------------------------------
+[QMARKS]
+Name = ???
+IsPseudoType = true
+#-------------------------------
+[FIRE]
+Name = Fire
+Weaknesses = GROUND,ROCK,WATER
+Resistances = BUG,STEEL,FIRE,GRASS,ICE,FAIRY
 #-------------------------------
 [WATER]
-Name = BloOn :)
-IconPosition = 7
-Weaknesses = FANTASY,EMPTY,BEAST,REASON,CLOWN,TRUCK,EMPTY
+Name = Water
+Weaknesses = GRASS,ELECTRIC
+Resistances = STEEL,FIRE,WATER,ICE
+#-------------------------------
+[GRASS]
+Name = Grass
+Weaknesses = FLYING,POISON,BUG,FIRE,ICE
+Resistances = GROUND,WATER,GRASS,ELECTRIC
+#-------------------------------
+[ELECTRIC]
+Name = Electric
+Weaknesses = GROUND
+Resistances = FLYING,STEEL,ELECTRIC
+#-------------------------------
+[PSYCHIC]
+Name = Psychic
+Weaknesses = BUG,GHOST,DARK
+Resistances = FIGHTING,PSYCHIC
+#-------------------------------
+[ICE]
+Name = Ice
+Weaknesses = FIGHTING,ROCK,STEEL,FIRE
+Resistances = ICE
+#-------------------------------
+[DRAGON]
+Name = Dragon
+Weaknesses = ICE,DRAGON,FAIRY
+Resistances = FIRE,WATER,GRASS,ELECTRIC
+#-------------------------------
+[DARK]
+Name = Dark
+Weaknesses = FIGHTING,BUG,FAIRY
+Resistances = GHOST,DARK
+Immunities = PSYCHIC
+#-------------------------------
+[FAIRY]
+Name = Fairy
+Weaknesses = POISON,STEEL
+Resistances = FIGHTING,BUG,DARK
+Immunities = DRAGON
