@@ -621,47 +621,47 @@ Pokemon = MOREMAW,34
 Pokemon = AAARRR,33
 Pokemon = SUPERSMUNKYBALL,33
 Pokemon = MARGMARE,34
-Pokemon = KLAKLAKKLA,34 
+Pokemon = KLAKLAKKLA,34
 Pokemon = BODIVINE,35
 #-------------------------------
-[TROGLODYTE,Manny] #Hand eater
+[TROGLODYTE,Manny]
 LoseText = ...
 Pokemon = DARD,35
 Pokemon = ENGORGED,34
 Pokemon = THENOKING,35
 #-------------------------------
-[MSDINO,Harry] #Dino kid that calls you trash
+[MSDINO,Harry]
 LoseText = ...
 Pokemon = SECOND,34
 Pokemon = FURRY,35
 Pokemon = DIOE,36
 #-------------------------------
-[GG,Hapi] #Definition of gay girl
+[GG,Hapi]
 LoseText = ...
 Pokemon = OJABOBOD,34
 Pokemon = PARALLAXPEPR,35
 Pokemon = POOKOOCHUE,34
 #-------------------------------
-[MEZMOR,Melvin] #Factoid guy
+[MEZMOR,Melvin]
 LoseText = ...
 Pokemon = BOBYS,36
 Pokemon = AMYGDALA,35
 Pokemon = ORLIHEPERH,36
 #-------------------------------
-[LOOTER,Staceys] #Can't stop moving
+[LOOTER,Staceys]
 LoseText = ...
 Pokemon = MECRURY,35
 Pokemon = TEETEETEE,34
 Pokemon = THEYBROKE,34
 Pokemon = HEELEO,35
 #-------------------------------
-[EXCAVATOR,Gordon] #Hopes dashed
+[EXCAVATOR,Gordon]
 LoseText = ...
 Pokemon = DOLL,35
 Pokemon = HUMAN,35
 Pokemon = TREE,35
 #-------------------------------
-[adirtyman,Will] #Vomit dude
+[adirtyman,Will]
 LoseText = ...
 Pokemon = BARYS,35
 Pokemon = ROOOCH,35
@@ -756,9 +756,9 @@ Pokemon = PREACHER,40
 Pokemon = BAAATY,40
 Pokemon = GONE,41
 Pokemon = DARK,41
-Pokemon = DEATH, 42
-#------------------------------- EEDIOE, LLABOTOMY, CROOKEDMAN also considered
-[THESECONDBEST, Box Overlord]
+Pokemon = DEATH,42
+#-------------------------------
+[THESECONDBEST,Box Overlord]
 LoseText = ...you're ready.
 Pokemon = DARK,44
 Pokemon = HEADSOFMAHARA,43
@@ -766,7 +766,7 @@ Pokemon = DOLL,45
 Pokemon = POPIP,45
 Pokemon = KORRUPTION,44
 Pokemon = WSTAAW,45
-#------------------------------- GONE, EEEMM, SATURN also considered
+#-------------------------------
 [THEBEST,BEST]
 LoseText = ...
 Pokemon = DARWINSANGEL,48
@@ -778,7 +778,7 @@ Pokemon = ASCENDED,50
 #-------------------------------
 [adirtyman,Brad]
 LoseText = ...
-Pokemon =  BAAATY,30
+Pokemon = BAAATY,30
 #-------------------------------
 [LOOTER,Ruth]
 LoseText = ...
@@ -802,3 +802,7 @@ Pokemon = BUGERBOOBOO,30
 Pokemon = CHUTE,31
 Pokemon = MINOMIND,30
 Pokemon = POPIP,32
+#-------------------------------
+[spooky,as]
+LoseText = ...
+Pokemon = KOW,10
