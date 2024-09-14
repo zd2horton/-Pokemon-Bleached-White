@@ -599,6 +599,16 @@ Pokemon = DOSME,31
 Pokemon = CRITTERSSS,30
 Pokemon = LLABOTOMY,31
 Pokemon = ONGYRO,32
+#-------------------------------double battler 1
+[butcher,Flank]
+LoseText = ...
+Pokemon = CRITTERSSS,30
+Pokemon = ONGYRO,32
+#-------------------------------double battler 2
+[butcher,Shank]
+LoseText = ...
+Pokemon = LLABOTOMY,31
+Pokemon = DOSME,31
 #-------------------------------
 [butcher,Chuck]
 LoseText = ...
@@ -721,6 +731,14 @@ LoseText = ...
 Pokemon = BUGERBOOBOO,38
 Pokemon = ARIARKE,39
 Pokemon = O,38
+#-------------------------------
+[ISOPODMAN,Yowcher]
+LoseText = ...
+Pokemon = BUGERBOOBOO,38
+Pokemon = O,38
+#-------------------------------
+[PUNCHYLADY,Ripley]
+Pokemon = ARIARKE,39
 Pokemon = HEELEO,40
 #-------------------------------
 [BOSSBOY,Ash]
