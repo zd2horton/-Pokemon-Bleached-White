@@ -253,7 +253,7 @@ Description = A nutritious drink for Pokémon. It raises the base Speed stat of 
 #-------------------------------
 [EXPCANDYXS]
 Name = ROTEINGBRAINGUNK
-NamePlural = 
+NamePlural = ROTEINGBRAINGUNK
 Pocket = 2
 Price = 5000
 FieldUse = OnPokemon
@@ -270,8 +270,8 @@ Flags = Fling_30
 Description = A candy packed with energy. When consumed, it will grant a Pokémon a small amount of Exp. Points.
 #-------------------------------
 [EXPCANDYM]
-Name = Exp. Candy M
-NamePlural = Exp. Candy Ms
+Name = Freshlybutcheredbrain
+NamePlural = Freshlybutcheredbrain
 Pocket = 2
 Price = 1000
 FieldUse = OnPokemon
