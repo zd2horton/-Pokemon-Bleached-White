@@ -636,3 +636,9 @@ Pocket = 5
 Flags = KeyItem 
 Description = Test1
 #-------------------------------
+[DeadMansWishes]
+Name = Dead Man's Wishes
+NamePlural = Dead Man's Wishes
+Pocket = 5
+Flags = KeyItem
+Description = Quintuples EXP gain.

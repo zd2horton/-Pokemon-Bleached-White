@@ -271,6 +271,14 @@ SkillLevel = 1000000
 Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
 BattleBGM = pink in the end
 #-------------------------------
+[KOWTrainer]
+Name = Kow
+Gender = Female
+BaseMoney = 60
+SkillLevel = 1000000
+Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
+BattleBGM = pink in the end
+#-------------------------------
 [FANTASYleader]
 Name = Guider of Fantasy
 Gender = Female
