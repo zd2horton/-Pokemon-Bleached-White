@@ -627,11 +627,11 @@ Pokemon = SMUNKY,32
 #-------------------------------
 [beastleader,Sir Loin]
 LoseText = And now.....blood falls onto your hands.
-Pokemon = MOREMAW,34
-Pokemon = AAARRR,33
-Pokemon = SUPERSMUNKYBALL,33
+Pokemon = MOREMAW,25
+Pokemon = AAARRR,30
+Pokemon = SUPERSMUNKYBALL,25
 Pokemon = MARGMARE,34
-Pokemon = KLAKLAKKLA,34
+Pokemon = KLAKLAKKLA,30
 Pokemon = BODIVINE,35
 #-------------------------------
 [TROGLODYTE,Manny]
@@ -643,8 +643,8 @@ Pokemon = THENOKING,35
 [MSDINO,Harry]
 LoseText = ...
 Pokemon = SECOND,34
-Pokemon = FURRY,35
-Pokemon = DIOE,36
+Pokemon = OJABOBOD,30
+Pokemon = DIOE,33
 #-------------------------------
 [GG,Hapi]
 LoseText = ...
@@ -667,8 +667,7 @@ Pokemon = HEELEO,35
 #-------------------------------
 [EXCAVATOR,Gordon]
 LoseText = ...
-Pokemon = DOLL,35
-Pokemon = HUMAN,35
+Pokemon = DOLL,30
 Pokemon = TREE,35
 #-------------------------------
 [adirtyman,Will]
