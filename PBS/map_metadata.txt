@@ -15,10 +15,12 @@ Name = \PN's house
 ShowArea = true
 HealingSpot = 2,8,8
 MapPosition = 0,13,12
+
 #-------------------------------
 [004]   # Professor's Lab
 Name = Professor's Lab
 MapPosition = 0,13,12
+BattleBack = inside
 #-------------------------------
 [005]   # First Steps
 Name = First Steps
@@ -37,16 +39,19 @@ Outdoor = true
 ShowArea = true
 MapPosition = 0,13,10
 MapSize = 2,11
+BattleBack = inside
 #-------------------------------
 [008]   # Empty House
 Name = Empty House
 MapPosition = 0,13,12
+BattleBack = inside
 #-------------------------------
 [009]   # Gyro House
 Name = Gyro House
 ShowArea = true
 HealingSpot = 8,17,11
 MapPosition = 0,14,10
+BattleBack = cat
 #-------------------------------
 [010]   # MAP 010
 Name = art
@@ -62,6 +67,7 @@ MapPosition = 0,14,10
 Name = Dead City Shop
 ShowArea = true
 MapPosition = 0,14,10
+BattleBack = city inside
 #-------------------------------
 [013]   # Humble Forest Cave
 Name = Humble Forest Cave
@@ -73,30 +79,37 @@ WildVictoryBGM = empty air og
 [014]   # shop
 Name = Cedolan City
 MapPosition = 0,13,10
+BattleBack = city inside
 #-------------------------------
 [015]   # Cedolan Dept. 2F
 Name = Cedolan City
 MapPosition = 0,13,10
+BattleBack = city inside
 #-------------------------------
 [016]   # Cedolan Dept. 3F
 Name = Cedolan City
 MapPosition = 0,13,10
+BattleBack = city inside
 #-------------------------------
 [017]   # Cedolan Dept. 4F
 Name = Cedolan City
 MapPosition = 0,13,10
+BattleBack = city inside
 #-------------------------------
 [018]   # Cedolan Dept. 5F
 Name = Cedolan City
 MapPosition = 0,13,10
+BattleBack = city inside
 #-------------------------------
 [019]   # Cedolan Dept. Rooftop
 Name = Cedolan City
 MapPosition = 0,13,10
+BattleBack = city inside
 #-------------------------------
 [020]
 Name = Cedolan City
 MapPosition = 0,13,10
+BattleBack = city inside
 #-------------------------------
 [021]   # The Dump
 Name = The Dump
@@ -104,7 +117,7 @@ Outdoor = true
 ShowArea = true
 Weather = Rain,100
 MapPosition = 0,14,8
-BattleBack = field
+BattleBack = bump
 MapSize = 1,11
 #-------------------------------
 [022]   # Rock Forest Cave

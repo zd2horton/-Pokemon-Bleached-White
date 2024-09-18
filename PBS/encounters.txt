@@ -56,7 +56,7 @@ Land,25
 [102] # Professor's Room
 Land,15
     40,FLATMAN,1,4
-    5,TEEHEE,4,25
+    5,TEEHEE,4
 RockSmash,50
     80,KOKCROACH,5
     50,TOMUCHFACES,5
@@ -74,8 +74,8 @@ Cave,10
     10,MAW,12,14
     5,BOBYS,8
 #-------------------------------
-[021] # cave1 (Crimson Cavern (DEEPER....))
-Cave,10
+[021] # BUMP (what are you worth...))
+Land,10
     20,TUMAR,28,30
     10,ARIARKE,28,30
     20,PAKA,28,30
