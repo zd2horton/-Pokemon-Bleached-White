@@ -73,3 +73,13 @@ Cave,10
     15,BARY,12,14
     10,MAW,12,14
     5,BOBYS,8
+#-------------------------------
+[021] # cave1 (Crimson Cavern (DEEPER....))
+Cave,10
+    20,TUMAR,28,30
+    10,ARIARKE,28,30
+    20,PAKA,28,30
+    10,ELPHANT,28,30
+    20,POPIP,28,30
+    30,OJABOBOD,28,30
+    20,LLABOTOMY,28,30
