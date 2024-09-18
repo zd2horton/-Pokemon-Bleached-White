@@ -663,7 +663,6 @@ LoseText = ...
 Pokemon = MECRURY,35
 Pokemon = TEETEETEE,34
 Pokemon = THEYBROKE,34
-Pokemon = HEELEO,35
 #-------------------------------
 [EXCAVATOR,Gordon]
 LoseText = ...
@@ -738,7 +737,7 @@ Pokemon = O,38
 #-------------------------------
 [PUNCHYLADY,Ripley]
 Pokemon = ARIARKE,39
-Pokemon = HEELEO,40
+Pokemon = TUUMMAARR,40
 #-------------------------------
 [BOSSBOY,Ash]
 LoseText = ...

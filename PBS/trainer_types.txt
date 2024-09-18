@@ -177,7 +177,7 @@ BattleBGM = i am god  og
 Name = .
 Gender = Female
 BaseMoney = 32
-BattleBGM = ROCKING
+BattleBGM = goodd
 #-------------------------------
 [MEZMOR]
 Name = .

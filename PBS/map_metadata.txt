@@ -119,6 +119,8 @@ Weather = Rain,100
 MapPosition = 0,14,8
 BattleBack = bump
 MapSize = 1,11
+WildBattleBGM = reall battel - enis og
+WildVictoryBGM = empty air og
 #-------------------------------
 [022]   # Rock Forest Cave
 Name = Rock Forest Cave
