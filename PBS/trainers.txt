@@ -711,12 +711,18 @@ Pokemon = BERMY,36
 #-------------------------------
 [FANTASYleader,Michaelangelo]
 LoseText = ....A fine showing.
-Pokemon = THEGOT,37
-Pokemon = THEWORD,36
-Pokemon = MOOMOONSUN,38
-Pokemon = EEEMM,37
-Pokemon = DIOTORAS,38
-Pokemon = WYWYWY,36
+Pokemon = MECRURY,35
+Item = ROCKYHELMET
+Pokemon = DARWINSANGEL,35
+Item = ROCKYHELMET
+Pokemon = ARRAMRRA,30
+Item = ROCKYHELMET
+Pokemon = SISTERS,30
+Item = ROCKYHELMET
+Pokemon = WYWYWY,30
+Item = ROCKYHELMET
+Pokemon = THEWORD,35
+Item = ROCKYHELMET
 #-------------------------------
 [TROGLODYTE,Freddy]
 LoseText = ...
