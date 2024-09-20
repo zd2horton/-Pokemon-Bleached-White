@@ -711,17 +711,13 @@ Pokemon = BERMY,36
 #-------------------------------
 [FANTASYleader,Michaelangelo]
 LoseText = ....A fine showing.
-Pokemon = MECRURY,35
+Pokemon = THERAM,40
 Item = ROCKYHELMET
-Pokemon = DARWINSANGEL,35
+Pokemon = BIGSTAR,40
 Item = ROCKYHELMET
-Pokemon = ARRAMRRA,30
+Pokemon = OJABOBOD,40
 Item = ROCKYHELMET
-Pokemon = SISTERS,30
-Item = ROCKYHELMET
-Pokemon = WYWYWY,30
-Item = ROCKYHELMET
-Pokemon = THEWORD,35
+Pokemon = THEWORD,40
 Item = ROCKYHELMET
 #-------------------------------
 [TROGLODYTE,Freddy]
