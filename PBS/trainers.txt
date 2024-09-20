@@ -722,7 +722,7 @@ Item = ROCKYHELMET
 #-------------------------------
 [TROGLODYTE,Freddy]
 LoseText = ...
-Pokemon = HER,38
+Pokemon = THENOKING,38
 Pokemon = DIOTORAS,39
 Pokemon = YAGA,38
 #-------------------------------
