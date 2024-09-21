@@ -767,7 +767,7 @@ Pokemon = SATURN,40
 Pokemon = ALIVE,40
 Pokemon = GROOGROS,40
 #-------------------------------
-[terroleader,Alucard]
+[terroleader,A]
 LoseText = How horrifying.
 Pokemon = THREEONEFIVE,40
 Pokemon = PREACHER,40
