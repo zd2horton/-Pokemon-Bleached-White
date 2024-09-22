@@ -709,8 +709,8 @@ Pokemon = ARRAMRRA,37
 Pokemon = SISTER,37
 Pokemon = BERMY,36
 #-------------------------------
-[FANTASYleader,Michaelangelo]
-LoseText = ....A fine showing.
+[FANTASYleader,Flanne]
+LoseText = ....that...was all...
 Pokemon = THERAM,40
 Item = ROCKYHELMET
 Pokemon = BIGSTAR,40
