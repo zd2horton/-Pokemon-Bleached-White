@@ -776,23 +776,69 @@ Pokemon = GONE,41
 Pokemon = DARK,41
 Pokemon = DEATH,42
 #-------------------------------
+[eginer,Enda]
+LoseText = ...
+Pokemon = CLOCLOGLIDER,41
+Pokemon = CARACRCA,41
+#-------------------------------
+[LOOTER,Owary]
+LoseText = ...
+Pokemon = DEATH,42
+Pokemon = MANINBLACK,41
+#-------------------------------
+[LOOTER,Fin]
+LoseText = ...
+Pokemon = CLOCLOGLIDER,42
+Pokemon = CARACRCA,42
+#-------------------------------
+[spooky,Fayd]
+LoseText = ...
+Pokemon = LLABOTOMY,41
+Pokemon = ENGORGED,42
+Pokemon = ORLIHEPERH,41
+#-------------------------------
+[GG,Crioch]
+LoseText = ...
+Pokemon = YAGA,42
+Pokemon = EEEMM,42
+Pokemon = TEETEETEE,43
+#-------------------------------
+[BEAUTY,Bon]
+Pokemon = WSTAAW,43
+Pokemon = OJABOBOD,43
+#-------------------------------
+[BEAUTY,Triste]
+Pokemon = AAARRR,43
+Pokemon = DOLL,43
+#-------------------------------
+[BEAUTY,Konets]
+Pokemon = EGG,47
+Pokemon = DAMPANDDARK,49
+Pokemon = ROSEPOSEY,46
+#-------------------------------
+[DD, Trus]
+Pokemon = SUPERSMUNKYBALL,36
+Pokemon = BABOSHCA,35
+Pokemon = CLOCLO,38
+#-------------------------------
 [THESECONDBEST,Box Overlord]
 LoseText = ...you're ready.
-Pokemon = DARK,44
-Pokemon = HEADSOFMAHARA,43
-Pokemon = DOLL,45
-Pokemon = POPIP,45
-Pokemon = KORRUPTION,44
-Pokemon = WSTAAW,45
+Pokemon = O,45
+Pokemon = THEYBROKE,44
+Pokemon = ORLIHEPERH,45
+Pokemon = THENOKING,43
+Pokemon = BODIVINE,45
+Pokemon = HEELEO,44
+
 #-------------------------------
 [THEBEST,BEST]
 LoseText = ...
-Pokemon = DARWINSANGEL,48
-Pokemon = STAR,46
-Pokemon = DEATH,47
-Pokemon = EGG,46
-Pokemon = THEFERALGOD,48
-Pokemon = ASCENDED,50
+Pokemon = HUMAN,48
+Pokemon = HEADSOFMAHARA,46
+Pokemon = AYVASA,47
+Pokemon = KORRUPTION,46
+Pokemon = MAN,48
+Pokemon = THEFERALGOD,50
 #-------------------------------
 [adirtyman,Brad]
 LoseText = ...
