@@ -136,12 +136,27 @@ BattleBack = DIGTHROUGH
 WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
 #-------------------------------
-[024]   # Maze Forest Cave
-Name = Maze Forest Cave
+[024]   # its the last
+Name = its the last
 ShowArea = true
 BattleBack = DIGTHROUGH
 WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
+#-------------------------------
+[025]   # Maze Forest Cave
+Name = Maze Forest Cave
+ShowArea = true
+BattleBack = final
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
+#-------------------------------
+[030]   # MAP030
+Name = waterfall
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,6
+BattleBack = waterfall
+MapSize = 2,1101
 #-------------------------------
 [031]   # MAP031
 Name = Route 3
@@ -170,6 +185,7 @@ Flags = IceRock
 Name = Ingido Plateau
 MapPosition = 0,13,6
 Flags = DisableBoxLink
+BattleBack = second
 #-------------------------------
 [041]   # The Long Road
 Name = The Long Road

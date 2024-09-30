@@ -83,3 +83,13 @@ Land,10
     20,POPIP,28,30
     30,OJABOBOD,28,30
     20,LLABOTOMY,28,30
+[030] # waterfall (falling.....))
+Land,10
+    20,TUMAR,28,30
+    10,ARIARKE,28,30
+    20,PAKA,28,30
+    10,ELPHANT,28,30
+    20,POPIP,28,30
+    30,OJABOBOD,28,30
+    20,LLABOTOMY,28,30
+

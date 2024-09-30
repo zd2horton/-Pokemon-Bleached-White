@@ -309,7 +309,7 @@ Gender = Female
 BaseMoney = 60
 SkillLevel = 1000000
 Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
-BattleBGM = pink in the end
+BattleBGM = story_end
 #-------------------------------
 [PUNCHYISOPOD]
 Name = Unlikely Pair

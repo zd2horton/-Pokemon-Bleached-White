@@ -785,6 +785,7 @@ Pokemon = CARACRCA,41
 LoseText = ...
 Pokemon = DEATH,42
 Pokemon = MANINBLACK,41
+Pokemon = STAR,41
 #-------------------------------
 [LOOTER,Fin]
 LoseText = ...
@@ -814,32 +815,33 @@ Pokemon = AAARRR,43
 Pokemon = DOLL,43
 #-------------------------------
 [BEAUTY,Konets]
+Pokemon = DAMPANDDARK,40
 Pokemon = EGG,47
-Pokemon = DAMPANDDARK,49
-Pokemon = ROSEPOSEY,46
 #-------------------------------
 [DD, Trus]
 Pokemon = SUPERSMUNKYBALL,36
-Pokemon = BABOSHCA,35
 Pokemon = CLOCLO,38
 #-------------------------------
 [THESECONDBEST,Box Overlord]
 LoseText = ...you're ready.
 Pokemon = O,45
-Pokemon = THEYBROKE,44
+Item = WEAKNESSPOLICY
 Pokemon = ORLIHEPERH,45
-Pokemon = THENOKING,43
+Item = WEAKNESSPOLICY
+Pokemon = SEVLEOMED,45
+Item = WEAKNESSPOLICY
 Pokemon = BODIVINE,45
-Pokemon = HEELEO,44
-
+Item = WEAKNESSPOLICY
+Pokemon = HEELEO,50
+Item = WEAKNESSPOLICY
 #-------------------------------
 [THEBEST,BEST]
 LoseText = ...
-Pokemon = HUMAN,48
-Pokemon = HEADSOFMAHARA,46
-Pokemon = AYVASA,47
-Pokemon = KORRUPTION,46
-Pokemon = MAN,48
+Pokemon = HUMAN,50
+Pokemon = HEADSOFMAHARA,45
+Pokemon = AYVASA,45
+Pokemon = KORRUPTION,50
+Pokemon = MAN,45
 Pokemon = THEFERALGOD,50
 #-------------------------------
 [adirtyman,Brad]
