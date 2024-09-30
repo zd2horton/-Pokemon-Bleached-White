@@ -790,12 +790,14 @@ Pokemon = MANINBLACK,41
 LoseText = ...
 Pokemon = CLOCLOGLIDER,42
 Pokemon = CARACRCA,42
+Pokemon = THEYBROKE,42
 #-------------------------------
 [spooky,Fayd]
 LoseText = ...
 Pokemon = LLABOTOMY,41
 Pokemon = ENGORGED,42
 Pokemon = ORLIHEPERH,41
+Pokemon = ENGORGED,41
 #-------------------------------
 [GG,Crioch]
 LoseText = ...
@@ -804,8 +806,8 @@ Pokemon = EEEMM,42
 Pokemon = TEETEETEE,43
 #-------------------------------
 [BEAUTY,Bon]
-Pokemon = WSTAAW,43
-Pokemon = OJABOBOD,43
+Pokemon = WSTAAW,50
+Pokemon = OJABOBOD,50
 #-------------------------------
 [BEAUTY,Triste]
 Pokemon = AAARRR,43
