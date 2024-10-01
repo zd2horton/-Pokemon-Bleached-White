@@ -3327,7 +3327,7 @@ Pokedex = The head of the 16th-century lindworm statue at Lindwurm Fountain in K
 Generation = 1
 Evolutions = WYWYWY,Level,30
 #-------------------------------
-[Pokemon = HEELEO,50]
+[WYWYWY]
 Name = WYWYWY
 Types = FANTASY,EMPTY
 BaseStats =80,80,60,40,120,100

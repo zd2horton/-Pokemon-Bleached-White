@@ -838,11 +838,17 @@ Item = WEAKNESSPOLICY
 [THEBEST,BEST]
 LoseText = ...
 Pokemon = HUMAN,50
+Item = loveletter
 Pokemon = HEADSOFMAHARA,45
+Item = loveletter
 Pokemon = AYVASA,45
+Item = loveletter
 Pokemon = KORRUPTION,50
+Item = loveletter
 Pokemon = MAN,45
+Item = loveletter
 Pokemon = THEFERALGOD,50
+Item = loveletter
 #-------------------------------
 [adirtyman,Brad]
 LoseText = ...

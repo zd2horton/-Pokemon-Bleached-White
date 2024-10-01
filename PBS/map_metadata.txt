@@ -157,6 +157,8 @@ ShowArea = true
 MapPosition = 0,14,6
 BattleBack = waterfall
 MapSize = 2,1101
+WildBattleBGM = i really like this
+WildVictoryBGM = empty air og
 #-------------------------------
 [031]   # MAP031
 Name = Route 3
