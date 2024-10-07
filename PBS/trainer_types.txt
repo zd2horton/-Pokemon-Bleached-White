@@ -309,7 +309,7 @@ Gender = Female
 BaseMoney = 60
 SkillLevel = 1000000
 Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
-BattleBGM = big beeper .ogg
+BattleBGM = big beeper.ogg
 #-------------------------------
 [PUNCHYISOPOD]
 Name = Unlikely Pair
