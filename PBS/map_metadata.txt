@@ -1,4 +1,5 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
+# Have Name, Outdoor, ShowArea, Weather, Battleback, Environment, BGMs where possible
 #-------------------------------
 [001]   # Intro
 Name = Intro
@@ -13,11 +14,20 @@ BattleBack = field
 [003]   # Player's house
 Name = \PN's house
 ShowArea = true
-HealingSpot = 2,8,8
 MapPosition = 0,13,12
+#-------------------------------
+[008]   # Daisy's house (Empty House)
+Name = Empty House
+MapPosition = 0,13,12
+BattleBack = inside
 #-------------------------------
 [004]   # Pokémon Lab (Professor's Lab)
 Name = Professor's Lab
+MapPosition = 0,13,12
+BattleBack = inside
+#-------------------------------
+[102]   # Professor's Room
+Name = Professor's Room
 MapPosition = 0,13,12
 BattleBack = inside
 #-------------------------------
@@ -28,22 +38,18 @@ ShowArea = true
 MapPosition = 0,13,11
 BattleBack = field
 #-------------------------------
-[006]   # elf room
-Name = Route 1
-MapPosition = 0,13,11
-#-------------------------------
-[007]   # Cedolan City
-Name = Cedolan City
+[007]   # Cedolan City (Gyrocity)
+Name = Gyrocity
 Outdoor = true
 ShowArea = true
 MapPosition = 0,13,10
 BattleBack = inside
 MapSize = 2,11
 #-------------------------------
-[008]   # Daisy's house (Empty House)
-Name = Empty House
-MapPosition = 0,13,12
-BattleBack = inside
+[006]   # elf room
+Name = ....?
+ShowArea = true
+MapPosition = 0,13,11
 #-------------------------------
 [009]   # gro home (Gyro House)
 Name = Gyro House
