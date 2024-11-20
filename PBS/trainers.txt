@@ -53,7 +53,7 @@ Pokemon = DUK,12
 LoseText = ...
 Pokemon = BRAINWORM,9
 #-------------------------------
-[FANCLUBBOSS,GAS BOSS]
+[FANCLUBBOSS,GAS]
 LoseText = ...
 Pokemon = CROOKEDMAN,7
 Pokemon = LOSTFACES,5

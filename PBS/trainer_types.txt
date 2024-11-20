@@ -24,7 +24,7 @@ BaseMoney = 32
 BattleBGM = -666060 og
 #-------------------------------
 [FANCLUBBOSS]
-Name = FAN CLUB BOSS!
+Name = Fanclub Boss
 Gender = Female
 BaseMoney = 100
 BattleBGM = ANIME_AT_END_OF_OCEAN
