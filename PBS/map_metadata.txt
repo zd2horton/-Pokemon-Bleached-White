@@ -13,11 +13,11 @@ BattleBack = field
 #-------------------------------
 [003]   # Player's house
 Name = \PN's house
-ShowArea = true
 MapPosition = 0,13,12
 #-------------------------------
 [008]   # Daisy's house (Empty House)
 Name = Empty House
+ShowArea = true
 MapPosition = 0,13,12
 BattleBack = inside
 #-------------------------------
@@ -37,6 +37,8 @@ Outdoor = true
 ShowArea = true
 MapPosition = 0,13,11
 BattleBack = field
+WildBattleBGM = not maple 1 og
+WildVictoryBGM = empty air og
 #-------------------------------
 [007]   # Cedolan City (Gyrocity)
 Name = Gyrocity
