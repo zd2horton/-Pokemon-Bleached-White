@@ -15,6 +15,10 @@ BattleBack = field
 Name = \PN's house
 MapPosition = 0,13,12
 #-------------------------------
+[027]   # Player's house
+Name = \PN's house
+MapPosition = 0,13,12
+#-------------------------------
 [008]   # Daisy's house (Empty House)
 Name = Empty House
 ShowArea = true
@@ -48,6 +52,18 @@ MapPosition = 0,13,10
 BattleBack = inside
 MapSize = 2,11
 #-------------------------------
+[100]   # fan club (The Fanclub)
+Name = The Fanclub
+ShowArea = true
+BattleBack = fanclub
+TrainerBattleBGM = not maple 1 og
+TrainerVictoryBGM = empty air og
+#-------------------------------
+[014]   # shop (Gyrocity Shop)
+Name = Gyrocity Shop
+MapPosition = 0,13,10
+BattleBack = city inside
+#-------------------------------
 [006]   # elf room
 Name = ....?
 ShowArea = true
@@ -60,20 +76,95 @@ HealingSpot = 8,17,11
 MapPosition = 0,14,10
 BattleBack = cat
 #-------------------------------
-[010]   # MAP010
-Name = art
-MapPosition = 0,13,10
-BattleBack = fantasyleader
-#-------------------------------
-[011]   # city green hosee
-Name = Cedolan City
-MapPosition = 0,14,10
-#-------------------------------
-[012]   # Dead City Shop
-Name = Dead City Shop
+[047]   # Route 7 (Rocky Plains)
+Name = Rocky Plains
+Outdoor = true
 ShowArea = true
-MapPosition = 0,14,10
-BattleBack = city inside
+Weather = Rain,0
+MapPosition = 0,15,10
+BattleBack = redroutes
+MapSize = 2,11
+Environment = Rock
+#-------------------------------
+[200]   # Rock Cave 1F (Rocky Caves (Deep...))
+Name = Rocky Caves (Deep...)
+ShowArea = true
+BattleBack = DIGTHROUGH
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
+#-------------------------------
+[049]   # cave 2 (Rocky Spiral (Deeper...))
+Name = Rocky Spiral (Deeper...)
+ShowArea = true
+BattleBack = DIGTHROUGH
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
+#-------------------------------
+[213]   # cave1 (Crimson Cavern (DEEPER....))
+Name = Crimson Cavern (DEEPER....)
+ShowArea = true
+BattleBack = DIGTHROUGH
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
+#-------------------------------
+[050]   # cave 3 (Resplendent Tunnel (DEEPER!!!!))
+Name = Resplendent Tunnel (DEEPER!!!!)
+ShowArea = true
+BattleBack = DIGTHROUGH
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
+#-------------------------------
+[083]   # Factory Shore
+Name = Factory Shore
+Outdoor = true
+ShowArea = true
+Weather = Rain,100
+BattleBack = factoryshore
+#-------------------------------
+[099]   # Factory Entrance
+Name = Factory Entrance
+ShowArea = true
+BattleBack = fatory
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
+#-------------------------------
+[086]   # factory 1 (Heart of the Air Factory)
+Name = Heart of the Air Factory
+ShowArea = true
+BattleBack = fatory
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
+#-------------------------------
+[105]   # Factory Shores Cave
+Name = Factory Shores Cave
+Outdoor = true
+ShowArea = true
+BattleBack = DIGTHROUGH
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
+#-------------------------------
+[106]   # Factory Shores House
+Name = ???
+ShowArea = true
+BattleBack = walle
+WildBattleBGM = reall battel - Copy og
+WildVictoryBGM = empty air og
+#-------------------------------
+[104]   # factory forest transition (Before the Forest)
+Name = Before the Forest
+Outdoor = true
+ShowArea = true
+Weather = Fog,100
+BattleBack = redroutes
+TrainerBattleBGM = not maple 1 og
+TrainerVictoryBGM = empty air og
+#-------------------------------
+[093]   # forest (Foraging Forests)
+Name = Foraging Forests
+Outdoor = true
+ShowArea = true
+BattleBack = forist
+WildBattleBGM = I say
 #-------------------------------
 [013]   # forest cave 1 (Humble Forest Cave)
 Name = Humble Forest Cave
@@ -82,10 +173,103 @@ BattleBack = DIGTHROUGH
 WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
 #-------------------------------
-[014]   # shop (Cedolan Shop)
-Name = Cedolan City
-MapPosition = 0,13,10
-BattleBack = city inside
+[023]   # forest cave 2 (Bypass Forest Cave)
+Name = Bypass Forest Cave
+ShowArea = true
+BattleBack = DIGTHROUGH
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
+#-------------------------------
+[022]   # forest cave 3 (Rock Forest Cave)
+Name = Rock Forest Cave
+ShowArea = true
+BattleBack = DIGTHROUGH
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
+#-------------------------------
+[024]   # forest cave 4 (Maze Forest Cave)
+Name = its the last
+ShowArea = true
+BattleBack = DIGTHROUGH
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
+#-------------------------------
+[032]   # MATION (The Empty Mansion)
+Name = The Empty Mansion
+ShowArea = true
+BattleBack = M
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
+#-------------------------------
+[077]   # After the Forest
+Name = Highlands
+Outdoor = true
+ShowArea = true
+BattleBack = DIGTHROUGH
+WildBattleBGM = not maple 1 og
+TrainerBattleBGM = empty air og
+WildVictoryBGM = not maple 1 og
+TrainerVictoryBGM = empty air og
+#-------------------------------
+[029]   # After the Forest Top Area
+Name = Highlands Top
+Outdoor = true
+ShowArea = true
+BattleBack = DIGTHROUGH
+WildBattleBGM = not maple 1 og
+TrainerBattleBGM = empty air og
+WildVictoryBGM = not maple 1 og
+TrainerVictoryBGM = empty air og
+#-------------------------------
+[215]   # Boxman Cave
+Name = Boxman Cave
+ShowArea = true
+BattleBack = DIGTHROUGH
+WildBattleBGM = rocks og
+TrainerBattleBGM = not maple 1 og
+WildVictoryBGM = empty air og
+TrainerVictoryBGM = empty air og
+#-------------------------------
+[031]   # MAP031 (AtF Shop)
+Name = Route 3
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,6
+BattleBack = field
+MapSize = 2,1101
+#-------------------------------
+[079]   # dead city
+Name = Highlands
+Outdoor = true
+BattleBack = beadcity
+WildBattleBGM = not maple 1 og
+TrainerBattleBGM = empty air og
+WildVictoryBGM = not maple 1 og
+TrainerVictoryBGM = empty air og
+#-------------------------------
+[080] #Dead City Pool
+Name = Dead City Pool
+ShowArea = true
+#-------------------------------
+[087]   # adonb city more rooms (City Hotel)
+Name = City Hotel
+ShowArea = true
+#-------------------------------
+[081]   # adonb city house 1 (Hotel Room 1)
+Name = Hotel Room 1
+ShowArea = true
+#-------------------------------
+[090]   # adonb city house 2 (Hotel Room 2)
+Name = Hotel Room 2
+ShowArea = true
+#-------------------------------
+[089]   # adonb city house 3 (Hotel Room 3)
+Name = Factory Shore
+ShowArea = true
+#-------------------------------
+[088]   # adonb city house 4 (Hotel Room 4)
+Name = Factory Shore
+ShowArea = true
 #-------------------------------
 [015]   # Cedolan Dept. 2F
 Name = Cedolan City
@@ -117,6 +301,52 @@ Name = Cedolan City
 MapPosition = 0,13,10
 BattleBack = city inside
 #-------------------------------
+[084]   # adonb gym
+Name = AIR
+ShowArea = true
+BattleBack = monky
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
+#-------------------------------
+[033]   # Dead City Shop
+Name = Dead City Shop
+ShowArea = true
+MapPosition = 0,14,10
+BattleBack = city inside
+#-------------------------------
+[011]   # city green hosee
+Name = Cedolan City
+MapPosition = 0,14,10
+#-------------------------------
+[279]   # Between Dead City and Slaughter
+Name = Slaughterfalls
+Outdoor = true
+ShowArea = true
+BattleBack = slaughterfalls
+WildBattleBGM = not maple 1 og
+TrainerBattleBGM = empty air og
+WildVictoryBGM = not maple 1 og
+TrainerVictoryBGM = empty air og
+#-------------------------------
+[036]   # Furry Cave
+Name = ???
+ShowArea = true
+BattleBack = DIGTHROUGH
+WildBattleBGM = rocks og
+TrainerBattleBGM = not maple 1 og
+WildVictoryBGM = empty air og
+TrainerVictoryBGM = empty air og
+#-------------------------------
+[096]   # dutcher
+Name = BUTCHER
+ShowArea = true
+BattleBack = fatory
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
+#-------------------------------
+[634]   # Slaughterhouse to Dump
+Name = Slaughterhouse to Dump
+#-------------------------------
 [021]   # BUMP (The Dump)
 Name = The Dump
 Outdoor = true
@@ -128,33 +358,20 @@ WildBattleBGM = reall battel - enis og
 WildVictoryBGM = empty air og
 MapSize = 1,11
 #-------------------------------
-[022]   # forest cave 3 (Rock Forest Cave)
-Name = Rock Forest Cave
-ShowArea = true
-BattleBack = DIGTHROUGH
-WildBattleBGM = rocks og
-WildVictoryBGM = empty air og
+[026]   # MAP010
+Name = art
 #-------------------------------
-[023]   # forest cave 2 (Bypass Forest Cave)
-Name = Bypass Forest Cave
-ShowArea = true
-BattleBack = DIGTHROUGH
-WildBattleBGM = rocks og
-WildVictoryBGM = empty air og
+[010]   # MAP010
+Name = art
+MapPosition = 0,13,10
+BattleBack = fantasyleader
 #-------------------------------
-[024]   # forest cave 4 (Maze Forest Cave)
-Name = its the last
+[041]   # road (Long Road)
+Name = The Long Road
+Outdoor = true
 ShowArea = true
-BattleBack = DIGTHROUGH
-WildBattleBGM = rocks og
-WildVictoryBGM = empty air og
-#-------------------------------
-[025]   # MAP025
-Name = Maze Forest Cave
-ShowArea = true
-BattleBack = final
-WildBattleBGM = rocks og
-WildVictoryBGM = empty air og
+MapPosition = 0,11,7
+MapSize = 1,111
 #-------------------------------
 [030]   # waterfall
 Name = waterfall
@@ -166,18 +383,16 @@ WildBattleBGM = i really like this
 WildVictoryBGM = empty air og
 MapSize = 2,1101
 #-------------------------------
-[031]   # MAP031 (AtF Shop)
-Name = Route 3
-Outdoor = true
-ShowArea = true
-MapPosition = 0,14,6
-BattleBack = field
-MapSize = 2,1101
+[038]   # second best fight 
+Name = Ingido Plateau
+MapPosition = 0,13,6
+BattleBack = second
+Flags = DisableBoxLink
 #-------------------------------
-[032]   # MATION (The Empty Mansion)
-Name = The Empty Mansion
+[025]   # MAP025
+Name = Maze Forest Cave
 ShowArea = true
-BattleBack = M
+BattleBack = final
 WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
 #-------------------------------
@@ -189,42 +404,22 @@ BattleBack = cave1
 Environment = Cave
 Flags = IceRock
 #-------------------------------
-[038]   # second best fight 
-Name = Ingido Plateau
-MapPosition = 0,13,6
-BattleBack = second
-Flags = DisableBoxLink
-#-------------------------------
-[041]   # road (Long Road)
-Name = The Long Road
-Outdoor = true
-ShowArea = true
-MapPosition = 0,11,7
-MapSize = 1,111
-#-------------------------------
-[047]   # Route 7 (Rocky Plains)
-Name = Rocky Plains
-Outdoor = true
-ShowArea = true
-Weather = Rain,0
-MapPosition = 0,15,10
-BattleBack = redroutes
-MapSize = 2,11
-Environment = Rock
-#-------------------------------
-[049]   # cave 2 (Rocky Spiral (Deeper...))
-Name = Rocky Spiral (Deeper...)
-ShowArea = true
-BattleBack = DIGTHROUGH
-WildBattleBGM = rocks og
-WildVictoryBGM = empty air og
-#-------------------------------
-[050]   # cave 3 (Resplendent Tunnel (DEEPER!!!!))
-Name = Resplendent Tunnel (DEEPER!!!!)
-ShowArea = true
-BattleBack = DIGTHROUGH
-WildBattleBGM = rocks og
-WildVictoryBGM = empty air og
+[028]   # MAP034
+Name = Route 3
+Bicycle = true
+MapPosition = 0,15,6
+BattleBack = cave1
+Environment = Cave
+Flags = IceRock
+
+
+
+
+
+
+
+
+
 #-------------------------------
 [069]
 Name = Route 8
@@ -243,145 +438,4 @@ Environment = Underwater
 [071]
 Name = Route 8
 MapPosition = 0,13,13
-#-------------------------------
-[077]   # After the Forest
-Name = Highlands
-Outdoor = true
-ShowArea = true
-BattleBack = DIGTHROUGH
-WildBattleBGM = not maple 1 og
-TrainerBattleBGM = empty air og
-WildVictoryBGM = not maple 1 og
-TrainerVictoryBGM = empty air og
-#-------------------------------
-[079]   # dead city
-Name = Highlands
-Outdoor = true
-BattleBack = beadcity
-WildBattleBGM = not maple 1 og
-TrainerBattleBGM = empty air og
-WildVictoryBGM = not maple 1 og
-TrainerVictoryBGM = empty air og
-#-------------------------------
-[081]   # adonb city house 1 (Hotel Room 1)
-Name = Hotel Room 1
-ShowArea = true
-#-------------------------------
-[083]   # Factory Shore
-Name = Factory Shore
-Outdoor = true
-ShowArea = true
-Weather = Rain,100
-BattleBack = factoryshore
-#-------------------------------
-[084]   # adonb gym
-Name = AIR
-ShowArea = true
-BattleBack = monky
-WildBattleBGM = rocks og
-WildVictoryBGM = empty air og
-#-------------------------------
-[086]   # factory 1 (Heart of the Air Factory)
-Name = Heart of the Air Factory
-ShowArea = true
-BattleBack = fatory
-WildBattleBGM = rocks og
-WildVictoryBGM = empty air og
-#-------------------------------
-[087]   # adonb city more rooms (City Hotel)
-Name = City Hotel
-ShowArea = true
-#-------------------------------
-[089]   # adonb city house 3 (Hotel Room 3)
-Name = Factory Shore
-ShowArea = true
-#-------------------------------
-[090]   # adonb city house 2 (Hotel Room 2)
-Name = Hotel Room 2
-ShowArea = true
-#-------------------------------
-[093]   # forest (Foraging Forests)
-Name = Foraging Forests
-Outdoor = true
-ShowArea = true
-BattleBack = forist
-WildBattleBGM = I say
-#-------------------------------
-[096]   # dutcher
-Name = BUTCHER
-ShowArea = true
-BattleBack = fatory
-WildBattleBGM = rocks og
-WildVictoryBGM = empty air og
-#-------------------------------
-[099]   # Factory Entrance
-Name = Factory Entrance
-ShowArea = true
-BattleBack = fatory
-WildBattleBGM = rocks og
-WildVictoryBGM = empty air og
-#-------------------------------
-[100]   # fan club (The Fanclub)
-Name = The Fanclub
-ShowArea = true
-BattleBack = fanclub
-TrainerBattleBGM = not maple 1 og
-TrainerVictoryBGM = empty air og
-#-------------------------------
-[104]   # factory forest transition (Before the Forest)
-Name = Before the Forest
-Outdoor = true
-ShowArea = true
-Weather = Fog,100
-BattleBack = redroutes
-TrainerBattleBGM = not maple 1 og
-TrainerVictoryBGM = empty air og
-#-------------------------------
-[105]   # Factory Shores Cave
-Name = Factory Shores Cave
-Outdoor = true
-ShowArea = true
-BattleBack = DIGTHROUGH
-WildBattleBGM = rocks og
-WildVictoryBGM = empty air og
-#-------------------------------
-[106]   # Factory Shores House
-Name = ???
-ShowArea = true
-BattleBack = walle
-WildBattleBGM = reall battel - Copy og
-WildVictoryBGM = empty air og
-#-------------------------------
-[200]   # Rock Cave 1F (Rocky Caves (Deep...))
-Name = Rocky Caves (Deep...)
-ShowArea = true
-BattleBack = DIGTHROUGH
-WildBattleBGM = rocks og
-WildVictoryBGM = empty air og
-#-------------------------------
-[213]   # cave1 (Crimson Cavern (DEEPER....))
-Name = Crimson Cavern (DEEPER....)
-ShowArea = true
-BattleBack = DIGTHROUGH
-WildBattleBGM = rocks og
-WildVictoryBGM = empty air og
-#-------------------------------
-[215]   # Boxman Cave
-Name = Boxman Cave
-ShowArea = true
-BattleBack = DIGTHROUGH
-WildBattleBGM = rocks og
-TrainerBattleBGM = not maple 1 og
-WildVictoryBGM = empty air og
-TrainerVictoryBGM = empty air og
-#-------------------------------
-[279]   # Between Dead City and Slaughter
-Name = Slaughterfalls
-Outdoor = true
-ShowArea = true
-BattleBack = slaughterfalls
-WildBattleBGM = not maple 1 og
-TrainerBattleBGM = empty air og
-WildVictoryBGM = not maple 1 og
-TrainerVictoryBGM = empty air og
 #-------------------------------
