@@ -449,7 +449,7 @@ Pokemon = TEETEETEE,31
 Pokemon = KART,32
     Moves = REVUP,EATMYDUST,ITSCOMING,CRASHTIME
     AbilityIndex = 0
-    Item = loveletter
+    Item = STARFBERRY
     Gender = female
     IV = 20,20,20,20,20,20
 #-------------------------------
@@ -838,17 +838,17 @@ Item = WEAKNESSPOLICY
 [THEBEST,BEST]
 LoseText = ...
 Pokemon = HUMAN,50
-Item = loveletter
+Item = STARFBERRY
 Pokemon = HEADSOFMAHARA,45
-Item = loveletter
+Item = STARFBERRY
 Pokemon = AYVASA,45
-Item = loveletter
+Item = STARFBERRY
 Pokemon = KORRUPTION,50
-Item = loveletter
+Item = STARFBERRY
 Pokemon = MAN,45
-Item = loveletter
+Item = STARFBERRY
 Pokemon = THEFERALGOD,50
-Item = loveletter
+Item = STARFBERRY
 #-------------------------------
 [adirtyman,Brad]
 LoseText = ...

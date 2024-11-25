@@ -128,8 +128,8 @@ BattleBack = fatory
 WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
 #-------------------------------
-[086]   # factory 1 (Heart of the Air Factory)
-Name = Heart of the Air Factory
+[086]   # factory 1 (The Mind of the Air Factory)
+Name = The Mind of the Air Factory
 ShowArea = true
 BattleBack = fatory
 WildBattleBGM = rocks og
@@ -137,7 +137,6 @@ WildVictoryBGM = empty air og
 #-------------------------------
 [105]   # Factory Shores Cave
 Name = Factory Shores Cave
-Outdoor = true
 ShowArea = true
 BattleBack = DIGTHROUGH
 WildBattleBGM = rocks og
@@ -150,8 +149,8 @@ BattleBack = walle
 WildBattleBGM = reall battel - Copy og
 WildVictoryBGM = empty air og
 #-------------------------------
-[104]   # factory forest transition (Before the Forest)
-Name = Before the Forest
+[104]   # factory forest transition (Before the Forest/Forest Trek)
+Name = Forest Trek
 Outdoor = true
 ShowArea = true
 Weather = Fog,100
@@ -188,7 +187,7 @@ WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
 #-------------------------------
 [024]   # forest cave 4 (Maze Forest Cave)
-Name = its the last
+Name = Maze Forest Cave
 ShowArea = true
 BattleBack = DIGTHROUGH
 WildBattleBGM = rocks og
@@ -201,7 +200,7 @@ BattleBack = M
 WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
 #-------------------------------
-[077]   # After the Forest
+[077]   # After the Forest (Highlands)
 Name = Highlands
 Outdoor = true
 ShowArea = true
@@ -211,8 +210,8 @@ TrainerBattleBGM = empty air og
 WildVictoryBGM = not maple 1 og
 TrainerVictoryBGM = empty air og
 #-------------------------------
-[029]   # After the Forest Top Area
-Name = Highlands Top
+[029]   # After the Forest Top Area (Highlands Peak)
+Name = Highlands Peak
 Outdoor = true
 ShowArea = true
 BattleBack = DIGTHROUGH
@@ -222,7 +221,7 @@ WildVictoryBGM = not maple 1 og
 TrainerVictoryBGM = empty air og
 #-------------------------------
 [215]   # Boxman Cave
-Name = Boxman Cave
+Name = ???
 ShowArea = true
 BattleBack = DIGTHROUGH
 WildBattleBGM = rocks og
@@ -230,16 +229,14 @@ TrainerBattleBGM = not maple 1 og
 WildVictoryBGM = empty air og
 TrainerVictoryBGM = empty air og
 #-------------------------------
-[031]   # MAP031 (AtF Shop)
-Name = Route 3
-Outdoor = true
-ShowArea = true
+[031]   # MAP031 (Highlands Shop)
+Name = Highlands Shop
 MapPosition = 0,14,6
 BattleBack = field
 MapSize = 2,1101
 #-------------------------------
-[079]   # dead city
-Name = Highlands
+[079]   # Dead City
+Name = Dead City
 Outdoor = true
 BattleBack = beadcity
 WildBattleBGM = not maple 1 og
@@ -252,57 +249,61 @@ Name = Dead City Pool
 ShowArea = true
 #-------------------------------
 [087]   # adonb city more rooms (City Hotel)
-Name = City Hotel
+Name = Dead City Hotel
 ShowArea = true
 #-------------------------------
 [081]   # adonb city house 1 (Hotel Room 1)
-Name = Hotel Room 1
+Name = Room 1
 ShowArea = true
 #-------------------------------
 [090]   # adonb city house 2 (Hotel Room 2)
-Name = Hotel Room 2
+Name = Room 2
 ShowArea = true
 #-------------------------------
 [089]   # adonb city house 3 (Hotel Room 3)
-Name = Factory Shore
+Name = Room 3
 ShowArea = true
 #-------------------------------
 [088]   # adonb city house 4 (Hotel Room 4)
-Name = Factory Shore
+Name = Room 4
 ShowArea = true
 #-------------------------------
-[015]   # Cedolan Dept. 2F
-Name = Cedolan City
+[015]   # The Great Dead Tower
+Name = The Great Dead Tower
+ShowArea = true
 MapPosition = 0,13,10
 BattleBack = city inside
 #-------------------------------
-[016]   # Cedolan Dept. 3F
-Name = Cedolan City
+[016]   # Dead Tower F2
+Name = Dead Tower F2
 MapPosition = 0,13,10
 BattleBack = city inside
 #-------------------------------
-[017]   # Cedolan Dept. 4F
-Name = Cedolan City
+[017]   # Dead Tower F3
+Name = Dead Tower F3
 MapPosition = 0,13,10
 BattleBack = city inside
 #-------------------------------
-[018]   # Cedolan Dept. 5F
-Name = Cedolan City
+[018]   # Dead Tower F4
+Name = Dead Tower F4
 MapPosition = 0,13,10
 BattleBack = city inside
 #-------------------------------
-[019]   # Cedolan Dept. Rooftop
-Name = Cedolan City
+[019]   # The Great Dead Tower (Peak)
+Name = The Great Dead Tower (Peak)
+Outdoor = true
+ShowArea = true
 MapPosition = 0,13,10
 BattleBack = city inside
 #-------------------------------
 [020]   # Dead City Boxman House
-Name = Cedolan City
+Name = ???
+ShowArea = true
 MapPosition = 0,13,10
 BattleBack = city inside
 #-------------------------------
-[084]   # adonb gym
-Name = AIR
+[084]   # Alfred's Gym
+Name = ???
 ShowArea = true
 BattleBack = monky
 WildBattleBGM = rocks og
@@ -310,16 +311,17 @@ WildVictoryBGM = empty air og
 #-------------------------------
 [033]   # Dead City Shop
 Name = Dead City Shop
-ShowArea = true
 MapPosition = 0,14,10
 BattleBack = city inside
 #-------------------------------
-[011]   # city green hosee
-Name = Cedolan City
+[011]   # Dead City Greenhouse
+Name = Dead City Greenhouse
+Outdoor = true
+ShowArea = True
 MapPosition = 0,14,10
 #-------------------------------
-[279]   # Between Dead City and Slaughter
-Name = Slaughterfalls
+[279]   # Between Dead City and Slaughter (Slaughterfalls)
+Name = The Slaughterfalls
 Outdoor = true
 ShowArea = true
 BattleBack = slaughterfalls
@@ -337,15 +339,15 @@ TrainerBattleBGM = not maple 1 og
 WildVictoryBGM = empty air og
 TrainerVictoryBGM = empty air og
 #-------------------------------
-[096]   # dutcher
-Name = BUTCHER
+[096]   # dutcher (The Beastly Slaughterhouse)
+Name = The Beastly Slaughterhouse
 ShowArea = true
 BattleBack = fatory
 WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
 #-------------------------------
 [634]   # Slaughterhouse to Dump
-Name = Slaughterhouse to Dump
+Name = The Beastly Slaughterhouse
 #-------------------------------
 [021]   # BUMP (The Dump)
 Name = The Dump
@@ -358,23 +360,25 @@ WildBattleBGM = reall battel - enis og
 WildVictoryBGM = empty air og
 MapSize = 1,11
 #-------------------------------
-[026]   # MAP010
-Name = art
+[026]   # The Fantastical Art Museum
+Name = The Fantastical Art Museum
+ShowArea = true
 #-------------------------------
-[010]   # MAP010
-Name = art
+[010]   # Fantasy Leader
+Name = ???
+ShowArea = true
 MapPosition = 0,13,10
 BattleBack = fantasyleader
 #-------------------------------
-[041]   # road (Long Road)
-Name = The Long Road
+[041]   # road (The Uneasy Long Road)
+Name = The Uneasy Long Road
 Outdoor = true
 ShowArea = true
 MapPosition = 0,11,7
 MapSize = 1,111
 #-------------------------------
-[030]   # waterfall
-Name = waterfall
+[030]   # The Waterfall
+Name = The Waterfall
 Outdoor = true
 ShowArea = true
 MapPosition = 0,14,6
@@ -383,29 +387,30 @@ WildBattleBGM = i really like this
 WildVictoryBGM = empty air og
 MapSize = 2,1101
 #-------------------------------
-[038]   # second best fight 
-Name = Ingido Plateau
+[038]   # second best fight (Overlord Abode)
+Name = The Overlord's Abode
+ShowArea = true
 MapPosition = 0,13,6
 BattleBack = second
 Flags = DisableBoxLink
 #-------------------------------
-[025]   # MAP025
-Name = Maze Forest Cave
+[025]   # Deciding The Best
+Name = Deciding The Best
 ShowArea = true
+Outdoor = true
 BattleBack = final
 WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
 #-------------------------------
-[034]   # MAP034
-Name = Route 3
-Bicycle = true
+[034]   # Ending Message
+Name = Ending Message
 MapPosition = 0,15,6
 BattleBack = cave1
 Environment = Cave
 Flags = IceRock
 #-------------------------------
-[028]   # MAP034
-Name = Route 3
+[028]   # The End
+Name = The End
 Bicycle = true
 MapPosition = 0,15,6
 BattleBack = cave1
