@@ -11,12 +11,6 @@ Pokemon = CRITTER,1
 Pokemon = CRITTER,2
 Pokemon = CRITTER,3
 #-------------------------------
-[LEADER_Brock,Brock]
-LoseText = ...
-Pokemon = DRAGONE,10
-Pokemon = BIRSON,10
-Pokemon = ORLIHEPERH,10
-#-------------------------------
 [DD,Liah]
 LoseText = ...
 Pokemon = POOKOOCHUE,5
@@ -33,23 +27,23 @@ Pokemon = PHILSOPHER,1
 Pokemon = KOW,1
 Pokemon = KOKCROACH,1
 #-------------------------------
-[SUPERNERD,FAN 1]
+[SUPERNERD,Fan 1]
 LoseText = ...
 Pokemon = LOSTFACES,5
 Pokemon = CROOKEDMAN,7
 #-------------------------------
-[PAINTER,FAN 2]
+[PAINTER,Fan 2]
 LoseText = ...
 Pokemon = LOSTFACES,5
 Pokemon = LOSTFACES,5
 Pokemon = LOSTFACES,5
 Pokemon = LOSTFACES,5
 #-------------------------------
-[DD,FAN 3]
+[DD,Fan 3]
 LoseText = ...
 Pokemon = DUK,12
 #-------------------------------
-[SMARTASS,FAN 4]
+[SMARTASS,Fan 4]
 LoseText = ...
 Pokemon = BRAINWORM,9
 #-------------------------------
@@ -835,7 +829,7 @@ Item = WEAKNESSPOLICY
 Pokemon = HEELEO,50
 Item = WEAKNESSPOLICY
 #-------------------------------
-[THEBEST,BEST]
+[THEBEST,Best]
 LoseText = ...
 Pokemon = HUMAN,50
 Item = STARFBERRY

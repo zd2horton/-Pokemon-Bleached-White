@@ -1,50 +1,59 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-# Lappet Town (Home Town) (2) - Route 1 (First Steps) (5)
+# Home Town to First Steps
 2,North,0,5,South,14
-# Route 1 (First Steps) (5) - Cedolan City (7)
+
+# First Steps to Gyrocity
 5,North,12,7,South,0
 
-# BUMP (The Dump) (21) - road (Long Road) (41)
-21,North,28,41,South,0
-# After the Forest Top Area (29) - dead city (79)
-29,West,0,79,East,11
-
-# second best fight  (38) - waterfall (30)
-38,South,0,30,North,53
-
-# road (Long Road) (41) - waterfall (30)
-41,North,9,30,South,0
-# Route 7 (Rocky Plains) (47) - Route 1 (First Steps) (5)
-47,South,0,5,North,72
-# Cedolan City (7) - Route 7 (Rocky Plains) (47)
+# Gyrocity to Rocky Plains
 7,East,0,47,West,7
 
-# After the Forest (77) - After the Forest Top Area (29)
-77,North,0,29,South,0
-# After the Forest (77) - dead city (79)
-77,West,0,79,East,31
-# dead city (79) - Between Dead City and Slaughter (279)
-79,North,0,279,South,13
-
-# Factory Shore (83) - Route 7 (Rocky Plains) (47)
+# Factory Shore to Rocky Plains (side connection)
 83,West,87,47,East,0
-# Factory Shore (83) - factory forest transition (Before the Forest) (104)
-83,West,30,104,East,0
 
-# forest (Foraging Forests) (93) - After the Forest (77)
-93,North,0,77,South,64
-
-# factory forest transition (Before the Forest) (104) - Route 7 (Rocky Plains) (47)
-104,South,0,47,North,15
-# factory forest transition (Before the Forest) (104) - forest (Foraging Forests) (93)
+# Before the Forest to Foraging Forests
 104,North,0,93,South,15
 
-# Between Dead City and Slaughter (279) - BUMP (The Dump) (21)
-279,West,0,21,East,41
+# Highlands to Highlands Top Area
+77,North,0,29,South,0
 
+# After the Forest to Dead City
+77,West,0,79,East,31
+
+# Dead City to Slaughterhouse
+79,North,0,279,South,13
+
+
+#----------------------------Connections purely for background detail
+# After the Forest Top Area (29) - dead city (79)
+29,West,0,12,East,0
+
+# BUMP (The Dump) (21) - road (Long Road) (41)
+21,North,0,12,South,0
+
+# forest (Foraging Forests) (93) - After the Forest (77)
+93,North,0,12,South,56
 
 #--------These connections seem to make no sense or are wrong.
+#---(WILL BE DELETED AFTER THIS COMMIT)
 # Cedolan City (7) - forest (Foraging Forests) (93)
 #7,East,0,93,West,132
 
+# road (Long Road) (41) - waterfall (30)
+#41,North,9,30,South,0
+
+# second best fight  (38) - waterfall (30)
+#38,South,0,30,North,53
+
+# Factory Shore (83) - factory forest transition (Before the Forest) (104)
+#83,West,30,104,East,0
+
+# forest (Foraging Forests) (93) - After the Forest (77)
+#93,North,0,77,South,64
+
+# factory forest transition (Before the Forest) (104) - Route 7 (Rocky Plains) (47)
+#104,South,0,47,North,15
+
+# Between Dead City and Slaughter (279) - BUMP (The Dump) (21)
+279,West,0,21,East,41

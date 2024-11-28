@@ -1,236 +1,232 @@
 #-------------------------------
 [SPEEDBOOST]
 Name = Adrenaline
-Description = Its Speed stat is gradually boosted.
+Description = Speed is gradually boosted through battle.
 #-------------------------------
 [STURDY]
-Name = desperation
-Description = It cannot be knocked out with one hit.
+Name = Desperation
+Description = Can't be KO'd with one hit.
 #-------------------------------
 [QUICKDRAW]
 Name = lucky
-Description = Enables the Pokémon to move first occasionally.
+Description = Can sometimes move first.
 #-------------------------------
 [MIRRORARMOR]
-Name =  karma
-Description = Bounces back stat-lowering effects.
+Name = Karma
+Description = Reflects stat-lowering effects.
 #-------------------------------
 [GOOEY]
 Name = rancid
-Description = Contact with it lowers the attacker's Speed stat.
+Description = Lowers a foe's speed if attacked.
 #-------------------------------
-[rockhard]
-Name = Stamina
-Description = Boosts Defense when hit by an attack.
+[STAMINA]
+Name = rock hard
+Description = Boosts defense when hit.
 #-------------------------------
 [IRONBARBS]
 Name = Corrosive
-Description = Inflicts damage to the Pokémon on contact.
+Description = Damages a foe by 1/8 of damage inflicted.
 #-------------------------------
 [PRANKSTER]
 Name = inexplicable
-Description = Gives priority to a status move.
+Description = Prioritises status moves.
 #-------------------------------
 [MAGICBOUNCE]
-Name = Untouchable
-Description = Reflects status-changing moves.
+Name = untouchable
+Description = Reflects status moves.
 #-------------------------------
 [MOXIE]
 Name = ravenous
-Description = Boosts Attack after knocking out any Pokémon.
+Description = Boosts attack after KOing a Kreature.
 #-------------------------------
 [MUMMY]
 Name = cautious
-Description = Contact with this Pokémon spreads this Ability.
+Description = Spreads this when touched.
 #-------------------------------
 [IMPOSTER]
-Name = soulthief
-Description = It transforms itself into the Pokémon it is facing.
+Name = Soulthief
+Description = Disguises as the opponent.
 #-------------------------------
 [ILLUSION]
 Name = sus
-Description = Comes out disguised as the Pokémon in back.
+Description = Disguises as the Kreature in the trainer's last slot.
 #-------------------------------
 [ANALYTIC]
 Name = cautious 
-Description = Boosts move power when the Pokémon moves last.
+Description = Boosts attack if acting last.
 #-------------------------------
 [REGENERATOR]
-Name = growth
-Description = Restores a little HP when withdrawn from battle.
+Name = Growth
+Description = Restores some HP when removed from battle.
 #-------------------------------
 [MOODY]
 Name = unpredictable
-Description = Raises one stat and lowers another.
+Description = Boosts one stat and lowers another.
 #-------------------------------
 [MULTISCALE]
-Name =  fortify
-Description = Reduces damage when HP is full.
+Name = Fortify
+Description = Reduces damage if at full HP.
 #-------------------------------
 [CURSEDBODY]
 Name = unlucky
-Description = May disable a move used on the Pokémon.
+Description = Might disable a move used against it.
 #-------------------------------
 [DEFIANT]
-Name = Grumpy /:<
-Description = When its stats are lowered its Attack increases.
+Name = grumpy /:<
+Description = Boosts attack if stats are lowered.
 #-------------------------------
 [CONTRARY]
-Name = chaos
-Description = Makes stat changes have an opposite effect.
+Name = Chaos
+Description = Stat changes are made opposite.
 #-------------------------------
 [SOLIDROCK]
 Name = persistent
-Description = Reduces damage from super-effective attacks.
+Description = Reduces damage from Devastating attacks.
 #-------------------------------
 [SLOWSTART]
-Name = sloth
-Description = Temporarily halves Attack and Speed.
+Name = Sloth
+Description = Temporarily halves attack and speed.
 #-------------------------------
 [SUPERLUCK]
-Name = mythic
+Name = Mythic
 Description = Heightens the critical-hit ratios of moves.
 #-------------------------------
 [DOWNLOAD]
-Name = Analytical
-Description = Adjusts power according to a foe's defenses.
+Name = analytical
+Description = Power is calculated from a foe's defenses.
 #-------------------------------
 [SIMPLE]
 Name = Freethinker
-Description = The Pokémon is prone to wild stat changes.
+Description = Prone to wild stat changes.
 #-------------------------------
 [TRUANT]
 Name = lethargic
-Description = Pokémon can't attack on consecutive turns.
+Description = Can't attack on consecutive turns.
 #-------------------------------
 [PRESSURE]
-Name = draining
-Description = The Pokémon raises the foe's PP usage.
+Name = Draining
+Description = Boosts the foe's PP usage.
 #-------------------------------
 [INTIMIDATE]
 Name = spoopy 
-Description = Lowers the foe's Attack stat.
+Description = Lowers the foe's attack.
 #-------------------------------
 [COLORCHANGE]
 Name = Color Change
-Description = Changes the Pokémon's type to the foe's move.
+Description = Changes type to the foe's move.
 #-------------------------------
 [SHADOWTAG]
-Name = Paralysing fear
-Description = Prevents the foe from escaping.
+Name = Paralysing Fear
+Description = The foe can't escape.
 #-------------------------------
 [TRACE]
-Name = copycat
-Description = The Pokémon copies a foe's Ability.
+Name = Copycat
+Description = Copies a foe's ability.
 #-------------------------------
 [GLUTTONY]
 Name = numnumnum
-Description = Encourages the early use of a held Berry.
+Description = Encourages early use of a held alteration item.
 #-------------------------------
 [UNBURDEN]
-Name = loosssss
-Description = Raises Speed if a held item is used.
+Name = Loosssss
+Description = Boosts speed after using a held item.
 #-------------------------------
 [AFTERMATH]
 Name = BOOM
-Description = Damages the attacker landing the finishing hit.
+Description = Damages a foe that lands the finishing hit.
 #-------------------------------
 [WEAKARMOR]
-Name = Eager
-Description = Physical attacks lower Defense and raise Speed.
+Name = eager
+Description = Physical attacks lower defense and boost speed.
 #-------------------------------
 [PROTEAN]
 Name = hehe
-Description = It changes type to that of the move it's about to use.
-#-------------------------------
-[STAMINA]
-Name = Persistant
-Description = Boosts Defense when hit by an attack.
+Description = Changes type to that of the next move.
 #-------------------------------
 [NORMALIZE]
-Name = thewheelturns
+Name = wheel turns
 Description = All the Pokémon's moves become the Normal type.
 #-------------------------------
 [SHIELDDUST]
 Name = Immutable
-Description = Blocks the added effects of attacks taken.
+Description = Blocks additional effects of foe's attacks.
 #-------------------------------
 [ROUGHSKIN]
-Name = it hurts
-Description = Inflicts damage to the foe on contact.
+Name = It Hurts
+Description = Damages foe on contact.
 #-------------------------------
 [CLEARBODY]
-Name = unchangeing
-Description = Prevents other Pokémon from lowering its stats.
+Name = unchanging
+Description = Stops other Kreatures lowering their stats.
 #-------------------------------
 [INNARDSOUT]
 Name = Innards Out
-Description = Damages an attacker that lands the finishing hit.
+Description = Damages a foe that lands the finishing hit.
 #-------------------------------
 [WIMPOUT]
 Name = RUN
-Description = Cowardly switches out if its HP becomes half or less.
+Description = Forcefully switches if taken to half health or less.
 #-------------------------------
 [BATTLEARMOR]
 Name = Battle Armor
-Description = The Pokémon is protected against critical hits.
+Description = Protected against critical hits.
 #-------------------------------
 [ANGERPOINT]
 Name = ow shit 
-Description = Maxes Attack after taking a critical hit.
+Description = Maxes attack after taking a critical hit.
 #-------------------------------
 [SKILLLINK]
 Name = Skill Link
-Description = Increases the frequency of multi-strike moves.
+Description = Increases frequency of multi-hit moves.
 #-------------------------------
 [SNIPER]
 Name = Krael 
-Description = Powers up moves if they become critical hits.
+Description = Powers up moves if they turn into critical hits.
 #-------------------------------
 [UNNERVE]
-Name = Sick
-Description = Makes the foe nervous and unable to eat Berries.
+Name = sick
+Description = Foe cannot use stat alteration items and others.
 #-------------------------------
 [HARVEST]
 Name = Birth
-Description = May create another Berry after one is used.
+Description = May replenish a used held item.
 #-------------------------------
 [CHEEKPOUCH]
 Name = Munch
-Description = Restores HP as well when the Pokémon eats a Berry.
+Description = May restore some HP after using a stat alteration item.
 #-------------------------------
 [COMPETITIVE]
-Name = Competitive
-Description = Sharply boosts Sp. Atk when a stat is lowered.
+Name = competitive
+Description = Sharply boosts special attack after a lowered stat.
 #-------------------------------
 [BERSERK]
-Name = not yet 
-Description = Ups Sp. Atk if a hit makes its HP half or less.
+Name = Not Yet 
+Description = Boosts special attack if a hit knocks down to half HP or less.
 #-------------------------------
 [SOULHEART]
 Name = More
-Description = Boosts Sp. Atk each time a Pokémon faints.
+Description = Boosts special attack with any Kreature KO'd.
 #-------------------------------
 [RECEIVER]
 Name = Receiver
-Description = Copies the Ability of a defeated ally.#
+Description = Copies an ability of a KO'd teammate.
 #-------------------------------
 [BEASTBOOST]
 Name = Beast Boost
-Description = Boosts its best stat each time it deals a KO.
+Description = Boosts the best stat with each KO done.
 #-------------------------------
 [SHADOWSHIELD]
-Name = TO CUTE !
-Description = Resists damage while its HP is full.
+Name = too cute!
+Description = Resists damage while at full HP.
 #-------------------------------
 [NEUROFORCE]
 Name = Necrotik
-Description = Powers up moves that are super-effective.
+Description = Boosts Devastating moves.
 #-------------------------------
 [RIPEN]
 Name = Fecundity
-Description = Ripens Berries and doubles their effect.
+Description = Doubles effect of certain stat alteration items.
 #-------------------------------
 [PERISHBODY]
 Name = Perish Body
-Description = Both Pokémon faint 3 turns after taking a contact hit.
+Description = Both Kreatures are KO'd 3 turns after taking a hit.

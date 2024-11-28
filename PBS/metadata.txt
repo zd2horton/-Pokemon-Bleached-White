@@ -2,8 +2,8 @@
 #-------------------------------
 [0]
 StartMoney = 3000
-Home = 3,7,5,8
-StorageCreator = lolu
+Home = 3,23,5,6
+StorageCreator = Jeff
 WildBattleBGM = notmaple1og
 TrainerBattleBGM = notmaple1og
 WildVictoryBGM = empty air og
