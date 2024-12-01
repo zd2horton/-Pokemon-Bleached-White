@@ -5,21 +5,19 @@ LoseText = ...
 Pokemon = KOW,1
 Pokemon = KOW,1
 #-------------------------------
+[BEAUTY,Lim]
+LoseText = CHUM!!!
+Pokemon = CHUMCHUM,1
+#-------------------------------
 [CAMPER,Liam]
-LoseText = ...
+LoseText = Huh...
 Pokemon = CRITTER,1
 Pokemon = CRITTER,2
 Pokemon = CRITTER,3
 #-------------------------------
 [DD,Liah]
-LoseText = ...
+LoseText = Oh, no...I...lost.
 Pokemon = POOKOOCHUE,5
-#-------------------------------
-[BOSSBOY,Loam]
-LoseText = ...
-Pokemon = BIRBABY,4
-Pokemon = CRITTER,4
-Pokemon = SEVLE,6
 #-------------------------------
 [BOXMAN,Starter]
 LoseText = ...
@@ -27,68 +25,145 @@ Pokemon = PHILSOPHER,1
 Pokemon = KOW,1
 Pokemon = KOKCROACH,1
 #-------------------------------
+[BOSSBOY,Loam]
+LoseText = WHAT?!
+Pokemon = BIRBABY,4
+Pokemon = CRITTER,4
+Pokemon = SEVLE,6
+#-------------------------------
 [SUPERNERD,Fan 1]
-LoseText = ...
+LoseText = Oh...omae got lucky...
 Pokemon = LOSTFACES,5
 Pokemon = CROOKEDMAN,7
 #-------------------------------
 [PAINTER,Fan 2]
-LoseText = ...
+LoseText = O-...oh.
 Pokemon = LOSTFACES,5
 Pokemon = LOSTFACES,5
 Pokemon = LOSTFACES,5
 Pokemon = LOSTFACES,5
 #-------------------------------
 [DD,Fan 3]
-LoseText = ...
+LoseText = Eeyahhh! Baka!
 Pokemon = DUK,12
 #-------------------------------
 [SMARTASS,Fan 4]
-LoseText = ...
+LoseText = Ugh...nani...
 Pokemon = BRAINWORM,9
 #-------------------------------
 [FANCLUBBOSS,GAS]
-LoseText = ...
+LoseText = O-...owari da.
 Pokemon = CROOKEDMAN,7
 Pokemon = LOSTFACES,5
 Pokemon = LOSTFACES,7
 Pokemon = GYRO,14
 #-------------------------------
+[BESTBOY,Nugo]
+LoseText = Well....idk what to say.
+Pokemon = ONGYRO,99
+#-------------------------------
 [SUPERNERD,Lam]
-LoseText = ...
+LoseText = Curses.
 Pokemon = DRAGONE,11
 Pokemon = LITTELPONE,11
 #-------------------------------
 [BEAUTY,Cliffy]
-LoseText = ...
+LoseText = SHIT!
 Pokemon = DUK,10
 Pokemon = DUK,10
 Pokemon = DUK,10
 Pokemon = DUK,10
 Pokemon = DUK,10
 Pokemon = DUK,10
-#-------------------------------
-[BEAUTY,Lim]
-LoseText = ...
-Pokemon = CHUMCHUM,1
 #-------------------------------
 [PAINTER,Lammy]
-LoseText = ...
+LoseText = H-huh...? Wait a minute...
 Pokemon = THELAMB,12
 #-------------------------------
 [GG,Laim]
-LoseText = ...
+LoseText = GAH!
 Pokemon = THELAMB,10
 Pokemon = THELAMB,10
 Pokemon = LITTELPONE,10
 #-------------------------------
+[SUPERNERD,Idris]
+LoseText = Hmmm....oh.
+Pokemon = GYRO,16
+#-------------------------------
+[PUCHYMAN,Mara]
+LoseText = Can you tell?
+Pokemon = MAW,9
+Pokemon = MAW,9
+Pokemon = MAW,9
+Pokemon = MAW,9
+#-------------------------------
+[EXCAVATOR,Logjam]
+LoseText = Or gacha games.
+Pokemon = POOKOOCHUE,13
+#-------------------------------
+[CAMPER,Beary]
+LoseText = NOOOO, WHAT?!
+Pokemon = BATY,11
+Pokemon = BARY,11
+Pokemon = BIRBABY,11
+#-------------------------------
+[CRAZY,Grave]
+LoseText = huff.....huff....
+Pokemon = MAW,10
+Pokemon = GRAVENIMAGE,13
+#-------------------------------
+[PUCHYMAN,Man-Man]
+LoseText = Heheh.....
+Pokemon = BARY,12
+Pokemon = BARY,12
+Pokemon = BARY,12
+Pokemon = BUGABOO,15
+#-------------------------------
+[TROGLODYTE,MUNCHY]
+LoseText = I bet it has a nice crunch...
+Pokemon = POOKOOCHUE,10
+Pokemon = POOKOOCHUE,13
+Pokemon = PHILSOPHER,15
+#-------------------------------
+[BEAUTY,Lilly]
+LoseText = Why, oh why...
+Pokemon = MIDHORES,17
+#-------------------------------
+[PUNCHYLADY,Lost]
+LoseText = This...did not help.
+Pokemon = CHUTE,13
+Pokemon = SPRIG,13
+#-------------------------------
+[TROGLODYTE,Shoer]
+LoseText = Ayyyy.....oh.
+Pokemon = CHUTE,12
+Pokemon = CHUTE,12
+Pokemon = CHUTE,12
+Pokemon = CHUTE,12
+#-------------------------------
+[SMARTASS,Tom Tis]
+LoseText = ...oh...
+Pokemon = BUGABOO,13
+Pokemon = BUGABOO,13
+#-------------------------------
+[SUPERNERD,Ray Cyst]
+LoseText = You're so ignorant.
+Pokemon = BIRSON,18
+#-------------------------------
+[SUPERNERD,See-Sea]
+LoseText = I wouldn't mind a little respect....
+Pokemon = MINOMIND,15
+Pokemon = TEEHEE,15
+Pokemon = KLAK,15
+#-------------------------------
+[salty,Joey]
+LoseText = Oh, if I'm the GOAT....you must be the whole sheep baby...
+Pokemon = TOMUCHFACES,21
+Pokemon = TOMUCHFACES,21
+#-------------------------------
 [SUPERNERD,lallm]
 LoseText = ...
 Pokemon = CHUTE,12
-#-------------------------------
-[EXCAVATOR,Logjam]
-LoseText = ...
-Pokemon = POOKOOCHUE,13
 #-------------------------------
 [BEAUTY,lallllm]
 LoseText = ...
@@ -99,136 +174,66 @@ LoseText = ...
 Pokemon = DRAG,15
 Pokemon = BIRSON,15
 #-------------------------------
-[PUCHYMAN,Mara]
-LoseText = ...
-Pokemon = MAW,9
-Pokemon = MAW,9
-Pokemon = MAW,9
-Pokemon = MAW,9
-#-------------------------------
 [BEAUTY,ID]
 LoseText = ...
 Pokemon = DRAG,14
 Pokemon = SMUNKY,15
 #-------------------------------
-[CAMPER,Beary]
-LoseText = ...
-Pokemon = BATY,11
-Pokemon = BARY,11
-Pokemon = BIRBABY,11
-#-------------------------------
-[CRAZY,Grave]
-LoseText = ...
-Pokemon = MAW,10
-Pokemon = GRAVENIMAGE,13
-#-------------------------------
 [BEAUTY,ggrave]
 LoseText = ...
 Pokemon = TEEHEE,21
-#-------------------------------
-[CRAZY,TROGLODYTE]
-LoseText = ...
-Pokemon = CHUTE,12
-Pokemon = CHUTE,12
-Pokemon = CHUTE,12
-Pokemon = CHUTE,12
-#-------------------------------
-[PUNCHYLADY,Lost]
-LoseText = ...
-Pokemon = CHUTE,13
-Pokemon = SPRIG,13
 #-------------------------------
 [PUNCHYLADY,Mandy]
 LoseText = Drat...guess they need more prep time...
 Pokemon = ARRAMRRA,24
 Pokemon = BUGERBOOBOO,23
 #-------------------------------
-[SUPERNERD,Jerry]
-LoseText = ...
-Pokemon = BIRSON,18
-#-------------------------------
-[SMARTASS,Tom Tis]
-LoseText = ...
-Pokemon = BUGABOO,13
-Pokemon = BUGABOO,13
-#-------------------------------
-[SUPERNERD,ID]
-LoseText = ...
-Pokemon = GYRO,16
-#-------------------------------
-[BEAUTY,Lilly]
-LoseText = ....
-Pokemon = MIDHORES,17
-#-------------------------------
-[TROGLODYTE,MUNCHY]
-LoseText = ...
-Pokemon = POOKOOCHUE,10
-Pokemon = POOKOOCHUE,13
-Pokemon = PHILSOPHER,15
-#-------------------------------
-[SUPERNERD,See-Sea]
-LoseText = ...
-Pokemon = MINOMIND,15
-Pokemon = TEEHEE,15
-Pokemon = KLAK,15
-#-------------------------------
-[salty,Joey]
-LoseText = ...
-Pokemon = TOMUCHFACES,21
-#-------------------------------
 [GG,Leala]
-LoseText = ...
+LoseText = Oh!
 Pokemon = BIRSON,16
 Pokemon = BIRSON,18
 #-------------------------------
 [SUPERNERD,Nor]
-LoseText = ...
+LoseText = Oh, just so you know...
 Pokemon = MINOMIND,18
 Pokemon = SEVLEOMED,20
 #-------------------------------
-[PUCHYMAN,Man-Man]
-LoseText = ...
-Pokemon = BARY,12
-Pokemon = BARY,12
-Pokemon = BARY,12
-Pokemon = BUGABOO,15
-#-------------------------------
 [Goon,Nat]
-LoseText = ...
+LoseText = Awwww....
 Pokemon = TEEHEE,17
 Pokemon = TEEHEE,17
 Pokemon = TEEHEE,17
 #-------------------------------
 [salty,Jej]
-LoseText = ...
+LoseText = Hmm?
 Pokemon = BUGABOO,18
 Pokemon = BUGABOO,18
 Pokemon = DRAG,24
 #-------------------------------
-[SUPERNERD,Jij]
-LoseText = ...
-Pokemon = KLAK,19
-Pokemon = KLAK,19
-Pokemon = KLAK,19
-Pokemon = MINOMIND,20
-Pokemon = MINOMIND,20
-Pokemon = MINOMIND,20
-#-------------------------------
 [salty,Joj]
-LoseText = ...
+LoseText = Like, really...come on....
 Pokemon = TOMUCHFACES,21
 Pokemon = IDOL,22
 #-------------------------------
+[SUPERNERD,Jij]
+LoseText = Nghhh...huff...
+Pokemon = KLAK,19
+Pokemon = KLAK,19
+Pokemon = KLAK,19
+Pokemon = MINOMIND,20
+Pokemon = MINOMIND,20
+Pokemon = MINOMIND,20
+#-------------------------------
 [eginer,Tim]
-LoseText = ...
+LoseText = Well...I thought it was a nifty fun fact.
 Pokemon = NOKING,19
 Pokemon = MINOMIND,19
 #-------------------------------
 [eginer,Tom]
-LoseText = ...
+LoseText = Nice! You might have what it takes!
 Pokemon = CRITTERSSS,25
 #-------------------------------
-[SUPERNERD,toff]
+[SUPERNERD,Jerry]
 LoseText = ...
 Pokemon = TOMUCHFACES,22
 Pokemon = TOMUCHFACES,22
@@ -282,10 +287,6 @@ Pokemon = SISTER,25
     Moves = INVULNERABLE,QUICKTHINKING,MAGICNUMBER,DECOY
     AbilityIndex = 0
     Item = SPECDEFBERRY
-#-------------------------------
-[BESTBOY,Nugo]
-LoseText = ...
-Pokemon = ONGYRO,99
 #-------------------------------
 [spooky,Sassasass]
 LoseText = ...
