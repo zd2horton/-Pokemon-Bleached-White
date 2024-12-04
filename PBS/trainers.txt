@@ -161,33 +161,6 @@ LoseText = Oh, if I'm the GOAT....you must be the whole sheep baby...
 Pokemon = TOMUCHFACES,21
 Pokemon = TOMUCHFACES,21
 #-------------------------------
-[SUPERNERD,lallm]
-LoseText = ...
-Pokemon = CHUTE,12
-#-------------------------------
-[BEAUTY,lallllm]
-LoseText = ...
-Pokemon = CROOKEDMAN,20
-#-------------------------------
-[BEAUTY,lallllllllm]
-LoseText = ...
-Pokemon = DRAG,15
-Pokemon = BIRSON,15
-#-------------------------------
-[BEAUTY,ID]
-LoseText = ...
-Pokemon = DRAG,14
-Pokemon = SMUNKY,15
-#-------------------------------
-[BEAUTY,ggrave]
-LoseText = ...
-Pokemon = TEEHEE,21
-#-------------------------------
-[PUNCHYLADY,Mandy]
-LoseText = Drat...guess they need more prep time...
-Pokemon = ARRAMRRA,24
-Pokemon = BUGERBOOBOO,23
-#-------------------------------
 [GG,Leala]
 LoseText = Oh!
 Pokemon = BIRSON,16
@@ -234,45 +207,45 @@ LoseText = Nice! You might have what it takes!
 Pokemon = CRITTERSSS,25
 #-------------------------------
 [SUPERNERD,Jerry]
-LoseText = ...
+LoseText = And now, the story continues.....go forth...
 Pokemon = TOMUCHFACES,22
 Pokemon = TOMUCHFACES,22
 #-------------------------------
 [SMARTASS,Taly]
-LoseText = ...
+LoseText = Just....think about it...
 Pokemon = MOOMOON,22
 #-------------------------------
-[SMARTASS,Tully]
-LoseText = ...
-Pokemon = POSEY,22
-Pokemon = CHUTE,23
-#-------------------------------
 [eginer,Tatsy]
-LoseText = ...
+LoseText = Geez, I'm just trying to keep you abreast in these times… 
 Pokemon = DUK,22
 Pokemon = LITTELSTAR,22
 #-------------------------------
 [SUPERNERD,Toots]
-LoseText = ...
+LoseText = Always follow your dreams, your filthy filthy dreams.
 Pokemon = KART,22
 Pokemon = SUPERSMUNKYBALL,24
 #-------------------------------
+[SMARTASS,Tully]
+LoseText = D-...don't yell at me...
+Pokemon = POSEY,22
+Pokemon = CHUTE,23
+#-------------------------------
 [Goon,Tass]
-LoseText = ...
+LoseText = It's all over.
 Pokemon = THERAM,27
 #-------------------------------
 [SUPERNERD,Tall]
-LoseText = ...
+LoseText = That was fun...I wonder what I was doing!
 Pokemon = POSEY,23
 Pokemon = DRAG,21
 #-------------------------------
 [eginer,Beck]
-LoseText = ...
+LoseText = Good job, you beat them.
 Pokemon = ARRA,22
 Pokemon = PREACHER,22
 #-------------------------------
 [LEADEROFMIND,Prudence]
-LoseText = Very good.
+LoseText = Alright...you strategised well.
 Pokemon = ENGORGED,25
     Moves = NEST,BLOODSUCKER,BRAINBREAK,HOLLOWOUT
     AbilityIndex = 0
@@ -875,3 +848,30 @@ Pokemon = POPIP,32
 [spooky,as]
 LoseText = ...
 Pokemon = KOW,10
+[SUPERNERD,lallm]
+LoseText = ...
+Pokemon = CHUTE,12
+#-------------------------------
+[BEAUTY,lallllm]
+LoseText = ...
+Pokemon = CROOKEDMAN,20
+#-------------------------------
+[BEAUTY,lallllllllm]
+LoseText = ...
+Pokemon = DRAG,15
+Pokemon = BIRSON,15
+#-------------------------------
+[BEAUTY,ID]
+LoseText = ...
+Pokemon = DRAG,14
+Pokemon = SMUNKY,15
+#-------------------------------
+[BEAUTY,ggrave]
+LoseText = ...
+Pokemon = TEEHEE,21
+#-------------------------------
+[PUNCHYLADY,Mandy]
+LoseText = Drat...guess they need more prep time...
+Pokemon = ARRAMRRA,24
+Pokemon = BUGERBOOBOO,23
+#-------------------------------
