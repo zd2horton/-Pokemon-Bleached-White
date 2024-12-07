@@ -262,48 +262,48 @@ Pokemon = SISTER,25
     Item = SPECDEFBERRY
 #-------------------------------
 [spooky,Sassasass]
-LoseText = ...
+LoseText = Mmmmm...
 Pokemon = ALADY,25
 Pokemon = FLATMAN,20
 Pokemon = FLATMAN,20
 Pokemon = FLATMAN,20
 #-------------------------------
 [EXCAVATOR,Lost]
-LoseText = ...
+LoseText = I won't let a single dream fall.
 Pokemon = MOOMOON,21
 Pokemon = MOOMOON,21
 Pokemon = TOMUCHFACES,23
 #-------------------------------
 [mystic,Scared]
-LoseText = ...
+LoseText = The answer's zero wood because they're all fucking dead.
 Pokemon = TEEHEE,21
 Pokemon = THELAMB,21
 Pokemon = BRAINWORM,21
 Pokemon = CRITTER,21
 #-------------------------------
 [mystic,Angery]
-LoseText = ...
+LoseText = So where do you think I should go?
 Pokemon = MAN,25
 #-------------------------------
 [spooky,Rich]
-LoseText = ...
+LoseText = Too bad YOU will never be rich. I'M rich! 
 Pokemon = MAN,19
 Pokemon = MAN,19
 Pokemon = MAN,19
 #-------------------------------
 [DD,Reddy]
-LoseText = ...
+LoseText = There's nothing more to say.
 Pokemon = SISTER,24
 Pokemon = SISTER,24
 #-------------------------------
 [GG,Stars]
-LoseText = ...
+LoseText = You’re shit.
 Pokemon = LITTELSTAR,20
 Pokemon = LITTELSTAR,20
 Pokemon = MOREMAW,25
 #-------------------------------
-[mystic,Sad]
-LoseText = ...
+[mystic,Sleepy]
+LoseText = I’m tired...so please just fuck off.
 Pokemon = LOVERS,20
 Pokemon = LOVERS,20
 Pokemon = NOKING,25

@@ -172,15 +172,15 @@ BattleBack = DIGTHROUGH
 WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
 #-------------------------------
-[023]   # forest cave 2 (Bypass Forest Cave)
-Name = Bypass Forest Cave
+[022]   # forest cave 2 (Rock Forest Cave)
+Name = Rock Forest Cave
 ShowArea = true
 BattleBack = DIGTHROUGH
 WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
 #-------------------------------
-[022]   # forest cave 3 (Rock Forest Cave)
-Name = Rock Forest Cave
+[023]   # forest cave 3 (Bypass Forest Cave)
+Name = Bypass Forest Cave
 ShowArea = true
 BattleBack = DIGTHROUGH
 WildBattleBGM = rocks og
