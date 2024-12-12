@@ -310,7 +310,7 @@ Pokemon = NOKING,25
 Pokemon = NOKING,25
 #-------------------------------
 [spooky,Asa]
-LoseText = ...
+LoseText = I hope the final memory is a happy one.
 Pokemon = TICK,20
 Pokemon = THERAM,27
 Pokemon = KLAKLAKKLA,25
@@ -325,101 +325,45 @@ Pokemon = SPRIG,22
 Pokemon = EEDIOE,22
 Pokemon = LITTELSTAR,22
 #-------------------------------
-[boxman2,boxbox]
+[MEZMOR,Nice Ned]
+LoseText = Wasn't that soothing?
+Pokemon = LITTELSTAR,1
+#-------------------------------
+[BOXMAN,Pal]
 LoseText = ...
 Pokemon = AUROCHS,25
-Pokemon = PHILSOPHER,25
 Pokemon = ROOOCH,25
+#-------------------------------
+[BOXMAN,Friend]
+LoseText = ...
+Pokemon = PHILSOPHER,25
 Pokemon = OMED,25
 #-------------------------------
-[eginer,egg]
-LoseText = ...
+[MEZMOR,Jeggy]
+LoseText = Happy place......happy place....
+Pokemon = MIDHORES,25
+Pokemon = ENGORGED,25
+#-------------------------------
+[eginer,Eggatha]
+LoseText = E-excuse me?
 Pokemon = DAMP,23
 Pokemon = DAMP,23
 Pokemon = DIDYDARK,23
 Pokemon = DOS,27
 #-------------------------------
-[CRAZY2,two two]
-LoseText = ...
-Pokemon = BIGBARY,25
+[CRAZY,Norv]
+LoseText = Like, come on man...
 Pokemon = BRAINWORM,25
 #-------------------------------
-[MEZMOR,nices]
-LoseText = ...
-Pokemon = LITTELSTAR,1
-#-------------------------------
-[MEZMOR,Jeggy]
-LoseText = ...
-Pokemon = MIDHORES,25
-Pokemon = ENGORGED,25
-#-------------------------------
-[LOOTERS2,bi bi]
-LoseText = ...
-Pokemon = DOLL,28
-Pokemon = THEFERAL,28
-#-------------------------------
-[crazmez2,3]
-LoseText = ...
-Pokemon = AMYGDALA,35
-#-------------------------------
-[crazmez2,2]
-LoseText = ...
-Pokemon = TOMUCHFACES,28
-Pokemon = CRITTERSSS,28
-#-------------------------------
-[crazmez2,1]
-LoseText = ...
-Pokemon = TEEHEE,23
-Pokemon = POPIP,23
-Pokemon = POOKOOCHUE,23
-Pokemon = POOKOOCHUE,23
-Pokemon = POPIP,23
-Pokemon = TEEHEE,23
+[CRAZY,Scoot]
+LoseText = Urghhh....
+Pokemon = BIGBARY,25
 #-------------------------------
 [adirtyman,Guy]
-LoseText = ...
+LoseText = Shut up...!
 Pokemon = KLAK,20
 Pokemon = ROOOCH,20
 Pokemon = OMED,21
-#-------------------------------
-[UMBRELLAGIRL,Bella]
-LoseText = Oh, dear! We were going so nicely too...
-Pokemon = RAPTORS,28
-    Moves = JAWS,STARTLE,VICTIM,UNDERTHEBED
-    AbilityIndex = 0
-    Item = TERRORGEM
-    Gender = male
-    IV = 20,20,20,20,20,20
-Pokemon = THELAMB,29
-    Moves = UPONASTAR,MAGICNUMBER,SILENT,HUNTDOWN
-    AbilityIndex = 0
-    Item = ATKBERRY
-    Gender = male
-    IV = 20,20,20,20,20,20
-Pokemon = POSEY,31
-    Moves = EQUALNATURE,CLEARMIND,FATE,END
-    AbilityIndex = 0
-    Item = SPDBERRY
-    Gender = female
-    IV = 20,20,20,20,20,20
-Pokemon = AAARRR,30
-    Moves = HOLLOWOUT,LOSS,ENTROPY,MINDLESS
-    AbilityIndex = 0
-    Item = FANTASYBERRY
-    Gender = female
-    IV = 20,20,20,20,20,20
-Pokemon = TEETEETEE,31
-    Moves = BATONPASS,INVULNERABLE,PHOBIA,Nilhilism
-    AbilityIndex = 0
-    Item = FANTASYBERRY
-    Gender = male
-    IV = 20,20,20,20,20,20
-Pokemon = KART,32
-    Moves = REVUP,EATMYDUST,ITSCOMING,CRASHTIME
-    AbilityIndex = 0
-    Item = STARFBERRY
-    Gender = female
-    IV = 20,20,20,20,20,20
 #-------------------------------
 [BOXMAN,1]
 LoseText = ...
@@ -468,22 +412,6 @@ Pokemon = SPRIG,21
 Pokemon = ONGYRO,25
     IV = 20,20,20,20,20,20
 #-------------------------------
-[BOXMAN,6]
-LoseText = ...
-Pokemon = TREE,35
-    Moves = MAD
-    Item = EMPTYGEM
-    Gender = male
-    IV = 20,20,20,20,20,20
-#-------------------------------
-[BOXMAN,5]
-LoseText = ...
-Pokemon = LOSTFACES,1
-    Moves = MAD
-    Item = EMPTYGEM
-    Gender = male
-    IV = 20,20,20,20,20,20
-#-------------------------------
 [BOXMAN,4]
 LoseText = ...
 Pokemon = TEETEETEE,25
@@ -499,6 +427,22 @@ Pokemon = TEETEETEE,25
     Gender = male
     IV = 20,20,20,20,20,20
 #-------------------------------
+[BOXMAN,5]
+LoseText = ...
+Pokemon = LOSTFACES,1
+    Moves = MAD
+    Item = EMPTYGEM
+    Gender = male
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[BOXMAN,6]
+LoseText = ...
+Pokemon = TREE,35
+    Moves = MAD
+    Item = EMPTYGEM
+    Gender = male
+    IV = 20,20,20,20,20,20
+#-------------------------------
 [BOXMAN,7]
 LoseText = ...
 Pokemon = BIRDDER,25
@@ -508,43 +452,150 @@ Pokemon = SPITROAST,25
 Pokemon = ORLIHEPERH,30
     Item = EMPTYGEM
 #-------------------------------
-[LOOTERS2,Loocy and Tanner]
-LoseText = ...
-Pokemon = TOMUCHFACES,20
-Pokemon = MARRIAGE,30
+[OCLATIST,Joe]
+LoseText = GO!!! DO IT!!!!!
+Pokemon = BOBYS,31
+Pokemon = THERAM,32
+Pokemon = HUMAN,31
+Pokemon = LLABOTOMY,29
+Pokemon = DOLL,30
+Pokemon = LOSTFACES,30
 #-------------------------------
-[LOOTERS2,Robbette and Lacy]
-LoseText = ...
-Pokemon = ALADY,26
-Pokemon = RAPTORS,24
-Pokemon = KLAKLAK,27
-Pokemon = HER,26
+[ISOPODMAN,Poddy]
+LoseText = What's wrong? Never seen an isopod before?
+Pokemon = SPRIG,30
+Pokemon = FURRY,30
+Pokemon = BUGERBOOBOO,30
+Pokemon = CHUTE,31
+Pokemon = MINOMIND,30
+Pokemon = POPIP,32
+#-------------------------------
+[UMBRELLAGIRL,Bella]
+LoseText = Oh, dear! We were going so nicely too...
+Pokemon = RAPTORS,28
+    Moves = JAWS,STARTLE,VICTIM,UNDERTHEBED
+    AbilityIndex = 0
+    Item = TERRORGEM
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = THELAMB,29
+    Moves = UPONASTAR,MAGICNUMBER,SILENT,HUNTDOWN
+    AbilityIndex = 0
+    Item = ATKBERRY
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = POSEY,31
+    Moves = EQUALNATURE,CLEARMIND,FATE,END
+    AbilityIndex = 0
+    Item = SPDBERRY
+    Gender = female
+    IV = 20,20,20,20,20,20
+Pokemon = AAARRR,30
+    Moves = HOLLOWOUT,LOSS,ENTROPY,MINDLESS
+    AbilityIndex = 0
+    Item = FANTASYBERRY
+    Gender = female
+    IV = 20,20,20,20,20,20
+Pokemon = TEETEETEE,31
+    Moves = BATONPASS,INVULNERABLE,PHOBIA,Nilhilism
+    AbilityIndex = 0
+    Item = FANTASYBERRY
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = KART,32
+    Moves = REVUP,EATMYDUST,ITSCOMING,CRASHTIME
+    AbilityIndex = 0
+    Item = STARFBERRY
+    Gender = female
+    IV = 20,20,20,20,20,20
 #-------------------------------
 [CRAZY,Travis]
-LoseText = ...
+LoseText = Did the Kube Kreatures eat them....?
 Pokemon = OMED,27
 Pokemon = EEEMM,28
 #-------------------------------
-[MEZMOR2,Mez-Mez]
-LoseText = ...
-Pokemon = BARY,25
-Pokemon = DIOTORAS,25
-Pokemon = ENGORGED,25
-Pokemon = IDOL,25
+[CAMPER,Gordon]
+LoseText = I lost.
+Pokemon = SPRIG,28
+Pokemon = BUGABOO,28
 #-------------------------------
-[crazmez2,flowers]
-LoseText = ...
+[TROGLODYTE,Root]
+LoseText = Hey, that's ours!
 Pokemon = SPRIG,26
-Pokemon = PARALLAXPEPR,25
 Pokemon = SATARA,25
 #-------------------------------
+[MEZMOR,Stem]
+LoseText = Dude, you didn't loot ANY of it.
+Pokemon = PARALLAXPEPR,25
+Pokemon = WYORM,26
+#-------------------------------
+[LOOTER,Robbette]
+LoseText = No fair!
+Pokemon = RAPTORS,24
+Pokemon = KLAKLAK,27
+#-------------------------------
+[LOOTER,Lacy]
+LoseText = Oi, no crimebacks!
+Pokemon = ALADY,26
+Pokemon = HER,26
+#-------------------------------
+[LOOTER,Loocy]
+LoseText = Hmm...
+Pokemon = MARRIAGE,30
+#-------------------------------
+[LOOTER,Tanner]
+LoseText = Don't you dare.
+Pokemon = TOMUCHFACES,20
+#-------------------------------
+[MEZMOR,Mez]
+LoseText = Hey! I rightfully stole those!
+Pokemon = DIOTORAS,25
+Pokemon = IDOL,25
+#-------------------------------
+[MEZMOR,Mor]
+LoseText = And I rightfully stole those too!
+Pokemon = BARY,25
+Pokemon = ENGORGED,25
+#-------------------------------
+[adirtyman,Brad]
+LoseText = Can a console love, Gary? Can a console love?! 
+Pokemon = BAAATY,30
+#-------------------------------
+[LOOTER,Ruth]
+LoseText =  I....don't know what this is. 
+Pokemon = CARACRCA,28
+Pokemon = BABOSHCA,26
+#-------------------------------
 [LEADLOOTER,Rey]
-LoseText = ...
+LoseText = ARSE!
 Pokemon = AYVASA,28
 Pokemon = ARRAMRRA,27
 Pokemon = BIGSTAR,29
 Pokemon = MAN,27
 Pokemon = BERMYB,28
+#-------------------------------
+[LOOTERS2,bi bi]
+LoseText = ...
+Pokemon = DOLL,28
+Pokemon = THEFERAL,28
+#-------------------------------
+[crazmez2,3]
+LoseText = ...
+Pokemon = AMYGDALA,35
+#-------------------------------
+[crazmez2,2]
+LoseText = ...
+Pokemon = TOMUCHFACES,28
+Pokemon = CRITTERSSS,28
+#-------------------------------
+[crazmez2,1]
+LoseText = ...
+Pokemon = TEEHEE,23
+Pokemon = POPIP,23
+Pokemon = POOKOOCHUE,23
+Pokemon = POOKOOCHUE,23
+Pokemon = POPIP,23
+Pokemon = TEEHEE,23
 #-------------------------------
 [butcher,Kat]
 LoseText = ...
@@ -817,33 +868,6 @@ Pokemon = MAN,45
 Item = STARFBERRY
 Pokemon = THEFERALGOD,50
 Item = STARFBERRY
-#-------------------------------
-[adirtyman,Brad]
-LoseText = ...
-Pokemon = BAAATY,30
-#-------------------------------
-[LOOTER,Ruth]
-LoseText = ...
-Pokemon = CARACRCA,23
-Pokemon = BABOSHCA,23
-#-------------------------------
-[OCLATIST,Joe]
-LoseText = ...
-Pokemon = BOBYS,31
-Pokemon = THERAM,32
-Pokemon = HUMAN,31
-Pokemon = LLABOTOMY,29
-Pokemon = DOLL,30
-Pokemon = LOSTFACES,30
-#-------------------------------
-[ISOPODMAN,Poddy]
-LoseText = ...
-Pokemon = SPRIG,30
-Pokemon = FURRY,30
-Pokemon = BUGERBOOBOO,30
-Pokemon = CHUTE,31
-Pokemon = MINOMIND,30
-Pokemon = POPIP,32
 #-------------------------------
 [spooky,as]
 LoseText = ...
