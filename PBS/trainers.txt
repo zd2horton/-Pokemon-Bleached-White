@@ -574,73 +574,43 @@ Pokemon = BIGSTAR,29
 Pokemon = MAN,27
 Pokemon = BERMYB,28
 #-------------------------------
-[LOOTERS2,bi bi]
-LoseText = ...
-Pokemon = DOLL,28
-Pokemon = THEFERAL,28
-#-------------------------------
-[crazmez2,3]
-LoseText = ...
-Pokemon = AMYGDALA,35
-#-------------------------------
-[crazmez2,2]
-LoseText = ...
-Pokemon = TOMUCHFACES,28
-Pokemon = CRITTERSSS,28
-#-------------------------------
-[crazmez2,1]
-LoseText = ...
-Pokemon = TEEHEE,23
-Pokemon = POPIP,23
-Pokemon = POOKOOCHUE,23
-Pokemon = POOKOOCHUE,23
-Pokemon = POPIP,23
-Pokemon = TEEHEE,23
-#-------------------------------
 [butcher,Kat]
-LoseText = ...
+LoseText = Mad, I tell you!
 Pokemon = HEAD,30
 Pokemon = CARACRCA,30
 #-------------------------------
 [butcher,Clive]
-LoseText = ...
+LoseText = Oh, also!
 Pokemon = BIRSON,30
 Pokemon = SPITROAST,31
 #-------------------------------
 [butcher,Slai]
-LoseText = ...
+LoseText = Interesting, right?
 Pokemon = BUGERBOOBOO,31
 Pokemon = KLAKLAK,31
-#-------------------------------
-[butcher2,Flank and Shank]
-LoseText = ...
-Pokemon = DOSME,31
-Pokemon = CRITTERSSS,30
-Pokemon = LLABOTOMY,31
-Pokemon = ONGYRO,32
 #-------------------------------double battler 1
 [butcher,Flank]
-LoseText = ...
+LoseText = What...? Our Kreatures....
 Pokemon = CRITTERSSS,30
 Pokemon = ONGYRO,32
 #-------------------------------double battler 2
 [butcher,Shank]
-LoseText = ...
+LoseText = Filleted into ribbons?
 Pokemon = LLABOTOMY,31
 Pokemon = DOSME,31
 #-------------------------------
 [butcher,Chuck]
-LoseText = ...
+LoseText = All I said is I’m paid to beat my meat all day.
 Pokemon = AUROCHS,31
 Pokemon = THERAM,32
 #-------------------------------
 [butcher,Brisket]
-LoseText = ...
+LoseText = Oh....another loss......okay.
 Pokemon = ELPHANT,32
 Pokemon = MIDHORES,32
 #-------------------------------
 [butcher,Butch]
-LoseText = ...
+LoseText = Or are you just too scared to see what will look back? 
 Pokemon = HEAD,32
 Pokemon = SMUNKY,32
 #-------------------------------
@@ -868,6 +838,29 @@ Pokemon = MAN,45
 Item = STARFBERRY
 Pokemon = THEFERALGOD,50
 Item = STARFBERRY
+#-------------------------------
+[LOOTERS2,bi bi]
+LoseText = ...
+Pokemon = DOLL,28
+Pokemon = THEFERAL,28
+#-------------------------------
+[crazmez2,3]
+LoseText = ...
+Pokemon = AMYGDALA,35
+#-------------------------------
+[crazmez2,2]
+LoseText = ...
+Pokemon = TOMUCHFACES,28
+Pokemon = CRITTERSSS,28
+#-------------------------------
+[crazmez2,1]
+LoseText = ...
+Pokemon = TEEHEE,23
+Pokemon = POPIP,23
+Pokemon = POOKOOCHUE,23
+Pokemon = POOKOOCHUE,23
+Pokemon = POPIP,23
+Pokemon = TEEHEE,23
 #-------------------------------
 [spooky,as]
 LoseText = ...
