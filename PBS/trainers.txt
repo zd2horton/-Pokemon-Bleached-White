@@ -623,46 +623,46 @@ Pokemon = MARGMARE,34
 Pokemon = KLAKLAKKLA,30
 Pokemon = BODIVINE,35
 #-------------------------------
-[TROGLODYTE,Manny]
-LoseText = ...
-Pokemon = DARD,35
-Pokemon = ENGORGED,34
-Pokemon = THENOKING,35
+[adirtyman,Will]
+LoseText = HDKFFEIKSHXAJASKLFHEFVN
+Pokemon = BARYS,35
+Pokemon = ROOOCH,35
+Pokemon = TICK,34
 #-------------------------------
 [MSDINO,Harry]
-LoseText = ...
+LoseText = Well my dear, you're quite the treasure.
 Pokemon = SECOND,34
 Pokemon = OJABOBOD,30
 Pokemon = DIOE,33
 #-------------------------------
+[EXCAVATOR,Eugene]
+LoseText = Unfortunately, mine just stopped.
+Pokemon = DOLL,30
+Pokemon = TREE,35
+#-------------------------------
+[LOOTER,Staceys]
+LoseText = We need to move we need to MOVE-
+Pokemon = MECRURY,35
+Pokemon = TEETEETEE,34
+Pokemon = THEYBROKE,34
+#-------------------------------
 [GG,Hapi]
-LoseText = ...
+LoseText = In that respect, you make me feel very gay-
 Pokemon = OJABOBOD,34
 Pokemon = PARALLAXPEPR,35
 Pokemon = POOKOOCHUE,34
 #-------------------------------
 [MEZMOR,Melvin]
-LoseText = ...
+LoseText = Ah.
 Pokemon = BOBYS,36
 Pokemon = AMYGDALA,35
 Pokemon = ORLIHEPERH,36
 #-------------------------------
-[LOOTER,Staceys]
-LoseText = ...
-Pokemon = MECRURY,35
-Pokemon = TEETEETEE,34
-Pokemon = THEYBROKE,34
-#-------------------------------
-[EXCAVATOR,Gordon]
-LoseText = ...
-Pokemon = DOLL,30
-Pokemon = TREE,35
-#-------------------------------
-[adirtyman,Will]
-LoseText = ...
-Pokemon = BARYS,35
-Pokemon = ROOOCH,35
-Pokemon = TICK,34
+[TROGLODYTE,Manny]
+LoseText = Alright, here we go...
+Pokemon = DARD,35
+Pokemon = ENGORGED,34
+Pokemon = THENOKING,35
 #-------------------------------
 [PAINTER2,Bold and Brash]
 LoseText = ...

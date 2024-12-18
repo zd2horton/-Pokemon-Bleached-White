@@ -293,14 +293,14 @@ Flags = Fling_30
 Description = A candy packed with energy. When consumed, it will grant a Pokémon a very large amount of Exp. Points.
 #-------------------------------
 [RARECANDY]
-Name = Rare Candy
-NamePlural = Rare Candies
+Name = Hotpot
+NamePlural = Hotpots
 Pocket = 2
 Price = 10000
 BPPrice = 20
 FieldUse = OnPokemon
 Flags = Fling_30
-Description = A candy that is packed with energy. It raises the level of a single Pokémon by one.
+Description = Raise's a Kreature's level by one. Everyone loves hotpot, of course it makes you super!
 #-------------------------------
 [POKEBALL]
 Name = Kreature Kube
