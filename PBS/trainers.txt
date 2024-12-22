@@ -664,40 +664,6 @@ Pokemon = DARD,35
 Pokemon = ENGORGED,34
 Pokemon = THENOKING,35
 #-------------------------------
-[PAINTER2,Bold and Brash]
-LoseText = ...
-Pokemon = THENOKING,35
-Pokemon = MARGMARE,37
-Pokemon = THERAM,36
-Pokemon = DARWIN,36
-#-------------------------------
-[PAINTER,Adeleine]
-LoseText = ...
-Pokemon = OMED,35
-Pokemon = BIGSTAR,37
-#-------------------------------
-[PAINTER,Quill]
-LoseText = ...
-Pokemon = OJABOBOD,36
-Pokemon = DOSME,36
-#-------------------------------
-[PAINTER,Pablo]
-LoseText = ...
-Pokemon = MECRURY,36
-Pokemon = GROOGROS,37
-#-------------------------------
-[PAINTER,Goth]
-LoseText = ...
-Pokemon = DAMP,37
-Pokemon = GONE,37
-#-------------------------------
-[PAINTER2,Mona and Lisa]
-LoseText = ...
-Pokemon = PAKA,36
-Pokemon = ARRAMRRA,37
-Pokemon = SISTER,37
-Pokemon = BERMY,36
-#-------------------------------
 [FANTASYleader,Flanne]
 LoseText = ....that...was all...
 Pokemon = THERAM,40
@@ -710,54 +676,49 @@ Pokemon = THEWORD,40
 Item = ROCKYHELMET
 #-------------------------------
 [TROGLODYTE,Freddy]
-LoseText = ...
+LoseText = Wait, yours-....
 Pokemon = THENOKING,38
 Pokemon = DIOTORAS,39
 Pokemon = YAGA,38
 #-------------------------------
-[PUNCHYISOPOD,Ripley and Yowcher]
-LoseText = ...
-Pokemon = BUGERBOOBOO,38
-Pokemon = ARIARKE,39
-Pokemon = O,38
-#-------------------------------
-[ISOPODMAN,Yowcher]
-LoseText = ...
-Pokemon = BUGERBOOBOO,38
-Pokemon = O,38
-#-------------------------------
 [PUNCHYLADY,Ripley]
+LoseText = W-well...we lost.....
 Pokemon = ARIARKE,39
 Pokemon = TUUMMAARR,40
 #-------------------------------
+[ISOROACH,Yowcher]
+LoseText = ......grlll....
+Pokemon = BUGERBOOBOO,38
+Pokemon = O,38
+#-------------------------------
 [BOSSBOY,Ash]
-LoseText = ...
+LoseText = They ain't as strong as me!
 Pokemon = ENGORGED,38
 Pokemon = LOJA,40
 Pokemon = MOREMAW,39
 #-------------------------------
 [SMARTASS,Victor]
-LoseText = ...
+LoseText = Oh....they're all dead....
 Pokemon = ALADY,39
 Pokemon = MARRIAGE,40
 Pokemon = THEVOYEUR,40
 Pokemon = BARYS,38
 #-------------------------------
 [PAINTER,Raven]
-LoseText = ...
+LoseText = A fine fray. I shall not keepeth thee at bay.
 Pokemon = TREE,39
 Pokemon = IDOL,39
 Pokemon = BOBYS,40
 #-------------------------------
-[crazmez2,Jekyll and Hyde]
-LoseText = ...
+[crazmez2,Je-Kill and Hide]
+LoseText = A good show!
 Pokemon = TICK,39
 Pokemon = SATURN,40
 Pokemon = ALIVE,40
 Pokemon = GROOGROS,40
 #-------------------------------
-[terroleader,A]
-LoseText = How horrifying.
+[terroleader,Vlad]
+LoseText = How...terrifying.
 Pokemon = THREEONEFIVE,40
 Pokemon = PREACHER,40
 Pokemon = BAAATY,40
@@ -766,50 +727,48 @@ Pokemon = DARK,41
 Pokemon = DEATH,42
 #-------------------------------
 [eginer,Enda]
-LoseText = ...
+LoseText = O-...oh....no....
 Pokemon = CLOCLOGLIDER,41
 Pokemon = CARACRCA,41
 #-------------------------------
 [LOOTER,Owary]
-LoseText = ...
+LoseText = Uumph....ugh...
 Pokemon = DEATH,42
 Pokemon = MANINBLACK,41
 Pokemon = STAR,41
 #-------------------------------
-[LOOTER,Fin]
-LoseText = ...
-Pokemon = CLOCLOGLIDER,42
-Pokemon = CARACRCA,42
-Pokemon = THEYBROKE,42
+[BEAUTY,Bon]
+LoseText = I'm going to jump off this waterfall right now!
+Pokemon = WSTAAW,50
+Pokemon = OJABOBOD,50
+#-------------------------------
+[BEAUTY,Triste]
+LoseText = Yay, we lost!
+Pokemon = AAARRR,43
+Pokemon = DOLL,43
 #-------------------------------
 [spooky,Fayd]
-LoseText = ...
+LoseText = W...wait....
 Pokemon = LLABOTOMY,41
 Pokemon = ENGORGED,42
 Pokemon = ORLIHEPERH,41
 Pokemon = ENGORGED,41
 #-------------------------------
-[GG,Crioch]
-LoseText = ...
-Pokemon = YAGA,42
-Pokemon = EEEMM,42
-Pokemon = TEETEETEE,43
-#-------------------------------
-[BEAUTY,Bon]
-Pokemon = WSTAAW,50
-Pokemon = OJABOBOD,50
-#-------------------------------
-[BEAUTY,Triste]
-Pokemon = AAARRR,43
-Pokemon = DOLL,43
-#-------------------------------
 [BEAUTY,Konets]
+LoseText = Hmph.
 Pokemon = DAMPANDDARK,40
 Pokemon = EGG,47
 #-------------------------------
 [DD, Trus]
+LoseText = W...what is this...?
 Pokemon = SUPERSMUNKYBALL,36
 Pokemon = CLOCLO,38
+#-------------------------------
+[GG,Crioch]
+LoseText = That was just shit, I ain’t getting an encore to this.
+Pokemon = YAGA,42
+Pokemon = EEEMM,42
+Pokemon = TEETEETEE,43
 #-------------------------------
 [THESECONDBEST,Box Overlord]
 LoseText = ...you're ready.
@@ -824,8 +783,8 @@ Item = WEAKNESSPOLICY
 Pokemon = HEELEO,50
 Item = WEAKNESSPOLICY
 #-------------------------------
-[THEBEST,Best]
-LoseText = ...
+[THEBEST,BEST]
+LoseText = .....
 Pokemon = HUMAN,50
 Item = STARFBERRY
 Pokemon = HEADSOFMAHARA,45
@@ -891,4 +850,43 @@ Pokemon = TEEHEE,21
 LoseText = Drat...guess they need more prep time...
 Pokemon = ARRAMRRA,24
 Pokemon = BUGERBOOBOO,23
+#-------------------------------
+[PAINTER2,Bold and Brash]
+LoseText = ...
+Pokemon = THENOKING,35
+Pokemon = MARGMARE,37
+Pokemon = THERAM,36
+Pokemon = DARWIN,36
+#-------------------------------
+[PAINTER,Adeleine]
+LoseText = ...
+Pokemon = OMED,35
+Pokemon = BIGSTAR,37
+#-------------------------------
+[PAINTER,Quill]
+LoseText = ...
+Pokemon = OJABOBOD,36
+Pokemon = DOSME,36
+#-------------------------------
+[PAINTER,Pablo]
+LoseText = ...
+Pokemon = MECRURY,36
+Pokemon = GROOGROS,37
+#-------------------------------
+[PAINTER,Goth]
+LoseText = ...
+Pokemon = DAMP,37
+Pokemon = GONE,37
+#-------------------------------
+[PAINTER2,Mona and Lisa]
+LoseText = ...
+Pokemon = PAKA,36
+Pokemon = ARRAMRRA,37
+Pokemon = SISTER,37
+Pokemon = BERMY,36
+#-------------------------------
+[LOOTER,Fin]
+Pokemon = CLOCLOGLIDER,42
+Pokemon = CARACRCA,42
+Pokemon = THEYBROKE,42
 #-------------------------------

@@ -71,6 +71,12 @@ Gender = Female
 BaseMoney = 32
 BattleBGM = slow fight
 #-------------------------------
+[ISOROACH]
+Name = Iso-Roach
+Gender = Unknown
+BaseMoney = 32
+BattleBGM = slow fight
+#-------------------------------
 [SMARTASS]
 Name = Smartass
 Gender = Male
@@ -251,7 +257,7 @@ Gender = Male
 BaseMoney = 60
 SkillLevel = 1000000
 Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
-BattleBGM = pink in the end
+BattleBGM = i am god  og
 #-------------------------------
 [FANTASYleader]
 Name = Guider of Fantasy
@@ -259,7 +265,7 @@ Gender = Female
 BaseMoney = 60
 SkillLevel = 1000000
 Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
-BattleBGM = pink in the end
+BattleBGM = true church
 #-------------------------------
 [terroleader]
 Name = King of Terror
@@ -267,7 +273,7 @@ Gender = Male
 BaseMoney = 60
 SkillLevel = 1000000
 Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
-BattleBGM = pink in the end
+BattleBGM = i am god  og
 #-------------------------------
 [THESECONDBEST]
 Name = The Second Best

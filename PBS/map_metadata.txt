@@ -17,6 +17,7 @@ MapPosition = 0,13,12
 #-------------------------------
 [027]   # Player's house
 Name = \PN's house
+BattleBack = inside
 MapPosition = 0,13,12
 #-------------------------------
 [008]   # Daisy's house (Empty House)
@@ -362,6 +363,7 @@ MapSize = 1,11
 [026]   # The Fantastical Art Museum
 Name = The Fantastical Art Museum
 ShowArea = true
+BattleBack = M
 #-------------------------------
 [010]   # Fantasy Leader
 Name = ???
@@ -375,6 +377,7 @@ Outdoor = true
 ShowArea = true
 MapPosition = 0,11,7
 MapSize = 1,111
+BattleBack = 077
 #-------------------------------
 [030]   # The Waterfall
 Name = The Waterfall
