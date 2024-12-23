@@ -1,10 +1,5 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-[BEAUTY,1Liam]
-LoseText = ...
-Pokemon = KOW,1
-Pokemon = KOW,1
-#-------------------------------
 [BEAUTY,Lim]
 LoseText = CHUM!!!
 Pokemon = CHUMCHUM,1
@@ -268,7 +263,7 @@ Pokemon = FLATMAN,20
 Pokemon = FLATMAN,20
 Pokemon = FLATMAN,20
 #-------------------------------
-[EXCAVATOR,Lost]
+[EXCAVATOR,Dreemor]
 LoseText = I won't let a single dream fall.
 Pokemon = MOOMOON,21
 Pokemon = MOOMOON,21
@@ -889,4 +884,9 @@ Pokemon = BERMY,36
 Pokemon = CLOCLOGLIDER,42
 Pokemon = CARACRCA,42
 Pokemon = THEYBROKE,42
+#-------------------------------
+[BEAUTY,1Liam]
+LoseText = ...
+Pokemon = KOW,1
+Pokemon = KOW,1
 #-------------------------------
