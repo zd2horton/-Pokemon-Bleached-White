@@ -627,3 +627,10 @@ NamePlural = Dead Man's Wishes
 Pocket = 5
 Flags = KeyItem
 Description = Quintuples EXP gain. How can a dead man see if his wishes are being fulfilled? Maybe he's seeing you use them for some epic gains? Checkmate.
+#-------------------------------
+[GOODSHOES]
+Name = Good Pair of Shoes
+NamePlural = Good Pair of Shoes
+Pocket = 5
+Flags = KeyItem
+Description = Doubles walking speed while holding the X key. How did I not leave the house wearing these? Ugh. At least my foot pains will die down.
