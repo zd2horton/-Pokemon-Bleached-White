@@ -205,7 +205,7 @@ WildVictoryBGM = empty air og
 Name = Highlands
 Outdoor = true
 ShowArea = true
-BattleBack = DIGTHROUGH
+BattleBack = redroutes
 WildBattleBGM = not maple 1 og
 TrainerBattleBGM = empty air og
 WildVictoryBGM = not maple 1 og
@@ -215,7 +215,7 @@ TrainerVictoryBGM = empty air og
 Name = Highlands Peak
 Outdoor = true
 ShowArea = true
-BattleBack = DIGTHROUGH
+BattleBack = redroutes
 WildBattleBGM = not maple 1 og
 TrainerBattleBGM = empty air og
 WildVictoryBGM = not maple 1 og
@@ -293,7 +293,7 @@ Name = The Great Dead Tower (Peak)
 Outdoor = true
 ShowArea = true
 MapPosition = 0,13,10
-BattleBack = city inside
+BattleBack = waterfall
 #-------------------------------
 [020]   # Dead City Boxman House
 Name = ???
