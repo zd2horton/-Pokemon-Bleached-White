@@ -36,7 +36,7 @@ if SaveSettings::ENABLE_AUTOSAVE
     "order"       => 197,
     "type"        => EnumOption,
     "parameters"  => [_INTL("On"), _INTL("Off")],
-    "description" => _INTL("Choose whether the game automatically saves after certain points."),
+    "description" => _INTL("Let the game automatically save after certain points?"),
     "get_proc"    => proc { next $PokemonSystem.autosave },
     "set_proc"    => proc { |value, scene| $PokemonSystem.autosave = value }
   })

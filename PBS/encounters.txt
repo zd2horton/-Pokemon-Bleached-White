@@ -1,4 +1,6 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
+# Quarantine following from here and trainers: THEFERALGOD, THEFERAL, BURIEDALIVE, DOLL
+# HEELEO, ALFRED, FURRY, PARALLAXPEPR
 #-------------------------------
 [005] # Route 1 (First Steps)
 Land,40
@@ -18,7 +20,7 @@ Land,10
     10,ARIARKE,28,30
     10,ELPHANT,28,30
 #-------------------------------
-[030] # waterfall
+[030] # The Waterfall
 Land,10
     30,OJABOBOD,28,30
     20,LLABOTOMY,28,30
@@ -40,7 +42,7 @@ PokeRadar,20
     40,DEATH,100
 #-------------------------------
 [049] # cave 2 (Rocky Spiral (Deeper...))
-Cave,21
+Cave,5
     30,BATY,12,13
     20,GRAVENIMAGE,12,13
     20,LOSTFACES,12,13
@@ -48,7 +50,7 @@ Cave,21
     10,MAW,12,13
     5,BOBYS,8
 #-------------------------------
-[077] # After the Forest
+[077] # After the Forest (Highlands)
 Land,40
     20,BERMY,21,23
     20,DAMP,21,23
@@ -81,12 +83,12 @@ RockSmash,50
     80,KOKCROACH,5
     50,TOMUCHFACES,5
 #-------------------------------
-[104] # factory forest transition (Before the Forest)
+[104] # factory forest transition (Before the Forest/Forest Trek)
 Land,40
     100,BRAINWORM,18,20
 #-------------------------------
 [213] # cave1 (Crimson Cavern (DEEPER....))
-Cave,10
+Cave,5
     20,BATY,12,14
     20,LOSTFACES,12,14
     15,BARY,12,14
@@ -94,7 +96,7 @@ Cave,10
     10,MAW,12,14
     5,BOBYS,8
 #-------------------------------
-[279] # Between Dead City and Slaughter
+[279] # Between Dead City and Slaughter (Slaughterfalls)
 Land,40
     20,BERMY,21,23
     20,DAMP,21,23
