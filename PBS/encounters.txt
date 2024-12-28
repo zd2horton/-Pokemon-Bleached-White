@@ -1,6 +1,6 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 # Quarantine following from here and trainers: THEFERALGOD, THEFERAL, BURIEDALIVE, DOLL
-# HEELEO, ALFRED, FURRY, PARALLAXPEPR
+# HEELEO, ALFRED, FURRY, PARALLAXPEPR, THEVOYEUR
 #-------------------------------
 [005] # Route 1 (First Steps)
 Land,40

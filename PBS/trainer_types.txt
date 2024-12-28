@@ -196,6 +196,7 @@ Name = Occultist
 Gender = Male
 BaseMoney = 32
 BattleBGM = SPACE NOICSES
+Flags = UsePokemonInOrder
 #-------------------------------
 [boxman2]
 Name = Boxmen

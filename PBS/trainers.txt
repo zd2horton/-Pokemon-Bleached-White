@@ -451,15 +451,15 @@ Pokemon = ORLIHEPERH,30
 LoseText = GO!!! DO IT!!!!!
 Pokemon = BOBYS,31
 Pokemon = THERAM,32
-Pokemon = HUMAN,31
+Pokemon = FLATMAN,31
 Pokemon = LLABOTOMY,29
-Pokemon = DOLL,30
+Pokemon = THEYBROKE,30
 Pokemon = LOSTFACES,30
 #-------------------------------
 [ISOPODMAN,Poddy]
 LoseText = What's wrong? Never seen an isopod before?
 Pokemon = SPRIG,30
-Pokemon = FURRY,30
+Pokemon = PAKA,30
 Pokemon = BUGERBOOBOO,30
 Pokemon = CHUTE,31
 Pokemon = MINOMIND,30
@@ -521,8 +521,8 @@ Pokemon = SATARA,25
 #-------------------------------
 [MEZMOR,Stem]
 LoseText = Dude, you didn't loot ANY of it.
-Pokemon = PARALLAXPEPR,25
-Pokemon = WYORM,26
+Pokemon = CHUTE,24
+Pokemon = WYORM,27
 #-------------------------------
 [LOOTER,Robbette]
 LoseText = No fair!
@@ -632,7 +632,7 @@ Pokemon = DIOE,33
 #-------------------------------
 [EXCAVATOR,Eugene]
 LoseText = Unfortunately, mine just stopped.
-Pokemon = DOLL,30
+Pokemon = GROOGROS,36
 Pokemon = TREE,35
 #-------------------------------
 [LOOTER,Staceys]
@@ -644,7 +644,7 @@ Pokemon = THEYBROKE,34
 [GG,Hapi]
 LoseText = In that respect, you make me feel very gay-
 Pokemon = OJABOBOD,34
-Pokemon = PARALLAXPEPR,35
+Pokemon = HEADSOFMAHARA,35
 Pokemon = POOKOOCHUE,34
 #-------------------------------
 [MEZMOR,Melvin]
@@ -696,7 +696,7 @@ Pokemon = MOREMAW,39
 LoseText = Oh....they're all dead....
 Pokemon = ALADY,39
 Pokemon = MARRIAGE,40
-Pokemon = THEVOYEUR,40
+Pokemon = ALIVE,40
 Pokemon = BARYS,38
 #-------------------------------
 [PAINTER,Raven]
@@ -740,7 +740,7 @@ Pokemon = OJABOBOD,50
 [BEAUTY,Triste]
 LoseText = Yay, we lost!
 Pokemon = AAARRR,43
-Pokemon = DOLL,43
+Pokemon = LOJA,43
 #-------------------------------
 [spooky,Fayd]
 LoseText = W...wait....
