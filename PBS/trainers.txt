@@ -793,29 +793,6 @@ Item = STARFBERRY
 Pokemon = THEFERALGOD,50
 Item = STARFBERRY
 #-------------------------------
-[LOOTERS2,bi bi]
-LoseText = ...
-Pokemon = DOLL,28
-Pokemon = THEFERAL,28
-#-------------------------------
-[crazmez2,3]
-LoseText = ...
-Pokemon = AMYGDALA,35
-#-------------------------------
-[crazmez2,2]
-LoseText = ...
-Pokemon = TOMUCHFACES,28
-Pokemon = CRITTERSSS,28
-#-------------------------------
-[crazmez2,1]
-LoseText = ...
-Pokemon = TEEHEE,23
-Pokemon = POPIP,23
-Pokemon = POOKOOCHUE,23
-Pokemon = POOKOOCHUE,23
-Pokemon = POPIP,23
-Pokemon = TEEHEE,23
-#-------------------------------
 [spooky,as]
 LoseText = ...
 Pokemon = KOW,10
@@ -845,40 +822,6 @@ Pokemon = TEEHEE,21
 LoseText = Drat...guess they need more prep time...
 Pokemon = ARRAMRRA,24
 Pokemon = BUGERBOOBOO,23
-#-------------------------------
-[PAINTER2,Bold and Brash]
-LoseText = ...
-Pokemon = THENOKING,35
-Pokemon = MARGMARE,37
-Pokemon = THERAM,36
-Pokemon = DARWIN,36
-#-------------------------------
-[PAINTER,Adeleine]
-LoseText = ...
-Pokemon = OMED,35
-Pokemon = BIGSTAR,37
-#-------------------------------
-[PAINTER,Quill]
-LoseText = ...
-Pokemon = OJABOBOD,36
-Pokemon = DOSME,36
-#-------------------------------
-[PAINTER,Pablo]
-LoseText = ...
-Pokemon = MECRURY,36
-Pokemon = GROOGROS,37
-#-------------------------------
-[PAINTER,Goth]
-LoseText = ...
-Pokemon = DAMP,37
-Pokemon = GONE,37
-#-------------------------------
-[PAINTER2,Mona and Lisa]
-LoseText = ...
-Pokemon = PAKA,36
-Pokemon = ARRAMRRA,37
-Pokemon = SISTER,37
-Pokemon = BERMY,36
 #-------------------------------
 [LOOTER,Fin]
 Pokemon = CLOCLOGLIDER,42

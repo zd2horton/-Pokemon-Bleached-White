@@ -5,11 +5,194 @@ Name = Pokémon Trainer
 Gender = Female
 BaseMoney = 60
 #-------------------------------
+[DD]
+Name = Eccentric Lass
+Gender = Female
+BaseMoney = 40
+BattleBGM = battel theme og
+#-------------------------------
+[BEAUTY]
+Name = Beauty
+Gender = Female
+BaseMoney = 40
+BattleBGM = not maple 1 og
+#-------------------------------
+[CAMPER]
+Name = Camper
+Gender = Male
+BaseMoney = 40
+BattleBGM = more battel kick back og
+#-------------------------------
+[SUPERNERD]
+Name = Super Nerd
+Gender = Male
+BaseMoney = 40
+BattleBGM = more drums
+#-------------------------------
+[BOSSBOY]
+Name = Brute
+Gender = Male
+BaseMoney = 40
+BattleBGM = run fucker og
+#-------------------------------
+[PAINTER]
+Name = Painter
+Gender = Male
+BaseMoney = 40
+BattleBGM = war song og
+#-------------------------------
+[GG]
+Name = Goth Girl
+Gender = Female
+BaseMoney = 40
+BattleBGM = battel theme og
+#-------------------------------
+[PUNCHYLADY]
+Name = Punchy Lady
+Gender = Female
+BaseMoney = 40
+BattleBGM = slow fight
+#-------------------------------
+[ISOROACH]
+Name = Iso-Roach
+Gender = Unknown
+BaseMoney = 40
+BattleBGM = slow fight
+#-------------------------------
+[SMARTASS]
+Name = Smartass
+Gender = Male
+BaseMoney = 40
+BattleBGM = what the fuck bid i do og
+#-------------------------------
+[EXCAVATOR]
+Name = Excavator
+Gender = Male
+BaseMoney = 40
+BattleBGM = indarsty
+#-------------------------------
+[PUCHYMAN]
+Name = Punchy Man
+Gender = Male
+BaseMoney = 40
+BattleBGM = sloooow
+#-------------------------------
+[CRAZY]
+Name = CRAZY
+Gender = Male
+BaseMoney = 40
+BattleBGM = breathing
+#-------------------------------
+[TROGLODYTE]
+Name = Troglodyte
+Gender = Female
+BaseMoney = 40
+BattleBGM = awsome
+#-------------------------------
+[salty]
+Name = Sailor
+Gender = Male
+BaseMoney = 40
+BattleBGM = slow slow fight
+#-------------------------------
+[Goon]
+Name = Goon
+Gender = Male
+BaseMoney = 40
+BattleBGM = enger weering of the machieen
+#-------------------------------
+[butcher]
+Name = Butcher
+Gender = Female
+BaseMoney = 40
+BattleBGM = prayer to the deep
+#-------------------------------
+[eginer]
+Name = Engineer
+Gender = Female
+BaseMoney = 40
+BattleBGM = wild ecounter
+#-------------------------------
+[spooky]
+Name = Spooky
+Gender = Female
+BaseMoney = 40
+BattleBGM = SPOOKSSONG
+#-------------------------------
+[mystic]
+Name = Mystic
+Gender = Female
+BaseMoney = 40
+BattleBGM = fuck you forest final
+#-------------------------------
+[MSDINO]
+Name = Dino Fan
+Gender = Female
+BaseMoney = 40
+BattleBGM = goodd
+#-------------------------------
+[MEZMOR]
+Name = Mezmor
+Gender = Male
+BaseMoney = 40
+BattleBGM = soul song
+#-------------------------------
+[adirtyman]
+Name = Dirty
+Gender = Male
+BaseMoney = 40
+BattleBGM = comdat drums
+#-------------------------------
+[LOOTER]
+Name = Looter
+Gender = Female
+BaseMoney = 40
+BattleBGM = HAPPY CHRISMAS
+#-------------------------------
+[PUNCHYISOPOD]
+Name = Unlikely Pair
+Gender = Unknown
+BaseMoney = 40
+BattleBGM = nice misc
+#-------------------------------
+[crazmez2]
+Name = Crazy Buds
+Gender = Male
+BaseMoney = 40
+BattleBGM = breathing
+#-------------------------------
 [BOXMAN]
 Name = BOXMAN
 Gender = Unknown
-BaseMoney = 32
+BaseMoney = 60
 BattleBGM = -666060 og
+#-------------------------------
+[BESTBOY]
+Name = Best Boy
+Gender = Unknown
+BaseMoney = 15000
+BattleBGM = happy gro
+#-------------------------------
+[ISOPODMAN]
+Name = Isopodman
+Gender = Unknown
+BaseMoney = 140
+BattleBGM = nice misc
+#-------------------------------
+[OCLATIST]
+Name = Occultist
+Gender = Male
+BaseMoney = 140
+BattleBGM = SPACE NOICSES
+Flags = UsePokemonInOrder
+#-------------------------------
+[UMBRELLAGIRL]
+Name = Umbrella Girl
+Gender = Female
+BaseMoney = 140
+SkillLevel = 1000000
+Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching,UsePokemonInOrder
+BattleBGM = pink in the end
 #-------------------------------
 [FANCLUBBOSS]
 Name = Fanclub Boss
@@ -17,245 +200,30 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = ANIME_AT_END_OF_OCEAN
 #-------------------------------
-[DD]
-Name = Eccentric Lass
-Gender = Female
-BaseMoney = 32
-BattleBGM = battel theme og
-#-------------------------------
-[BEAUTY]
-Name = Beauty
-Gender = Female
-BaseMoney = 56
-BattleBGM = not maple 1 og
-#-------------------------------
-[CAMPER]
-Name = Camper
-Gender = Male
-BaseMoney = 16
-BattleBGM = more battel kick back og
-#-------------------------------
-[SUPERNERD]
-Name = Super Nerd
-Gender = Male
-BaseMoney = 48
-BattleBGM = more drums
-#-------------------------------
-[BOSSBOY]
-Name = Brute
-Gender = Male
-BaseMoney = 32
-BattleBGM = run fucker og
-#-------------------------------
-[PAINTER]
-Name = Painter
-Gender = Male
-BaseMoney = 32
-BattleBGM = war song og
-#-------------------------------
-[PAINTER2]
-Name = Painters
-Gender = Unknown
-BaseMoney = 32
-BattleBGM = war song og
-#-------------------------------
-[GG]
-Name = Goth Girl
-Gender = Female
-BaseMoney = 32
-BattleBGM = battel theme og
-#-------------------------------
-[PUNCHYLADY]
-Name = Punchy Lady
-Gender = Female
-BaseMoney = 32
-BattleBGM = slow fight
-#-------------------------------
-[ISOROACH]
-Name = Iso-Roach
-Gender = Unknown
-BaseMoney = 32
-BattleBGM = slow fight
-#-------------------------------
-[SMARTASS]
-Name = Smartass
-Gender = Male
-BaseMoney = 32
-BattleBGM = what the fuck bid i do og
-#-------------------------------
-[EXCAVATOR]
-Name = Excavator
-Gender = Male
-BaseMoney = 32
-BattleBGM = indarsty
-#-------------------------------
-[PUCHYMAN]
-Name = Punchy Man
-Gender = Male
-BaseMoney = 32
-BattleBGM = sloooow
-#-------------------------------
-[CRAZY]
-Name = CRAZY
-Gender = Male
-BaseMoney = 32
-BattleBGM = breathing
-#-------------------------------
-[TROGLODYTE]
-Name = Troglodyte
-Gender = Female
-BaseMoney = 32
-BattleBGM = awsome
-#-------------------------------
-[salty]
-Name = Sailor
-Gender = Male
-BaseMoney = 32
-BattleBGM = slow slow fight
-#-------------------------------
-[Goon]
-Name = Goon
-Gender = Male
-BaseMoney = 32
-BattleBGM = enger weering of the machieen
-#-------------------------------
-[butcher]
-Name = Butcher
-Gender = Female
-BaseMoney = 32
-BattleBGM = prayer to the deep
-#-------------------------------
-[eginer]
-Name = Engineer
-Gender = Female
-BaseMoney = 32
-BattleBGM = wild ecounter
-#-------------------------------
-[LEADEROFMIND]
-Name = Master of Mind
-Gender = Female
-BaseMoney = 32
-BattleBGM = true church
-#-------------------------------
-[BESTBOY]
-Name = Best Boy
-Gender = Unknown
-BaseMoney = 32
-BattleBGM = happy gro
-#-------------------------------
-[ISOPODMAN]
-Name = Isopodman
-Gender = Unknown
-BaseMoney = 32
-BattleBGM = nice misc
-#-------------------------------
-[spooky]
-Name = Spooky
-Gender = Female
-BaseMoney = 32
-BattleBGM = SPOOKSSONG
-#-------------------------------
-[mystic]
-Name = Mystic
-Gender = Female
-BaseMoney = 32
-BattleBGM = fuck you forest final
-#-------------------------------
-[LEADEROFEMPTY]
-Name = Husk of Emptiness
-Gender = Male
-BaseMoney = 32
-BattleBGM = i am god  og
-#-------------------------------
-[MSDINO]
-Name = Dino Fan
-Gender = Female
-BaseMoney = 32
-BattleBGM = goodd
-#-------------------------------
-[MEZMOR]
-Name = Mezmor
-Gender = Male
-BaseMoney = 32
-BattleBGM = soul song
-#-------------------------------
-[adirtyman]
-Name = Dirty
-Gender = Male
-BaseMoney = 32
-BattleBGM = comdat drums
-#-------------------------------
-[LOOTER]
-Name = Looter
-Gender = Female
-BaseMoney = 32
-BattleBGM = HAPPY CHRISMAS
-#-------------------------------
-[OCLATIST]
-Name = Occultist
-Gender = Male
-BaseMoney = 32
-BattleBGM = SPACE NOICSES
-Flags = UsePokemonInOrder
-#-------------------------------
-[boxman2]
-Name = Boxmen
-Gender = Unknown
-BaseMoney = 32
-BattleBGM = -666060 og
-#-------------------------------
-[CRAZY2]
-Name = Lunatics
-Gender = Male
-BaseMoney = 32
-BattleBGM = breathing
-#-------------------------------
-[MEZMOR2]
-Name = Mezmors
-Gender = Male
-BaseMoney = 32
-BattleBGM = soul song
-#-------------------------------
-[LOOTERS2]
-Name = Looters
-Gender = Male
-BaseMoney = 32
-BattleBGM = HAPPY CHRISMAS
-#-------------------------------
-[crazmez2]
-Name = Crazy Buds
-Gender = Male
-BaseMoney = 32
-BattleBGM = breathing
-#-------------------------------
 [LEADLOOTER]
 Name = Lead Looter
 Gender = Female
-BaseMoney = 60
+BaseMoney = 100
 SkillLevel = 1000000
 Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
 BattleBGM = 01 MFP live - Groovy Place
 #-------------------------------
-[UMBRELLAGIRL]
-Name = Umbrella Girl
+[LEADEROFMIND]
+Name = Master of Mind
 Gender = Female
-BaseMoney = 60
-SkillLevel = 1000000
-Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching,UsePokemonInOrder
-BattleBGM = pink in the end
+BaseMoney = 160
+BattleBGM = true church
 #-------------------------------
-[butcher2]
-Name = Butchers
-Gender = Female
-BaseMoney = 60
-SkillLevel = 1000000
-Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
-BattleBGM = pink in the end
+[LEADEROFEMPTY]
+Name = Husk of Emptiness
+Gender = Male
+BaseMoney = 160
+BattleBGM = i am god  og
 #-------------------------------
 [beastleader]
 Name = Beastly Slaughterer
 Gender = Male
-BaseMoney = 60
+BaseMoney = 160
 SkillLevel = 1000000
 Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
 BattleBGM = i am god  og
@@ -263,7 +231,7 @@ BattleBGM = i am god  og
 [FANTASYleader]
 Name = Guider of Fantasy
 Gender = Female
-BaseMoney = 60
+BaseMoney = 160
 SkillLevel = 1000000
 Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
 BattleBGM = true church
@@ -271,7 +239,7 @@ BattleBGM = true church
 [terroleader]
 Name = King of Terror
 Gender = Male
-BaseMoney = 60
+BaseMoney = 160
 SkillLevel = 1000000
 Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
 BattleBGM = i am god  og
@@ -279,7 +247,7 @@ BattleBGM = i am god  og
 [THESECONDBEST]
 Name = The Second Best
 Gender = Male
-BaseMoney = 60
+BaseMoney = 500
 SkillLevel = 1000000
 Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
 BattleBGM = ANIME_AT_END_OF_OCEAN
@@ -287,13 +255,7 @@ BattleBGM = ANIME_AT_END_OF_OCEAN
 [THEBEST]
 Name = The
 Gender = Male
-BaseMoney = 60
+BaseMoney = 1500
 SkillLevel = 1000000
 Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
 BattleBGM = big beeper.ogg
-#-------------------------------
-[PUNCHYISOPOD]
-Name = Unlikely Pair
-Gender = Unknown
-BaseMoney = 32
-BattleBGM = nice misc

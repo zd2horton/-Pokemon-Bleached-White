@@ -1,7 +1,7 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [0]
-StartMoney = 3000
+StartMoney = 500
 Home = 3,23,5,6
 StorageCreator = Jeff
 WildBattleBGM = notmaple1og

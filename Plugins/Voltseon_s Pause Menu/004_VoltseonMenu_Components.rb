@@ -189,10 +189,12 @@ class VPM_DateAndTimeHud < Component
     time  = pbGetTimeNow 
     text  = _INTL("{1} {2} {3}", time.day.to_i, pbGetAbbrevMonthName(time.month.to_i), time.year.to_i)
     text2 = _INTL("{1}", time.strftime("%I:%M %p"))
+	text3 = _INTL("{1} coins", $player.money.to_s_formatted)
     @sprites["overlay"].bitmap.clear
     pbSetSmallFont(@sprites["overlay"].bitmap)
     pbDrawTextPositions(@sprites["overlay"].bitmap,[[text, (Graphics.width / 2) - 8, 12, 1,
-      @base_color, @shdw_color], [text2, (Graphics.width / 2) - 8, 34, 1, @base_color, @shdw_color]])
+      @base_color, @shdw_color], [text2, (Graphics.width / 2) - 8, 34, 1, @base_color, @shdw_color], 
+	  [text3, (Graphics.width / 2) - 8, 56, 1, @base_color, @shdw_color]])
     @last_time = time.min
   end
 end

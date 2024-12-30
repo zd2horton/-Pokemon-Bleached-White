@@ -1,25 +1,4 @@
-﻿
-#-------------------------------
-[SHINYSTONE]
-Name = Shiny Stone
-NamePlural = Shiny Stones
-Pocket = 1
-Price = 3000
-BPPrice = 5
-FieldUse = OnPokemon
-Flags = EvolutionStone,Fling_80
-Description = A peculiar stone that makes certain species of Pokémon evolve. It shines with a dazzling light
-#-------------------------------
-[ROCKYHELMET]
-Name = Curesis
-NamePlural = Curesis
-Pocket = 4
-Price = 3000
-SellPrice = 2000
-BPPrice = 25
-Flags = Fling_60
-Description = If the holder is damaged, also damages the attacker. What does the taste of someone's own medicine taste like? I think it tastes of sin and rot.
-#-------------------------------
+﻿#-------------------------------
 [ASSAULTVEST]
 Name = Blood
 NamePlural = Bloods
@@ -29,190 +8,39 @@ BPPrice = 25
 Flags = Fling_80
 Description = Raise Sp. Def but can't use status moves. Served in a glass, very refined.
 #-------------------------------
-[REDCARD]
-Name = Toy Train
-NamePlural = Toy Trains
-Pocket = 1
-Price = 3000
-SellPrice = 2000
-BPPrice = 20
-Flags = Fling_10
-Description = Removes from battle a foe that attacks the holder. A train by technicality, as a train is the combined load pulled by a locomotive.
-#-------------------------------
-[SHEDSHELL]
-Name = Shed Shell
-NamePlural = Shed Shells
-Pocket = 1
-Price = 3000
-SellPrice = 2000
-Flags = Fling_10
-Description = An item to be held by a Pokémon. This discarded carapace lets the holder switch out of battle without fail.
-#-------------------------------
-[SMOKEBALL]
-Name = Smoke Ball
-NamePlural = Smoke Balls
-Pocket = 1
-Price = 3000
-SellPrice = 2000
-Flags = Fling_30
-Description = An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon without fail.
-#-------------------------------
-[LUCKYEGG]
-Name = Lucky Egg
-NamePlural = Lucky Eggs
-Pocket = 1
-Price = 10000
-BPPrice = 77
-Flags = Fling_30
-Description = An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle.
-#-------------------------------
-[CHOICEBAND]
-Name = Choice Band
-NamePlural = Choice Bands
+[ATKBERRY]
+Name = Red Rump Roast
+NamePlural = Red Rump Roasts
 Pocket = 2
-Price = 4000
-BPPrice = 25
-Flags = Fling_10
-Description = An item to be held by a Pokémon. This headband ups Attack, but allows the use of only one move.
+Price = 20
+Flags = Fling_20,Berry,NaturalGift_BEAST_100
+#Consumable = true
+Description = Increases Atk when at quarter HP or lower. There’s nothing like sinking your teeth into a freshly cooked ass to get the blood pumping. 
 #-------------------------------
-[CHOICESPECS]
-Name = Choice Specs
-NamePlural = Choice Specs
-PortionName = pair of Choice Specs
-PortionNamePlural = pairs of Choice Specs
-Pocket = 2
-Price = 4000
-BPPrice = 25
-Flags = Fling_10
-Description = An item to be held by a Pokémon. These curious glasses boost Sp. Atk but allows the use of only one move.
+[BEASTBALL]
+Name = Beast Kube
+NamePlural = Beast Kubes
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = This Kube helps catch Beast Kreatures. This should quell their ferocius feral tendencies. 
 #-------------------------------
-[CHOICESCARF]
-Name = Choice Scarf
-NamePlural = Choice Scarves
-Pocket = 2
-Price = 4000
-BPPrice = 25
-Flags = Fling_10
-Description = An item to be held by a Pokémon. This scarf boosts Speed but allows the use of only one move.
-#-------------------------------
-[LEFTOVERS]
-Name = Cute Kitty Plush
-NamePlural = cutekittyplushs
-PortionName = cutekittyplush
-PortionNamePlural = cutekittyplushs
-Pocket = 1
-Price = 4000
-BPPrice = 25
-Flags = Fling_10
-Description = An item to be held by a Pokémon. The holder's HP is gradually restored during battle.
-#-------------------------------
-[SHELLBELL]
-Name = Shell Bell
-NamePlural = Shell Bells
-Pocket = 1
-Price = 4000
-BPPrice = 25
-Flags = Fling_30
-Description = An item to be held by a Pokémon. The holder's HP is restored a little every time it inflicts damage.
-#-------------------------------
-[WHITEHERB]
-Name = Syrinj
-NamePlural = Syrinj
-Pocket = 2
-Price = 4000
-BPPrice = 15
-Flags = Fling_10
-Description = Restores any lowered stat once. One of the current hot items on the market, I wonder why? I just need 20 dollars to buy one. Or two. Or three.
-#-------------------------------
-[WEAKNESSPOLICY]
-Name = Chalice of Need
-NamePlural = Chalice of Need
-Pocket = 2
-Price = 1000
-BPPrice = 20
-Flags = Fling_80
-Description = Sharply increases Atk and Spec.Atk if hit by a Devastating move. Known to quench all extreme thirsts, but can it quench the voices in your head?
-#-------------------------------
-[LIFEORB]
-Name = Shork Plush 
-NamePlural = Shork Plushes
+[BEASTBERRY]
+Name = Food?
+NamePlural = Food?
 Pocket = 4
-Price = 4000
-BPPrice = 25
-Flags = Fling_30
-Description = Strengthens moves, but lose some HP on each hit. An apex predator, cutified and commercialised for all girls and boys! Teeth and bloodlust not removed.
+Price = 40
+Flags = Fling_15,Berry,NaturalGift_BEAST_80
+Description = Decreases damage of 1 Beast attack. The smell of this revolts you on a primal level.
 #-------------------------------
-[EXPERTBELT]
-Name = Sulfur Brand
-NamePlural = Sulfur Brands
-Pocket = 4
-Price = 4000
-BPPrice = 25
-Flags = Fling_10
-Description = Slightly boosts a Devastating move. Made all the more devastating by the fact you can throw it in their faces.
-#-------------------------------
-[METRONOME]
-Name = Idol
-NamePlural = Idols
-Pocket = 4
-Price = 3000
-SellPrice = 2000
-BPPrice = 25
-Flags = Fling_30
-Description = Boosts a consecutively used move, effects resetting with a new move. When all you've built your life up to suddenly falls, so do you.
-#-------------------------------
-[FOCUSSASH]
-Name = Flan
-NamePlural = Flans
-Pocket = 4
-Price = 3000
-SellPrice = 2000
-BPPrice = 15
-Flags = Fling_10
-Description = Lets a Kreature endure a OHKO attack at full HP. A treat so sweet you can't taste defeat.
-#-------------------------------
-[LUCKINCENSE]
-Name = Luck Incense
-NamePlural = Luck Incenses
-PortionName = jar of Luck Incense
-PortionNamePlural = jars of Luck Incense
+[BLUESHARD]
+Name = Trash
+NamePlural = More Trash 
 Pocket = 1
-Price = 11000
-Flags = Fling_10
-Description = An item to be held by a Pokémon. It doubles a battle's prize money if the holding Pokémon joins in.
-#-------------------------------
-[HPUP]
-Name = HP Up
-NamePlural = HP Ups
-PortionName = bottle of HP Up
-PortionNamePlural = bottles of HP Up
-Pocket = 2
-Price = 10000
-FieldUse = OnPokemon
+Price = 50
 Flags = Fling_30
-Description = A nutritious drink for Pokémon. It raises the base HP of a single Pokémon.
-#-------------------------------
-[PROTEIN]
-Name = Mouth
-NamePlural = Mouths
-PortionName = Tooth
-PortionNamePlural = Teeth
-Pocket = 2
-Price = 10000
-FieldUse = OnPokemon
-Flags = Fling_30
-Description = Raises 1 Kreature's base Atk. Forget the fake bag of teeth and lips, this is the real deal. Eat up, it's all natural!
-#-------------------------------
-[IRON]
-Name = Hand
-NamePlural = Hands
-PortionName = Finger
-PortionNamePlural = Fingers
-Pocket = 2
-Price = 10000
-FieldUse = OnPokemon
-Flags = Fling_30
-Description = Raises 1 Kreature's base Def. My wife said we need more hands in the house, so I obliged. Why did she scream? I worked with my chainsaw all day for those.
+Description = Ew, why did you pick this up? It's rancid. Go and sell it and make it somebody else's problem.
 #-------------------------------
 [CALCIUM]
 Name = Eye
@@ -225,17 +53,6 @@ FieldUse = OnPokemon
 Flags = Fling_30
 Description = Raises 1 Kreature's base Sp.Atk. "All the better to see you with!" said the wolf. The wolf should've been looking for the axe instead.
 #-------------------------------
-[ZINC]
-Name = Hair
-NamePlural = Hairs
-PortionName = Hair
-PortionNamePlural = Hairs
-Pocket = 2
-Price = 10000
-FieldUse = OnPokemon
-Flags = Fling_30
-Description = Raises 1 Kreature's base Sp.Def. Human hair has keratin, something rhinos and their horns are hunted for. You know where I'm going with this. 
-#-------------------------------
 [CARBOS]
 Name = Foot
 NamePlural = Feet
@@ -247,23 +64,43 @@ FieldUse = OnPokemon
 Flags = Fling_30
 Description = Raises 1 Kreature's base Spd. I did it, I won the 100m dash! All I had to do was steal everyone else's feet. They'll live.
 #-------------------------------
-[EXPCANDYXS]
-Name = Rotting Brain Gunk
-NamePlural = Rotting Brain Gunk
-Pocket = 2
-Price = 5000
-FieldUse = OnPokemon
-Flags = Fling_30
-Description = Raises XP level of 1 Kreature lightly. Sorry, we only have enough money for processed brains. We can't serve real brains in this economy.
+[DCBP]
+Name = Dead City Boxman Pass
+NamePlural = Dead City Boxman Pass
+Pocket = 5
+Flags = KeyItem
+Description = Show this to the Boxman in Dead City.
 #-------------------------------
-[EXPCANDYS]
-Name = Exp. Candy S
-NamePlural = Exp. Candy Ss
+[DeadMansWishes]
+Name = Dead Man's Wishes
+NamePlural = Dead Man's Wishes
+Pocket = 5
+Flags = KeyItem
+Description = Quintuples EXP gain. How can a dead man see if his wishes are being fulfilled? Maybe he's seeing you use them for some epic gains? Checkmate.
+#-------------------------------
+[DEFBERRY]
+Name = Let’s Get This Bread
+NamePlural = Let's Get These Breads
 Pocket = 2
-Price = 240
-FieldUse = OnPokemon
-Flags = Fling_30
-Description = A candy packed with energy. When consumed, it will grant a Pokémon a small amount of Exp. Points.
+Price = 20
+Flags = Fling_5,Berry,NaturalGift_REASON_100
+Description = Increases Def when at quarter HP or lower. Why does it do this? Fuck you, I don’t need to explain myself to you.
+#-------------------------------
+[EMPTYBERRY]
+Name = Foetus Skull
+NamePlural = Foetus Skulls
+Pocket = 4
+Price = 40
+Flags = Fling_25,Berry,NaturalGift_EMPTY_80
+Description = Decreases damage of 1 Empty attack. The hollow cavity satisfyingly crunches as your teeth grind through it.
+#-------------------------------
+[EMPTYGEM]
+Name = John Doe
+NamePlural = Many John Does
+Pocket = 4
+Price = 50
+Flags = Fling_40,TypeGem
+Description = Increases damage of 1 Empty attack. I’m sorry John.
 #-------------------------------
 [EXPCANDYM]
 Name = Freshly Butchered Brain
@@ -274,23 +111,122 @@ FieldUse = OnPokemon
 Flags = Fling_30
 Description = Raises XP level of 1 Kreature notably. Is this the first sign we're out of the recession? We can finally eat real brains again!
 #-------------------------------
-[EXPCANDYL]
-Name = Exp. Candy L
-NamePlural = Exp. Candy Ls
+[EXPCANDYXS]
+Name = Rotting Brain Gunk
+NamePlural = Rotting Brain Gunk
 Pocket = 2
-Price = 3000
+Price = 5000
 FieldUse = OnPokemon
 Flags = Fling_30
-Description = A candy packed with energy. When consumed, it will grant a Pokémon a large amount of Exp. Points.
+Description = Raises XP level of 1 Kreature lightly. Sorry, we only have enough money for processed brains. We can't serve real brains in this economy.
 #-------------------------------
-[EXPCANDYXL]
-Name = Exp. Candy XL
-NamePlural = Exp. Candy XLs
+#COULD USE AS NEW ITEM, MIGHT BE USED ALREADY?
+[EXPERTBELT]
+Name = Sulfur Brand
+NamePlural = Sulfur Brands
+Pocket = 4
+Price = 4000
+BPPrice = 25
+Flags = Fling_10
+Description = Slightly boosts a Devastating move. Made all the more devastating by the fact you can throw it in their faces.
+#-------------------------------
+[FACTORYSHORESKEY]
+Name = Factory Shores Key
+NamePlural = Factory Shores Key
+Pocket = 5
+Flags = KeyItem
+Description = Allows access to a locked house in the Factory Shores.
+#-------------------------------
+[FANTASYBERRY]
+Name = Sweet Sweets
+NamePlural = Sweet Sweets
+Pocket = 4
+Price = 40
+Flags = Fling_0,Berry,NaturalGift_FANTASY_80
+Description = Decreases damage of 1 Fantasy attack. There are plenty of wondrous fantasies in this world, but a cup of tea and cute lil’ biscuits is one of the strongest.
+#-------------------------------
+[FANTASYGEM]
+Name = Mystery Juice
+NamePlural = Mystery Juice Bottles
+Pocket = 4
+Price = 50
+Flags = Fling_20,TypeGem
+Description = Increases damage of 1 Fantasy attack. What’s in it? Who knows! All that matters is that it sparkles.
+#-------------------------------
+[FOCUSSASH]
+Name = Flan
+NamePlural = Flans
+Pocket = 4
+Price = 3000
+SellPrice = 2000
+BPPrice = 15
+Flags = Fling_10
+Description = Lets a Kreature endure a OHKO attack at full HP. A treat so sweet you can't taste defeat.
+#-------------------------------
+[GOODSHOES]
+Name = Good Pair of Shoes
+NamePlural = Good Pair of Shoes
+Pocket = 5
+Flags = KeyItem
+Description = Doubles walking speed while holding the X key. How did I not leave the house wearing these? Ugh. At least my foot pains will die down.
+#-------------------------------
+[LEFTOVERS]
+Name = Cute Kitty Plush
+NamePlural = Cute Kitty Plushes
+PortionName = Cute Kitty Plush
+PortionNamePlural = Cute Kitty Plushes
+Pocket = 1
+Price = 4000
+BPPrice = 25
+Flags = Fling_10
+Description = Awwww, it's adorable! My heart is melting....oh. My heart is melting. Gradually restore HP during battle.
+#-------------------------------
+[LIFEORB]
+Name = Shork Plush 
+NamePlural = Shork Plushes
+Pocket = 4
+Price = 4000
+BPPrice = 25
+Flags = Fling_30
+Description = Strengthens moves, but lose some HP on each hit. An apex predator, cutified and commercialised for all girls and boys! Teeth and bloodlust not removed.
+#-------------------------------
+[LOOT]
+Name = LOOT
+NamePlural = LOOTs
+Pocket = 5
+Price = 0
+Flags = KeyItem
+Description = LOOT!
+#-------------------------------
+[METRONOME]
+Name = Idol
+NamePlural = Idols
+Pocket = 4
+Price = 3000
+SellPrice = 2000
+BPPrice = 25
+Flags = Fling_30
+Description = Boosts a consecutively used move, effects resetting with a new move. When all you've built your life up to suddenly falls, so do you.
+#-------------------------------
+[POKEBALL]
+Name = Kreature Kube
+NamePlural = Kreature Kubes
+Pocket = 3
+Price = 200
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A weird device used to catch Kreatures. May give them a head injury based on how you throw it.
+#-------------------------------
+[PROTEIN]
+Name = Mouth
+NamePlural = Mouths
+PortionName = Tooth
+PortionNamePlural = Teeth
 Pocket = 2
 Price = 10000
 FieldUse = OnPokemon
 Flags = Fling_30
-Description = A candy packed with energy. When consumed, it will grant a Pokémon a very large amount of Exp. Points.
+Description = Raises 1 Kreature's base Atk. Forget the fake bag of teeth and lips, this is the real deal. Eat up, it's all natural!
 #-------------------------------
 [RARECANDY]
 Name = Hotpot
@@ -302,156 +238,60 @@ FieldUse = OnPokemon
 Flags = Fling_30
 Description = Raise's a Kreature's level by one. Everyone loves hotpot, of course it makes you super!
 #-------------------------------
-[POKEBALL]
-Name = Kreature Kube
-NamePlural = Kreature Kubes
-Pocket = 3
-Price = 200
-BattleUse = OnFoe
-Flags = PokeBall
-Description = A weird device used to catch Kreatures. May give them a head injury based on how you throw it.
-#-------------------------------
-[TIMERBALL]
-Name = Klok Kube
-NamePlural = Klok Kube
-Pocket = 3
-Price = 1000
-BattleUse = OnFoe
-Flags = PokeBall
-Description = This Kube becomes more useful as the fight goes on.
-#-------------------------------
-[BEASTBALL]
-Name = Beast Kube
-NamePlural = Beast Kubes
-Pocket = 3
-Price = 200
-BattleUse = OnFoe
-Flags = PokeBall
-Description = This Kube helps catch Beast Kreatures. This should quell their ferocius feral tendencies. 
-#-------------------------------
-[EMPTYBALL]
-Name = Empty Kube
-NamePlural = Empty Kubes
-Pocket = 3
-Price = 200
-BattleUse = OnFoe
-Flags = PokeBall
-Description = This Kube helps catch Empty Kreatures. Once filled, it is no longer empty, yet emptier than ever.
-#-------------------------------
-[FANTASYBALL]
-Name = Fantasy Kube
-NamePlural = Fantasy Kubes
-Pocket = 3
-Price = 200
-BattleUse = OnFoe
-Flags = PokeBall
-Description = This Kube helps catch Fantasy Kreatures. With this, having that Kreature will no longer be a fantasy.
-#-------------------------------
-[TERRORBALL]
-Name = Terror Kube
-NamePlural = Terror Kubes
-Pocket = 3
-Price = 200
-BattleUse = OnFoe
-Flags = PokeBall
-Description = This Kube helps catch Terror Kreatures. They'll look a lot less scary trapped in one of these.
-#-------------------------------
-[TRUCKBALL]
-Name = Truck Kube
-NamePlural = Truck Kubes
-Pocket = 3
-Price = 200
-BattleUse = OnFoe
-Flags = PokeBall
-Description = This Kube helps catch...trucks. Dunno why you want to catch a truck of all things, but I won't stop you.
-#-------------------------------
-[CLOWNBALL]
-Name = Clown Kube
-NamePlural = Clown Kubes
-Pocket = 3
-Price = 200
-BattleUse = OnFoe
-Flags = PokeBall
-Description = This Kube helps catch Clown Kreatures. The world may be ending but you're doing it a very good service.
-#-------------------------------
-[BLOONBALL]
-Name = Bloon Kube
-NamePlural = Bloon Kubes
-Pocket = 3
-Price = 200
-BattleUse = OnFoe
-Flags = PokeBall
-Description = This Kube helps catch Bloon Kreatures. Maybe they'll pop before you can bring them out?
-#-------------------------------
-[FURRYBALL]
-Name = Furry Kube
-NamePlural = Furry Kubes
-Pocket = 3
-Price = 200
-BattleUse = OnFoe
-Flags = PokeBall
-Description = This Kube helps catch furries. An......interesting choice.
-#-------------------------------
-[WRONGBALL]
-Name = Wrong Kube
-NamePlural = Wrong Kubes
-Pocket = 3
-Price = 200
-BattleUse = OnFoe
-Flags = PokeBall
-Description = This Kube helps catch Wrong Kreatures. Everything about this is wrong, and so is that Kreature.
-#-------------------------------
-[PREMIERBALL]
-Name = Premier Kube
-NamePlural = Premier Kubes
-Pocket = 3
-Price = 200
-SellPrice = 10
-BattleUse = OnFoe
-Flags = PokeBall
-Description = A top of the line Kreature Kube, don't drop it!
-#-------------------------------
-[LEVELBALL]
-Name = Level Kube
-NamePlural = Level Kubes
+[REASONBALL]
+Name = Reason Kube
+NamePlural = Reason Kubes
 Pocket = 3
 Price = 300
 BattleUse = OnFoe
 Flags = PokeBall
-Description = This Kube helps catch lower level Kreatures than your own.
+Description = A Kreature Kube specifically designed to help in easily catching Reason Kreatures. Clearly the logical solution, how else would you catch them? 
 #-------------------------------
-[SHINYCHARM]
-Name = Shiny Charm
-NamePlural = Shiny Charms
-Pocket = 1
-Price = 0
-Flags = KeyItem
-Description = A shiny charm said to increase the chance of finding a Shiny Pokémon.
+[REASONBERRY]
+Name = Antidepressant
+NamePlural = Antidepressants
+Pocket = 4
+Price = 40
+Flags = Fling_0,Berry,NaturalGift_REASON_80
+Description = Decreases damage of 1 Reason attack. Ketamine counts as an antidepressant, right?
 #-------------------------------
-[BLUESHARD]
-Name = Trash
-NamePlural = More Trash 
+[REASONGEM]
+Name = Thinking Food 
+NamePlural = Thinking Food
+Pocket = 4
+Price = 50
+Flags = Fling_5,TypeGem
+Description = Increases damage of 1 Reason attack. It’s a birthday cake made of liquified brains. What do you want from me.
+#-------------------------------
+[REDCARD]
+Name = Toy Train
+NamePlural = Toy Trains
 Pocket = 1
-Price = 10
+Price = 3000
+SellPrice = 2000
+BPPrice = 20
+Flags = Fling_10
+Description = Removes from battle a foe that attacks the holder. A train by technicality, as a train is the combined load pulled by a locomotive.
+#-------------------------------
+[ROCKYHELMET]
+Name = Curesis
+NamePlural = Curesis
+Pocket = 4
+Price = 3000
+SellPrice = 2000
+BPPrice = 25
+Flags = Fling_60
+Description = If the holder is damaged, also damages the attacker. What does the taste of someone's own medicine taste like? I think it tastes of sin and rot.
+#-------------------------------
+#COULD USE AS NEW ITEM
+[SHELLBELL]
+Name = Shell Bell
+NamePlural = Shell Bells
+Pocket = 1
+Price = 4000
+BPPrice = 25
 Flags = Fling_30
-Description = Ew, why did you pick this up? It's rancid. Go and sell it and make it somebody else's problem.
-#-------------------------------
-[ATKBERRY]
-Name = Red Rump Roast
-NamePlural = Red Rump Roasts
-Pocket = 2
-Price = 20
-Flags = Fling_20,Berry,NaturalGift_BEAST_100
-#Consumable = true
-Description = Increases Atk when at quarter HP or lower. There’s nothing like sinking your teeth into a freshly cooked ass to get the blood pumping. 
-#-------------------------------
-[DEFBERRY]
-Name = Let’s Get This Bread
-NamePlural = Let's Get These Breads
-Pocket = 2
-Price = 20
-Flags = Fling_5,Berry,NaturalGift_REASON_100
-Description = Increases Def when at quarter HP or lower. Why does it do this? Fuck you, I don’t need to explain myself to you.
+Description = An item to be held by a Pokémon. The holder's HP is restored a little every time it inflicts damage.
 #-------------------------------
 [SPDBERRY]
 Name = Sparkle Cake
@@ -487,13 +327,21 @@ Price = 15
 Flags = Berry,Fling_10,NaturalGift_TERROR_100
 Description = Increases a random stat when at quarter HP or lower. Hopefully it doesn't give you its empty stomach.
 #-------------------------------
-[TERRORGEM]
-Name = Fleshcake
-NamePlural = Fleshcakes
-Pocket = 4
-Price = 50
-Flags = Fling_20,TypeGem
-Description = Increases damage of 1 Terror attack. To sip on the life fluids of a living thing can give one great strength. God, I love grape juice.
+[STEAKDINNER] 
+Name = Yummy Steak Dinner 
+NamePlural = Yummy Steak Dinners 
+Pocket = 5 
+Flags = KeyItem 
+Description = A delicious steak dinner for one! Surely no-one's ever missed out on this before....surely.
+#-------------------------------
+[TERRORBALL]
+Name = Terror Kube
+NamePlural = Terror Kubes
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = This Kube helps catch Terror Kreatures. They'll look a lot less scary trapped in one of these.
 #-------------------------------
 [TERRORBERRY]
 Name = Christmas Cake
@@ -505,6 +353,107 @@ Price = 40
 Flags = Fling_10,Berry,NaturalGift_TERROR_80
 Description = Decreases damage of 1 Terror attack. The memories of winters gone soothes your soul.
 #-------------------------------
+[TERRORGEM]
+Name = Fleshcake
+NamePlural = Fleshcakes
+Pocket = 4
+Price = 50
+Flags = Fling_20,TypeGem
+Description = Increases damage of 1 Terror attack. To sip on the life fluids of a living thing can give one great strength. God, I love grape juice.
+#-------------------------------
+[TIMERBALL]
+Name = Klok Kube
+NamePlural = Klok Kube
+Pocket = 3
+Price = 1000
+BattleUse = OnFoe
+Flags = PokeBall
+Description = This Kube becomes more useful as the fight goes on.
+#-------------------------------
+[TWENTYDOLLARS]
+Name = Bundle of 20 Dollars
+NamePlural = Bundle of 20 Dollars
+Pocket = 5
+Flags = KeyItem
+Description = Nobody uses this currency anymore, but maybe there's some people who would want it.
+#-------------------------------
+[WEAKNESSPOLICY]
+Name = Chalice of Need
+NamePlural = Chalice of Need
+Pocket = 2
+Price = 1000
+BPPrice = 20
+Flags = Fling_80
+Description = Sharply increases Atk and Spec.Atk if hit by a Devastating move. Known to quench all extreme thirsts, but can it quench the voices in your head?
+#-------------------------------
+[WHITEHERB]
+Name = Syrinj
+NamePlural = Syrinj
+Pocket = 2
+Price = 4000
+BPPrice = 15
+Flags = Fling_10
+Description = Restores any lowered stat once. One of the current hot items on the market, I wonder why? I just need 20 dollars to buy one. Or two. Or three.
+#-------------------------------
+[ZINC]
+Name = Hair
+NamePlural = Hairs
+PortionName = Hair
+PortionNamePlural = Hairs
+Pocket = 2
+Price = 10000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = Raises 1 Kreature's base Sp.Def. Human hair has keratin, something rhinos and their horns are hunted for. You know where I'm going with this. 
+#-------------------------------
+[IRON]
+Name = Hand
+NamePlural = Hands
+PortionName = Finger
+PortionNamePlural = Fingers
+Pocket = 2
+Price = 10000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = Raises 1 Kreature's base Def. My wife said we need more hands in the house, so I obliged. Why did she scream? I worked with my chainsaw all day for those.
+#-------------------------------
+[EMPTYBALL]
+Name = Empty Kube
+NamePlural = Empty Kubes
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = This Kube helps catch Empty Kreatures. Once filled, it is no longer empty, yet emptier than ever.
+#-------------------------------
+[FANTASYBALL]
+Name = Fantasy Kube
+NamePlural = Fantasy Kubes
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = This Kube helps catch Fantasy Kreatures. With this, having that Kreature will no longer be a fantasy.
+#-------------------------------
+[PREMIERBALL]
+Name = Premier Kube
+NamePlural = Premier Kubes
+Pocket = 3
+Price = 200
+SellPrice = 10
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A top of the line Kreature Kube, don't drop it!
+#-------------------------------
+[LEVELBALL]
+Name = Level Kube
+NamePlural = Level Kubes
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = This Kube helps catch lower level Kreatures than your own.
+#-------------------------------
 [BEASTGEM]
 Name = Red Meat
 NamePlural = Red Meats
@@ -513,124 +462,14 @@ Price = 50
 Flags = Fling_30,TypeGem
 Description = Increases damage of 1 Beast attack. Being able to look into its helpless dead eyes makes it all the sweeter.
 #-------------------------------
-[BEASTBERRY]
-Name = Food?
-NamePlural = Food?
-Pocket = 4
-Price = 40
-Flags = Fling_15,Berry,NaturalGift_BEAST_80
-Description = Decreases damage of 1 Beast attack. The smell of this revolts you on a primal level.
+[EXPCANDYXL]
+Name = Exp. Candy L
+NamePlural = Exp. Candy Ls
+Pocket = 2
+Price = 3000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = Raises XP level of 1 Kreature massively. Oh no...the brainflation is beginning again. Damn oversupply. 
 #-------------------------------
-[FANTASYGEM]
-Name = Mystery Juice
-NamePlural = Mystery Juice Bottles
-Pocket = 4
-Price = 50
-Flags = Fling_20,TypeGem
-Description = Increases damage of 1 Fantasy attack. What’s in it? Who knows! All that matters is that it sparkles.
-#-------------------------------
-[FANTASYBERRY]
-Name = Sweet Sweets
-NamePlural = Sweet Sweets
-Pocket = 4
-Price = 40
-Flags = Fling_0,Berry,NaturalGift_FANTASY_80
-Description = Decreases damage of 1 Fantasy attack. There are plenty of wondrous fantasies in this world, but a cup of tea and cute lil’ biscuits is one of the strongest.
-#-------------------------------
-[REASONGEM]
-Name = Thinking Food 
-NamePlural = Thinking Food
-Pocket = 4
-Price = 50
-Flags = Fling_5,TypeGem
-Description = Increases damage of 1 Reason attack. It’s a birthday cake made of liquified brains. What do you want from me.
-#-------------------------------
-[REASONBERRY]
-Name = Antidepressant
-NamePlural = Antidepressants
-Pocket = 4
-Price = 40
-Flags = Fling_0,Berry,NaturalGift_REASON_80
-Description = Decreases damage of 1 Reason attack. Ketamine counts as an antidepressant, right?
-#-------------------------------
-[EMPTYGEM]
-Name = John Doe
-NamePlural = Many John Does
-Pocket = 4
-Price = 50
-Flags = Fling_40,TypeGem
-Description = Increases damage of 1 Empty attack. I’m sorry John.
-#-------------------------------
-[EMPTYBERRY]
-Name = Foetus Skull
-NamePlural = Foetus Skulls
-Pocket = 4
-Price = 40
-Flags = Fling_25,Berry,NaturalGift_EMPTY_80
-Description = Decreases damage of 1 Empty attack. The hollow cavity satisfyingly crunches as your teeth grind through it.
-#-------------------------------
-[FACTORYSHORESKEY]
-Name = Factory Shores Key
-NamePlural = Factory Shores Key
-Pocket = 5
-Flags = KeyItem
-Description = Allows access to a locked house in the Factory Shores.
-#-------------------------------
-[TWENTYDOLLARS]
-Name = Bundle of 20 Dollars
-NamePlural = Bundle of 20 Dollars
-Pocket = 5
-Flags = KeyItem
-Description = Nobody uses this currency anymore, but maybe there's some people who would want it.
 #-------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT
-[REASONBALL]
-Name = Reason Kube
-NamePlural = Reason Kubes
-Pocket = 3
-Price = 200
-BattleUse = OnFoe
-Flags = PokeBall
-Description = A Kreature Kube specifically designed to help in easily catching Reason Kreatures. Clearly the logical solution, how else would you catch them? 
 #-------------------------------
-[LOOT]
-Name = LOOT
-NamePlural = LOOTs
-Pocket = 5
-Price = 0
-Flags = KeyItem
-Description = LOOT!
-#-------------------------------
-[DCBP]
-Name = Dead City Boxman Pass
-NamePlural = Dead City Boxman Pass
-Pocket = 5
-Flags = KeyItem
-Description = Show this to the Boxman in Dead City.
-#-------------------------------
-[STEAKDINNER] 
-Name = Yummy Steak Dinner 
-NamePlural = Yummy Steak Dinners 
-Pocket = 5 
-Flags = KeyItem 
-Description = A delicious steak dinner for one! Surely no-one's ever missed out on this before....surely.
-#-------------------------------
-[Test1] 
-Name = Test1
-NamePlural = Test1 
-Pocket = 5 
-Flags = KeyItem 
-Description = Test1
-#-------------------------------
-[DeadMansWishes]
-Name = Dead Man's Wishes
-NamePlural = Dead Man's Wishes
-Pocket = 5
-Flags = KeyItem
-Description = Quintuples EXP gain. How can a dead man see if his wishes are being fulfilled? Maybe he's seeing you use them for some epic gains? Checkmate.
-#-------------------------------
-[GOODSHOES]
-Name = Good Pair of Shoes
-NamePlural = Good Pair of Shoes
-Pocket = 5
-Flags = KeyItem
-Description = Doubles walking speed while holding the X key. How did I not leave the house wearing these? Ugh. At least my foot pains will die down.
