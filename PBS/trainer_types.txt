@@ -3,7 +3,7 @@
 [POKEMONTRAINER_Leaf]
 Name = Pokémon Trainer
 Gender = Female
-BaseMoney = 60
+BaseMoney = 50
 #-------------------------------
 [DD]
 Name = Eccentric Lass
