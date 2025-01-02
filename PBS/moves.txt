@@ -227,7 +227,8 @@ Accuracy = 0
 TotalPP = 1
 Target = User
 FunctionCode = AttackerFaintsIfUserFaints
-Description = Drag your opponent to hell with you if KO'd after using this move this turn. #-------------------------------
+Description = Drag your opponent to hell with you if KO'd after using this move this turn. 
+#-------------------------------
 [OPTIMIST]
 Name = Optimist
 Type = FANTASY

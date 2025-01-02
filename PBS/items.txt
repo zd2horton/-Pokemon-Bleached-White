@@ -21,7 +21,7 @@ Description = Increases Atk when at quarter HP or lower. There’s nothing like 
 Name = Beast Kube
 NamePlural = Beast Kubes
 Pocket = 3
-Price = 300
+Price = 250
 BattleUse = OnFoe
 Flags = PokeBall
 Description = This Kube helps catch Beast Kreatures. This should quell their ferocius feral tendencies. 
@@ -32,7 +32,7 @@ NamePlural = Food?
 Pocket = 4
 Price = 40
 Flags = Fling_15,Berry,NaturalGift_BEAST_80
-Description = Decreases damage of 1 Beast attack. The smell of this revolts you on a primal level.
+Description = Decreases damage of a devastating Beast attack. The smell of this revolts you on a primal level.
 #-------------------------------
 [BLUESHARD]
 Name = Trash
@@ -45,8 +45,6 @@ Description = Ew, why did you pick this up? It's rancid. Go and sell it and make
 [CALCIUM]
 Name = Eye
 NamePlural = Eyes
-PortionName = Eye Piece
-PortionNamePlural = Eye Pieces
 Pocket = 2
 Price = 10000
 FieldUse = OnPokemon
@@ -56,8 +54,6 @@ Description = Raises 1 Kreature's base Sp.Atk. "All the better to see you with!"
 [CARBOS]
 Name = Foot
 NamePlural = Feet
-PortionName = Toe
-PortionNamePlural = Toes
 Pocket = 2
 Price = 10000
 FieldUse = OnPokemon
@@ -92,7 +88,7 @@ NamePlural = Foetus Skulls
 Pocket = 4
 Price = 40
 Flags = Fling_25,Berry,NaturalGift_EMPTY_80
-Description = Decreases damage of 1 Empty attack. The hollow cavity satisfyingly crunches as your teeth grind through it.
+Description = Decreases damage of a devastating Empty attack. The hollow cavity satisfyingly crunches as your teeth grind through it.
 #-------------------------------
 [EMPTYGEM]
 Name = John Doe
@@ -100,11 +96,11 @@ NamePlural = Many John Does
 Pocket = 4
 Price = 50
 Flags = Fling_40,TypeGem
-Description = Increases damage of 1 Empty attack. I’m sorry John.
+Description = Increases damage of a Empty attack. I’m sorry John.
 #-------------------------------
 [EXPCANDYM]
-Name = Freshly Butchered Brain
-NamePlural = Freshly Butchered Brains
+Name = Fresh Brain
+NamePlural = Fresh Brains
 Pocket = 2
 Price = 1000
 FieldUse = OnPokemon
@@ -112,8 +108,8 @@ Flags = Fling_30
 Description = Raises XP level of 1 Kreature notably. Is this the first sign we're out of the recession? We can finally eat real brains again!
 #-------------------------------
 [EXPCANDYXS]
-Name = Rotting Brain Gunk
-NamePlural = Rotting Brain Gunk
+Name = Rotted Brain Gunk
+NamePlural = Rotted Brain Gunk
 Pocket = 2
 Price = 5000
 FieldUse = OnPokemon
@@ -143,7 +139,7 @@ NamePlural = Sweet Sweets
 Pocket = 4
 Price = 40
 Flags = Fling_0,Berry,NaturalGift_FANTASY_80
-Description = Decreases damage of 1 Fantasy attack. There are plenty of wondrous fantasies in this world, but a cup of tea and cute lil’ biscuits is one of the strongest.
+Description = Decreases damage of a devastating Fantasy attack. Out of all the wondrous fantasies in this world, a cuppa and cute lil’ biscuit is the strongest.
 #-------------------------------
 [FANTASYGEM]
 Name = Mystery Juice
@@ -151,7 +147,7 @@ NamePlural = Mystery Juice Bottles
 Pocket = 4
 Price = 50
 Flags = Fling_20,TypeGem
-Description = Increases damage of 1 Fantasy attack. What’s in it? Who knows! All that matters is that it sparkles.
+Description = Increases damage of a Fantasy attack. What’s in it? Who knows! All that matters is that it sparkles.
 #-------------------------------
 [FOCUSSASH]
 Name = Flan
@@ -173,8 +169,6 @@ Description = Doubles walking speed while holding the X key. How did I not leave
 [LEFTOVERS]
 Name = Cute Kitty Plush
 NamePlural = Cute Kitty Plushes
-PortionName = Cute Kitty Plush
-PortionNamePlural = Cute Kitty Plushes
 Pocket = 1
 Price = 4000
 BPPrice = 25
@@ -212,7 +206,7 @@ Description = Boosts a consecutively used move, effects resetting with a new mov
 Name = Kreature Kube
 NamePlural = Kreature Kubes
 Pocket = 3
-Price = 200
+Price = 150
 BattleUse = OnFoe
 Flags = PokeBall
 Description = A weird device used to catch Kreatures. May give them a head injury based on how you throw it.
@@ -242,7 +236,7 @@ Description = Raise's a Kreature's level by one. Everyone loves hotpot, of cours
 Name = Reason Kube
 NamePlural = Reason Kubes
 Pocket = 3
-Price = 300
+Price = 250
 BattleUse = OnFoe
 Flags = PokeBall
 Description = A Kreature Kube specifically designed to help in easily catching Reason Kreatures. Clearly the logical solution, how else would you catch them? 
@@ -253,7 +247,7 @@ NamePlural = Antidepressants
 Pocket = 4
 Price = 40
 Flags = Fling_0,Berry,NaturalGift_REASON_80
-Description = Decreases damage of 1 Reason attack. Ketamine counts as an antidepressant, right?
+Description = Decreases damage of a devastating Reason attack. Ketamine counts as an antidepressant, right?
 #-------------------------------
 [REASONGEM]
 Name = Thinking Food 
@@ -261,7 +255,7 @@ NamePlural = Thinking Food
 Pocket = 4
 Price = 50
 Flags = Fling_5,TypeGem
-Description = Increases damage of 1 Reason attack. It’s a birthday cake made of liquified brains. What do you want from me.
+Description = Increases damage of a Reason attack. It’s a birthday cake made of liquified brains. What do you want from me.
 #-------------------------------
 [REDCARD]
 Name = Toy Train
@@ -281,7 +275,7 @@ Price = 3000
 SellPrice = 2000
 BPPrice = 25
 Flags = Fling_60
-Description = If the holder is damaged, also damages the attacker. What does the taste of someone's own medicine taste like? I think it tastes of sin and rot.
+Description = Damages the attacker if you are damaged. What does the taste of someone's own medicine taste like? I think it tastes of sin and rot.
 #-------------------------------
 #COULD USE AS NEW ITEM
 [SHELLBELL]
@@ -296,8 +290,6 @@ Description = An item to be held by a Pokémon. The holder's HP is restored a li
 [SPDBERRY]
 Name = Sparkle Cake
 NamePlural = Sparkle Cakes
-PortionName = Sparkle Cake Slice
-PortionNamePlural = Sparkle Cake Slices
 Pocket = 2
 Price = 20
 Flags = Fling_10,Berry,NaturalGift_FANTASY_100
@@ -338,7 +330,7 @@ Description = A delicious steak dinner for one! Surely no-one's ever missed out 
 Name = Terror Kube
 NamePlural = Terror Kubes
 Pocket = 3
-Price = 300
+Price = 250
 BattleUse = OnFoe
 Flags = PokeBall
 Description = This Kube helps catch Terror Kreatures. They'll look a lot less scary trapped in one of these.
@@ -346,12 +338,10 @@ Description = This Kube helps catch Terror Kreatures. They'll look a lot less sc
 [TERRORBERRY]
 Name = Christmas Cake
 NamePlural = Christmas Cake Slices
-PortionName = Christmas Cake Slice
-PortionNamePlural = Christmas Cake Slices
 Pocket = 4
 Price = 40
 Flags = Fling_10,Berry,NaturalGift_TERROR_80
-Description = Decreases damage of 1 Terror attack. The memories of winters gone soothes your soul.
+Description = Decreases damage of a devastating Terror attack. The memories of winters gone soothes your soul.
 #-------------------------------
 [TERRORGEM]
 Name = Fleshcake
@@ -359,13 +349,13 @@ NamePlural = Fleshcakes
 Pocket = 4
 Price = 50
 Flags = Fling_20,TypeGem
-Description = Increases damage of 1 Terror attack. To sip on the life fluids of a living thing can give one great strength. God, I love grape juice.
+Description = Increases damage of a Terror attack. To sip on the life fluids of a living thing can give one great strength. God, I love grape juice.
 #-------------------------------
 [TIMERBALL]
 Name = Klok Kube
 NamePlural = Klok Kube
 Pocket = 3
-Price = 1000
+Price = 300
 BattleUse = OnFoe
 Flags = PokeBall
 Description = This Kube becomes more useful as the fight goes on.
@@ -384,7 +374,7 @@ Pocket = 2
 Price = 1000
 BPPrice = 20
 Flags = Fling_80
-Description = Sharply increases Atk and Spec.Atk if hit by a Devastating move. Known to quench all extreme thirsts, but can it quench the voices in your head?
+Description = Sharply increases Atk and Spec.Atk if hit by a Devastating move. Quenches all extreme thirsts, but can it quench the voices in your head?
 #-------------------------------
 [WHITEHERB]
 Name = Syrinj
@@ -415,13 +405,13 @@ Pocket = 2
 Price = 10000
 FieldUse = OnPokemon
 Flags = Fling_30
-Description = Raises 1 Kreature's base Def. My wife said we need more hands in the house, so I obliged. Why did she scream? I worked with my chainsaw all day for those.
+Description = Raises 1 Kreature's base Def. My wife SAID we needed more hands in the house. Why did she scream? I chainsawed outside all day for those.
 #-------------------------------
 [EMPTYBALL]
 Name = Empty Kube
 NamePlural = Empty Kubes
 Pocket = 3
-Price = 300
+Price = 250
 BattleUse = OnFoe
 Flags = PokeBall
 Description = This Kube helps catch Empty Kreatures. Once filled, it is no longer empty, yet emptier than ever.
@@ -430,7 +420,7 @@ Description = This Kube helps catch Empty Kreatures. Once filled, it is no longe
 Name = Fantasy Kube
 NamePlural = Fantasy Kubes
 Pocket = 3
-Price = 300
+Price = 250
 BattleUse = OnFoe
 Flags = PokeBall
 Description = This Kube helps catch Fantasy Kreatures. With this, having that Kreature will no longer be a fantasy.
@@ -439,7 +429,7 @@ Description = This Kube helps catch Fantasy Kreatures. With this, having that Kr
 Name = Premier Kube
 NamePlural = Premier Kubes
 Pocket = 3
-Price = 200
+Price = 400
 SellPrice = 10
 BattleUse = OnFoe
 Flags = PokeBall
@@ -460,11 +450,11 @@ NamePlural = Red Meats
 Pocket = 4
 Price = 50
 Flags = Fling_30,TypeGem
-Description = Increases damage of 1 Beast attack. Being able to look into its helpless dead eyes makes it all the sweeter.
+Description = Increases damage of a Beast attack. Being able to look into its helpless dead eyes makes it all the sweeter.
 #-------------------------------
 [EXPCANDYXL]
-Name = Exp. Candy L
-NamePlural = Exp. Candy Ls
+Name = Tasty Grey Matter
+NamePlural = Tasty Grey Matter
 Pocket = 2
 Price = 3000
 FieldUse = OnPokemon

@@ -61,7 +61,7 @@ TrainerBattleBGM = not maple 1 og
 TrainerVictoryBGM = empty air og
 #-------------------------------
 [014]   # shop (Gyrocity Shop)
-Name = Gyrocity Shop
+Name = Gyrocity Shop: Kubeporium
 MapPosition = 0,13,10
 BattleBack = city inside
 #-------------------------------
