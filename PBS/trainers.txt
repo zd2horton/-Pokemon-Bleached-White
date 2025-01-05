@@ -734,13 +734,13 @@ Pokemon = STAR,41
 #-------------------------------
 [BEAUTY,Bon]
 LoseText = I'm going to jump off this waterfall right now!
-Pokemon = WSTAAW,50
-Pokemon = OJABOBOD,50
+Pokemon = WSTAAW,45
+Pokemon = OJABOBOD,40
 #-------------------------------
 [BEAUTY,Triste]
 LoseText = Yay, we lost!
-Pokemon = AAARRR,43
-Pokemon = LOJA,43
+Pokemon = AAARRR,45
+Pokemon = LOJA,40
 #-------------------------------
 [spooky,Fayd]
 LoseText = W...wait....
@@ -751,7 +751,7 @@ Pokemon = ENGORGED,41
 #-------------------------------
 [BEAUTY,Konets]
 LoseText = Hmph.
-Pokemon = DAMPANDDARK,40
+Pokemon = DAMPANDDARK,50
 Pokemon = EGG,47
 #-------------------------------
 [DD, Trus]

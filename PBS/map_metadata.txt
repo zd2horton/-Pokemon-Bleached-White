@@ -108,6 +108,14 @@ BattleBack = DIGTHROUGH
 WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
 #-------------------------------
+[035] # Cave Shop
+Name = Secret Cave Shop
+ShowArea = true
+Battleback = DIGTHROUGH
+WildBattleBGM = rocks og
+WildVictoryBGM = empty air og
+DarkMap = true
+#-------------------------------
 [050]   # cave 3 (Resplendent Tunnel (DEEPER!!!!))
 Name = Resplendent Tunnel (DEEPER!!!!)
 ShowArea = true
@@ -232,6 +240,7 @@ TrainerVictoryBGM = empty air og
 #-------------------------------
 [031]   # MAP031 (Highlands Shop)
 Name = Highlands Shop
+ShowArea = true
 MapPosition = 0,14,6
 BattleBack = field
 MapSize = 2,1101
@@ -365,6 +374,11 @@ Name = The Fantastical Art Museum
 ShowArea = true
 BattleBack = M
 #-------------------------------
+[037]   # The Fantastical Gifts
+Name = Gift Shop
+ShowArea = true
+BattleBack = M
+#-------------------------------
 [010]   # Fantasy Leader
 Name = ???
 ShowArea = true
@@ -381,6 +395,16 @@ BattleBack = 077
 #-------------------------------
 [030]   # The Waterfall
 Name = The Waterfall
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,6
+BattleBack = waterfall
+WildBattleBGM = i really like this
+WildVictoryBGM = empty air og
+MapSize = 2,1101
+#-------------------------------
+[039]   # The Waterfall Shop
+Name = The Hidden Waterfall Shop
 Outdoor = true
 ShowArea = true
 MapPosition = 0,14,6
