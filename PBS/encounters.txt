@@ -129,7 +129,7 @@ Land,40
 	22,WSTAAW,28,30
 #-------------------------------
 [021] # BUMP (The Dump)
-Land,10
+Land,25
     10,PAKA,30,35
     10,TUMAR,30,35
     10,ARIARKE,30,35
@@ -142,7 +142,7 @@ Land,10
 	10,MANINBLACK,30,35
 #-------------------------------
 [041] # Long Road
-Land,10
+Cave,9
 	16,AYVASA,35,40
 	16,HEADSOFMAHARA,35,40
 	16,ELPHANT,35,40
@@ -154,7 +154,7 @@ Land,10
 	5,DARD,40
 #-------------------------------
 [030] # The Waterfall
-Land,10
+Land,25
 	19,ASCENDED,40,45
 	9,GONE,40,45
 	9,SEVLEOMED,40,45
