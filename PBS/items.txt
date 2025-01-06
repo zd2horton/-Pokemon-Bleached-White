@@ -133,6 +133,13 @@ Pocket = 5
 Flags = KeyItem
 Description = Allows access to a locked house in the Factory Shores.
 #-------------------------------
+[ENCOUNTERKEY]
+Name = Corridor Key
+NamePlural = Corridor Key
+Pocket = 5
+Flags = KeyItem
+Description = Unlocks the passages in the Corridor.
+#-------------------------------
 [FANTASYBERRY]
 Name = Sweet Sweets
 NamePlural = Sweet Sweets

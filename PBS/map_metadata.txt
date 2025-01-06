@@ -26,6 +26,18 @@ ShowArea = true
 MapPosition = 0,13,12
 BattleBack = inside
 #-------------------------------
+[042]   # Daisy's house (Empty House)
+Name = Empty House...?
+ShowArea = true
+MapPosition = 0,13,12
+BattleBack = inside
+#-------------------------------
+[043]   # Daisy's house (Empty House)
+Name = Corridor
+ShowArea = true
+MapPosition = 0,13,12
+BattleBack = inside
+#-------------------------------
 [004]   # Pokémon Lab (Professor's Lab)
 Name = Professor's Lab
 MapPosition = 0,13,12
@@ -201,6 +213,7 @@ ShowArea = true
 BattleBack = DIGTHROUGH
 WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
+DarkMap = true
 #-------------------------------
 [032]   # MATION (The Empty Mansion)
 Name = The Empty Mansion

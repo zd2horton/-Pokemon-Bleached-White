@@ -627,7 +627,7 @@ Pokemon = TICK,34
 [MSDINO,Harry]
 LoseText = Well my dear, you're quite the treasure.
 Pokemon = SECOND,34
-Pokemon = OJABOBOD,30
+Pokemon = WYWYWY,30
 Pokemon = DIOE,33
 #-------------------------------
 [EXCAVATOR,Eugene]

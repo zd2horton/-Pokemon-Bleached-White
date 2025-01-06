@@ -4,102 +4,164 @@
 #-------------------------------
 [005] # Route 1 (First Steps)
 Land,40
-    40,BIRBABY,3,4
-    40,CRITTER,3,4
-    20,LOSTFACES,4
-LandNight,21
-    40,DEATH,100
-#-------------------------------
-[021] # BUMP (The Dump)
-Land,10
-    30,OJABOBOD,28,30
-    20,LLABOTOMY,28,30
-    20,PAKA,28,30
-    20,POPIP,28,30
-    20,TUMAR,28,30
-    10,ARIARKE,28,30
-    10,ELPHANT,28,30
-#-------------------------------
-[030] # The Waterfall
-Land,10
-    30,OJABOBOD,28,30
-    20,LLABOTOMY,28,30
-    20,PAKA,28,30
-    20,POPIP,28,30
-    20,TUMAR,28,30
-    10,ARIARKE,28,30
-    10,ELPHANT,28,30
+    14,BIRBABY,3,5
+    14,CRITTER,3,5 
+    14,LOSTFACES,3,5
+	14,SAPLING,3,5
+	14,CARACRCA,3,5
+	15,GYRO,3,5
+	15,WYORM,3,5
 #-------------------------------
 [047] # Route 7 (Rocky Plains)
-Land,21
-    30,DUK,9,11
-    30,LITTELPONE,9,11
-    20,SMUNKY,9,11
-    20,THELAMB,9,11
-LandNight,21
-    40,DEATH,100
-PokeRadar,20
-    40,DEATH,100
+Land,25
+    18,SMUNKY,9,11
+	17,LITTELPONE,9,11
+    17,THELAMB,9,11	
+	16,KOW,9,11
+	16,PHILSOPHER,9,11
+	16,KOKCROACH,9,11
 #-------------------------------
 [049] # cave 2 (Rocky Spiral (Deeper...))
 Cave,5
-    30,BATY,12,13
-    20,GRAVENIMAGE,12,13
-    20,LOSTFACES,12,13
-    15,BARY,12,13
-    10,MAW,12,13
-    5,BOBYS,8
-#-------------------------------
-[077] # After the Forest (Highlands)
-Land,40
-    20,BERMY,21,23
-    20,DAMP,21,23
-    20,DIDYDARK,21,23
-    20,DOS,21,23
-    20,GROS,21,23
-#-------------------------------
-[083] # Factory Shore
-Land,40
-    20,KLAK,15,17
-#-------------------------------
-[093] # forest (Foraging Forests)
-Land,25
-    15,ARRA,18,20
-    15,BUGABOO,18,20
-    15,CHUTE,18,20
-    15,NOKING,18,20
-    10,LITTELSTAR,18,20
-    10,TEEHEE,18,20
-    5,ALADY,22,25
-    5,BIRSON,20,25
-    5,LOVERS,18,20
-    5,SISTER,20,22
-#-------------------------------
-[102] # Professor's Room
-Land,15
-    40,FLATMAN,1,4
-    5,TEEHEE,4
-RockSmash,50
-    80,KOKCROACH,5
-    50,TOMUCHFACES,5
-#-------------------------------
-[104] # factory forest transition (Before the Forest/Forest Trek)
-Land,40
-    100,BRAINWORM,18,20
+    22,BATY,12,14
+	22,DRAGONE,12,14
+    22,MAW,12,14
+	22,FIRST,12,14
+    12,BARY,12,14
 #-------------------------------
 [213] # cave1 (Crimson Cavern (DEEPER....))
 Cave,5
-    20,BATY,12,14
-    20,LOSTFACES,12,14
-    15,BARY,12,14
-    10,GRAVENIMAGE,12,14
-    10,MAW,12,14
-    5,BOBYS,8
+    25,GRAVENIMAGE,13,15
+    25,BOBYS,13,15
+	25,AAARRR,13,15
+	13,DIOE,13,15
+	12,BARY,13,15
+#-------------------------------
+[083] # Factory Shore
+Land,40
+    15,KLAK,18,21
+	15,DUK,18,21
+	15,FLATMAN,18,21
+	15,LLABOTOMY,18,21
+	15,EEDIOE,18,21
+	15,CROOKEDMAN,18,21
+	10,ARRA,18,21
+#-------------------------------
+[104] # factory forest transition (Before the Forest/Forest Trek)
+Land,40
+    18,BRAINWORM,20,23	
+	18,MAN,20,23	
+	18,LITTELSTAR,20,23	
+	18,MINOMIND,20,23	
+	15,POPIP,20,23	
+	13,TICK,20,23	
+#-------------------------------
+[105] # factory cave
+Cave,7
+	30,CROOKEDMAN,20,23
+	30,POOKOOCHUE,20,23
+	20,OJABOBOD,20,23
+	10,BAAATY,24
+	10,REHOSLIPH,20,23
+#-------------------------------
+[093] # forest (Foraging Forests)
+Land,25
+    12,BUGABOO,21,25
+    12,CHUTE,21,25
+    12,NOKING,21,25
+	12,EEEMM,21,25
+    12,ALADY,21,25
+    12,LOVERS,21,25
+    12,SISTER,21,25
+	6,ARRA,21,25
+	10,TEEHEE,21,25
+#-------------------------------
+[023] # Forest Cave 3
+Cave,25
+	35,CLOCLO
+	35,ALIVE
+	13,DIOE
+	10,OJABOBOD
+	7,ROOOCH
+#-------------------------------
+[024] # Forest Cave 4
+Cave,10
+	20,DRAG,21,25
+	20,RAPTORS,21,25
+	20,HER,21,25
+	20,POPIP,21,25
+	10,BIGBARY,25
+	10,TEEHEE,21,25
+#-------------------------------
+[077] # After the Forest (Highlands)
+Land,40
+    13,DIDYDARK,23,27
+	13,GROS,23,27
+	13,EGG,23,27
+	13,MOOMOON,23,27
+    12,BERMY,23,27
+    12,DAMP,23,27
+    12,DOS,23,27
+	12,THEWORD,23,27
+#-------------------------------
+[011] # City Greenhouse
+Land,40
+	25,SATARA,27,29
+	25,MECRURY,27,29
+	5,CHUMCHUM,27,29
+	9,TICK,27,29
+	9,SPRIG,27,29
+	9,GROGS,27,29
+	9,CRITTERSSS,27,29
+	9,BUGERBOOBOO,30
 #-------------------------------
 [279] # Between Dead City and Slaughter (Slaughterfalls)
 Land,40
-    20,BERMY,21,23
-    20,DAMP,21,23
-    20,DIDYDARK,21,23
-    20,DOS,21,23
-    20,GROS,21,23
+	5,AUROCHS,28,30
+	5,TOMUCHFACES,28,30
+	5,BIRSON,28,30
+	5,DIOTORAS,28,30
+	5,MOREMAW,28,30
+	5,THERAM,28,30
+	5,KLAKLAK,28,30
+	22,LOJA,28,30
+	21,PREACHER,28,30
+	22,WSTAAW,28,30
+#-------------------------------
+[021] # BUMP (The Dump)
+Land,10
+    10,PAKA,30,35
+    10,TUMAR,30,35
+    10,ARIARKE,30,35
+    10,HEAD,30,35
+	10,POSEY,30,34
+	10,KART,30,35
+	10,DARWIN,30,35
+	10,THREEONEFIVE,30,35
+	10,BABOSHCA,30,35
+	10,MANINBLACK,30,35
+#-------------------------------
+[041] # Long Road
+Land,10
+	16,AYVASA,35,40
+	16,HEADSOFMAHARA,35,40
+	16,ELPHANT,35,40
+	16,HUMAN,35,40
+	16,KORRUPTION,35,40
+	5,DAMPANDDARK,40
+	5,SISTERS,40
+	5,BERMYB,40
+	5,DARD,40
+#-------------------------------
+[030] # The Waterfall
+Land,10
+	19,ASCENDED,40,45
+	9,GONE,40,45
+	9,SEVLEOMED,40,45
+	9,MARGMARE,40,45
+	9,TREE,40,45
+	9,STAR,40,45
+	9,MOOMOONSUN,40,45
+	9,YAGA,40,45
+	9,DARWINSANGEL,40,45
+	9,DEATH,40,45

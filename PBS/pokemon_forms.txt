@@ -1,0 +1,60 @@
+#==================================
+[CHUMCHUM,1]
+Types = BEAST
+BaseStats = 140,140,65,215,190,40
+GrowthRate = Parabolic
+Happiness = 0
+WildItemCommon = BEASTGEM
+Abilities = IRONBARBS
+HiddenAbilities = SOLIDROCK
+Moves = 1,SOAK,1,HUNTDOWN,1,CHASE,1,JAWS
+Pokedex = This species was believed to be extinct, but it turns out the reason nobody ever saw them was because nobody could find them. It's because they just genuinely hate people.
+PokedexForm = 0
+#==================================
+[CHUMCHUM,2]
+Types = REASON
+BaseStats = 140,140,65,215,190,40
+GrowthRate = Parabolic
+Happiness = 0
+WildItemCommon = REASONGEM
+Abilities = HARVEST
+HiddenAbilities = SOLIDROCK
+Moves = 1,SOAK,1,CRUELREMARK,1,EVALUATE,1,DECOY
+Pokedex = This species was believed to be extinct, but it turns out the reason nobody ever saw them was because nobody could find them. It's because they just genuinely hate people.
+PokedexForm = 0
+#==================================
+[CHUMCHUM,3]
+Types = TERROR
+BaseStats = 140,140,65,215,190,40
+GrowthRate = Parabolic
+Happiness = 0
+WildItemCommon = TERRORGEM
+Abilities = CURSEDBODY
+HiddenAbilities = SOLIDROCK
+Moves = 1,SOAK,1,ITSCOMING,1,UNDERTHEBED,1,BLOODSUCKER
+Pokedex = This species was believed to be extinct, but it turns out the reason nobody ever saw them was because nobody could find them. It's because they just genuinely hate people.
+PokedexForm = 0
+#==================================
+[CHUMCHUM,4] 
+Types = EMPTY
+BaseStats = 140,140,65,215,190,40
+GrowthRate = Parabolic
+Happiness = 0
+WildItemCommon = EMPTYGEM
+Abilities = PRESSURE
+HiddenAbilities = SOLIDROCK
+Moves = 1,SOAK,1,BREATHLESS,1,SILENT,1,VACUUM
+Pokedex = This species was believed to be extinct, but it turns out the reason nobody ever saw them was because nobody could find them. It's because they just genuinely hate people.
+PokedexForm = 0
+#==================================
+[CHUMCHUM,5]
+Types = FANTASY
+BaseStats = 140,140,65,215,190,40
+GrowthRate = Parabolic
+Happiness = 0
+WildItemCommon = FANTASYGEM
+Abilities = SUPERLUCK
+HiddenAbilities = SOLIDROCK
+Moves = 1,MAGICNUMBER,1,SOAK,1,DRACONICBREATH,1,FATE
+Pokedex = This species was believed to be extinct, but it turns out the reason nobody ever saw them was because nobody could find them. It's because they just genuinely hate people.
+PokedexForm = 0

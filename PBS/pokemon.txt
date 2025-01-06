@@ -3093,6 +3093,7 @@ Habitat = Forest
 Category = Faltering Fossil
 Pokedex = Children like dinosaurs so we made it a dinosaur. 
 Generation = 1
+Evolutions = SECOND,Level,35
 #-------------------------------
 [SECOND]
 Name = Second
@@ -3531,5 +3532,4 @@ Shape = Insectoid
 Habitat = Forest
 Category = Sutured Spirits
 Pokedex = In their desperate attempts to defeat the one, they made this. A monster that was meant to rival all monsters, but failed. Made from the bodies of the people that claimed to love them. These were the first that were exploited but by no means the last. 
-
 Generation = 1
