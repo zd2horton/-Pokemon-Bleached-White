@@ -78,11 +78,11 @@ Land,25
 #-------------------------------
 [023] # Forest Cave 3
 Cave,25
-	35,CLOCLO
-	35,ALIVE
-	13,DIOE
-	10,OJABOBOD
-	7,ROOOCH
+	35,CLOCLO,21,25
+	35,ALIVE,21,25
+	13,DIOE,21,25
+	10,OJABOBOD,21,25
+	7,ROOOCH,21,25
 #-------------------------------
 [024] # Forest Cave 4
 Cave,10
