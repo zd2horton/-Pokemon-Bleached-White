@@ -35,6 +35,12 @@ Gender = Male
 BaseMoney = 40
 BattleBGM = run fucker og
 #-------------------------------
+[BOSSASS]
+Name = Smartass Cyborg
+Gender = Male
+BaseMoney = 40
+BattleBGM = run fucker og
+#-------------------------------
 [PAINTER]
 Name = Painter
 Gender = Male
@@ -259,3 +265,11 @@ BaseMoney = 1500
 SkillLevel = 1000000
 Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
 BattleBGM = big beeper.ogg
+#-------------------------------
+[THEEND]
+Name = The End
+Gender = Male
+BaseMoney = 3000
+SkillLevel = 1000000
+Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching, UsePokemonInOrder
+BattleBGM = battel till the end
