@@ -795,108 +795,126 @@ Item = STARFBERRY
 #-------------------------------
 [butcher,Flank,1]
 LoseText = Again?! She has to be on level with the best!
+Items = BEASTBALL
 Pokemon = BIRDDER,50
 Pokemon = LLABOTOMY,50
 Pokemon = ORLIHEPERH,50
 #-------------------------------
 [butcher,Shank,1]
 LoseText = Ugh, NO! YOU'RE JUST TOO DISTRACTED, FLANK!
+Items = BEASTBALL
 Pokemon = THERAM,50
 Pokemon = SEVLEOMED,50
 Pokemon = ELPHANT,50
 #-------------------------------
 [PAINTER,Raven,1]
 LoseText = A fine fray. I shall not keepeth thee at bay.
+Items = BEASTBALL
 Pokemon = TREE,55
 Pokemon = ARRAMRRA,55
 Pokemon = IDOL,55
 #-------------------------------
 [adirtyman, Lars. E Gogh]
+LoseText = hi mom
+Items = BEASTBALL
 Pokemon = ROSEPOSEY,55
 Pokemon = BERMYB,55
 Pokemon = WSTAAW,55
 #-------------------------------
 [eginer,Eggatha,1]
-LoseText = E-excuse me?
+LoseText = Y-you burned an even BIGGER hole into my pocket...!
+Items = BEASTBALL
 Pokemon = DOSME,60
 Pokemon = DAMPANDDARK,60
 Pokemon = DARK,60
 #-------------------------------
 [eginer,Hooter]
-LoseText = E-excuse me?
+LoseText = Shucks, I KNEW this'd happen.....
+Items = BEASTBALL
 Pokemon = BOWHOUSE,60
 Pokemon = MARGMARE,60
 Pokemon = CRITTERSSS,60
 #-------------------------------
-[SMARTASS,Victor]
-LoseText = Oh....they're all dead....
-Victor and Ash
+[BOSSASS,Victor]
+LoseText = We can rebuild them...we have the technology!
+Items = BEASTBALL
 Pokemon = MARRIAGE,65
 Pokemon = AMYGDALA,65
 Pokemon = ALIVE,65
 #-------------------------------
 [BOSSBOY,Ash,1]
-LoseText = They ain't as strong as me!
+LoseText = Good fight, sis!
+Items = BEASTBALL
 Pokemon = MOREMAW,65
 Pokemon = YAGA,65
 Pokemon = ONGYRO,65
 #-------------------------------
 [spooky,Rich,1]
 LoseText = What?! But I paid EXTRA for those servants! 
+Items = BEASTBALL
 Pokemon = MAN,70
 Pokemon = THEYBROKE,70
 Pokemon = EGG,70
 #-------------------------------
 [CRAZY,Paul]
 LoseText = Huh, that's some real cool fightin' chick! 
+Items = BEASTBALL
 Pokemon = BARYS,70
 Pokemon = BOBYS,70
 Pokemon = BODIVINE,70
 #-------------------------------
 [SUPERNERD,Steve]
-LoseText = Hmm?
+LoseText = You look like you defend U2 on online forums.
+Items = BEASTBALL
 Pokemon = SECOND,75
 Pokemon = TOMUCHFACES,75
 Pokemon = HEAD,75
 #-------------------------------
 [salty,Bill]
-LoseText = Hmm?
+LoseText = That's time from my CD hunting I'm not getting back.
+Items = BEASTBALL
 Pokemon = SISTERS,75
 Pokemon = EEDIOE,75
 Pokemon = WYORM,75
 #-------------------------------
 [CRAZY,Norv,1]
-LoseText = Like, come on man...
+LoseText = All you had to do was ask, man!
+Items = BEASTBALL
 Pokemon = AAARRR,80
 Pokemon = ENGORGED,80
 Pokemon = SPITROAST,80
 #-------------------------------
 [LOOTER,Owary,1]
-LoseText = Uumph....ugh...
+LoseText = Candy.....Mountain.....
+Items = BEASTBALL
 Pokemon = MANINBLACK,80
 Pokemon = BUGERBOOBOO,80
 Pokemon = STAR,80
 #-------------------------------
-[DD, Trus,1]
-LoseText = W...what is this...?
-Pokemon = SUPERSMUNKYBALL,85
-Pokemon = CLOCLOGLIDER,85
-Pokemon = BABOSHCA,85
-#-------------------------------
 [salty,Jej,1]
-LoseText = Hmm?
+LoseText = See? You battled just as well as us!
+Items = BEASTBALL
 Pokemon = KLAKLAKKLA,85
 Pokemon = GONE,85
 Pokemon = AYVASA,85
 #-------------------------------
-[UMBRELLAGIRL,Bella]
+[DD, Trus,1]
+LoseText = I-......I did...?
+Items = BEASTBALL
+Pokemon = SUPERSMUNKYBALL,85
+Pokemon = CLOCLOGLIDER,85
+Pokemon = BABOSHCA,85
+#-------------------------------
+[UMBRELLAGIRL,Bella, 1]
 LoseText = Oh, dear! We were going so nicely too...
+Items = BEASTBALL
 Pokemon = KART,90
 Pokemon = GROOGROS,90
 Pokemon = CARACRCA,90
 #-------------------------------
-[SUPERNERD,Toots]
+[SUPERNERD,Toots,1]
 LoseText = Oh, dear! We were going so nicely too...
+Items = BEASTBALL
 Pokemon = LOJA,90
 Pokemon = DOLL,90
 Pokemon = PAKA,90

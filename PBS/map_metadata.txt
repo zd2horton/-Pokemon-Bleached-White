@@ -62,6 +62,7 @@ MapPosition = 0,13,11
 BattleBack = field
 WildBattleBGM = not maple 1 og
 WildVictoryBGM = empty air og
+Flags = ScaleWildEncounterLevels
 #-------------------------------
 [007]   # Cedolan City (Gyrocity)
 Name = Gyrocity
@@ -104,6 +105,7 @@ MapPosition = 0,15,10
 BattleBack = redroutes
 MapSize = 2,11
 Environment = Rock
+Flags = ScaleWildEncounterLevels
 #-------------------------------
 [200]   # Rock Cave 1F (Rocky Caves (Deep...))
 Name = Rocky Caves (Deep...)
@@ -118,6 +120,7 @@ ShowArea = true
 BattleBack = DIGTHROUGH
 WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
+Flags = ScaleWildEncounterLevels
 #-------------------------------
 [213]   # cave1 (Crimson Cavern (DEEPER....))
 Name = Crimson Cavern (DEEPER....)
@@ -125,6 +128,7 @@ ShowArea = true
 BattleBack = DIGTHROUGH
 WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
+Flags = ScaleWildEncounterLevels
 #-------------------------------
 [035] # Cave Shop
 Name = Secret Cave Shop
@@ -147,6 +151,7 @@ Outdoor = true
 ShowArea = true
 Weather = Rain,100
 BattleBack = factoryshore
+Flags = ScaleWildEncounterLevels
 #-------------------------------
 [099]   # Factory Entrance
 Name = Factory Entrance
@@ -168,6 +173,7 @@ ShowArea = true
 BattleBack = DIGTHROUGH
 WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
+Flags = ScaleWildEncounterLevels
 #-------------------------------
 [106]   # Factory Shores House
 Name = ???
@@ -184,6 +190,7 @@ Weather = Fog,100
 BattleBack = redroutes
 TrainerBattleBGM = not maple 1 og
 TrainerVictoryBGM = empty air og
+Flags = ScaleWildEncounterLevels
 #-------------------------------
 [093]   # forest (Foraging Forests)
 Name = Foraging Forests
@@ -191,6 +198,7 @@ Outdoor = true
 ShowArea = true
 BattleBack = forist
 WildBattleBGM = I say
+Flags = ScaleWildEncounterLevels
 #-------------------------------
 [013]   # forest cave 1 (Humble Forest Cave)
 Name = Humble Forest Cave
@@ -212,6 +220,7 @@ ShowArea = true
 BattleBack = DIGTHROUGH
 WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
+Flags = ScaleWildEncounterLevels
 #-------------------------------
 [024]   # forest cave 4 (Maze Forest Cave)
 Name = Maze Forest Cave
@@ -220,6 +229,7 @@ BattleBack = DIGTHROUGH
 WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
 DarkMap = true
+Flags = ScaleWildEncounterLevels
 #-------------------------------
 [032]   # MATION (The Empty Mansion)
 Name = The Empty Mansion
@@ -237,6 +247,7 @@ WildBattleBGM = not maple 1 og
 TrainerBattleBGM = empty air og
 WildVictoryBGM = not maple 1 og
 TrainerVictoryBGM = empty air og
+Flags = ScaleWildEncounterLevels
 #-------------------------------
 [029]   # After the Forest Top Area (Highlands Peak)
 Name = Highlands Peak
@@ -347,6 +358,7 @@ Outdoor = true
 ShowArea = True
 MapPosition = 0,14,10
 BattleBack = field
+Flags = ScaleWildEncounterLevels
 #-------------------------------
 [279]   # Between Dead City and Slaughter (Slaughterfalls)
 Name = The Slaughterfalls
@@ -357,6 +369,7 @@ WildBattleBGM = not maple 1 og
 TrainerBattleBGM = empty air og
 WildVictoryBGM = not maple 1 og
 TrainerVictoryBGM = empty air og
+Flags = ScaleWildEncounterLevels
 #-------------------------------
 [036]   # Furry Cave
 Name = ???
@@ -387,6 +400,7 @@ BattleBack = bump
 WildBattleBGM = reall battel - enis og
 WildVictoryBGM = empty air og
 MapSize = 1,11
+Flags = ScaleWildEncounterLevels
 #-------------------------------
 [026]   # The Fantastical Art Museum
 Name = The Fantastical Art Museum
@@ -411,6 +425,7 @@ ShowArea = true
 MapPosition = 0,11,7
 MapSize = 1,111
 BattleBack = 077
+Flags = ScaleWildEncounterLevels
 #-------------------------------
 [030]   # The Waterfall
 Name = The Waterfall
@@ -421,6 +436,7 @@ BattleBack = waterfall
 WildBattleBGM = i really like this
 WildVictoryBGM = empty air og
 MapSize = 2,1101
+Flags = ScaleWildEncounterLevels
 #-------------------------------
 [039]   # The Waterfall Shop
 Name = The Hidden Waterfall Shop
@@ -461,16 +477,11 @@ WildVictoryBGM = empty air og
 Name = Ending Message
 MapPosition = 0,15,6
 BattleBack = cave1
-Environment = Cave
-Flags = IceRock
 #-------------------------------
 [028]   # The End
 Name = The End
-Bicycle = true
 MapPosition = 0,15,6
 BattleBack = cave1
-Environment = Cave
-Flags = IceRock
 
 
 
