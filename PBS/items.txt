@@ -147,8 +147,8 @@ Flags = Fling_10,Berry,NaturalGift_FANTASY_100
 Description = Increases Spd when at quarter HP or lower. All glitter, all diabetes, all fun.
 #-------------------------------
 [SPECATKBERRY]
-Name = Sweetly Sweetened Crepe (NOT A PANCAKE. FUCK YOU, IT’S A CREPE.)
-NamePlural = Sweetly Sweetened Crepes (NOT PANCAKES. FUCK YOU, THEY'RE CREPES.)
+Name = Sweetly Crepe
+NamePlural = Sweetly Crepes
 Pocket = 2
 Price = 100
 Flags = Fling_5,Berry,NaturalGift_TERROR_100
@@ -271,8 +271,8 @@ Flags = Fling_80
 Description = Raise Sp. Def but can't use status moves. Served in a glass, very refined.
 #-------------------------------
 [EXPCANDYXS]
-Name = Rotted Brain Gunk
-NamePlural = Rotted Brain Gunk
+Name = Rotted Brain
+NamePlural = Rotted Brains
 Pocket = 2
 Price = 50
 FieldUse = OnPokemon
@@ -289,8 +289,8 @@ Flags = Fling_30
 Description = Raises XP level of 1 Kreature notably. Is this the first sign we're out of the recession? We can finally eat real brains again!
 #-------------------------------
 [EXPCANDYXL]
-Name = Tasty Grey Matter
-NamePlural = Tasty Grey Matter
+Name = Tasty Brain
+NamePlural = Tasty Brain
 Pocket = 2
 Price = 3000
 FieldUse = OnPokemon
@@ -369,7 +369,7 @@ Pocket = 2
 Price = 125
 BPPrice = 15
 Flags = Fling_10
-Description = Restores any lowered stat once. One of the current hot items on the market, I wonder why? I just need 20 dollars to buy one. Or two. Or three.
+Description = Restores any lowered stat once. A hot commodity right now, I wonder why? I just need 20 dollars to buy one. Or two. Or three.
 #-------------------------------
 [FOCUSSASH]
 Name = Flan

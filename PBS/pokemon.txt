@@ -1269,7 +1269,7 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Mingled Monkeys
-Pokedex = One of the underrated classics, I have no idea why it didn't take off when it got tilt controls. Like, it was made for tilt controls! But nooo, still an obscure series godamnit...anyway, what were we talking about?
+Pokedex = An underrated classic, I have no idea why it didn't take off when it got tilt controls. It was made for tilt controls! But nooo, still an obscure series...anyway, what were we talking about?
 Generation = 1
 #-------------------------------
 [THELAMB]
@@ -3373,6 +3373,7 @@ Habitat = Forest
 Category = Rangy Relic
 Pokedex = Old bones.
 Generation = 1
+Evolutions = EEDIOE,Level,30
 #-------------------------------
 [EEDIOE]
 Name = eEDIOe
@@ -3531,5 +3532,5 @@ Color = Green
 Shape = Insectoid
 Habitat = Forest
 Category = Sutured Spirits
-Pokedex = In their desperate attempts to defeat the one, they made this. A monster that was meant to rival all monsters, but failed. Made from the bodies of the people that claimed to love them. These were the first that were exploited but by no means the last. 
+Pokedex = His desperation to defeat the one bore a Kreature made to surpass them all, using those who claimed their loyalty to him. They were the first to be exploited, but by no means the last. 
 Generation = 1

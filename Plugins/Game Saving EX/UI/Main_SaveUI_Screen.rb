@@ -588,7 +588,7 @@ class PokemonSaveSlotPanel < Sprite
     end
     mapname = pbGetMapNameFromId(@mapid)
     mapname.gsub!(/\\PN/, @trainer.name)
-    textpos.push([mapname, 386, 14, 1, @base_color, @shadow_color])
+    textpos.push([mapname, 386, 40, 1, @base_color, @shadow_color])
     pbDrawTextPositions(self.bitmap, textpos)
   end
 

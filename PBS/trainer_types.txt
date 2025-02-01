@@ -149,6 +149,12 @@ Gender = Male
 BaseMoney = 40
 BattleBGM = comdat drums
 #-------------------------------
+[LARSEGOGH]
+Name = The Great
+Gender = Male
+BaseMoney = 40
+BattleBGM = classic lars
+#-------------------------------
 [LOOTER]
 Name = Looter
 Gender = Female
@@ -267,9 +273,9 @@ Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching
 BattleBGM = big beeper.ogg
 #-------------------------------
 [THEEND]
-Name = The End
+Name = The Decaying End of 
 Gender = Male
 BaseMoney = 3000
 SkillLevel = 1000000
 Flags = PredictMoveFailure,ScoreMoves,ConsiderSwitching, UsePokemonInOrder
-BattleBGM = battel till the end
+BattleBGM = decadence

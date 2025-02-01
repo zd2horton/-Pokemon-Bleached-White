@@ -80,7 +80,7 @@ TrainerBattleBGM = not maple 1 og
 TrainerVictoryBGM = empty air og
 #-------------------------------
 [014]   # shop (Gyrocity Shop)
-Name = Gyrocity Shop: Kubeporium
+Name = Gyrocity Kubeporium Shop
 MapPosition = 0,13,10
 BattleBack = city inside
 #-------------------------------
@@ -131,7 +131,7 @@ WildVictoryBGM = empty air og
 Flags = ScaleWildEncounterLevels
 #-------------------------------
 [035] # Cave Shop
-Name = Secret Cave Shop
+Name = Secret Cave Body Shop
 ShowArea = true
 Battleback = DIGTHROUGH
 WildBattleBGM = rocks og
@@ -201,7 +201,7 @@ WildBattleBGM = I say
 Flags = ScaleWildEncounterLevels
 #-------------------------------
 [013]   # forest cave 1 (Humble Forest Cave)
-Name = Humble Forest Cave
+Name = Humble Forest Yummies Shop
 ShowArea = true
 BattleBack = DIGTHROUGH
 WildBattleBGM = rocks og
@@ -269,7 +269,7 @@ WildVictoryBGM = empty air og
 TrainerVictoryBGM = empty air og
 #-------------------------------
 [031]   # MAP031 (Highlands Shop)
-Name = Highlands Shop
+Name = Highlands Tool Shop
 ShowArea = true
 MapPosition = 0,14,6
 BattleBack = field
@@ -348,7 +348,7 @@ WildBattleBGM = rocks og
 WildVictoryBGM = empty air og
 #-------------------------------
 [033]   # Dead City Shop
-Name = Dead City Shop
+Name = Dead City Expensive Shop
 MapPosition = 0,14,10
 BattleBack = city inside
 #-------------------------------
@@ -408,7 +408,7 @@ ShowArea = true
 BattleBack = M
 #-------------------------------
 [037]   # The Fantastical Gifts
-Name = Gift Shop
+Name = Powerful Artsy Gift Shop
 ShowArea = true
 BattleBack = M
 #-------------------------------
@@ -481,16 +481,6 @@ BattleBack = cave1
 [028]   # The End
 Name = The End
 MapPosition = 0,15,6
-BattleBack = cave1
-
-
-
-
-
-
-
-
-
 #-------------------------------
 [069]
 Name = Route 8
