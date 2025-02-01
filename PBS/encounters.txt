@@ -178,3 +178,66 @@ Land,25
 	10,KOW,9,11
 	10,PHILSOPHER,9,11
 	10,KOKCROACH,9,11
+#-------------------------------
+[045]   # Beast Room
+Land,50
+	20,BODIVINE,40,45
+	20,SUPERSMUNKYBALL,40,45
+	20,HEAD,40,45
+	20,ELPHANT,40,45
+	20,CARACRCA,40,45	
+#-------------------------------
+[048]   # Reason Room
+Land,50
+	20,ORLIHEPERH,40,45
+	20,ASCENDED,40,45
+	20,AMYGDALA,40,45
+	20,TUUMMAARR,40,45
+	20,HUMAN,40,45	
+#-------------------------------
+[051]   # Terror Room
+Land,50
+	12,O,40,45
+	12,BARYS,40,45
+	12,BAAATY,40,45
+	12,HER,40,45
+	12,SATURN,40,45
+	12,DARK,40,45
+	16,ARIARKE,40,45
+	12,THREEONEFIVE,40,45
+#-------------------------------
+[052]   # Empty Room
+Land,50
+	16,TOMUCHFACES,40,45
+	16,THEYBROKE,40,45
+	20,EGG,40,45
+	16,SECOND,40,45
+	16,BABOSHCA,40,45
+	16,WSTAAW,40,45
+#-------------------------------
+[053]   # Fantasy Room
+Land,50
+	20,SEVLEOMED,40,45
+	20,THEWORD,40,45
+	20,BERMYB,40,45
+	20,DARWINSANGEL,40,45
+	20,EEEMM,40,45
+#-------------------------------
+[055]   # Clown Room
+Land,50
+	10,POOKOOCHUE,40,45
+	18,MAN,40,45
+	18,TEEHEE,40,45
+	18,TEETEETEE,40,45	
+	18,CLOCLO,40,45	
+	18,CLOCLOGLIDER,40,45	
+#-------------------------------
+[054]   # Misc Room
+Land,50
+	20,KART,40,45
+	16,KORRUPTION,40,45
+	16,AYVASA,40,45
+	16,HEADSOFMAHARA,40,45
+	16,POOKOOCHUE,40,45
+	16,KORRUPTION,40,45
+#-------------------------------

@@ -32,17 +32,67 @@ ShowArea = true
 MapPosition = 0,13,12
 BattleBack = inside
 #-------------------------------
-[043]   # Daisy's house (Empty House)
+[043]   # The Corridor of Closure
 Name = The Corridor of Closure
 ShowArea = true
 MapPosition = 0,13,12
 BattleBack = inside
 #-------------------------------
-[044]   # Daisy's house (Empty House)
+[044]   # The Eternal Conservatory
 Name = The Eternal Conservatory
 ShowArea = true
 MapPosition = 0,13,12
 BattleBack = inside
+Flags = Conserv
+#-------------------------------
+[045]   # Beast Room
+Name = Beast Room
+ShowArea = true
+MapPosition = 0,13,12
+BattleBack = inside
+Flags = Conserv
+#-------------------------------
+[048]   # Reason Room
+Name = Reason Room
+ShowArea = true
+MapPosition = 0,13,12
+BattleBack = inside
+Flags = Conserv
+#-------------------------------
+[051]   # Terror Room
+Name = Terror Room
+ShowArea = true
+MapPosition = 0,13,12
+BattleBack = inside
+Flags = Conserv
+#-------------------------------
+[052]   # Empty Room
+Name = Empty Room
+ShowArea = true
+MapPosition = 0,13,12
+BattleBack = inside
+Flags = Conserv
+#-------------------------------
+[053]   # Fantasy Room
+Name = Fantasy Room
+ShowArea = true
+MapPosition = 0,13,12
+BattleBack = inside
+Flags = Conserv
+#-------------------------------
+[054]   # Truck Room
+Name = Misc Room
+ShowArea = true
+MapPosition = 0,13,12
+BattleBack = inside
+Flags = Conserv
+#-------------------------------
+[055]   # Clown Room
+Name = Clown Room
+ShowArea = true
+MapPosition = 0,13,12
+BattleBack = inside
+Flags = Conserv
 #-------------------------------
 [004]   # Pokémon Lab (Professor's Lab)
 Name = Professor's Lab
